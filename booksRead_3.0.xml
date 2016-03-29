@@ -6,12 +6,16 @@
     <fileDesc>
       <titleStmt>
         <title>Books I've Read 3.0</title>
+        <title type="sub">List of Bibliographic Entries</title>
+        <editor><persName>Ashley M. Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
         <p>Just me, Ashley.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>None</p>
+        <p>Generated from the Open Office Document 
+          <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title>.
+        </p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

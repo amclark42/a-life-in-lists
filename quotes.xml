@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng" 
+  type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Quotes</title>
+        <editor><persName>Ashley M. Clark</persName></editor>
       </titleStmt>
-      <publicationStmt><p>Just me, Ashley.</p></publicationStmt>
-      <sourceDesc>
+      <publicationStmt>
         <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Generated from the Microsoft Word Document 
+          <title type="filename">Quotes.doc</title>.
+        </p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>

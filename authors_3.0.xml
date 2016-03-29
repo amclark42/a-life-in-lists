@@ -5,13 +5,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Books I've Read 3.0</title>
+        <title>List of Authors and Contributors</title>
+        <editor><persName>Ashley M. Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
         <p>Just me, Ashley.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>None</p>
+        <p>Generated from the Open Office Document 
+          <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title>.
+        </p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -280,7 +283,7 @@
         <person xml:id="obrien.t">
           <persName>
             <forename>Tim</forename>
-            <surname>O'Brien</surname>
+            <surname>O’Brien</surname>
           </persName>
           <gender value="male"/>
         </person>
@@ -420,7 +423,7 @@
         <person xml:id="lengle.m">
           <persName>
             <forename>Madeline.</forename>
-            <surname>L'Engle</surname>
+            <surname>L’Engle</surname>
           </persName>
           <gender value="female"/>
         </person>
@@ -1316,7 +1319,7 @@
         <person xml:id="omalley.bl">
           <persName>
             <forename>Bryan Lee</forename>
-            <surname>O'Malley</surname>
+            <surname>O’Malley</surname>
           </persName>
           <gender value="male"/>
         </person>
