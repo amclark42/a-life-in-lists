@@ -1,0 +1,2625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/perspectography.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Books I've Read 3.2</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Just me, Ashley.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>None</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listEvent>
+        <event from="2016-03-23">
+          <p>Read <ref target="booksRead_3.0.xml#hobb.r.foolserrand">Fool's Errand</ref>.</p>
+        </event>
+        <event from="2016-03-12" to="2016-03-22">
+          <p>Read <ref target="booksRead_3.0.xml#diffenba.v.langflowers">The Language of Flowers</ref>.</p>
+        </event>
+        <event when="2016-03-11">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.5">Happy Hustle High Vol. 5</ref>.</p>
+        </event>
+        <event when="2016-03-01">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.4">Happy Hustle High Vol. 4</ref>.</p>
+        </event>
+        <event from="2016-02-29" to="2016-03-01">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.3">Happy Hustle High Vol. 3</ref>.</p>
+        </event>
+        <event when="2016-02-17">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.2">Happy Hustle High Vol. 2</ref>.</p>
+        </event>
+        <event when="2016-02-16">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.1">Happy Hustle High Vol. 1</ref>.</p>
+        </event>
+        <event from="2016-02-12" to="2016-03-10">
+          <p>Read <ref target="booksRead_3.0.xml#hidier.td.bombayblues">Bombay Blues</ref>.</p>
+        </event>
+        <event when="2016-01-18">
+          <p>Read <ref target="booksRead_3.0.xml#thompson.k.heartbox">Heart in a Box</ref>.</p>
+        </event>
+        <event from="2016-01-16" to="2016-02-11">
+          <p>Read <ref target="booksRead_3.0.xml#elliott.k.jaran">Jaran</ref>.</p>
+        </event>
+        <event from="2016-01-07" to="2016-01-15">
+          <p>Read <ref target="booksRead_3.0.xml#novik.n.blackpowderwar">Black Powder War</ref>.</p>
+        </event>
+        <event from="2016-01-02">
+          <p>Read <ref target="booksRead_3.0.xml#lόpezalt.jk.foodlab">The Food Lab: Better Home Cooking Through Science</ref>.</p>
+        </event>
+        <event when="2016-01-02">
+          <p>Started <ref target="booksRead_3.0.xml#milligan.p.justiceleaguedark.indark">Justice League Dark: In the Dark</ref>. Left unfinished.</p>
+        </event>
+        <event from="2016-01-01" to="2016-01-02">
+          <p>Read <ref target="booksRead_3.0.xml#okorafor.n.bookphoenix">The Book of Phoenix</ref>.</p>
+        </event>
+        <event when="2015-12-31">
+          <p>Read <ref target="booksRead_3.0.xml#hatke.b.zitaspacegirl.farfromhome">Zita the Spacegirl: Far From Home</ref>.</p>
+        </event>
+        <event when="2015-12-31">
+          <p>Read <ref target="booksRead_3.0.xml#telgemei.r.sisters">Sisters</ref>.</p>
+        </event>
+        <event when="2015-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#aaron.j.thor.goddessthunder">Thor: Goddess of Thunder</ref>.</p>
+        </event>
+        <event when="2015-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#gillen.k.wickeddivine.fandemonium">The Wicked and the Divine: Fandemonium</ref>.</p>
+        </event>
+        <event from="2015-12-11" to="2015-12-27">
+          <p>Reread <ref target="booksRead_3.0.xml#kerr.p.wildswans">The Wild Swans</ref>.</p>
+        </event>
+        <event when="2015-12-09">
+          <p>Started <ref target="booksRead_3.0.xml#hill.j.lockekey.welcomelovecraft">Locke &amp; Key: Welcome to Lovecraft</ref>. Left unfinished.</p>
+        </event>
+        <event when="2015-12-07">
+          <p>Read <ref target="booksRead_3.0.xml#yang.gl.boxers">Boxers</ref>.</p>
+        </event>
+        <event from="2015-12-06" to="2015-12-07">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.frenchmilk">French Milk</ref>.</p>
+        </event>
+        <event from="2015-11-27" to="2015-12-05">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.lateeclipses">Late Eclipses</ref>.</p>
+        </event>
+        <event from="2015-11-22" to="2015-11-27">
+          <p>Read <ref target="booksRead_3.0.xml#yu.c.sciencefictional">How to Live Safely in a Science Fictional Universe</ref>.</p>
+        </event>
+        <event when="2015-11-21">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.catsincradle">Secret Six: Cats in the Cradle</ref>.</p>
+        </event>
+        <event from="2015-11-21">
+          <p>Read <ref target="booksRead_3.0.xml#north.r.squirrelgirl.squirrelpower">The Unbeatable Squirrel Girl: Squirrel Power</ref>.</p>
+        </event>
+        <event from="2015-10-24" to="2015-11-21">
+          <p>Reread <ref target="booksRead_3.0.xml#yolen.j.onceupontime">Once Upon a Time (She Said)</ref>.</p>
+        </event>
+        <event when="2015-10-22">
+          <p>Read <ref target="booksRead_3.0.xml#ashwin.k.widdershins.greeneyedmonster">Widdershins: Green-Eyed Monster</ref>.</p>
+        </event>
+        <event from="2015-10-21" to="2015-11-06">
+          <p>Reread <ref target="booksRead_3.0.xml#bradbury.r.somethingwicked">Something Wicked This Way Comes</ref>.</p>
+        </event>
+        <event when="2015-10-20">
+          <p>Read <ref target="booksRead_3.0.xml#monster.sr.beyond">Beyond: The Queer Sci-Fi &amp; Fantasy Comic Anthology</ref>.</p>
+        </event>
+        <event when="2015-10-16">
+          <p>Read <ref target="booksRead_3.0.xml#weaver.ek.tjandamal.omnibus">The Less Than Epic Adventures of T.J. and Amal</ref>.</p>
+        </event>
+        <event from="2015-10-15" to="2015-10-20">
+          <p>Reread <ref target="booksRead_3.0.xml#novik.n.thronejade">Throne of Jade</ref>.</p>
+        </event>
+        <event when="2015-10-12">
+          <p>Read <ref target="booksRead_3.0.xml#deconnic.ks.bitchplanet.extraordinarymachine">Bitch Planet Book One: Extraordinary Machine</ref>.</p>
+        </event>
+        <event when="2015-10-11">
+          <p>Read <ref target="booksRead_3.0.xml#whitley.j.princeless.saveyourself">Princeless: Save Yourself</ref>.</p>
+        </event>
+        <event from="2015-10-04" to="2015-10-15">
+          <p>Read <ref target="booksRead_3.0.xml#russell.md.childrengod">Children of God</ref>.</p>
+        </event>
+        <event when="2015-10-03">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.1">Fruits Basket Vol. 1</ref>.</p>
+        </event>
+        <event from="2015-09-29" to="2015-10-04">
+          <p>Read <ref target="booksRead_3.0.xml#beaton.k.harkavagrant.stepasidepops">Step Aside, Pops: A Hark A Vagrant! Collection</ref>.</p>
+        </event>
+        <event from="2015-09-21" to="2015-10-04">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.mossflower">Mossflower</ref>.</p>
+        </event>
+        <event from="2015-09-15" to="2015-09-18">
+          <p>Read <ref target="booksRead_3.0.xml#novik.n.uprooted">Uprooted</ref>.</p>
+        </event>
+        <event when="2015-08-19">
+          <p>Read <ref target="booksRead_3.0.xml#brubaker.e.gothamcentral.1inlineduty">Gotham Central Vol. 1: In the Line of Duty</ref>.</p>
+        </event>
+        <event from="2015-08-08" to="2015-09-14">
+          <p>Read <ref target="booksRead_3.0.xml#smith.s.bannerdamned">Banner of the Damned</ref>.</p>
+        </event>
+        <event from="2015-08-02" to="2015-08-07">
+          <p>Read <ref target="booksRead_3.0.xml#stein.g.artracinginrain">The Art of Racing in the Rain</ref>.</p>
+        </event>
+        <event when="2015-08-01">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.cardcaptorsakura.omnibusbook2">Cardcaptor Sakura Omnibus Book 2</ref>.</p>
+        </event>
+        <event from="2015-07-17" to="2015-07-19">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.sensationcomicsfeaturingwonderwoman1">Sensation Comics Featuring Wonder Woman Vol. 1</ref>.</p>
+        </event>
+        <event when="2015-07-13">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.12">Pretty Guardian Sailor Moon Vol. 12</ref>.</p>
+        </event>
+        <event when="2015-07-12">
+          <p>Reread <ref target="booksRead_3.0.xml#fleis.p.seedfolk">Seedfolk</ref>.</p>
+        </event>
+        <event from="2015-06-29" to="2015-08-02">
+          <p>Read <ref target="booksRead_3.0.xml#durham.da.acaciabookonewarwithmein">Acacia Book One: The War with the Mein</ref>.</p>
+        </event>
+        <event from="2015-06-24" to="2015-06-29">
+          <p>Reread <ref target="booksRead_3.0.xml#novik.n.hismajestysdragon">His Majesty's Dragon</ref>.</p>
+        </event>
+        <event from="2015-05-21" to="2015-05-24">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.cardcaptorsakura.omnibusbook1">Cardcaptor Sakura Omnibus Book 1</ref>.</p>
+        </event>
+        <event from="2015-05-16" to="2015-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#padua.s.thrillingadventureslovelacebabbage">The Thrilling Adventures of Lovelace and Babbage</ref>.</p>
+        </event>
+        <event from="2015-05-06" to="2015-06-24">
+          <p>Read <ref target="booksRead_3.0.xml#crichton.m.timeline">Timeline</ref>.</p>
+        </event>
+        <event when="2015-04-19">
+          <p>Read <ref target="booksRead_3.0.xml#mori.k.bridesstory.2">A Bride's Story Vol. 2</ref>.</p>
+        </event>
+        <event when="2015-04-17">
+          <p>Read <ref target="booksRead_3.0.xml#estrada.r.poorcraftwishyouwerehere">Poorcraft: Wish You Were Here</ref>.</p>
+        </event>
+        <event from="2015-04-12" to="2015-05-04">
+          <p>Read <ref target="booksRead_3.0.xml#north.r.thisishowyoudie">This is How You Die: Stories of the Inscrutable, Infallible, Inescapable Machine of Death</ref>.</p>
+        </event>
+        <event from="2015-04-01" to="2015-04-12">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.monstrousregiment">Monstrous Regiment</ref>.</p>
+        </event>
+        <event from="2015-03-29" to="2015-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#mckinley.r.deerskin">Deerskin</ref>.</p>
+        </event>
+        <event from="2015-03-02" to="2015-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.waykings">The Way of Kings</ref>.</p>
+        </event>
+        <event from="2015-02-26" to="2015-03-02">
+          <p>Read <ref target="booksRead_3.0.xml#elgin.sh.earthsong">Earthsong</ref>.</p>
+        </event>
+        <event when="2015-02-21">
+          <p>Reread <ref target="booksRead_3.0.xml#mcneil.cs.finder.talisman">Finder: Talisman</ref>.</p>
+        </event>
+        <event from="2015-02-20" to="2015-02-25">
+          <p>Read <ref target="booksRead_3.0.xml#kowal.mr.shadesmilkhoney">Shades of Milk and Honey</ref>.</p>
+        </event>
+        <event from="2015-02-17" to="2015-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.3">Flight Vol. 3</ref>.</p>
+        </event>
+        <event when="2015-02-14">
+          <p>Reread <ref target="booksRead_3.0.xml#takahash.r.ranmaonehalf.22">Ranma 1/2 Vol. 22</ref>.</p>
+        </event>
+        <event from="2015-02-11" to="2015-02-13">
+          <p>Read <ref target="booksRead_3.0.xml#telge.r.drama">Drama</ref>.</p>
+        </event>
+        <event from="2015-02-11" to="2015-02-16">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.artificialnight">An Artificial Night</ref>.</p>
+        </event>
+        <event from="2015-02-09" to="2015-02-11">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.t.sula">Sula</ref>.</p>
+        </event>
+        <event from="2015-01-24" to="2015-02-09">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.martinwarrior">Martin the Warrior</ref>.</p>
+        </event>
+        <event when="2015-01-23">
+          <p>Read <ref target="booksRead_3.0.xml#gillen.k.youngavengers.1stylesubstance">Young Avengers Vol. 1: Style &gt; Substance</ref>.</p>
+        </event>
+        <event when="2015-01-20">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.11">Pretty Guardian Sailor Moon Vol. 11</ref>.</p>
+        </event>
+        <event from="2015-01-02" to="2015-01-05">
+          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.smutpeddler2014">Smut Peddler 2014</ref>.</p>
+        </event>
+        <event when="2014-12-28">
+          <p>Read <ref target="booksRead_3.0.xml#petersen.d.mouseguard.legendsguardvolume2">Mouse Guard: Legends of the Guard Volume 2</ref>.</p>
+        </event>
+        <event from="2014-12-16" to="2014-12-29">
+          <p>Read <ref target="booksRead_3.0.xml#andrews.i.magicstrikes">Magic Strikes</ref>.</p>
+        </event>
+        <event when="2014-10-14">
+          <p>Read <ref target="booksRead_3.0.xml#collins.s.mockingjay">Mockingjay</ref>.</p>
+        </event>
+        <event from="2014-10-14" to="2014-01-24">
+          <p>Read <ref target="booksRead_3.0.xml#martin.grr.dancewithdragons">A Dance With Dragons</ref>.</p>
+        </event>
+        <event when="2014-10-11">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.10">Pretty Guardian Sailor Moon Vol. 10</ref>.</p>
+        </event>
+        <event from="2014-10-07" to="2014-10-14">
+          <p>Read <ref target="booksRead_3.0.xml#mcdon.w.cradletocradleremakingwaywemakethings">Cradle to Cradle: Remaking the Way We Make Things</ref>.</p>
+        </event>
+        <event from="2014-10-03" to="2014-10-07">
+          <p>Read <ref target="booksRead_3.0.xml#westerfe.s.goliath">Goliath</ref>.</p>
+        </event>
+        <event when="2014-10-02">
+          <p>Read <ref target="booksRead_3.0.xml#sfar.j.rabbiscat2">The Rabbi's Cat 2</ref>.</p>
+        </event>
+        <event from="2014-10-02" to="2014-10-03">
+          <p>Read <ref target="booksRead_3.0.xml#tobe.k.withlightraisingautisticchild1">With the Light: Raising an Autistic Child Vol. 1</ref>.</p>
+        </event>
+        <event from="2014-09-30" to="2014-10-01">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.seconds">Seconds</ref>.</p>
+        </event>
+        <event when="2014-09-29">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.queencountry.definitiveedition4">Queen and Country Definitive Edition Vol. 4</ref>.</p>
+        </event>
+        <event from="2014-09-28" to="2014-09-29">
+          <p>Read <ref target="booksRead_3.0.xml#mignola.m.hellboy.righthanddoom">Hellboy: The Right Hand of Doom</ref>.</p>
+        </event>
+        <event from="2014-09-27" to="2014-09-28">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketedition6">Strangers in Paradise Pocket Edition Vol. 6</ref>.</p>
+        </event>
+        <event from="2014-09-23" to="2014-09-27">
+          <p>Read <ref target="booksRead_3.0.xml#smith.s.treasonsshore">Treason's Shore</ref>.</p>
+        </event>
+        <event from="2014-09-17" to="2014-09-23">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.longwar">The Long War</ref>.</p>
+        </event>
+        <event from="2014-09-15" to="2014-09-17">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.localhabitation">A Local Habitation</ref>.</p>
+        </event>
+        <event when="2014-09-12">
+          <p>Read <ref target="booksRead_3.0.xml#ryan.s.badhouses">Bad Houses</ref>.</p>
+        </event>
+        <event from="2014-09-12" to="2014-09-15">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.queencountry.definitiveedition3">Queen and Country Definitive Edition Vol. 3</ref>.</p>
+        </event>
+        <event from="2014-09-06" to="2014-09-11">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketedition5">Strangers in Paradise Pocket Edition Vol. 5</ref>.</p>
+        </event>
+        <event from="2014-09-05" to="2014-09-06">
+          <p>Read <ref target="booksRead_3.0.xml#bollers.k.watsonholmes.1studyinblack">Watson and Holmes Vol. 1: A Study in Black</ref>.</p>
+        </event>
+        <event from="2014-09-01" to="2014-09-05">
+          <p>Read <ref target="booksRead_3.0.xml#clare.c.cityglass">City of Glass</ref>.</p>
+        </event>
+        <event when="2014-08-29">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.queencountry.definitiveedition2">Queen and Country Definitive Edition Vol. 2</ref>.</p>
+        </event>
+        <event from="2014-08-15" to="2014-09-03">
+          <p>Read <ref target="booksRead_3.0.xml#bechdel.a.essentialdykestowatchoutfor">The Essential Dykes to Watch Out For</ref>.</p>
+        </event>
+        <event from="2014-08-14" to="2014-08-24">
+          <p>Read <ref target="booksRead_3.0.xml#weath.j.mongolqueens">The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire</ref>.</p>
+        </event>
+        <event from="2014-08-14" to="2014-08-15">
+          <p>Read <ref target="booksRead_3.0.xml#moon.f.daytripper">Daytripper</ref>.</p>
+        </event>
+        <event from="2014-08-11" to="2014-08-14">
+          <p>Read <ref target="booksRead_3.0.xml#king.lr.monstrousregimentwomen">A Monstrous Regiment of Women</ref>.</p>
+        </event>
+        <event when="2014-08-09">
+          <p>Read <ref target="booksRead_3.0.xml#mignola.m.hellboy.darknesscalls">Hellboy: Darkness Calls</ref>.</p>
+        </event>
+        <event from="2014-08-07" to="2014-08-08">
+          <p>Read <ref target="booksRead_3.0.xml#gibbons.d.greenlanterncorps.darksidegreen">Green Lantern Corps: The Dark Side of Green</ref>.</p>
+        </event>
+        <event when="2014-08-07">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.departuremissfinch">The Facts in the Case of the Departure of Miss Finch</ref>.</p>
+        </event>
+        <event when="2014-08-06">
+          <p>Read <ref target="booksRead_3.0.xml#mignola.m.hellboy.chainedcoffinothers">Hellboy: The Chained Coffin and Others</ref>.</p>
+        </event>
+        <event from="2014-08-04" to="2014-08-11">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.longearth">The Long Earth</ref>.</p>
+        </event>
+        <event when="2014-08-02">
+          <p>Read <ref target="booksRead_3.0.xml#layman.j.chew.4">Chew Vol. 4</ref>.</p>
+        </event>
+        <event when="2014-07-31">
+          <p>Read <ref target="booksRead_3.0.xml#layman.j.chew.3">Chew Vol. 3</ref>.</p>
+        </event>
+        <event when="2014-07-30">
+          <p>Read <ref target="booksRead_3.0.xml#waters.md.archetype">Archetype</ref>.</p>
+        </event>
+        <event from="2014-07-30" to="2014-08-04">
+          <p>Read <ref target="booksRead_3.0.xml#vincent.n.selfmademan">Self-Made Man: One Woman's Journey into Manhood and Back
+            Again</ref>.</p>
+        </event>
+        <event from="2014-07-27" to="2014-07-30">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.rosemaryrue">Rosemary and Rue</ref>.</p>
+        </event>
+        <event when="2014-07-21">
+          <p>Read <ref target="booksRead_3.0.xml#munroe.r.xkcd0">xkcd Vol. 0</ref>.</p>
+        </event>
+        <event when="2014-07-21">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.whiteout.2melt">Whiteout Vol. 2: Melt</ref>.</p>
+        </event>
+        <event from="2014-07-20" to="2014-07-27">
+          <p>Read <ref target="booksRead_3.0.xml#beukes.l.zoocity">Zoo City</ref>.</p>
+        </event>
+        <event from="2014-07-15" to="2014-07-18">
+          <p>Read <ref target="booksRead_3.0.xml#carter.a.wisechildren">Wise Children</ref>.</p>
+        </event>
+        <event when="2014-07-10">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.lazarus.1family">Lazarus Vol. 1: Family</ref>.</p>
+        </event>
+        <event when="2014-07-10">
+          <p>Read <ref target="booksRead_3.0.xml#wagner.m.mxanadu.brokenhousecards">Madame Xanadu: Broken House of Cards</ref>.</p>
+        </event>
+        <event from="2014-07-10" to="2014-07-15">
+          <p>Read <ref target="booksRead_3.0.xml#smith.s.kingsshield">King's Shield</ref>.</p>
+        </event>
+        <event when="2014-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#mignola.m.hellboy.trollwitchothers">Hellboy: The Troll Witch and Others</ref>.</p>
+        </event>
+        <event from="2014-07-07" to="2014-07-10">
+          <p>Read <ref target="booksRead_3.0.xml#stark.s.femaletars">Female Tars: Women Aboard Ship in the Age of Sail</ref>.</p>
+        </event>
+        <event when="2014-07-05">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.whiteout.1">Whiteout Vol. 1</ref>.</p>
+        </event>
+        <event from="2014-07-02" to="2014-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#lightman.a.reunion">Reunion</ref>.</p>
+        </event>
+        <event from="2014-06-27" to="2014-06-28">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.makeyourselfhappy">Make Yourself Happy</ref>.</p>
+        </event>
+        <event from="2014-06-26" to="2014-07-02">
+          <p>Read <ref target="booksRead_3.0.xml#elgin.sh.judasrose">The Judas Rose</ref>.</p>
+        </event>
+        <event from="2014-06-23" to="2014-06-24">
+          <p>Read <ref target="booksRead_3.0.xml#fawkes.r.onesoul">One Soul</ref>.</p>
+        </event>
+        <event from="2014-06-20" to="2014-06-26">
+          <p>Read <ref target="booksRead_3.0.xml#mchugh.m.nekropolis">Nekropolis</ref>.</p>
+        </event>
+        <event from="2014-06-19" to="2014-06-20">
+          <p>Read <ref target="booksRead_3.0.xml#lewis.j.march.bookone">March, Book One</ref>.</p>
+        </event>
+        <event from="2014-06-17" to="2014-06-19">
+          <p>Read <ref target="booksRead_3.0.xml#warner.st.lollywillowes">Lolly Willowes: Or the Loving Huntsman</ref>.</p>
+        </event>
+        <event from="2014-06-11" to="2014-06-17">
+          <p>Read <ref target="booksRead_3.0.xml#oates.jc.foxfireconfessionsagirlgang">Foxfire: Confessions of a Girl Gang</ref>.</p>
+        </event>
+        <event from="2014-06-07" to="2014-06-11">
+          <p>Read <ref target="booksRead_3.0.xml#russ.j.howtosuppresswomenswriting">How to Suppress Women's Writing</ref>.</p>
+        </event>
+        <event from="2014-06-05" to="2014-06-06">
+          <p>Read <ref target="booksRead_3.0.xml#snyder.s.batman.courtowls">Batman: The Court of Owls</ref>.</p>
+        </event>
+        <event from="2014-06-03" to="2014-06-08">
+          <p>Read <ref target="booksRead_3.0.xml#westerfe.s.behemoth">Behemoth</ref>.</p>
+        </event>
+        <event from="2014-05-30" to="2014-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#clare.c.cityashes">City of Ashes</ref>.</p>
+        </event>
+        <event when="2014-05-29">
+          <p>Read <ref target="booksRead_3.0.xml#snyder.s.swampthing.1raisethembones">Swamp Thing Vol. 1: Raise Them Bones</ref>.</p>
+        </event>
+        <event when="2014-05-28">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.snowwhite">Fables: Snow White</ref>.</p>
+        </event>
+        <event from="2014-05-24" to="2014-05-28">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.queencountry.definitiveedition1">Queen and Country Definitive Edition Vol. 1</ref>.</p>
+        </event>
+        <event from="2014-05-20" to="2014-05-24">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.thud">Thud!</ref>.</p>
+        </event>
+        <event from="2014-05-19" to="2014-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#mccranie.s.brickbybrick">Brick by Brick: Principles for Achieving Artistic Mastery</ref>.</p>
+        </event>
+        <event from="2014-05-13" to="2014-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#willis.c.tosaynothingdog">To Say Nothing of the Dog</ref>.</p>
+        </event>
+        <event from="2014-05-09" to="2014-05-13">
+          <p>Read <ref target="booksRead_3.0.xml#andrews.i.magicburns">Magic Burns</ref>.</p>
+        </event>
+        <event from="2014-05-07" to="2014-05-09">
+          <p>Read <ref target="booksRead_3.0.xml#wood.b.massive.1blackpacific">The Massive Vol. 1: Black Pacific</ref>.</p>
+        </event>
+        <event when="2014-05-01">
+          <p>Read <ref target="booksRead_3.0.xml#niffeneg.a.incestuoussisters">The Three Incestuous Sisters</ref>.</p>
+        </event>
+        <event from="2014-05-01" to="2014-05-07">
+          <p>Read <ref target="booksRead_3.0.xml#niffeneg.a.herfearfulsymmetry">Her Fearful Symmetry</ref>.</p>
+        </event>
+        <event when="2014-04-29">
+          <p>Read <ref target="booksRead_3.0.xml#leyh.k.birdwitch">Bird Witch</ref>.</p>
+        </event>
+        <event when="2014-04-29">
+          <p>Read <ref target="booksRead_3.0.xml#acker.b.thrillingadventurehour">The Thrilling Adventure Hour</ref>.</p>
+        </event>
+        <event when="2014-04-25">
+          <p>Read <ref target="booksRead_3.0.xml#edginton.i.hinterkind.1wakingworld">Hinterkind Vol. 1: The Waking World</ref>.</p>
+        </event>
+        <event when="2014-04-22">
+          <p>Read <ref target="booksRead_3.0.xml#mori.k.bridesstory.1">A Bride's Story Vol. 1</ref>.</p>
+        </event>
+        <event from="2014-04-17" to="2014-04-29">
+          <p>Read <ref target="booksRead_3.0.xml#kidd.sm.mermaidchair">The Mermaid Chair</ref>.</p>
+        </event>
+        <event when="2014-04-16">
+          <p>Read <ref target="booksRead_3.0.xml#cates.d.buzzkill">Buzzkill</ref>.</p>
+        </event>
+        <event when="2014-04-13">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.lostatsea">Lost at Sea</ref>.</p>
+        </event>
+        <event from="2014-04-12" to="2014-04-17">
+          <p>Read <ref target="booksRead_3.0.xml#coelho.p.devilmissprym">The Devil and Miss Prym</ref>.</p>
+        </event>
+        <event from="2014-04-09" to="2014-04-12">
+          <p>Reread <ref target="booksRead_3.0.xml#jones.dw.howlsmovingcastle">Howl's Moving Castle</ref>.</p>
+        </event>
+        <event from="2014-03-29" to="2014-04-05">
+          <p>Read <ref target="booksRead_3.0.xml#harris.j.peachesforfatherfrancis">Peaches for Father Francis</ref>.</p>
+        </event>
+        <event from="2014-03-26" to="2014-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#mori.k.stonefieldtruearrow">Stone Field, True Arrow</ref>.</p>
+        </event>
+        <event when="2014-03-23">
+          <p>Read <ref target="booksRead_3.0.xml#watterso.b.calvinhobbes.yukonho">Yukon Ho!</ref>.</p>
+        </event>
+        <event from="2014-03-23" to="2014-03-24">
+          <p>Read <ref target="booksRead_3.0.xml#nakamura.a.utsubora">Utsubora: The Story of a Novelist</ref>.</p>
+        </event>
+        <event from="2014-03-22" to="2014-03-26">
+          <p>Read <ref target="booksRead_3.0.xml#saramago.j.blindness">Blindness</ref>.</p>
+        </event>
+        <event when="2014-03-16">
+          <p>Read <ref target="booksRead_3.0.xml#north.r.adventuretime3">Adventure Time Vol. 3</ref>.</p>
+        </event>
+        <event from="2014-03-16" to="2014-03-17">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.allnewatom.futurepast">The All New Atom: Future/Past</ref>.</p>
+        </event>
+        <event from="2014-03-10" to="2014-03-22">
+          <p>Read <ref target="booksRead_3.0.xml#peake.m.titusgroan">Titus Groan</ref>.</p>
+        </event>
+        <event from="2014-03-09" to="2014-03-12">
+          <p>Reread <ref target="booksRead_3.0.xml#chbosky.s.perksbeingwallflower">The Perks of Being a Wallflower</ref>.</p>
+        </event>
+        <event from="2014-03-03" to="2014-03-04">
+          <p>Read <ref target="booksRead_3.0.xml#koike.k.lonewolfcub.1assassinsroad">Lone Wolf and Cub Vol. 1: The Assassin's Road</ref>.</p>
+        </event>
+        <event when="2014-02-23">
+          <p>Read <ref target="booksRead_3.0.xml#mckelvie.j.suburbanglamour">Suburban Glamour</ref>.</p>
+        </event>
+        <event from="2014-02-19" to="2014-03-07">
+          <p>Read <ref target="booksRead_3.0.xml#smith.s.fox">The Fox</ref>.</p>
+        </event>
+        <event from="2014-02-16" to="2014-02-18">
+          <p>Read <ref target="booksRead_3.0.xml#andrews.i.magicbites">Magic Bites</ref>.</p>
+        </event>
+        <event from="2014-02-11" to="2014-02-16">
+          <p>Read <ref target="booksRead_3.0.xml#fine.c.delusionsgender">Delusions of Gender: How Our Minds, Society and Neurosexism Create Difference</ref>.</p>
+        </event>
+        <event from="2014-02-11" to="2014-02-19">
+          <p>Read <ref target="booksRead_3.0.xml#medley.l.castlewaiting.2">Castle Waiting Vol. 2</ref>.</p>
+        </event>
+        <event from="2014-02-08" to="2014-02-09">
+          <p>Read <ref target="booksRead_3.0.xml#piskor.e.wizzywig">Wizzywig: Portrait of a Serial Hacker</ref>.</p>
+        </event>
+        <event from="2014-02-06" to="2014-02-08">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.temperingmen">The Tempering of Men</ref>.</p>
+        </event>
+        <event from="2014-02-03" to="2014-02-06">
+          <p>Read <ref target="booksRead_3.0.xml#king.lr.beekeepersapprentice">The Beekeeper's Apprentice, Or On the Segregation of the
+            Queen</ref>.</p>
+        </event>
+        <event from="2014-01-27" to="2014-02-03">
+          <p>Read <ref target="booksRead_3.0.xml#mckinley.r.sunshine">Sunshine</ref>.</p>
+        </event>
+        <event when="2014-01-22">
+          <p>Unfinished. <ref target="booksRead_3.0.xml#abel.j.laperdida">La Perdida</ref>.</p>
+        </event>
+        <event from="2014-01-19" to="2014-01-27">
+          <p>Read <ref target="booksRead_3.0.xml#clare.c.mortalinstruments.citybones">The Mortal Instruments: City of Bones</ref>.</p>
+        </event>
+        <event when="2014-01-17">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.justicesocietyamerica.thykingdomcomepartone">Justice Society of America: Thy Kingdom Come Part One</ref>.</p>
+        </event>
+        <event when="2014-01-16">
+          <p>Read <ref target="booksRead_3.0.xml#layman.j.chew.2internationalflavor">Chew Vol. 2: International Flavor</ref>.</p>
+        </event>
+        <event from="2014-01-15" to="2014-01-19">
+          <p>Read <ref target="booksRead_3.0.xml#flewelli.l.shadowsreturn">Shadows Return</ref>.</p>
+        </event>
+        <event when="2014-01-15">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketbook4">Strangers in Paradise Pocket Book 4</ref>.</p>
+        </event>
+        <event from="2014-01-06" to="2014-01-15">
+          <p>Read <ref target="booksRead_3.0.xml#johnson.k.fudoki">Fudoki</ref>.</p>
+        </event>
+        <event from="2014-01-06" to="2014-01-07">
+          <p>Read <ref target="booksRead_3.0.xml#westerfe.s.leviathan">Leviathan</ref>.</p>
+        </event>
+        <event from="2014-01-01" to="2014-01-06">
+          <p>Read <ref target="booksRead_3.0.xml#brothwel.d.foodinantiquity">Food in Antiquity: A Survey of the Diet of Early Peoples</ref>.</p>
+        </event>
+        <event from="2013-12-22" to="2014-01-03">
+          <p>Read <ref target="booksRead_3.0.xml#elliott.k.coldsteel">Cold Steel</ref>.</p>
+        </event>
+        <event from="2013-12-18" to="2013-12-22">
+          <p>Read <ref target="booksRead_3.0.xml#yang.gl.saints">Saints</ref>.</p>
+        </event>
+        <event when="2013-12-16">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.blueberrygirl">Blueberry Girl</ref>.</p>
+        </event>
+        <event from="2013-12-12" to="2013-12-22">
+          <p>Read <ref target="booksRead_3.0.xml#carr.c.alienist">The Alienist</ref>.</p>
+        </event>
+        <event when="2013-12-10">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.cubsintoyland">Fables: Cubs in Toyland</ref>.</p>
+        </event>
+        <event from="2013-12-10" to="2013-12-13">
+          <p>Read <ref target="booksRead_3.0.xml#taniguch.j.icewandererotherstories">The Ice Wanderer and Other Stories</ref>.</p>
+        </event>
+        <event from="2013-12-07" to="2013-12-12">
+          <p>Read <ref target="booksRead_3.0.xml#pringle.h.mummycongress">The Mummy Congress: Science, Obsession and the Everlasting Dead</ref>.</p>
+        </event>
+        <event when="2013-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.inheritwind">Fables: Inherit the Wind</ref>.</p>
+        </event>
+        <event when="2013-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.radiatordays">Radiator Days</ref>.</p>
+        </event>
+        <event from="2013-12-03" to="2013-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketbook3">Strangers in Paradise Pocket Book 3</ref>.</p>
+        </event>
+        <event from="2013-12-01" to="2013-12-06">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.soulmusic">Soul Music</ref>.</p>
+        </event>
+        <event when="2013-11-23">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.superteam">Fables: Super Team</ref>.</p>
+        </event>
+        <event from="2013-11-21" to="2013-12-01">
+          <p>Read <ref target="booksRead_3.0.xml#smith.s.inda">Inda</ref>.</p>
+        </event>
+        <event when="2013-11-19">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.leavingmegalopolis">Leaving Megalopolis</ref>.</p>
+        </event>
+        <event when="2013-11-18">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.rosered">Fables: Rose Red</ref>.</p>
+        </event>
+        <event when="2013-11-13">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fairestwideawake">Fairest: Wide Awake</ref>.</p>
+        </event>
+        <event from="2013-11-12" to="2013-11-21">
+          <p>Read <ref target="booksRead_3.0.xml#obreht.t.tigerswife">The Tiger's Wife</ref>.</p>
+        </event>
+        <event from="2013-11-12" to="2013-11-13">
+          <p>Read <ref target="booksRead_3.0.xml#watterso.b.calvinhobbes.snowgoons">Calvin and Hobbes: Attack of the Deranged Killer Monster Snow
+            Goons</ref>.</p>
+        </event>
+        <event from="2013-11-11" to="2013-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.witches">Fables: Witches</ref>.</p>
+        </event>
+        <event from="2013-11-10" to="2013-11-11">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.eternals">Eternals</ref>.</p>
+        </event>
+        <event from="2013-11-08" to="2013-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#yu.c.thirdclasssuperhero">Third Class Superhero</ref>.</p>
+        </event>
+        <event when="2013-11-07">
+          <p>Reread <ref target="booksRead_3.0.xml#mccloud.s.makingcomics">Making Comics</ref>. Left unfinished.</p>
+        </event>
+        <event from="2013-11-03" to="2013-11-08">
+          <p>Read <ref target="booksRead_3.0.xml#anaya.r.blessmeultima">Bless Me, Ultima</ref>.</p>
+        </event>
+        <event from="2013-11-02" to="2013-11-03">
+          <p>Reread <ref target="booksRead_3.0.xml#pratchet.t.lastcontinent">The Last Continent</ref>.</p>
+        </event>
+        <event from="2013-10-30" to="2013-11-02">
+          <p>Read <ref target="booksRead_3.0.xml#butcher.j.graveperil">Grave Peril</ref>.</p>
+        </event>
+        <event from="2013-10-22" to="2013-10-29">
+          <p>Read <ref target="booksRead_3.0.xml#jones.g.boldaslove">Bold as Love</ref>.</p>
+        </event>
+        <event when="2013-10-18">
+          <p>Read <ref target="booksRead_3.0.xml#darrieus.m.pigtales">Pig Tales: A Novel of Lust and Transformation</ref>.</p>
+        </event>
+        <event from="2013-10-18" to="2013-10-22">
+          <p>Read <ref target="booksRead_3.0.xml#griffith.n.slowriver">Slow River</ref>.</p>
+        </event>
+        <event when="2013-10-14">
+          <p>Read <ref target="booksRead_3.0.xml#wang.j.kokobegood">Koko Be Good</ref>.</p>
+        </event>
+        <event from="2013-10-13" to="2013-10-14">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.ignitioncity">Ignition City</ref>.</p>
+        </event>
+        <event when="2013-10-10">
+          <p>Read <ref target="booksRead_3.0.xml#urushiba.y.mushishi1">Mushishi Vol. 1</ref>.</p>
+        </event>
+        <event when="2013-10-10">
+          <p>Read <ref target="booksRead_3.0.xml#mcneil.cs.finder.talisman">Finder: Talisman</ref>.</p>
+        </event>
+        <event from="2013-10-10" to="2013-10-18">
+          <p>Read <ref target="booksRead_3.0.xml#miéville.c.perdidostreetstation">Perdido Street Station</ref>.</p>
+        </event>
+        <event from="2013-10-08" to="2013-10-09">
+          <p>Read <ref target="booksRead_3.0.xml#jacques.b.outcastredwall">The Outcast of Redwall</ref>.</p>
+        </event>
+        <event from="2013-10-06" to="2013-10-08">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.triss">Triss</ref>.</p>
+        </event>
+        <event from="2013-10-01" to="2013-10-03">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.companiontowolves">A Companion to Wolves</ref>.</p>
+        </event>
+        <event when="2013-09-22">
+          <p>Read <ref target="booksRead_3.0.xml#tomine.a.shortcomings">Shortcomings</ref>.</p>
+        </event>
+        <event from="2013-09-22" to="2013-10-01">
+          <p>Read <ref target="booksRead_3.0.xml#harris.j.girlwithnoshadow">The Girl with No Shadow</ref>.</p>
+        </event>
+        <event from="2013-09-16" to="2013-09-22">
+          <p>Read <ref target="booksRead_3.0.xml#willis.c.doomsdaybook">Doomsday Book</ref>.</p>
+        </event>
+        <event from="2013-09-14" to="2013-09-16">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.lightfantastic">The Light Fantastic</ref>.</p>
+        </event>
+        <event when="2013-09-13">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.9">Pretty Guardian Sailor Moon Vol. 9</ref>.</p>
+        </event>
+        <event from="2013-09-13" to="2013-09-14">
+          <p>Read <ref target="booksRead_3.0.xml#diamant.a.redtent">The Red Tent</ref>.</p>
+        </event>
+        <event from="2013-09-05" to="2013-09-12">
+          <p>Read <ref target="booksRead_3.0.xml#zafόn.cr.prisonerheaven">The Prisoner of Heaven</ref>.</p>
+        </event>
+        <event from="2013-08-30" to="2013-09-05">
+          <p>Read <ref target="booksRead_3.0.xml#angelou.m.iknowwhycagedbirdsings">I Know Why the Caged Bird Sings</ref>.</p>
+        </event>
+        <event from="2013-08-25" to="2013-08-29">
+          <p>Reread <ref target="booksRead_3.0.xml#mckinley.r.rosedaughter">Rose Daughter</ref>.</p>
+        </event>
+        <event from="2013-08-21" to="2013-08-22">
+          <p>Read <ref target="booksRead_3.0.xml#jemisin.nk.shadowedsun">The Shadowed Sun</ref>.</p>
+        </event>
+        <event when="2013-08-19">
+          <p>Read <ref target="booksRead_3.0.xml#waid.m.kingdomcome">Kingdom Come</ref>.</p>
+        </event>
+        <event when="2013-08-17">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.leagueextraordinarygentlemen.century1910">The League of Extraordinary Gentlemen: Century: 1910</ref>.</p>
+        </event>
+        <event from="2013-08-17" to="2013-08-21">
+          <p>Read <ref target="booksRead_3.0.xml#sedaris.d.metalkprettyoneday">Me Talk Pretty One Day</ref>.</p>
+        </event>
+        <event from="2013-08-10" to="2013-08-14">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.fifthelephant">The Fifth Elephant</ref>.</p>
+        </event>
+        <event when="2013-08-09">
+          <p>Read <ref target="booksRead_3.0.xml#elgin.sh.nativetongue">Native Tongue</ref>.</p>
+        </event>
+        <event from="2013-08-07" to="2013-08-09">
+          <p>Read <ref target="booksRead_3.0.xml#butcher.j.foolmoon">Fool Moon</ref>.</p>
+        </event>
+        <event when="2013-08-05">
+          <p>Read <ref target="booksRead_3.0.xml#winterso.j.stonegods">The Stone Gods</ref>.</p>
+        </event>
+        <event from="2013-08-05" to="2013-08-07">
+          <p>Read <ref target="booksRead_3.0.xml#johnson.ad.racingdark">Racing the Dark</ref>.</p>
+        </event>
+        <event when="2013-08-04">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.8">Pretty Guardian Sailor Moon Vol. 8</ref>.</p>
+        </event>
+        <event when="2013-08-03">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.oceanatendlane">The Ocean at the End of the Lane</ref>.</p>
+        </event>
+        <event from="2013-07-29" to="2013-08-05">
+          <p>Read <ref target="booksRead_3.0.xml#lynch.s.lieslockelamora">The Lies of Locke Lamora</ref>.</p>
+        </event>
+        <event from="2013-07-28" to="2013-07-29">
+          <p>Read <ref target="booksRead_3.0.xml#jemisin.nk.killingmoon">The Killing Moon</ref>.</p>
+        </event>
+        <event when="2013-07-27">
+          <p>Read <ref target="booksRead_3.0.xml#vaughn.bk.pridebaghdad">Pride of Baghdad</ref>.</p>
+        </event>
+        <event from="2013-07-14" to="2013-07-28">
+          <p>Read <ref target="booksRead_3.0.xml#austen.j.emma">Emma</ref>.</p>
+        </event>
+        <event when="2013-07-13">
+          <p>Read <ref target="booksRead_3.0.xml#masamune.s.ghostinshell">Ghost in the Shell</ref>.</p>
+        </event>
+        <event when="2013-07-11">
+          <p>Read <ref target="booksRead_3.0.xml#okorafor.n.whofearsdeath">Who Fears Death</ref>.</p>
+        </event>
+        <event from="2013-07-11" to="2013-07-14">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.menatarms">Men at Arms</ref>.</p>
+        </event>
+        <event when="2013-07-09">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.amulet.bookonestonekeeper">Amulet Book One: The Stonekeeper</ref>.</p>
+        </event>
+        <event when="2013-07-03">
+          <p>Read <ref target="booksRead_3.0.xml#estep.j.karmagirl">Karma Girl</ref>.</p>
+        </event>
+        <event when="2013-07-03">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.5">Ôoku: The Inner Chambers Vol. 5</ref>.</p>
+        </event>
+        <event from="2013-07-03" to="2013-07-05">
+          <p>Read <ref target="booksRead_3.0.xml#mcneil.cs.finder.library2">The Finder Library Vol. 2</ref>.</p>
+        </event>
+        <event from="2013-07-03" to="2013-07-11">
+          <p>Read <ref target="booksRead_3.0.xml#daviskim.j.warriorwomen">Warrior Women: An Archeologist's Search for History's Hidden Heroines</ref>.</p>
+        </event>
+        <event from="2013-06-21" to="2013-06-29">
+          <p>Read <ref target="booksRead_3.0.xml#willis.c.allclear">All Clear</ref>.</p>
+        </event>
+        <event from="2013-06-21" to="2013-06-22">
+          <p>Read <ref target="booksRead_3.0.xml#azuma.k.yotsubaand.1">Yotsuba&amp;! Vol. 1</ref>.</p>
+        </event>
+        <event when="2013-06-13">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.graveyardbook">The Graveyard Book</ref>.</p>
+        </event>
+        <event from="2013-06-06" to="2013-06-11">
+          <p>Read <ref target="booksRead_3.0.xml#willis.c.blackout">Blackout</ref>.</p>
+        </event>
+        <event from="2013-05-28" to="2013-06-06">
+          <p>Read <ref target="booksRead_3.0.xml#woolf.v.mrs.dalloway">Mrs. Dalloway</ref>.</p>
+        </event>
+        <event from="2013-05-09" to="2013-05-19">
+          <p>Read <ref target="booksRead_3.0.xml#zelazny.r.bringmeheadprincecharming">Bring Me the Head of Prince Charming</ref>.</p>
+        </event>
+        <event when="2013-05-04">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.rachelrising.1shadowdeath">Rachel Rising Vol. 1: The Shadow of Death</ref>.</p>
+        </event>
+        <event when="2013-05-01">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.eric">Eric</ref>.</p>
+        </event>
+        <event from="2013-05-01" to="2013-05-09">
+          <p>Read <ref target="booksRead_3.0.xml#butler.oe.parabletalents">Parable of the Talents</ref>.</p>
+        </event>
+        <event when="2013-05-01">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.darkesthouse">Secret Six: The Darkest House</ref>.</p>
+        </event>
+        <event from="2013-04-23" to="2013-05-01">
+          <p>Read <ref target="booksRead_3.0.xml#jemisin.nk.kingdomgods">The Kingdom of Gods</ref>.</p>
+        </event>
+        <event when="2013-04-20">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.3">Ôoku: The Inner Chambers Vol. 3</ref>.</p>
+        </event>
+        <event when="2013-04-20">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.4">Ôoku: The Inner Chambers Vol. 4</ref>.</p>
+        </event>
+        <event from="2013-04-19" to="2013-04-23">
+          <p>Read <ref target="booksRead_3.0.xml#kushner.e.fallkings">The Fall of the Kings</ref>.</p>
+        </event>
+        <event from="2013-04-16" to="2013-04-19">
+          <p>Read <ref target="booksRead_3.0.xml#winterso.j.powerbook">The PowerBook</ref>.</p>
+        </event>
+        <event when="2013-04-16">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.relish">Relish: My Life in the Kitchen</ref>.</p>
+        </event>
+        <event from="2013-04-08" to="2013-04-15">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.corambis">Corambis</ref>.</p>
+        </event>
+        <event from="2013-04-06" to="2013-04-07">
+          <p>Read <ref target="booksRead_3.0.xml#gladston.b.influencingmachine">The Influencing Machine: Brooke Gladstone on the Media</ref>.</p>
+        </event>
+        <event when="2013-04-06">
+          <p>Read <ref target="booksRead_3.0.xml#mcneil.cs.finder.voice">Finder: Voice</ref>.</p>
+        </event>
+        <event from="2013-03-31" to="2013-04-05">
+          <p>Read <ref target="booksRead_3.0.xml#beagle.ps.tamsin">Tamsin</ref>.</p>
+        </event>
+        <event when="2013-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#butcher.j.stormfront">Storm Front</ref>.</p>
+        </event>
+        <event when="2013-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.2">Ôoku: The Inner Chambers Vol. 2</ref>.</p>
+        </event>
+        <event from="2013-03-29" to="2013-04-07">
+          <p>Read <ref target="booksRead_3.0.xml#jones.dw.toughguidetofantasyland">The Tough Guide to Fantasyland</ref>.</p>
+        </event>
+        <event from="2013-03-29" to="2013-04-06">
+          <p>Read <ref target="booksRead_3.0.xml#mcneil.cs.finder.library1">The Finder Library Vol. 1</ref>.</p>
+        </event>
+        <event from="2013-03-29" to="2013-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#hopkinso.n.saltroads">The Salt Roads</ref>.</p>
+        </event>
+        <event from="2013-03-24" to="2013-03-28">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.truth">The Truth</ref>.</p>
+        </event>
+        <event from="2013-03-17" to="2013-03-27">
+          <p>Read <ref target="booksRead_3.0.xml#robinson.a.tricked">Tricked</ref>.</p>
+        </event>
+        <event from="2013-03-16" to="2013-03-19">
+          <p>Read <ref target="booksRead_3.0.xml#sanders.rl.secretssilverwind">Secrets of Silverwind</ref>.</p>
+        </event>
+        <event from="2013-03-10" to="2013-03-24">
+          <p>Read <ref target="booksRead_3.0.xml#atwood.m.blindassassin">The Blind Assassin</ref>.</p>
+        </event>
+        <event from="2013-03-10" to="2013-03-15">
+          <p>Read <ref target="booksRead_3.0.xml#king.s.underdome">Under the Dome</ref>.</p>
+        </event>
+        <event from="2013-03-05" to="2013-03-10">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.alpha">Alpha</ref>.</p>
+        </event>
+        <event from="2013-03-03" to="2013-03-05">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.thieftime">Thief of Time</ref>.</p>
+        </event>
+        <event from="2013-03-02" to="2013-03-03">
+          <p>Read <ref target="booksRead_3.0.xml#rushdie.s.lukafirelife">Luka and the Fire of Life</ref>.</p>
+        </event>
+        <event from="2013-03-01" to="2013-03-02">
+          <p>Read <ref target="booksRead_3.0.xml#auster.p.travelsinscriptorium">Travels in the Scriptorium</ref>.</p>
+        </event>
+        <event when="2013-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketbook2">Strangers in Paradise Pocket Book 2</ref>.</p>
+        </event>
+        <event from="2013-02-18" to="2013-03-01">
+          <p>Read <ref target="booksRead_3.0.xml#edwards.k.memorykeepersdaughter">The Memory Keeper's Daughter</ref>.</p>
+        </event>
+        <event when="2013-02-17">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.1">Ôoku: The Inner Chambers Vol. 1</ref>.</p>
+        </event>
+        <event from="2013-02-17" to="2013-02-18">
+          <p>Read <ref target="booksRead_3.0.xml#yolen.j.whitejenna">White Jenna</ref>.</p>
+        </event>
+        <event from="2013-02-16" to="2013-02-28">
+          <p>Read <ref target="booksRead_3.0.xml#woolf.v.aroomonesown">A Room of One's Own</ref>.</p>
+        </event>
+        <event from="2013-02-08" to="2013-02-17">
+          <p>Read <ref target="booksRead_3.0.xml#elliott.k.coldfire">Cold Fire</ref>.</p>
+        </event>
+        <event from="2013-02-07" to="2013-02-08">
+          <p>Read <ref target="booksRead_3.0.xml#bechdel.a.areyoumymother">Are You My Mother?: A Comic Drama</ref>.</p>
+        </event>
+        <event when="2013-02-04">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.wish.4">Wish Vol. 4</ref>.</p>
+        </event>
+        <event from="2013-02-02" to="2013-02-08">
+          <p>Read <ref target="booksRead_3.0.xml#due.t.mysoultokeep">My Soul to Keep</ref>.</p>
+        </event>
+        <event when="2013-01-30">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.wish.3">Wish Vol. 3</ref>.</p>
+        </event>
+        <event from="2013-01-30" to="2013-02-02">
+          <p>Read <ref target="booksRead_3.0.xml#shaw.a.girlwithglassfeet">The Girl with Glass Feet</ref>. Loathed it, finished it
+            anyway.</p>
+        </event>
+        <event when="2013-01-19">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.sevensoldiersvictory.2">Seven Soldiers of Victory Vol. 2</ref>.</p>
+        </event>
+        <event from="2013-01-19" to="2013-01-28">
+          <p>Read <ref target="booksRead_3.0.xml#goonan.ka.lightmusic">Light Music</ref>.</p>
+        </event>
+        <event from="2013-01-14" to="2013-01-19">
+          <p>Read <ref target="booksRead_3.0.xml#lackey.m.gwenhyfarwhitespirit">Gwenhyfar: The White Spirit</ref>.</p>
+        </event>
+        <event from="2013-01-12" to="2013-01-14">
+          <p>Read <ref target="booksRead_3.0.xml#scalzi.j.redshirts">Redshirts</ref>.</p>
+        </event>
+        <event when="2013-01-07">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.unwritten.insideman">The Unwritten: Inside Man</ref>.</p>
+        </event>
+        <event from="2013-01-04" to="2013-01-12">
+          <p>Reread <ref target="booksRead_3.0.xml#tolkien.jrr.twotowers">The Two Towers</ref>.</p>
+        </event>
+        <event when="2012-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.6">Pretty Guardian Sailor Moon Vol. 6</ref>.</p>
+        </event>
+        <event when="2012-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.7">Pretty Guardian Sailor Moon Vol. 7</ref>.</p>
+        </event>
+        <event when="2012-12-26">
+          <p>Reread <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.reckonings">The Books of Magic: Reckonings</ref>.</p>
+        </event>
+        <event from="2012-12-26" to="2013-01-04">
+          <p>Read <ref target="booksRead_3.0.xml#johnson.k.foxwoman">The Fox Woman</ref>.</p>
+        </event>
+        <event when="2012-12-26">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.4">Pretty Guardian Sailor Moon Vol. 4</ref>.</p>
+        </event>
+        <event when="2012-12-26">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.5">Pretty Guardian Sailor Moon Vol. 5</ref>.</p>
+        </event>
+        <event from="2012-12-19" to="2012-12-26">
+          <p>Read <ref target="booksRead_3.0.xml#russ.j.femaleman">The Female Man</ref>.</p>
+        </event>
+        <event from="2012-12-13" to="2012-12-14">
+          <p>Reread <ref target="booksRead_3.0.xml#cooke.d.dcnewfrontier1">DC: The New Frontier Vol. 1</ref>.</p>
+        </event>
+        <event from="2012-12-07" to="2012-12-19">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.mirador">The Mirador</ref>.</p>
+        </event>
+        <event when="2012-12-05">
+          <p>Read <ref target="booksRead_3.0.xml#mignola.m.hellboy.1seeddestruction">Hellboy Vol. 1: Seed of Destruction</ref>.</p>
+        </event>
+        <event from="2012-12-05" to="2012-12-07">
+          <p>Read <ref target="booksRead_3.0.xml#butler.oe.parablesower">Parable of the Sower</ref>.</p>
+        </event>
+        <event when="2012-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.12darkages">Fables Vol. 12: The Dark Ages</ref>.</p>
+        </event>
+        <event from="2012-11-26" to="2012-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#mchugh.mf.chinamountainzhang">China Mountain Zhang</ref>.</p>
+        </event>
+        <event from="2012-11-16" to="2012-11-26">
+          <p>Read <ref target="booksRead_3.0.xml#piercy.m.womanonedgetime">Woman on the Edge of Time</ref>.</p>
+        </event>
+        <event when="2012-11-16">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.1001nightssnowfall">Fables: 1001 Nights of Snowfall</ref>.</p>
+        </event>
+        <event when="2012-11-15">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.11warpieces">Fables Vol. 11: War and Pieces</ref>.</p>
+        </event>
+        <event when="2012-11-14">
+          <p>Read <ref target="booksRead_3.0.xml#whedon.j.astonishingxmen.3torn">Astonishing X-Men Vol. 3: Torn</ref>.</p>
+        </event>
+        <event from="2012-11-13" to="2012-11-15">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.guardsguards">Guards! Guards!</ref>.</p>
+        </event>
+        <event when="2012-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.reptilebrain">Secret Six: The Reptile Brain</ref>.</p>
+        </event>
+        <event when="2012-11-10">
+          <p>Read <ref target="booksRead_3.0.xml#wilson.gw.cairo">Cairo: A Graphic Novel</ref>.</p>
+        </event>
+        <event from="2012-11-07" to="2012-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#thomas.s.ourtragicuniverse">Our Tragic Universe</ref>.</p>
+        </event>
+        <event from="2012-11-06" to="2012-11-07">
+          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.smutpeddler">Smut Peddler</ref>.</p>
+        </event>
+        <event when="2012-11-02">
+          <p>Read <ref target="booksRead_3.0.xml#moore.t.strangersinparadise.pocketbook1">Strangers in Paradise Pocket Book 1</ref>.</p>
+        </event>
+        <event from="2012-11-01" to="2012-11-07">
+          <p>Read <ref target="booksRead_3.0.xml#flewelli.l.traitorsmoon">Traitor's Moon</ref>.</p>
+        </event>
+        <event when="2012-11-01">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.sixdegreesdevastation">Secret Six: Six Degrees of Devastation</ref>.</p>
+        </event>
+        <event from="2012-10-29" to="2012-10-30">
+          <p>Read <ref target="booksRead_3.0.xml#willis.d.dumbingage.1escherprint">Dumbing of Age Vol. 1: This Campus is a Friggin' Escher Print</ref>.</p>
+        </event>
+        <event from="2012-10-24" to="2012-10-30">
+          <p>Read <ref target="booksRead_3.0.xml#coelho.p.witchportobello">The Witch of Portobello</ref>.</p>
+        </event>
+        <event from="2012-10-23" to="2012-10-24">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.10goodprince">Fables Vol. 10: The Good Prince</ref>.</p>
+        </event>
+        <event from="2012-10-22" to="2012-10-24">
+          <p>Read <ref target="booksRead_3.0.xml#harris.j.chocolat">Chocolat</ref>.</p>
+        </event>
+        <event from="2012-10-15" to="2012-10-19">
+          <p>Read <ref target="booksRead_3.0.xml#yolen.j.sisterlightsisterdark">Sister Light, Sister Dark</ref>.</p>
+        </event>
+        <event from="2012-10-11" to="2012-10-15">
+          <p>Read <ref target="booksRead_3.0.xml#jemisin.nk.brokenkingdoms">The Broken Kingdoms</ref>.</p>
+        </event>
+        <event when="2012-10-10">
+          <p>Read <ref target="booksRead_3.0.xml#layman.j.chew.2">Chew Vol. 2</ref>.</p>
+        </event>
+        <event when="2012-10-07">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.7">Flight Vol. 7</ref>.</p>
+        </event>
+        <event when="2012-10-05">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.unwritten.1tommytaylorbogusidentity">The Unwritten Vol. 1: Tommy Taylor and the Bogus Identity</ref>.</p>
+        </event>
+        <event from="2012-10-05" to="2012-10-11">
+          <p>Read <ref target="booksRead_3.0.xml#elliott.k.coldmagic">Cold Magic</ref>.</p>
+        </event>
+        <event when="2012-09-27">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.wish.2">Wish Vol. 2</ref>.</p>
+        </event>
+        <event from="2012-09-26" to="2012-10-04">
+          <p>Read <ref target="booksRead_3.0.xml#novik.n.thronejade">Throne of Jade</ref>.</p>
+        </event>
+        <event when="2012-09-19">
+          <p>Read <ref target="booksRead_3.0.xml#mori.k.emma.1">Emma Vol.1</ref>.</p>
+        </event>
+        <event from="2012-09-19" to="2012-09-22">
+          <p>Read <ref target="booksRead_3.0.xml#scalzi.j.fuzzynation">Fuzzy Nation</ref>.</p>
+        </event>
+        <event from="2012-09-13" to="2012-09-19">
+          <p>Read <ref target="booksRead_3.0.xml#atwood.m.yearflood">The Year of the Flood</ref>.</p>
+        </event>
+        <event from="2012-09-10" to="2012-09-12">
+          <p>Read <ref target="booksRead_3.0.xml#bradbury.r.wellalwayshaveparis">We'll Always Have Paris</ref>.</p>
+        </event>
+        <event from="2012-08-29" to="2012-09-10">
+          <p>Read <ref target="booksRead_3.0.xml#hobb.r.foolserrand">Fool's Errand</ref>.</p>
+        </event>
+        <event from="2012-08-28" to="2012-08-29">
+          <p>Read <ref target="booksRead_3.0.xml#gilling.t.adventuresmilesisabel">The Adventures of Miles and Isabel</ref>.</p>
+        </event>
+        <event when="2012-08-17">
+          <p>Read <ref target="booksRead_3.0.xml#miller.bq.batgirl.lesson">Batgirl: The Lesson</ref>.</p>
+        </event>
+        <event from="2012-08-16" to="2012-08-28">
+          <p>Read <ref target="booksRead_3.0.xml#rawn.m.mageborntraitor">The Mageborn Traitor</ref>.</p>
+        </event>
+        <event from="2012-08-11" to="2012-08-14">
+          <p>Read <ref target="booksRead_3.0.xml#collins.s.catchingfire">Catching Fire</ref>.</p>
+        </event>
+        <event when="2012-07-24">
+          <p>Read <ref target="booksRead_3.0.xml#garrity.sk.skinhorse.3">Skin Horse Vol. 3</ref>.</p>
+        </event>
+        <event from="2012-07-24" to="2012-08-14">
+          <p>Read <ref target="booksRead_3.0.xml#bradley.mz.mistsavalon">The Mists of Avalon</ref>.</p>
+        </event>
+        <event when="2012-07-24">
+          <p>Reread <ref target="booksRead_3.0.xml#clamp.wish.1">Wish Vol. 1</ref>.</p>
+        </event>
+        <event from="2012-07-14" to="2012-07-22">
+          <p>Reread <ref target="booksRead_3.0.xml#niffeneg.a.timetravelerswife">The Time Traveler's Wife</ref>.</p>
+        </event>
+        <event from="2012-07-11" to="2012-07-13">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.taggerung">Taggerung</ref>.</p>
+        </event>
+        <event when="2012-07-10">
+          <p>Reread <ref target="booksRead_3.0.xml#simone.g.secretsix.unhinged">The Secret Six: Unhinged</ref>.</p>
+        </event>
+        <event when="2012-07-09">
+          <p>Read <ref target="booksRead_3.0.xml#gilman.cp.herland">Herland</ref>.</p>
+        </event>
+        <event from="2012-07-06" to="2012-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#holkins.j.pennyarcade.7begoodlittlepuppy">Penny Arcade Vol. 7: Be Good, Little Puppy</ref>.</p>
+        </event>
+        <event from="2012-07-05" to="2012-07-09">
+          <p>Read <ref target="booksRead_3.0.xml#brennan.sr.demonslexicon">The Demon's Lexicon</ref>.</p>
+        </event>
+        <event from="2012-07-03" to="2012-07-05">
+          <p>Read <ref target="booksRead_3.0.xml#butler.oe.lilithsbrood">Lilith's Brood</ref>.</p>
+        </event>
+        <event from="2012-06-27" to="2012-07-03">
+          <p>Read <ref target="booksRead_3.0.xml#novik.n.hismajestysdragon">His Majesty's Dragon</ref>.</p>
+        </event>
+        <event from="2012-06-24" to="2012-06-27">
+          <p>Reread <ref target="booksRead_3.0.xml#matheson.r.iamlegend">I Am Legend</ref>.</p>
+        </event>
+        <event when="2012-06-15">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.cardcaptorsakura.masterclow2">Cardcaptor Sakura: Master of the Clow Vol. 2</ref>.</p>
+        </event>
+        <event from="2012-06-15" to="2012-06-16">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.cardcaptorsakura.masterclow3">Cardcaptor Sakura: Master of the Clow Vol. 3</ref>.</p>
+        </event>
+        <event from="2012-06-14" to="2012-06-24">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.jingo">Jingo</ref>.</p>
+        </event>
+        <event when="2012-06-10">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.cardcaptorsakura.masterclow1">Cardcaptor Sakura: Master of the Clow Vol. 1</ref>.</p>
+        </event>
+        <event when="2012-05-27">
+          <p>Reread <ref target="booksRead_3.0.xml#morrison.g.jla.newworldorder">JLA: New World Order</ref>.</p>
+        </event>
+        <event from="2012-05-10" to="2012-05-12">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.invisibles.sayyouwantrevolution">The Invisibles: Say You Want a Revolution</ref>.</p>
+        </event>
+        <event when="2012-05-09">
+          <p>Read <ref target="booksRead_3.0.xml#kishiro.y.battleangelalita.angeldeath">Battle Angel Alita: Angel of Death</ref>.</p>
+        </event>
+        <event when="2012-05-09">
+          <p>Read <ref target="booksRead_3.0.xml#sakai.s.usagiyojimbo.book3wanderersroad">Usagi Yojimbo Book 3: The Wanderer's Road</ref>.</p>
+        </event>
+        <event when="2012-05-05">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.ww.warkiller">Wonder Woman: Warkiller</ref>.</p>
+        </event>
+        <event from="2012-05-03" to="2012-05-04">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.dalliancewithdamned">Lucifer: A Dalliance with the Damned</ref>.</p>
+        </event>
+        <event from="2012-05-02" to="2012-05-03">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.promethea.book5">Promethea Book 5</ref>.</p>
+        </event>
+        <event from="2012-04-26" to="2012-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.wolfbeneathtree">Lucifer: The Wolf Beneath the Tree</ref>.</p>
+        </event>
+        <event when="2012-04-25">
+          <p>Read <ref target="booksRead_3.0.xml#kishiro.y.battleangelalita.killingangel">Battle Angel Alita: Killing Angel</ref>.</p>
+        </event>
+        <event when="2012-04-25">
+          <p>Read <ref target="booksRead_3.0.xml#sakai.s.usagiyojimbo.book2samurai">Usagi Yojimbo Book 2: Samurai</ref>.</p>
+        </event>
+        <event from="2012-04-24" to="2012-06-14">
+          <p>Read <ref target="booksRead_3.0.xml#martin.grr.feastforcrows">A Feast for Crows</ref>.</p>
+        </event>
+        <event from="2012-04-23" to="2012-05-17">
+          <p>Read <ref target="booksRead_3.0.xml#watterso.b.calvinhobbes.authoritative">The Authoritative Calvin and Hobbes</ref>.</p>
+        </event>
+        <event when="2012-04-21">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.2">Pretty Guardian Sailor Moon Vol. 2</ref>.</p>
+        </event>
+        <event when="2012-04-21">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.3">Pretty Guardian Sailor Moon Vol. 3</ref>.</p>
+        </event>
+        <event when="2012-04-21">
+          <p>Started <ref target="booksRead_3.0.xml#milton.j.paradiselostparadiseregained">Paradise Lost and Paradise Regained</ref>. Left unfinished.</p>
+        </event>
+        <event when="2012-04-14">
+          <p>Read <ref target="booksRead_3.0.xml#mcdonald.k.cautionaryfablesfairytales">Cautionary Fables and Fairy-Tales</ref>.</p>
+        </event>
+        <event from="2012-04-12" to="2012-04-20">
+          <p>Reread <ref target="booksRead_3.0.xml#rucka.g.batwoman.elegy">Batwoman: Elegy</ref>.</p>
+        </event>
+        <event from="2012-04-03" to="2012-04-05">
+          <p>Read <ref target="booksRead_3.0.xml#kishiro.y.battleangelalita.angelvictory">Battle Angel Alita: Angel of Victory</ref>.</p>
+        </event>
+        <event from="2012-04-02" to="2012-04-03">
+          <p>Reread <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.lustforlife">Transmetropolitan: Lust for Life</ref>.</p>
+        </event>
+        <event from="2012-03-28" to="2012-03-30">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.authority.book1relentless">The Authority Book 1: Relentless</ref>.</p>
+        </event>
+        <event when="2012-03-23">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.10">Shugo Chara! Vol. 10</ref>.</p>
+        </event>
+        <event from="2012-03-18" to="2012-04-23">
+          <p>Read <ref target="booksRead_3.0.xml#hobb.r.assassinsquest">Assassin's Quest</ref>.</p>
+        </event>
+        <event when="2012-03-17">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.dansemacabre">Secret Six: Danse Macabre</ref>.</p>
+        </event>
+        <event from="2012-03-16" to="2012-03-18">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.antiquebakery.2">Antique Bakery Vol. 2</ref>.</p>
+        </event>
+        <event from="2012-03-15" to="2012-03-16">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.promethea.book4">Promethea Book 4</ref>.</p>
+        </event>
+        <event when="2012-03-12">
+          <p>Reread <ref target="booksRead_3.0.xml#takahash.r.ranmaonehalf.4">Ranma 1/2 Vol. 4</ref>.</p>
+        </event>
+        <event when="2012-03-11">
+          <p>Read <ref target="booksRead_3.0.xml#kishiro.y.battleangelalita.tearsanangel">Battle Angel Alita: Tears of an Angel</ref>.</p>
+        </event>
+        <event when="2012-03-05">
+          <p>Read <ref target="booksRead_3.0.xml#marz.r.greenlantern.emeraldknights">Green Lantern: Emerald Knights</ref>.</p>
+        </event>
+        <event when="2012-03-04">
+          <p>Reread <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.backonstreet">Transmetropolitan: Back on the Street</ref>.</p>
+        </event>
+        <event when="2012-03-03">
+          <p>Reread <ref target="booksRead_3.0.xml#takahash.r.ranmaonehalf.3">Ranma 1/2 Vol. 3</ref>.</p>
+        </event>
+        <event from="2012-03-03" to="2012-03-10">
+          <p>Reread <ref target="booksRead_3.0.xml#busiek.k.astrocity.localheroes">Astro City: Local Heroes</ref>.</p>
+        </event>
+        <event from="2012-03-01" to="2012-03-18">
+          <p>Read <ref target="booksRead_3.0.xml#jemisin.nk.hundredthousandkingdoms">The Hundred Thousand Kingdoms</ref>.</p>
+        </event>
+        <event when="2012-02-28">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.9">Shugo Chara! Vol. 9</ref>.</p>
+        </event>
+        <event from="2012-02-28" to="2012-02-29">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.exodus">Lucifer: Exodus</ref>.</p>
+        </event>
+        <event from="2012-02-26" to="2012-02-29">
+          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.tombsatuan">The Tombs of Atuan</ref>.</p>
+        </event>
+        <event from="2012-02-24" to="2012-02-25">
+          <p>Read <ref target="booksRead_3.0.xml#cooke.d.dcnewfrontier2">DC: The New Frontier Vol. 2</ref>.</p>
+        </event>
+        <event when="2012-02-23">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.ww.contagion">Wonder Woman: Contagion</ref>.</p>
+        </event>
+        <event from="2012-02-17" to="2012-02-18">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.antiquebakery.1">Antique Bakery Vol. 1</ref>.</p>
+        </event>
+        <event from="2012-02-17" to="2012-02-22">
+          <p>Read <ref target="booksRead_3.0.xml#parker.j.xmenfirstclass1">X-Men: First Class Vol. 1</ref>.</p>
+        </event>
+        <event from="2012-02-08" to="2012-02-21">
+          <p>Read <ref target="booksRead_3.0.xml#rogers.j.bluebeetle.endgame">Blue Beetle: End Game</ref>.</p>
+        </event>
+        <event when="2012-02-07">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.tsubasa3">Tsubasa Vol. 3</ref>.</p>
+        </event>
+        <event from="2012-02-03" to="2012-02-07">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.mansionssilence">Lucifer: Mansions of Silence</ref>.</p>
+        </event>
+        <event when="2012-01-31">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.8">Shugo Chara! Vol. 8</ref>.</p>
+        </event>
+        <event from="2012-01-30" to="2012-02-25">
+          <p>Read <ref target="booksRead_3.0.xml#russell.md.sparrow">The Sparrow</ref>.</p>
+        </event>
+        <event when="2012-01-29">
+          <p>Read <ref target="booksRead_3.0.xml#takeuchi.n.prettyguardiansailormoon.1">Pretty Guardian Sailor Moon Vol. 1</ref>.</p>
+        </event>
+        <event when="2012-01-25">
+          <p>Read <ref target="booksRead_3.0.xml#bedard.t.birdsprey.platinumflats">Birds of Prey: Platinum Flats</ref>.</p>
+        </event>
+        <event from="2012-01-25" to="2012-01-27">
+          <p>Read <ref target="booksRead_3.0.xml#kishiro.y.battleangelalita.1rustyangel">Battle Angel Alita Vol. 1: Rusty Angel</ref>.</p>
+        </event>
+        <event from="2012-01-21" to="2012-01-22">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.greenlanterncorps.recharge">Green Lantern Corps: Recharge</ref>.</p>
+        </event>
+        <event from="2012-01-07" to="2012-01-30">
+          <p>Read <ref target="booksRead_3.0.xml#paolini.c.inheritance">Inheritance</ref>.</p>
+        </event>
+        <event when="2012-01-04">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.welcometotranquility">Welcome to Tranquility</ref>.</p>
+        </event>
+        <event from="2012-01-04" to="2012-01-07">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.mattimeo">Mattimeo</ref>.</p>
+        </event>
+        <event from="2011-12-28" to="2012-01-02">
+          <p>Read <ref target="booksRead_3.0.xml#thompson.c.habibi">Habibi</ref>.</p>
+        </event>
+        <event when="2011-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#beaton.k.harkavagrant">Hark! a Vagrant</ref>.</p>
+        </event>
+        <event when="2011-12-25">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.princessknightpart1">Princess Knight Part 1</ref>.</p>
+        </event>
+        <event from="2011-12-17" to="2011-12-19">
+          <p>Reread <ref target="booksRead_3.0.xml#garrity.sk.narbonicperfectcollectionbook2">Narbonic: The Perfect Collection Book 2</ref>.</p>
+        </event>
+        <event when="2011-12-16">
+          <p>Read <ref target="booksRead_3.0.xml#amano.k.aqua.1">Aqua, Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-12-09" to="2011-12-27">
+          <p>Read <ref target="booksRead_3.0.xml#jones.j.dragonsoul">Dragon Soul</ref>.</p>
+        </event>
+        <event when="2011-12-09">
+          <p>Read <ref target="booksRead_3.0.xml#raicht.m.stufflegend.1dark">The Stuff of Legend, Book 1: The Dark</ref>.</p>
+        </event>
+        <event when="2011-12-06">
+          <p>Read <ref target="booksRead_3.0.xml#boothby.i.futurama.timebendertrilogy">Futurama: The Time Bender Trilogy</ref>.</p>
+        </event>
+        <event when="2011-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#giffen.k.bluebeetle.shellshocked">Blue Beetle: Shellshocked</ref>.</p>
+        </event>
+        <event from="2011-12-02" to="2011-12-09">
+          <p>Read <ref target="booksRead_3.0.xml#hobb.r.royalassassin">Royal Assassin</ref>.</p>
+        </event>
+        <event from="2011-11-27" to="2011-11-30">
+          <p>Reread <ref target="booksRead_3.0.xml#farmer.n.eareyearm">The Ear, the Eye and the Arm</ref>.</p>
+        </event>
+        <event when="2011-11-23">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.8jetvana">Buddha Vol. 8: Jetvana</ref>.</p>
+        </event>
+        <event from="2011-11-22" to="2011-11-27">
+          <p>Reread <ref target="booksRead_3.0.xml#garrity.sk.narbonicperfectcollectionbook1">Narbonic: The Perfect Collection Book 1</ref>.</p>
+        </event>
+        <event from="2011-11-15" to="2011-11-17">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.7">Shugo Chara! Vol. 7</ref>.</p>
+        </event>
+        <event when="2011-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#langridg.r.thormightyavenger2">Thor the Mighty Avenger Vol. 2</ref>.</p>
+        </event>
+        <event from="2011-11-12" to="2011-11-22">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.redwall">Redwall</ref>.</p>
+        </event>
+        <event from="2011-11-08" to="2011-11-09">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.sevensoldiersvictory.2">Seven Soldiers of Victory Vol. 2</ref>.</p>
+        </event>
+        <event when="2011-11-06">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.6">Shugo Chara! Vol. 6</ref>.</p>
+        </event>
+        <event from="2011-11-01" to="2011-11-12">
+          <p>Reread <ref target="booksRead_3.0.xml#pratchet.t.wyrdsisters">Wyrd Sisters</ref>.</p>
+        </event>
+        <event from="2011-10-31" to="2011-11-04">
+          <p>Reread <ref target="booksRead_3.0.xml#medley.l.castlewaiting.1">Castle Waiting Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-10-26" to="2011-10-27">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.animalman.originspecies">Animal Man: Origin of the Species</ref>.</p>
+        </event>
+        <event from="2011-10-25" to="2011-10-31">
+          <p>Read <ref target="booksRead_3.0.xml#hines.jc.stepsisterscheme">The Stepsister Scheme</ref>.</p>
+        </event>
+        <event when="2011-10-20">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.5">Shugo Chara! Vol. 5</ref>.</p>
+        </event>
+        <event when="2011-10-18">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.sandmanpresents.thessalywitchforhire">The Sandman Presents Thessaly: Witch for Hire</ref>.</p>
+        </event>
+        <event when="2011-10-15">
+          <p>Read <ref target="booksRead_3.0.xml#langridg.r.thormightyavenger1">Thor the Mighty Avenger Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-10-14" to="2011-10-15">
+          <p>Read <ref target="booksRead_3.0.xml#cooke.d.dcnewfrontier1">DC: The New Frontier Vol. 1</ref>.</p>
+        </event>
+        <event when="2011-10-09">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.ww.landdead">Wonder Woman: Land of the Dead</ref>.</p>
+        </event>
+        <event when="2011-10-05">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.4">Shugo Chara! Vol. 4</ref>.</p>
+        </event>
+        <event when="2011-09-30">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.inferno">Lucifer: Inferno</ref>.</p>
+        </event>
+        <event when="2011-09-28">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.3">Shugo Chara! Vol. 3</ref>.</p>
+        </event>
+        <event when="2011-09-27">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.question.pipeline">The Question: Pipeline</ref>.</p>
+        </event>
+        <event from="2011-09-24" to="2011-09-25">
+          <p>Read <ref target="booksRead_3.0.xml#sturges.m.bluebeetle.blackblue">Blue Beetle: Black and Blue</ref>.</p>
+        </event>
+        <event from="2011-09-21" to="2011-09-22">
+          <p>Read <ref target="booksRead_3.0.xml#busiek.k.astrocity.confession">Astro City: Confession</ref>.</p>
+        </event>
+        <event from="2011-09-20" to="2011-10-21">
+          <p>Unfinished. <ref target="booksRead_3.0.xml#latham.r.styleantitextbook">Style: The Anti-Textbook</ref>.</p>
+        </event>
+        <event from="2011-09-18" to="2011-09-19">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.52.4">52 Vol. 4</ref>.</p>
+        </event>
+        <event when="2011-09-14">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.stormwatch.finerworld">Stormwatch: A Finer World</ref>.</p>
+        </event>
+        <event from="2011-09-12" to="2011-09-13">
+          <p>Read <ref target="booksRead_3.0.xml#petersen.d.mouseguard.legendsguard1">Mouse Guard: Legends of the Guard Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-09-09" to="2011-10-25">
+          <p>Read <ref target="booksRead_3.0.xml#rawn.m.ruinsambrai">The Ruins of Ambrai</ref>.</p>
+        </event>
+        <event when="2011-09-06">
+          <p>Read <ref target="booksRead_3.0.xml#nicieza.f.deadpoolvsmarvel">Deadpool vs. the Marvel Universe</ref>.</p>
+        </event>
+        <event when="2011-09-02">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.52.3">52 Vol. 3</ref>.</p>
+        </event>
+        <event from="2011-08-31" to="2011-09-09">
+          <p>Reread <ref target="booksRead_3.0.xml#lengle.m.manywaters">Many Waters</ref>.</p>
+        </event>
+        <event from="2011-08-27" to="2011-08-31">
+          <p>Read <ref target="booksRead_3.0.xml#collins.s.hungergames">The Hunger Games</ref>.</p>
+        </event>
+        <event when="2011-08-27">
+          <p>Read <ref target="booksRead_3.0.xml#rogers.j.bluebeetle.reachforstars">Blue Beetle: Reach for the Stars</ref>.</p>
+        </event>
+        <event when="2011-08-26">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.ww.riseolympian">Wonder Woman: Rise of the Olympian</ref>.</p>
+        </event>
+        <event when="2011-08-26">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.52.2">52 Vol. 2</ref>.</p>
+        </event>
+        <event from="2011-08-23" to="2011-08-27">
+          <p>Read <ref target="booksRead_3.0.xml#priest.c.dreadnought">Dreadnought</ref>.</p>
+        </event>
+        <event when="2011-08-23">
+          <p>Read <ref target="booksRead_3.0.xml#lee.t.doctorwho.forgotten">Doctor Who: The Forgotten</ref>.</p>
+        </event>
+        <event when="2011-08-21">
+          <p>Read <ref target="booksRead_3.0.xml#busiek.k.jlaavengers">JLA/Avengers</ref>.</p>
+        </event>
+        <event when="2011-08-20">
+          <p>Read <ref target="booksRead_3.0.xml#gibbons.d.greenlanterncorps.tobelantern">Green Lantern Corps: To Be a Lantern</ref>.</p>
+        </event>
+        <event when="2011-08-19">
+          <p>Read <ref target="booksRead_3.0.xml#clevinge.b.atomicrobo.deadlyartscience">Atomic Robo and the Deadly Art of Science</ref>.</p>
+        </event>
+        <event from="2011-08-19" to="2011-08-23">
+          <p>Read <ref target="booksRead_3.0.xml#hobb.r.assassinsapprentice">Assassin's Apprentice</ref>.</p>
+        </event>
+        <event when="2011-08-18">
+          <p>Reread <ref target="booksRead_3.0.xml#avi.citylight">City of Light, City of Dark</ref>.</p>
+        </event>
+        <event from="2011-08-16" to="2011-08-18">
+          <p>Read <ref target="booksRead_3.0.xml#mckinley.r.pegasus">Pegasus</ref>.</p>
+        </event>
+        <event when="2011-08-16">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.batwoman.elegy">Batwoman: Elegy</ref>.</p>
+        </event>
+        <event when="2011-08-13">
+          <p>Read <ref target="booksRead_3.0.xml#byrnes.j.jla.tenthcircle">JLA: The Tenth Circle</ref>.</p>
+        </event>
+        <event when="2011-08-13">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.ww.circle">Wonder Woman: The Circle</ref>.</p>
+        </event>
+        <event when="2011-08-12">
+          <p>Reread <ref target="booksRead_3.0.xml#johns.g.52.1">52 Vol. 1</ref>.</p>
+        </event>
+        <event when="2011-08-12">
+          <p>Read <ref target="booksRead_3.0.xml#layman.j.chew.1tasterschoice">Chew Vol. 1: Taster's Choice</ref>.</p>
+        </event>
+        <event when="2011-08-10">
+          <p>Read <ref target="booksRead_3.0.xml#rogers.j.bluebeetle.roadtrip">Blue Beetle: Road Trip</ref>.</p>
+        </event>
+        <event from="2011-07-12" to="2011-08-16">
+          <p>Read <ref target="booksRead_3.0.xml#clarke.s.jonathanstrangemrnorrell">Jonathan Strange and Mr. Norrell</ref>.</p>
+        </event>
+        <event when="2011-07-11">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.8">Flight Vol. 8</ref>.</p>
+        </event>
+        <event when="2011-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#higuchi.t.gakuenalice.7">Gakuen Alice Vol. 7</ref>.</p>
+        </event>
+        <event when="2011-07-06">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.7">Buddha Vol. 7:</ref>.</p>
+        </event>
+        <event when="2011-06-29">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.divinecomedy">Lucifer: The Divine Comedy</ref>.</p>
+        </event>
+        <event when="2011-06-29">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.ww.eyesgorgon">Wonder Woman: Eyes of the Gorgon</ref>.</p>
+        </event>
+        <event from="2011-06-28" to="2011-07-05">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.t.beloved">Beloved</ref>.</p>
+        </event>
+        <event when="2011-06-09">
+          <p>Reread <ref target="booksRead_3.0.xml#takami.k.battleroyale.1">Battle Royale Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-06-07" to="2011-06-08">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.2">Shugo Chara! Vol. 2</ref>.</p>
+        </event>
+        <event when="2011-06-07">
+          <p>Read <ref target="booksRead_3.0.xml#whedon.z.drhorribleotherhorriblestories">Dr. Horrible and Other Horrible Stories</ref>.</p>
+        </event>
+        <event from="2011-06-06" to="2011-06-07">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.sevensoldiersvictory.1">Seven Soldiers of Victory Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-06-02" to="2011-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#turner.j.rexlibris.1ilibrarian">Rex Libris Vol. 1: I, Librarian</ref>.</p>
+        </event>
+        <event when="2011-06-01">
+          <p>Reread <ref target="booksRead_3.0.xml#peachpit.shugochara.1">Shugo Chara! Vol. 1</ref>.</p>
+        </event>
+        <event from="2011-06-01" to="2011-06-24">
+          <p>Read <ref target="booksRead_3.0.xml#robinson.ks.yearsricesalt">The Years of Rice and Salt</ref>.</p>
+        </event>
+        <event when="2011-05-31">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.batmankillingjoke">Batman: The Killing Joke</ref>.</p>
+        </event>
+        <event from="2011-05-29" to="2011-05-31">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.promethea.book3">Promethea Book 3</ref>.</p>
+        </event>
+        <event from="2011-05-28" to="2011-05-29">
+          <p>Read <ref target="booksRead_3.0.xml#sfar.j.rabbiscat">The Rabbi's Cat</ref>.</p>
+        </event>
+        <event from="2011-05-27" to="2011-05-28">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.6ananda">Buddha Vol. 6: Ananda</ref>.</p>
+        </event>
+        <event from="2011-05-23" to="2011-05-27">
+          <p>Read <ref target="booksRead_3.0.xml#mckillip.p.odmagic">Od Magic</ref>.</p>
+        </event>
+        <event when="2011-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.villainsunited">Villains United</ref>.</p>
+        </event>
+        <event from="2011-05-19" to="2011-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.6">Flight Vol. 6</ref>.</p>
+        </event>
+        <event when="2011-05-18">
+          <p>Read <ref target="booksRead_3.0.xml#oswalt.p.jla.welcometoworkingweek">JLA: Welcome to the Working Week</ref>.</p>
+        </event>
+        <event from="2011-05-13" to="2011-05-22">
+          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.lefthanddarkness">The Left Hand of Darkness</ref>.</p>
+        </event>
+        <event when="2011-05-11">
+          <p>Read <ref target="booksRead_3.0.xml#morrison.g.allstarsuperman2">All Star Superman Vol. 2</ref>.</p>
+        </event>
+        <event when="2011-05-11">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.ww.endsearth">Wonder Woman: Ends of the Earth</ref>.</p>
+        </event>
+        <event when="2011-05-11">
+          <p>Read <ref target="booksRead_3.0.xml#castellu.c.plainjanes">The Plain Janes</ref>.</p>
+        </event>
+        <event when="2011-05-11">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.superman.strangeattractors">Superman: Strange Attractors</ref>.</p>
+        </event>
+        <event when="2011-05-08">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.depths">Secret Six: Depths</ref>.</p>
+        </event>
+        <event when="2011-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.5deerpark">Buddha Vol. 5: Deer Park</ref>.</p>
+        </event>
+        <event when="2011-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#higuchi.t.gakuenalice.4">Gakuen Alice Vol. 4</ref>.</p>
+        </event>
+        <event from="2011-04-25" to="2011-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.promethea.book2">Promethea Book 2</ref>.</p>
+        </event>
+        <event when="2011-04-24">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.childrenmonsters">Lucifer: Children and Monsters</ref>.</p>
+        </event>
+        <event from="2011-04-22" to="2011-05-12">
+          <p>Read <ref target="booksRead_3.0.xml#jones.j.shadowmagic">Shadow Magic</ref>.</p>
+        </event>
+        <event when="2011-04-21">
+          <p>Read <ref target="booksRead_3.0.xml#higuchi.t.gakuenalice.3">Gakuen Alice Vol. 3</ref>.</p>
+        </event>
+        <event from="2011-04-20" to="2011-06-26">
+          <p>Read <ref target="booksRead_3.0.xml#potter.j.cookingforgeeks">Cooking for Geeks: Real Science, Great Hacks and Good Food</ref>.</p>
+        </event>
+        <event from="2011-04-18" to="2011-04-26">
+          <p>Read <ref target="booksRead_3.0.xml#harvey.r.preservingdigitalmaterials">Preserving Digital Materials</ref> for LIS 502 and 590DCL
+            (Foundations of Digital Preservation).</p>
+        </event>
+        <event from="2011-04-12" to="2011-04-13">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.midnightdays">Neil Gaiman's Midnight Days</ref>.</p>
+        </event>
+        <event when="2011-04-11">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.promethea.book1">Promethea Book 1</ref>.</p>
+        </event>
+        <event from="2011-04-10" to="2011-04-11">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest5">ElfQuest: The Grand Quest Vol. 5</ref>.</p>
+        </event>
+        <event when="2011-04-08">
+          <p>Read <ref target="booksRead_3.0.xml#cowell.c.howtotrain.audio">How to Train Your Dragon</ref>.</p>
+        </event>
+        <event from="2011-04-06" to="2011-04-07">
+          <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.devilingateway">Lucifer: Devil in the Gateway</ref>.</p>
+        </event>
+        <event when="2011-04-05">
+          <p>Read <ref target="booksRead_3.0.xml#millar.m.superman.redson">Superman: Red Son</ref>.</p>
+        </event>
+        <event when="2011-04-03">
+          <p>Read <ref target="booksRead_3.0.xml#busiek.k.astrocity.tarnishedangel">Astro City: The Tarnished Angel</ref>.</p>
+        </event>
+        <event when="2011-04-02">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.nextwave.agentshate">Nextwave: Agents of H.A.T.E.</ref>.</p>
+        </event>
+        <event from="2011-04-01" to="2011-04-02">
+          <p>Read <ref target="booksRead_3.0.xml#loeb.j.supermanbatman.vengeance">Superman/Batman: Vengeance</ref>.</p>
+        </event>
+        <event from="2011-04-01" to="2011-04-22">
+          <p>Read <ref target="booksRead_3.0.xml#yolen.j.onceupontime">Once Upon a Time (She Said)</ref>.</p>
+        </event>
+        <event when="2011-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.4foresturuvela">Buddha Vol. 4: The Forest of Uruvela</ref>.</p>
+        </event>
+        <event when="2011-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#higuchi.t.gakuenalice.2">Gakuen Alice Vol. 2</ref>.</p>
+        </event>
+        <event from="2011-03-27" to="2011-04-01">
+          <p>Reread <ref target="booksRead_3.0.xml#jones.dw.deepsecret">Deep Secret</ref>.</p>
+        </event>
+        <event when="2011-03-26">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest4">ElfQuest: The Grand Quest Vol. 4</ref>.</p>
+        </event>
+        <event when="2011-03-26">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.explorer1">Flight Explorer Vol. 1</ref>.</p>
+        </event>
+        <event when="2011-03-25">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest3">ElfQuest: The Grand Quest Vol. 3</ref>.</p>
+        </event>
+        <event when="2011-03-22">
+          <p>Read <ref target="booksRead_3.0.xml#dixon.c.greenlantern.emeraldallies">Green Lantern: Emerald Allies</ref>.</p>
+        </event>
+        <event when="2011-03-21">
+          <p>Reread <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.summonings">The Books of Magic: Summonings</ref>.</p>
+        </event>
+        <event when="2011-03-20">
+          <p>Reread <ref target="booksRead_3.0.xml#medley.l.castlewaiting.cursebramblyhedge">Castle Waiting: The Curse of Brambly Hedge</ref>.</p>
+        </event>
+        <event when="2011-03-20">
+          <p>Read <ref target="booksRead_3.0.xml#sakai.s.usagiyojimbo.book1ronin">Usagi Yojimbo Book 1: The Ronin</ref>.</p>
+        </event>
+        <event from="2011-03-18" to="2011-03-28">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.lordbrocktree">Lord Brocktree</ref>.</p>
+        </event>
+        <event from="2011-03-16" to="2011-03-17">
+          <p>Reread <ref target="booksRead_3.0.xml#dahm.e.riceboy">Rice Boy</ref>.</p>
+        </event>
+        <event when="2011-03-10">
+          <p>Read <ref target="booksRead_3.0.xml#butler.oe.wildseed">Wild Seed</ref>.</p>
+        </event>
+        <event when="2011-03-08">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.globalfrequency.detonationradio">Global Frequency: Detonation Radio</ref>.</p>
+        </event>
+        <event when="2011-03-08">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.ww.bitterrivals">Wonder Woman: Bitter Rivals</ref>.</p>
+        </event>
+        <event when="2011-03-08">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.3devadatta">Buddha Vol. 3: Devadatta</ref>.</p>
+        </event>
+        <event when="2011-02-27">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.hiddenyears">ElfQuest: The Hidden Years</ref>.</p>
+        </event>
+        <event when="2011-02-27">
+          <p>Read <ref target="booksRead_3.0.xml#simone.g.secretsix.unhinged">The Secret Six: Unhinged</ref>.</p>
+        </event>
+        <event when="2011-02-27">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.ww.downtoearth">Wonder Woman: Down to Earth</ref>.</p>
+        </event>
+        <event from="2011-02-25" to="2011-03-10">
+          <p>Reread <ref target="booksRead_3.0.xml#gaiman.n.neverwhere">Neverwhere</ref>.</p>
+        </event>
+        <event when="2011-02-24">
+          <p>Read <ref target="booksRead_3.0.xml#chiang.t.lifecyclesoftwareobjects">The Lifecycle of Software Objects</ref>.</p>
+        </event>
+        <event when="2011-02-20">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.globalfrequency.planetablaze">Global Frequency: Planet Ablaze</ref>.</p>
+        </event>
+        <event when="2011-02-19">
+          <p>Read <ref target="booksRead_3.0.xml#green.m.supermanbatman.finestworlds">Superman/Batman: Finest Worlds</ref>.</p>
+        </event>
+        <event from="2011-02-19" to="2011-03-02">
+          <p>Read <ref target="booksRead_3.0.xml#fried.r.nightmareinredmccarthyerainperspective">Nightmare in Red: The McCarthy Era in Perspective</ref>.</p>
+        </event>
+        <event from="2011-02-13" to="2011-03-05">
+          <p>Read <ref target="booksRead_3.0.xml#rothfuss.p.namewind">The Name of the Wind</ref>.</p>
+        </event>
+        <event when="2011-02-10">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.21">Hana-Kimi Vol. 21</ref>.</p>
+        </event>
+        <event when="2011-02-10">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.22">Hana-Kimi Vol. 22</ref>.</p>
+        </event>
+        <event when="2011-02-10">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.23">Hana-Kimi Vol. 23</ref>.</p>
+        </event>
+        <event from="2011-02-08" to="2011-02-09">
+          <p>Read <ref target="booksRead_3.0.xml#bender.a.particularsadnesslemoncake">The Particular Sadness of Lemon Cake</ref>.</p>
+        </event>
+        <event when="2011-02-03">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimsfinesthour">Scott Pilgrim's Finest Hour</ref>.</p>
+        </event>
+        <event when="2011-02-01">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimvsuniverse">Scott Pilgrim vs The Universe</ref>.</p>
+        </event>
+        <event when="2011-02-01">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.20">Hana-Kimi Vol. 20</ref>.</p>
+        </event>
+        <event when="2011-01-31">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.19">Hana-Kimi Vol. 19</ref>.</p>
+        </event>
+        <event when="2011-01-30">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimgetsittogether">Scott Pilgrim Gets It Together</ref>.</p>
+        </event>
+        <event when="2011-01-29">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.18">Hana-Kimi Vol. 18</ref>.</p>
+        </event>
+        <event when="2011-01-23">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.17">Hana-Kimi Vol. 17</ref>.</p>
+        </event>
+        <event from="2011-01-20" to="2011-01-21">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgriminfinitesadness">Scott Pilgrim and the Infinite Sadness</ref>.</p>
+        </event>
+        <event when="2011-01-09">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimvsworld">Scott Pilgrim vs The World</ref>.</p>
+        </event>
+        <event when="2011-01-08">
+          <p>Reread <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimspreciouslittlelife">Scott Pilgrim's Precious Little Life</ref>.</p>
+        </event>
+        <event when="2011-01-08">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.16">Hana-Kimi Vol. 16</ref>.</p>
+        </event>
+        <event from="2010-12-25" to="2010-02-07">
+          <p>Read <ref target="booksRead_3.0.xml#north.r.machinedeath">Machine of Death</ref>.</p>
+        </event>
+        <event from="2010-11-24" to="2010-02-05">
+          <p>Read <ref target="booksRead_3.0.xml#martin.grr.stormswords">A Storm of Swords</ref>.</p>
+        </event>
+        <event when="2010-11-21">
+          <p>Read <ref target="booksRead_3.0.xml#whedon.j.serenityshepherdstale">Serenity: The Shepherd's Tale</ref>.</p>
+        </event>
+        <event when="2010-11-18">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.15">Hana-Kimi Vol. 15</ref>.</p>
+        </event>
+        <event from="2010-11-12" to="2010-12-05">
+          <p>Reread <ref target="booksRead_3.0.xml#king.s.onwriting">On Writing</ref>.</p>
+        </event>
+        <event from="2010-11-08" to="2010-11-11">
+          <p>Reread <ref target="booksRead_3.0.xml#mckinley.r.rosedaughter">Rose Daughter</ref>.</p>
+        </event>
+        <event when="2010-11-08">
+          <p>Read <ref target="booksRead_3.0.xml#minekura.k.wildadapter.2">Wild Adapter Vol. 2</ref>.</p>
+        </event>
+        <event from="2010-10-20" to="2010-10-21">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.14">Hana-Kimi Vol. 14</ref>.</p>
+        </event>
+        <event from="2010-10-18" to="2010-10-19">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.13">Hana-Kimi Vol. 13</ref>.</p>
+        </event>
+        <event when="2010-10-17">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.9">Hana-Kimi Vol. 9</ref>.</p>
+        </event>
+        <event when="2010-10-17">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.10">Hana-Kimi Vol. 10</ref>.</p>
+        </event>
+        <event when="2010-10-17">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.11">Hana-Kimi Vol. 11</ref>.</p>
+        </event>
+        <event from="2010-10-17" to="2010-10-18">
+          <p>Read <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.12">Hana-Kimi Vol. 12</ref>.</p>
+        </event>
+        <event when="2010-10-16">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.8">Hana-Kimi Vol. 8</ref>.</p>
+        </event>
+        <event from="2010-10-13" to="2010-10-16">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.7">Hana-Kimi Vol. 7</ref>.</p>
+        </event>
+        <event when="2010-10-12">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.6">Hana-Kimi Vol. 6</ref>.</p>
+        </event>
+        <event when="2010-10-11">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.4">Hana-Kimi Vol. 4</ref>.</p>
+        </event>
+        <event when="2010-10-11">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.5">Hana-Kimi Vol. 5</ref>.</p>
+        </event>
+        <event when="2010-10-10">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.3">Hana-Kimi Vol. 3</ref>.</p>
+        </event>
+        <event when="2010-10-09">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.1">Hana-Kimi Vol. 1</ref>.</p>
+        </event>
+        <event when="2010-10-09">
+          <p>Reread <ref target="booksRead_3.0.xml#nakajo.h.hanakimi.2">Hana-Kimi Vol. 2</ref>.</p>
+        </event>
+        <event when="2010-10-08">
+          <p>Read <ref target="booksRead_3.0.xml#inoue.k.midoridays.7">Midori Days Vol. 7</ref>.</p>
+        </event>
+        <event when="2010-10-08">
+          <p>Read <ref target="booksRead_3.0.xml#inoue.k.midoridays.8">Midori Days Vol. 8</ref>.</p>
+        </event>
+        <event from="2010-10-03" to="2010-10-08">
+          <p>Reread <ref target="booksRead_3.0.xml#bradbury.r.fahrenheit451">Fahrenheit 451</ref>.</p>
+        </event>
+        <event when="2010-10-02">
+          <p>Read <ref target="booksRead_3.0.xml#inoue.k.midoridays.6">Midori Days Vol. 6</ref>.</p>
+        </event>
+        <event when="2010-10-01">
+          <p>Read <ref target="booksRead_3.0.xml#inoue.k.midoridays.5">Midori Days Vol. 5</ref>.</p>
+        </event>
+        <event when="2010-09-30">
+          <p>Read <ref target="booksRead_3.0.xml#clevinge.b.atomicrobo.otherstrangeness">Atomic Robo: Atomic Robo and Other Strangeness</ref>.</p>
+        </event>
+        <event from="2010-09-28" to="2010-10-03">
+          <p>Unfinished. <ref target="booksRead_3.0.xml#neville.k.eight">The Eight</ref>.</p>
+        </event>
+        <event from="2010-09-27" to="2010-09-28">
+          <p>Read <ref target="booksRead_3.0.xml#snyder.m.firestudy">Fire Study</ref>.</p>
+        </event>
+        <event from="2010-09-18" to="2010-09-19">
+          <p>Reread <ref target="booksRead_3.0.xml#inoue.k.midoridays.4">Midori Days Vol. 4</ref>.</p>
+        </event>
+        <event when="2010-09-17">
+          <p>Reread <ref target="booksRead_3.0.xml#inoue.k.midoridays.3">Midori Days Vol. 3</ref>.</p>
+        </event>
+        <event from="2010-09-16" to="2010-09-23">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.unseenacademicals">Unseen Academicals</ref>.</p>
+        </event>
+        <event when="2010-09-14">
+          <p>Reread <ref target="booksRead_3.0.xml#inoue.k.midoridays.2">Midori Days Vol. 2</ref>.</p>
+        </event>
+        <event when="2010-09-10">
+          <p>Reread <ref target="booksRead_3.0.xml#inoue.k.midoridays.1">Midori Days Vol. 1</ref>.</p>
+        </event>
+        <event when="2010-08-25">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.flashsecretbarryallen">The Flash: The Secret of Barry Allen</ref>.</p>
+        </event>
+        <event from="2010-08-25" to="2010-09-16">
+          <p>Read <ref target="booksRead_3.0.xml#martin.grr.clashkings">A Clash of Kings</ref>.</p>
+        </event>
+        <event when="2010-08-21">
+          <p>Read <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.5">Happy Hustle High Vol. 5</ref>.</p>
+        </event>
+        <event when="2010-08-17">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.3">Happy Hustle High Vol. 3</ref>.</p>
+        </event>
+        <event from="2010-08-17" to="2010-08-19">
+          <p>Read <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.4">Happy Hustle High Vol. 4</ref>.</p>
+        </event>
+        <event when="2010-08-14">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.2">Happy Hustle High Vol. 2</ref>.</p>
+        </event>
+        <event when="2010-08-13">
+          <p>Reread <ref target="booksRead_3.0.xml#takada.r.happyhustlehigh.1">Happy Hustle High Vol. 1</ref>.</p>
+        </event>
+        <event from="2010-07-25" to="2010-08-24">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.heroages">The Hero of Ages</ref>.</p>
+        </event>
+        <event when="2010-07-24">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimsfinesthour">Scott Pilgrim's Finest Hour</ref>.</p>
+        </event>
+        <event from="2010-07-13" to="2010-07-25">
+          <p>Read <ref target="booksRead_3.0.xml#martin.grr.gamethrones">A Game of Thrones</ref>.</p>
+        </event>
+        <event from="2010-07-07" to="2010-07-12">
+          <p>Reread <ref target="booksRead_3.0.xml#sebold.a.lovelybones">The Lovely Bones</ref>.</p>
+        </event>
+        <event from="2010-06-21" to="2010-06-22">
+          <p>Read <ref target="booksRead_3.0.xml#comeau.j.overqualified">Overqualified</ref>.</p>
+        </event>
+        <event from="2010-06-16" to="2010-06-19">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.5">Flight Vol. 5</ref>.</p>
+        </event>
+        <event when="2010-06-13">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.greenlantern.revengegreenlanterns">Green Lantern: Revenge of the Green Lanterns</ref>.</p>
+        </event>
+        <event when="2010-06-08">
+          <p>Reread <ref target="booksRead_3.0.xml#akamatsu.k.lovehina.2">Love Hina Vol. 2</ref>.</p>
+        </event>
+        <event from="2010-06-07" to="2010-06-08">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimvsuniverse">Scott Pilgrim vs The Universe</ref>.</p>
+        </event>
+        <event when="2010-06-01">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimgetsittogether">Scott Pilgrim Gets It Together</ref>.</p>
+        </event>
+        <event from="2010-05-29" to="2010-05-30">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgriminfinitesadness">Scott Pilgrim and the Infinite Sadness</ref>.</p>
+        </event>
+        <event when="2010-05-28">
+          <p>Read <ref target="booksRead_3.0.xml#pullman.p.goodmanjesusscoundrelchrist">The Good Man Jesus and the Scoundrel Christ</ref>.</p>
+        </event>
+        <event when="2010-05-27">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimvsworld">Scott Pilgrim vs The World</ref>.</p>
+        </event>
+        <event from="2010-04-27" to="2010-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#jones.j.havemercy">Havemercy</ref>.</p>
+        </event>
+        <event from="2010-04-24" to="2010-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#rinaldi.a.abreakwithcharity">A Break with Charity</ref> for English 124 (Salem Witch Trials).</p>
+        </event>
+        <event when="2010-04-21">
+          <p>Read <ref target="booksRead_3.0.xml#omalley.bl.scottpilgrimspreciouslittlelife">Scott Pilgrim's Precious Little Life</ref>.</p>
+        </event>
+        <event when="2010-04-20">
+          <p>Reread <ref target="booksRead_3.0.xml#miller.a.crucible">The Crucible</ref> for English 124 (Salem Witch Trials).</p>
+        </event>
+        <event when="2010-04-18">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.sandman.endlessnights">The Sandman: Endless Nights</ref>.</p>
+        </event>
+        <event from="2010-04-17" to="2010-04-18">
+          <p>Read <ref target="booksRead_3.0.xml#kelly.j.jla.trialbyfire">JLA: Trial by Fire</ref>.</p>
+        </event>
+        <event from="2010-04-07" to="2010-04-20">
+          <p>Read <ref target="booksRead_3.0.xml#groening.m.simpsonsfuturamacrossovercrisis">The Simpsons/Futurama Crossover Crisis</ref>.</p>
+        </event>
+        <event from="2010-04-05" to="2010-04-18">
+          <p>Read <ref target="booksRead_3.0.xml#kelly.j.ikillgiants">I Kill Giants</ref>.</p>
+        </event>
+        <event from="2010-04-03" to="2010-04-14">
+          <p>Started <ref target="booksRead_3.0.xml#agee.j.letusnowpraisefamousmen">Let Us Now Praise Famous Men</ref> for English 188 (Authorizing
+            Self).</p>
+        </event>
+        <event from="2010-04-01" to="2010-04-20">
+          <p>Read <ref target="booksRead_3.0.xml#fingerma.b.begquestion">Beg the Question</ref>.</p>
+        </event>
+        <event when="2010-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#shanower.e.wonderfulwizardoz">The Wonderful Wizard of Oz</ref>.</p>
+        </event>
+        <event when="2010-03-31">
+          <p>Read <ref target="booksRead_3.0.xml#seagle.st.soulkiss">Soul Kiss</ref>.</p>
+        </event>
+        <event from="2010-03-24" to="2010-03-28">
+          <p>Read <ref target="booksRead_3.0.xml#harrison.k.kiss">The Kiss</ref> for English 188 (Authorizing
+            Self).</p>
+        </event>
+        <event from="2010-03-23" to="2010-03-24">
+          <p>Read <ref target="booksRead_3.0.xml#walker.lq.supergirlcosmicadventuresin8thgrade">SuperGirl: Cosmic Adventures in the 8th Grade</ref>.</p>
+        </event>
+        <event from="2010-03-16" to="2010-03-28">
+          <p>Read <ref target="booksRead_3.0.xml#arendt.h.eichmanninjerusalem">Eichmann in Jerusalem: A Report on the Banality of Evil</ref> for History 170 (History of Punishment and Evil).</p>
+        </event>
+        <event when="2010-03-15">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.bloodtenchiefs">Elfquest: Blood of Ten Chiefs</ref>.</p>
+        </event>
+        <event from="2010-03-15" to="2010-03-19">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.roguescurse">Elfquest: Rogue's Curse</ref>.</p>
+        </event>
+        <event when="2010-03-07">
+          <p>Read <ref target="booksRead_3.0.xml#moore.a.hypotheticallizard">Alan Moore's Hypothetical Lizard</ref>.</p>
+        </event>
+        <event from="2010-03-04" to="2010-04-27">
+          <p>Read <ref target="booksRead_3.0.xml#kurtz.s.howtomakewebcomics">How to Make Webcomics</ref>.</p>
+        </event>
+        <event from="2010-03-04" to="2010-03-16">
+          <p>Reread <ref target="booksRead_3.0.xml#spiegalm.a.completemaus">The Complete Maus</ref> for English 188 (Authorizing Self).</p>
+        </event>
+        <event when="2010-03-03">
+          <p>Read <ref target="booksRead_3.0.xml#waid.m.flash.returnbarryallen">Flash: The Return of Barry Allen</ref>.</p>
+        </event>
+        <event from="2010-02-27" to="2010-03-03">
+          <p>Read <ref target="booksRead_3.0.xml#boyer.ps.salempossessed">Salem Possessed: The Social Origins of Witchcraft</ref> for English 124 (Salem Witch Trials). Left unfinished.</p>
+        </event>
+        <event from="2010-02-25" to="2010-02-28">
+          <p>Started <ref target="booksRead_3.0.xml#merback.m.thiefcrosswheel">The Thief, the Cross and the Wheel</ref> for History 170 (History of Punishment
+            and Evil). Left unfinished.</p>
+        </event>
+        <event from="2010-02-15" to="2010-03-03">
+          <p>Started <ref target="booksRead_3.0.xml#talbot.b.adventureslutherarkwright">The Adventures of Luther Arkwright</ref>. Left unfinished.</p>
+        </event>
+        <event from="2010-02-13" to="2010-02-15">
+          <p>Read <ref target="booksRead_3.0.xml#fox.g.justiceleagueamericaarchives1">Justice League of America Archives Vol. 1</ref>.</p>
+        </event>
+        <event from="2010-02-06" to="2010-02-28">
+          <p>Read <ref target="booksRead_3.0.xml#haley.a.autobiographymalcolmx">The Autobiography of Malcolm X</ref> for English 188 (Authorizing
+            Self).</p>
+        </event>
+        <event from="2010-02-03" to="2010-02-07">
+          <p>Read <ref target="booksRead_3.0.xml#mazzucch.d.asteriospolyp">Asterios Polyp</ref>.</p>
+        </event>
+        <event when="2010-02-02">
+          <p>Read <ref target="booksRead_3.0.xml#clevinge.b.atomicrobo.shadowfrombeyondtime">Atomic Robo: Atomic Robo and the Shadow from Beyond Time</ref>.</p>
+        </event>
+        <event when="2010-02-01">
+          <p>Read <ref target="booksRead_3.0.xml#winick.j.greenlantern.powerion">Green Lantern: The Power of Ion</ref>.</p>
+        </event>
+        <event from="2010-01-30" to="2010-01-31">
+          <p>Read <ref target="booksRead_3.0.xml#slater.l.lying">Lying</ref> for English 188 (Authorizing
+            Self).</p>
+        </event>
+        <event from="2010-01-29" to="2010-01-31">
+          <p>Read <ref target="booksRead_3.0.xml#clevinge.b.atomicrobo.fightinscientiststesladyne">Atomic Robo: Atomic Robo and the Fightin' Scientists of
+            Tesladyne</ref>.</p>
+        </event>
+        <event from="2010-01-29" to="2010-04-05">
+          <p>Read <ref target="booksRead_3.0.xml#flewelli.l.stalkingdarkness">Stalking Darkness</ref>.</p>
+        </event>
+        <event when="2010-01-25">
+          <p>Read <ref target="booksRead_3.0.xml#winick.j.greenlantern.brotherskeeper">Green Lantern: Brother's Keeper</ref>.</p>
+        </event>
+        <event when="2010-01-23">
+          <p>Read <ref target="booksRead_3.0.xml#tsutsui.y.girlwhorunsthroughtime.2">The Girl Who Runs Through Time Vol. 2</ref>.</p>
+        </event>
+        <event from="2010-01-19" to="2010-01-27">
+          <p>Read <ref target="booksRead_3.0.xml#flewelli.l.luckinshadows">Luck in the Shadows</ref>.</p>
+        </event>
+        <event from="2010-01-17" to="2010-01-18">
+          <p>Read <ref target="booksRead_3.0.xml#tsutsui.y.girlwhorunsthroughtime.1">The Girl Who Runs Through Time Vol. 1</ref>.</p>
+        </event>
+        <event when="2010-01-16">
+          <p>Read <ref target="booksRead_3.0.xml#dixon.c.boostergold.realitylost">Booster Gold: Reality Lost</ref>.</p>
+        </event>
+        <event from="2010-01-13" to="2010-01-18">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.makingmoney">Making Money</ref>.</p>
+        </event>
+        <event when="2010-01-03">
+          <p>Read <ref target="booksRead_3.0.xml#tanemura.a.timestrangerkyoko.2">Time Stranger Kyoko Vol. 2</ref>.</p>
+        </event>
+        <event when="2010-01-03">
+          <p>Read <ref target="booksRead_3.0.xml#tanemura.a.timestrangerkyoko.3">Time Stranger Kyoko Vol. 3</ref>.</p>
+        </event>
+        <event when="2010-01-02">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.dreamtime">Elfquest: Dreamtime</ref>.</p>
+        </event>
+        <event from="2010-01-01" to="2010-01-13">
+          <p>Read <ref target="booksRead_3.0.xml#zafόn.cr.angelsgame">The Angel's Game</ref>.</p>
+        </event>
+        <event when="2009-12-31">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.boostergold.bluegold">Booster Gold: Blue and Gold</ref>.</p>
+        </event>
+        <event from="2009-12-26" to="2009-12-30">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.salamandastron">Salamandastron</ref>.</p>
+        </event>
+        <event from="2009-12-20" to="2009-12-23">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.goingpostal">Going Postal</ref>.</p>
+        </event>
+        <event when="2009-12-19">
+          <p>Read <ref target="booksRead_3.0.xml#marz.r.ion.torchbearer">Ion the Torchbearer</ref>.</p>
+        </event>
+        <event when="2009-12-19">
+          <p>Read <ref target="booksRead_3.0.xml#marz.r.ion.dyingflame">Ion the Dying Flame</ref>.</p>
+        </event>
+        <event from="2009-12-14" to="2009-12-15">
+          <p>Read <ref target="booksRead_3.0.xml#tanemura.a.timestrangerkyoko.1">Time Stranger Kyoko Vol. 1</ref>.</p>
+        </event>
+        <event from="2009-12-13" to="2009-12-20">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.sonsempire">Fables: Sons of Empire</ref>.</p>
+        </event>
+        <event when="2009-12-12">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.wolves">Fables: Wolves</ref>.</p>
+        </event>
+        <event when="2009-12-04">
+          <p>Read <ref target="booksRead_3.0.xml#espinosa.r.courageousprincess">The Courageous Princess</ref>.</p>
+        </event>
+        <event from="2009-11-24" to="2009-12-15">
+          <p>Read <ref target="booksRead_3.0.xml#brooks.m.worldwarz">World War Z: An Oral History of the Zombie War</ref>.</p>
+        </event>
+        <event when="2009-11-22">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.arabiandays">Fables: Arabian Days (and Nights)</ref>.</p>
+        </event>
+        <event when="2009-11-21">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.boostergold.52pick-up">Booster Gold: 52 Pick-Up</ref>.</p>
+        </event>
+        <event from="2009-11-21" to="2009-11-22">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.homelands">Fables: Homelands</ref>.</p>
+        </event>
+        <event when="2009-11-20">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.meanseasons">Fables: The Mean Seasons</ref>.</p>
+        </event>
+        <event from="2009-11-17" to="2009-11-19">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.marchwoodensoldiers">Fables: March of the Wooden Soldiers</ref>.</p>
+        </event>
+        <event from="2009-11-13" to="2009-11-14">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.storybooklove">Fables: Storybook Love</ref>.</p>
+        </event>
+        <event when="2009-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#winick.j.greenlantern.passingtorch">Green Lantern: Passing the Torch</ref>.</p>
+        </event>
+        <event when="2009-11-10">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.motherland">Y: The Last Man: Motherland</ref>.</p>
+        </event>
+        <event when="2009-11-10">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.whyswherefores">Y: The Last Man: Whys and Wherefores</ref>.</p>
+        </event>
+        <event from="2009-11-08" to="2009-11-09">
+          <p>Read <ref target="booksRead_3.0.xml#warren.a.empowered1">Empowered Vol. 1</ref>.</p>
+        </event>
+        <event when="2009-11-06">
+          <p>Read <ref target="booksRead_3.0.xml#whedon.j.runaways.deadendkids">Runaways: Dead End Kids</ref>.</p>
+        </event>
+        <event when="2009-11-06">
+          <p>Read <ref target="booksRead_3.0.xml#willingh.b.fables.animalfarm">Fables: Animal Farm</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest1">Elfquest: The Grand Quest Vol. 1</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest7">Elfquest: The Grand Quest Vol. 7</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Reread <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest8">Elfquest: The Grand Quest Vol. 8</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest9">Elfquest: The Grand Quest Vol. 9</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest10">Elfquest: The Grand Quest Vol. 10</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest11">Elfquest: The Grand Quest Vol. 11</ref>.</p>
+        </event>
+        <event when="2009-11-04">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.grandquest12">Elfquest: The Grand Quest Vol. 12</ref>.</p>
+        </event>
+        <event when="2009-11-02">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.runaways.3deluxehardcover">Runaways Vol. 3 Deluxe Hardcover</ref>.</p>
+        </event>
+        <event when="2009-10-31">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.runaways.2deluxehardcover">Runaways Vol. 2 Deluxe Hardcover</ref>.</p>
+        </event>
+        <event from="2009-10-26" to="2009-10-27">
+          <p>Reread <ref target="booksRead_3.0.xml#akamatsu.k.lovehina.1">Love Hina Vol. 1</ref>.</p>
+        </event>
+        <event from="2009-10-24" to="2009-12-20">
+          <p>Read <ref target="booksRead_3.0.xml#schell.j.artgamedesignbooklenses">The Art of Game Design: A Book of Lenses</ref>.</p>
+        </event>
+        <event from="2009-10-18" to="2009-11-13">
+          <p>Reread <ref target="booksRead_3.0.xml#eggers.d.aheartbreakingworkstaggeringgenius">A Heartbreaking Work of Staggering Genius</ref>.</p>
+        </event>
+        <event from="2009-10-17" to="2009-10-18">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.nightwatch">Night Watch</ref>.</p>
+        </event>
+        <event from="2009-10-14" to="2009-10-16">
+          <p>Reread <ref target="booksRead_3.0.xml#yolen.j.dragonsblood">Dragon's Blood</ref>.</p>
+        </event>
+        <event from="2009-10-11" to="2009-10-12">
+          <p>Partial reread <ref target="booksRead_3.0.xml#vaughan.b.runaways.1deluxehardcover">Runaways Vol. 1 Deluxe Hardcover</ref>.</p>
+        </event>
+        <event when="2009-09-29">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.paperdolls">Y: The Last Man: Paper Dolls</ref>.</p>
+        </event>
+        <event when="2009-09-28">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.kimonodragons">Y: The Last Man: Kimono Dragons</ref>.</p>
+        </event>
+        <event when="2009-09-22">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.onemoretime">Transmetropolitan: One More Time</ref>.</p>
+        </event>
+        <event when="2009-09-21">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.cure">Transmetropolitan: The Cure</ref>.</p>
+        </event>
+        <event from="2009-09-20" to="2009-09-21">
+          <p>Read <ref target="booksRead_3.0.xml#wagner.m.mxanadu.disenchanted">Madame Xanadu: Disenchanted</ref>.</p>
+        </event>
+        <event when="2009-09-18">
+          <p>Read <ref target="booksRead_3.0.xml#arai.k.beautypop.8">Beauty Pop Vol. 8</ref>.</p>
+        </event>
+        <event when="2009-09-18">
+          <p>Read <ref target="booksRead_3.0.xml#arai.k.beautypop.9">Beauty Pop Vol. 9</ref>.</p>
+        </event>
+        <event when="2009-09-18">
+          <p>Read <ref target="booksRead_3.0.xml#arai.k.beautypop.10">Beauty Pop Vol. 10</ref>.</p>
+        </event>
+        <event when="2009-09-17">
+          <p>Read <ref target="booksRead_3.0.xml#arai.k.beautypop.7">Beauty Pop Vol. 7</ref>.</p>
+        </event>
+        <event when="2009-09-16">
+          <p>Reread <ref target="booksRead_3.0.xml#arai.k.beautypop.5">Beauty Pop Vol. 5</ref>.</p>
+        </event>
+        <event when="2009-09-16">
+          <p>Read <ref target="booksRead_3.0.xml#arai.k.beautypop.6">Beauty Pop Vol. 6</ref>.</p>
+        </event>
+        <event when="2009-09-14">
+          <p>Reread <ref target="booksRead_3.0.xml#arai.k.beautypop.4">Beauty Pop Vol. 4</ref>.</p>
+        </event>
+        <event when="2009-09-13">
+          <p>Reread <ref target="booksRead_3.0.xml#arai.k.beautypop.3">Beauty Pop Vol. 3</ref>.</p>
+        </event>
+        <event when="2009-09-12">
+          <p>Reread <ref target="booksRead_3.0.xml#arai.k.beautypop.2">Beauty Pop Vol. 2</ref>.</p>
+        </event>
+        <event when="2009-09-11">
+          <p>Reread <ref target="booksRead_3.0.xml#arai.k.beautypop.1">Beauty Pop Vol. 1</ref>.</p>
+        </event>
+        <event when="2009-09-08">
+          <p>Reread <ref target="booksRead_3.0.xml#arakawa.h.fullmetalalchemist.17">Fullmetal Alchemist Vol. 17</ref>.</p>
+        </event>
+        <event when="2009-09-08">
+          <p>Read <ref target="booksRead_3.0.xml#arakawa.h.fullmetalalchemist.18">Fullmetal Alchemist Vol. 18</ref>.</p>
+        </event>
+        <event when="2009-09-08">
+          <p>Read <ref target="booksRead_3.0.xml#arakawa.h.fullmetalalchemist.19">Fullmetal Alchemist Vol. 19</ref>.</p>
+        </event>
+        <event from="2009-09-07" to="2009-09-08">
+          <p>Reread <ref target="booksRead_3.0.xml#arakawa.h.fullmetalalchemist.16">Fullmetal Alchemist Vol. 16</ref>.</p>
+        </event>
+        <event from="2009-09-07" to="2009-10-13">
+          <p>Read <ref target="booksRead_3.0.xml#lahiri.j.namesake">The Namesake</ref>.</p>
+        </event>
+        <event when="2009-09-06">
+          <p>Read <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.19">Fruits Basket Vol. 19</ref>.</p>
+        </event>
+        <event when="2009-09-05">
+          <p>Read <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.18">Fruits Basket Vol. 18</ref>.</p>
+        </event>
+        <event when="2009-09-04">
+          <p>Read <ref target="booksRead_3.0.xml#minekura.k.wildadapter.1">Wild Adapter Vol. 1</ref>.</p>
+        </event>
+        <event when="2009-09-04">
+          <p>Read <ref target="booksRead_3.0.xml#clamp.xxxholic.5">XxxHolic Vol. 5</ref>.</p>
+        </event>
+        <event when="2009-09-02">
+          <p>Read <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.17">Fruits Basket Vol. 17</ref>.</p>
+        </event>
+        <event from="2009-08-30" to="2009-09-01">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.16">Fruits Basket Vol. 16</ref>.</p>
+        </event>
+        <event when="2009-08-26">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.15">Fruits Basket Vol. 15</ref>.</p>
+        </event>
+        <event from="2009-08-26" to="2009-09-05">
+          <p>Reread <ref target="booksRead_3.0.xml#pratchet.t.smallgods">Small Gods</ref>.</p>
+        </event>
+        <event when="2009-08-21">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.14">Fruits Basket Vol. 14</ref>.</p>
+        </event>
+        <event when="2009-08-19">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.13">Fruits Basket Vol. 13</ref>.</p>
+        </event>
+        <event from="2009-08-16" to="2009-08-25">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.martinwarrior">Martin the Warrior</ref>.</p>
+        </event>
+        <event from="2009-08-11" to="2009-08-15">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.wellascension">The Well of Ascension</ref>.</p>
+        </event>
+        <event when="2009-08-10">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.12">Fruits Basket Vol. 12</ref>.</p>
+        </event>
+        <event when="2009-08-09">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.11">Fruits Basket Vol. 11</ref>.</p>
+        </event>
+        <event when="2009-08-07">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.10">Fruits Basket Vol. 10</ref>.</p>
+        </event>
+        <event when="2009-08-06">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.9">Fruits Basket Vol. 9</ref>.</p>
+        </event>
+        <event from="2009-08-04" to="2009-08-05">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.8">Fruits Basket Vol. 8</ref>.</p>
+        </event>
+        <event from="2009-08-03" to="2009-08-04">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.7">Fruits Basket Vol. 7</ref>.</p>
+        </event>
+        <event from="2009-08-01" to="2009-08-09">
+          <p>Reread <ref target="booksRead_3.0.xml#koontz.d.seizenight">Seize the Night</ref>.</p>
+        </event>
+        <event when="2009-07-31">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.5">Fruits Basket Vol. 5</ref>.</p>
+        </event>
+        <event when="2009-07-31">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.6">Fruits Basket Vol. 6</ref>.</p>
+        </event>
+        <event when="2009-07-30">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.3">Fruits Basket Vol. 3</ref>.</p>
+        </event>
+        <event when="2009-07-30">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.4">Fruits Basket Vol. 4</ref>.</p>
+        </event>
+        <event when="2009-07-28">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.2">Fruits Basket Vol. 2</ref>.</p>
+        </event>
+        <event when="2009-07-27">
+          <p>Reread <ref target="booksRead_3.0.xml#takaya.n.fruitsbasket.1">Fruits Basket Vol. 1</ref>.</p>
+        </event>
+        <event from="2009-07-23" to="2009-07-24">
+          <p>Reread <ref target="booksRead_3.0.xml#myers.wd.legendtarik">The Legend of Tarik</ref>.</p>
+        </event>
+        <event from="2009-07-19" to="2009-07-28">
+          <p>Reread <ref target="booksRead_3.0.xml#tolkien.jrr.fellowshipring">Lord of the Rings: The Fellowship of the Ring</ref>.</p>
+        </event>
+        <event from="2009-07-12" to="2009-07-14">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.elantris">Elantris</ref>.</p>
+        </event>
+        <event when="2009-07-06">
+          <p>Read <ref target="booksRead_3.0.xml#dezago.t.jla.worldwithoutgrownups">JLA: A World Without Grownups</ref>.</p>
+        </event>
+        <event from="2009-06-28" to="2009-07-11">
+          <p>Read <ref target="booksRead_3.0.xml#dunant.s.birthvenus">The Birth of Venus</ref>.</p>
+        </event>
+        <event from="2009-06-23" to="2009-07-18">
+          <p>Read <ref target="booksRead_3.0.xml#gaiman.n.sandman.bookdreams">The Sandman: Book of Dreams</ref>.</p>
+        </event>
+        <event from="2009-06-23" to="2009-06-26">
+          <p>Read <ref target="booksRead_3.0.xml#pierce.t.bekacooperterrier">Beka Cooper: Terrier</ref>.</p>
+        </event>
+        <event from="2009-06-19" to="2009-06-22">
+          <p>Read <ref target="booksRead_3.0.xml#miller.k.awakenedmage">The Awakened Mage</ref>.</p>
+        </event>
+        <event from="2009-06-16" to="2009-06-19">
+          <p>Read <ref target="booksRead_3.0.xml#miller.k.innocentmage">The Innocent Mage</ref>.</p>
+        </event>
+        <event when="2009-06-15">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.girlongirl">Y: The Last Man: Girl on Girl</ref>.</p>
+        </event>
+        <event when="2009-06-14">
+          <p>Read <ref target="booksRead_3.0.xml#samura.h.bladeimmortalbloodathousand">Blade of the Immortal: Blood of a Thousand</ref>.</p>
+        </event>
+        <event when="2009-06-13">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.spidersthrash">Transmetropolitan: Spider's Thrash</ref>.</p>
+        </event>
+        <event when="2009-06-13">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.dirge">Transmetropolitan: Dirge</ref>.</p>
+        </event>
+        <event when="2009-06-12">
+          <p>Read <ref target="booksRead_3.0.xml#nakazawa.k.barefootgen.1">Barefoot Gen Vol. 1: A Cartoon Story of Hiroshima</ref>.</p>
+        </event>
+        <event when="2009-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.2">Shugo Chara! Vol. 2</ref>.</p>
+        </event>
+        <event when="2009-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.3">Shugo Chara! Vol. 3</ref>.</p>
+        </event>
+        <event when="2009-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.4">Shugo Chara! Vol. 4</ref>.</p>
+        </event>
+        <event when="2009-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.5">Shugo Chara! Vol. 5</ref>.</p>
+        </event>
+        <event when="2009-06-03">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.6">Shugo Chara! Vol. 6</ref>.</p>
+        </event>
+        <event from="2009-06-01" to="2009-06-15">
+          <p>Read <ref target="booksRead_3.0.xml#mosse.k.labyrinth">The Labyrinth</ref>.</p>
+        </event>
+        <event when="2009-06-01">
+          <p>Read <ref target="booksRead_3.0.xml#peachpit.shugochara.1">Shugo Chara! Vol. 1</ref>.</p>
+        </event>
+        <event from="2009-05-27" to="2009-06-01">
+          <p>Reread <ref target="booksRead_3.0.xml#tolkien.jrr.hobbit">The Hobbit</ref>.</p>
+        </event>
+        <event from="2009-05-22" to="2009-05-27">
+          <p>Reread <ref target="booksRead_3.0.xml#hidier.td.bornconfused">Born Confused</ref>.</p>
+        </event>
+        <event when="2009-05-21">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.ringtruth">Y: The Last Man: Ring of Truth</ref>.</p>
+        </event>
+        <event when="2009-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.safeword">Y: The Last Man: Safeword</ref>.</p>
+        </event>
+        <event from="2009-05-18" to="2009-05-22">
+          <p>Read <ref target="booksRead_3.0.xml#rushdie.s.enchantressflorence">The Enchantress of Florence</ref>.</p>
+        </event>
+        <event from="2009-05-11" to="2009-05-17">
+          <p>Reread <ref target="booksRead_3.0.xml#pratchet.t.wyrdsisters">Wyrd Sisters</ref>.</p>
+        </event>
+        <event when="2009-04-30">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.gougeaway">Transmetropolitan: Gouge Away</ref>.</p>
+        </event>
+        <event from="2009-04-29" to="2009-04-30">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.onesmallstep">Y: The Last Man: One Small Step</ref>.</p>
+        </event>
+        <event from="2009-04-23" to="2009-04-30">
+          <p>Reread <ref target="booksRead_3.0.xml#nix.g.abhorsen">Abhorsen</ref>.</p>
+        </event>
+        <event from="2009-04-23" to="2009-05-16">
+          <p>Reread <ref target="booksRead_3.0.xml#gaiman.n.fragilethings">Fragile Things</ref>.</p>
+        </event>
+        <event from="2009-04-14" to="2009-04-15">
+          <p>Read <ref target="booksRead_3.0.xml#sakai.s.usagiyojimbo.grasscutter">Usagi Yojimbo: Grasscutter</ref>.</p>
+        </event>
+        <event from="2009-04-09" to="2009-04-13">
+          <p>Read <ref target="booksRead_3.0.xml#endo.h.eden1">Eden Vol. 1</ref>.</p>
+        </event>
+        <event from="2009-03-30" to="2009-04-23">
+          <p>Reread <ref target="booksRead_3.0.xml#jen.g.monainpromisedland">Mona in the Promised Land</ref>.</p>
+        </event>
+        <event when="2009-03-22">
+          <p>Started <ref target="booksRead_3.0.xml#sebold.a.lucky">Lucky</ref>. Left unfinished.</p>
+        </event>
+        <event from="2009-03-22" to="2009-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.virtu">The Virtu</ref>.</p>
+        </event>
+        <event from="2009-03-14" to="2009-03-21">
+          <p>Reread <ref target="booksRead_3.0.xml#heinlein.r.citizengalaxy">Citizen of the Galaxy</ref>.</p>
+        </event>
+        <event from="2009-02-23" to="2009-04-22">
+          <p>Reread <ref target="booksRead_3.0.xml#gaiman.n.smokemirrors">Smoke and Mirrors</ref>.</p>
+        </event>
+        <event from="2009-02-19" to="2009-03-13">
+          <p>Read <ref target="booksRead_3.0.xml#monette.s.mélusine">Mélusine</ref>.</p>
+        </event>
+        <event from="2009-02-14" to="2009-02-15">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.lonelycity">Transmetropolitan: Lonely City</ref>.</p>
+        </event>
+        <event from="2009-02-11" to="2009-03-13">
+          <p>Read <ref target="booksRead_3.0.xml#moore.l.self-help">Self-Help</ref>.</p>
+        </event>
+        <event from="2009-02-09" to="2009-02-10">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.newscum">Transmetropolitan: The New Scum</ref>.</p>
+        </event>
+        <event when="2009-02-03">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.yearbastard">Transmetropolitan: Year of the Bastard</ref>.</p>
+        </event>
+        <event from="2009-02-03" to="2009-02-10">
+          <p>Read <ref target="booksRead_3.0.xml#snyder.m.magicstudy">Magic Study</ref>.</p>
+        </event>
+        <event from="2009-01-24" to="2009-01-28">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.lustforlife">Transmetropolitan: Lust for Life</ref>.</p>
+        </event>
+        <event from="2009-01-22" to="2009-01-23">
+          <p>Read <ref target="booksRead_3.0.xml#ellis.w.transmetropolitan.backonstreet">Transmetropolitan: Back on the Street</ref>.</p>
+        </event>
+        <event when="2009-01-01">
+          <p>Started <ref target="booksRead_3.0.xml#carr.c.alienist.audio">The Alienist</ref>. Left unfinished.</p>
+        </event>
+        <event from="2008-12-01" to="2008-12-16">
+          <p>Read <ref target="booksRead_3.0.xml#chbosky.s.perksbeingwallflower">The Perks of Being a Wallflower</ref> for English 135 (Adolescent
+            Lit). Uncertain end date.</p>
+        </event>
+        <event from="2008-11-23" to="2008-02-02">
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.longpatrol">The Long Patrol</ref>.</p>
+        </event>
+        <event from="2008-11-16" to="2008-11-17">
+          <p>Read <ref target="booksRead_3.0.xml#peters.ja.keepingyousecret">Keeping You a Secret</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event when="2008-11-08">
+          <p>Read <ref target="booksRead_3.0.xml#james.h.turnscrew">The Turn of the Screw</ref> for English 116 (Novella).</p>
+        </event>
+        <event from="2008-11-08" to="2008-11-18">
+          <p>Reread <ref target="booksRead_3.0.xml#lengle.m.awrinkleintime">A Wrinkle in Time</ref>.</p>
+        </event>
+        <event from="2008-11-04" to="2008-11-11">
+          <p>Read <ref target="booksRead_3.0.xml#garden.n.annieonmymind">Annie on My Mind</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event from="2008-10-28" to="2008-11-02">
+          <p>Read <ref target="booksRead_3.0.xml#porter.cr.imaniallmine">Imani All Mine</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event when="2008-10-26">
+          <p>Started <ref target="booksRead_3.0.xml#brumberg.jj.bodyproject">The Body Project</ref> for English 135 (Adolescent
+            Lit). Left unfinished.</p>
+        </event>
+        <event from="2008-10-13" to="2008-10-19">
+          <p>Read <ref target="booksRead_3.0.xml#anderson.m.burgerwuss">Burger Wuss</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event from="2008-10-09" to="2008-10-12">
+          <p>Read <ref target="booksRead_3.0.xml#nelson.b.paranoidpark">Paranoid Park</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event from="2008-09-26" to="2008-10-03">
+          <p>Read <ref target="booksRead_3.0.xml#lynch.c.inexcusable">Inexcusable</ref> for English 135 (Adolescent Lit).</p>
+        </event>
+        <event from="2008-09-22" to="2008-09-23">
+          <p>Reread <ref target="booksRead_3.0.xml#anderson.lh.speak">Speak</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event from="2008-09-20" to="2008-01-17">
+          <p>Read <ref target="booksRead_3.0.xml#paolini.c.brisingr">Brisingr</ref>.</p>
+        </event>
+        <event from="2008-09-19" to="2008-09-21">
+          <p>Started <ref target="booksRead_3.0.xml#conrad.j.heartdarknesssecretsharer">Heart of Darkness and the Secret Sharer</ref> for for English 116 (Novella). Left unfinished.</p>
+        </event>
+        <event when="2008-09-14">
+          <p>Read English 116 (Novella). <ref target="booksRead_3.0.xml#duras.m.lover">The Lover</ref>.</p>
+        </event>
+        <event from="2008-09-13" to="2008-09-16">
+          <p>Read <ref target="booksRead_3.0.xml#dessen.s.dreamland">Dreamland</ref> for English 135 (Adolescent Lit).</p>
+        </event>
+        <event from="2008-09-07" to="2008-09-23">
+          <p>Reread <ref target="booksRead_3.0.xml#alexande.l.ironring">The Iron Ring</ref>.</p>
+        </event>
+        <event when="2008-09-05">
+          <p>Read <ref target="booksRead_3.0.xml#blume.j.forever">Forever...</ref> for English 135 (Adolescent Lit).</p>
+        </event>
+        <event from="2008-09-05" to="2008-09-06">
+          <p>Read <ref target="booksRead_3.0.xml#stein.j.actskingarthurhisnobleknights">The Acts of King Arthur and His Noble Knights</ref>.</p>
+        </event>
+        <event from="2008-09-02" to="2008-09-05">
+          <p>Reread <ref target="booksRead_3.0.xml#card.os.endersgame">Ender's Game</ref>.</p>
+        </event>
+        <event when="2008-09-01">
+          <p>Reread <ref target="booksRead_3.0.xml#stein.j.ofmicemen">Of Mice and Men</ref> for English 116 (Novella).</p>
+        </event>
+        <event from="2008-08-26" to="2008-08-31">
+          <p>Read <ref target="booksRead_3.0.xml#daly.m.seventeenthsummer">Seventeenth Summer</ref> for English 135 (Adolescent
+            Lit).</p>
+        </event>
+        <event from="2008-08-25" to="2008-08-28">
+          <p>Reread <ref target="booksRead_3.0.xml#jones.dw.howlsmovingcastle">Howl's Moving Castle</ref>.</p>
+        </event>
+        <event when="2008-08-23">
+          <p>Started <ref target="booksRead_3.0.xml#alighier.d.paradiso">Paradiso</ref>. Left unfinished.</p>
+        </event>
+        <event from="2008-08-21" to="2008-08-22">
+          <p>Reread <ref target="booksRead_3.0.xml#duane.d.soyouwanttobewizard">So You Want to Be a Wizard</ref>.</p>
+        </event>
+        <event from="2008-08-20" to="2008-08-21">
+          <p>Reread <ref target="booksRead_3.0.xml#howe.n.adventuresblueavenger">The Adventures of the Blue Avenger</ref>.</p>
+        </event>
+        <event when="2008-08-16">
+          <p>Reread <ref target="booksRead_3.0.xml#saintexu.a.littleprince">The Little Prince</ref>.</p>
+        </event>
+        <event when="2008-08-16">
+          <p>Reread <ref target="booksRead_3.0.xml#paulsen.g.island">The Island</ref>.</p>
+        </event>
+        <event when="2008-08-12">
+          <p>Unfinished. <ref target="booksRead_3.0.xml#edwards.k.memorykeepersdaughter">The Memory Keeper's Daughter</ref>.</p>
+        </event>
+        <event from="2008-08-09" to="2008-08-16">
+          <p>Read <ref target="booksRead_3.0.xml#winterso.j.worldotherplaces">The World and Other Places</ref>.</p>
+        </event>
+        <event from="2008-08-07" to="2008-08-08">
+          <p>Read <ref target="booksRead_3.0.xml#nightow.y.trigun.2">Trigun Vol. 2</ref>.</p>
+        </event>
+        <event when="2008-08-06">
+          <p>Read <ref target="booksRead_3.0.xml#vaughan.b.ylastman.,1unmanned">Y: The Last Man, Vol. 1 Unmanned</ref>.</p>
+        </event>
+        <event from="2008-08-05" to="2008-08-06">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.52.1">52 Vol. 1</ref>.</p>
+        </event>
+        <event from="2008-08-05" to="2008-08-16">
+          <p>Read <ref target="booksRead_3.0.xml#black.h.ironside">Ironside</ref>.</p>
+        </event>
+        <event from="2008-08-03" to="2008-08-07">
+          <p>Read <ref target="booksRead_3.0.xml#nightow.y.trigun.1">Trigun Vol. 1</ref>.</p>
+        </event>
+        <event from="2008-07-30" to="2008-08-04">
+          <p>Read <ref target="booksRead_3.0.xml#snyder.m.poisonstudy">Poison Study</ref>.</p>
+        </event>
+        <event when="2008-07-29">
+          <p>Reread <ref target="booksRead_3.0.xml#aspirin.r.mythadventurestwo">Myth Adventures Two</ref>.</p>
+        </event>
+        <event from="2008-07-28" to="2008-08-10">
+          <p>Reread <ref target="booksRead_3.0.xml#stoker.b.dracula">Dracula</ref>.</p>
+        </event>
+        <event from="2008-07-28" to="2008-07-29">
+          <p>Reread <ref target="booksRead_3.0.xml#aspirin.r.mythadventuresone">Myth Adventures One</ref>.</p>
+        </event>
+        <event from="2008-07-24" to="2008-07-29">
+          <p>Reread <ref target="booksRead_3.0.xml#velde.vv.heirapparent">Heir Apparent</ref>.</p>
+        </event>
+        <event from="2008-07-21" to="2008-07-24">
+          <p>Reread <ref target="booksRead_3.0.xml#black.h.tithe">Tithe</ref>.</p>
+        </event>
+        <event from="2008-07-17" to="2008-07-23">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.lastcontinent">The Last Continent</ref>.</p>
+        </event>
+        <event from="2008-07-15" to="2008-07-16">
+          <p>Read <ref target="booksRead_3.0.xml#medley.l.castlewaiting.1">Castle Waiting Vol. 1</ref>.</p>
+        </event>
+        <event from="2008-07-14" to="2008-07-18">
+          <p>Read <ref target="booksRead_3.0.xml#lengle.m.smallrain">The Small Rain</ref>.</p>
+        </event>
+        <event from="2008-07-11" to="2008-07-14">
+          <p>Reread <ref target="booksRead_3.0.xml#bloor.e.crusader">Crusader</ref>.</p>
+        </event>
+        <event from="2008-07-08" to="2008-07-10">
+          <p>Read <ref target="booksRead_3.0.xml#moore.c.stupidestangel">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</ref>.</p>
+        </event>
+        <event when="2008-07-07">
+          <p>Read <ref target="booksRead_3.0.xml#johns.g.infinitecrisis">Infinite Crisis</ref>.</p>
+        </event>
+        <event when="2008-07-06">
+          <p>Reread <ref target="booksRead_3.0.xml#goyer.d.jla.jsavirtuevice">JLA/JSA: Virtue and Vice</ref>.</p>
+        </event>
+        <event when="2008-06-28">
+          <p>Read <ref target="booksRead_3.0.xml#marz.r.greenlantern.baptismfire">Green Lantern: Baptism of Fire</ref>.</p>
+        </event>
+        <event from="2008-06-13" to="2008-06-15">
+          <p>Reread <ref target="booksRead_3.0.xml#lightman.a.einsteinsdreams">Einstein's Dreams</ref>.</p>
+        </event>
+        <event from="2008-06-06" to="2008-06-09">
+          <p>Reread <ref target="booksRead_3.0.xml#farmer.n.warmplace">The Warm Place</ref>.</p>
+        </event>
+        <event from="2008-06-04" to="2008-06-07">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.mistborn">Mistborn</ref>.</p>
+        </event>
+        <event from="2008-06-01" to="2008-06-04">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.feetclay">Feet of Clay</ref>.</p>
+        </event>
+        <event from="2008-05-30" to="2008-06-01">
+          <p>Read <ref target="booksRead_3.0.xml#alvarez.j.howgarcíagirlslosttheiraccents">How the García Girls Lost Their Accents</ref>.</p>
+        </event>
+        <event when="2008-05-30">
+          <p>Read <ref target="booksRead_3.0.xml#tezuka.o.buddha.2fourencounters">Buddha Vol. 2: The Four Encounters</ref>.</p>
+        </event>
+        <event when="2008-05-23">
+          <p>Read <ref target="booksRead_3.0.xml#eisner.w.minormiracles">Minor Miracles</ref>.</p>
+        </event>
+        <event when="2008-05-23">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.flight.4">Flight Vol. 4</ref>.</p>
+        </event>
+        <event from="2008-05-21" to="2008-07-03">
+          <p>Read <ref target="booksRead_3.0.xml#kostova.e.historian">The Historian</ref>.</p>
+        </event>
+        <event from="2008-05-21" to="2008-05-29">
+          <p>Read <ref target="booksRead_3.0.xml#bradbury.r.farewellsummer">Farewell Summer</ref>.</p>
+        </event>
+        <event when="2008-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.burninggirl">Books of Magic: The Burning Girl</ref>.</p>
+        </event>
+        <event when="2008-05-20">
+          <p>Read <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.deathafterdeath">Books of Magic: Death After Death</ref>.</p>
+        </event>
+        <event from="2008-05-01" to="2008-05-21">
+          <p>Reread <ref target="booksRead_3.0.xml#grisham.j.rainmaker">The Rainmaker</ref>.</p>
+        </event>
+        <event when="2008-04-30">
+          <p>Read <ref target="booksRead_3.0.xml#satrapi.m.embroideries">Embroideries</ref>.</p>
+        </event>
+        <event when="2008-04-30">
+          <p>Read <ref target="booksRead_3.0.xml#bechdel.a.funhomefamilytragicomic">Fun Home: A Family Tragicomic</ref>.</p>
+        </event>
+        <event when="2008-04-25">
+          <p>Read <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.bindings">Books of Magic: Bindings</ref>.</p>
+        </event>
+        <event when="2008-04-25">
+          <p>Read <ref target="booksRead_3.0.xml#rieber.jn.booksmagic.girlinbox">Books of Magic: The Girl in the Box</ref>.</p>
+        </event>
+        <event from="2008-04-21" to="2008-04-29">
+          <p>Read <ref target="booksRead_3.0.xml#obrien.t.goingaftercacciato">Going After Cacciato</ref>.</p>
+        </event>
+        <event when="2008-04-17">
+          <p>Reread <ref target="booksRead_3.0.xml#morrison.g.jla.worldwariii">JLA: World War III</ref>.</p>
+        </event>
+        <event when="2008-04-16">
+          <p>Reread <ref target="booksRead_3.0.xml#morrison.g.jla.strengthinnumbers">JLA: Strength in Numbers</ref>.</p>
+        </event>
+        <event when="2008-04-16">
+          <p>Read <ref target="booksRead_3.0.xml#lee.l.cityinwhichiloveyou">The City in Which I Love You</ref>.</p>
+        </event>
+        <event when="2008-04-16">
+          <p>Reread <ref target="booksRead_3.0.xml#moeller.c.jla.leagueone">JLA: A League of One</ref>.</p>
+        </event>
+        <event when="2008-04-15">
+          <p>Read <ref target="booksRead_3.0.xml#simmons.j.house">House</ref>.</p>
+        </event>
+        <event from="2008-04-12" to="2008-04-16">
+          <p>Read <ref target="booksRead_3.0.xml#jones.t.douglasadamsstarshiptitanic">Douglas Adams' Starship Titanic</ref>.</p>
+        </event>
+        <event from="2008-04-07" to="2008-04-16">
+          <p>Read <ref target="booksRead_3.0.xml#kushner.e.swordspoint">Swordspoint</ref>.</p>
+        </event>
+        <event from="2008-04-05" to="2008-04-13">
+          <p>Read English 168
+            (Storytelling). <ref target="booksRead_3.0.xml#silko.lm.ceremony">Ceremony</ref>.</p>
+        </event>
+        <event from="2008-03-27" to="2008-04-07">
+          <p>Read Drake English 092 (Short
+            Stories). <ref target="booksRead_3.0.xml#cortázar.j.blowup">Blow-Up and Other Stories</ref>.</p>
+        </event>
+        <event from="2008-03-20" to="2008-03-26">
+          <p>Read <ref target="booksRead_3.0.xml#grossman.a.sooniwillbeinvincible">Soon I Will Be Invincible</ref>.</p>
+        </event>
+        <event from="2008-03-04" to="2008-03-20">
+          <p>Reread <ref target="booksRead_3.0.xml#kerr.p.wildswans">The Wild Swans</ref>.</p>
+        </event>
+        <event when="2008-03-03">
+          <p>Read <ref target="booksRead_3.0.xml#busiek.k.marvels">Marvels</ref>.</p>
+        </event>
+        <event when="2008-03-03">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.queencountry.1operationbrokenground">Queen and Country Vol. 1: Operation Broken Ground</ref>.</p>
+        </event>
+        <event when="2008-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#lutes.j.jarfools">Jar of Fools</ref>.</p>
+        </event>
+        <event from="2008-02-25" to="2008-03-01">
+          <p>Read <ref target="booksRead_3.0.xml#brust.s.yendi">Yendi</ref>.</p>
+        </event>
+        <event from="2008-02-19" to="2008-02-23">
+          <p>Read <ref target="booksRead_3.0.xml#meno.j.boydetectivefails">The Boy Detective Fails</ref>.</p>
+        </event>
+        <event from="2007-12-27" to="2008-07-06">
+          <p>Read <ref target="booksRead_3.0.xml#bray.l.rebelangels.audio">Rebel Angels</ref>.</p>
+        </event>
+      </listEvent>
+    </body>
+  </text>
+</TEI>
