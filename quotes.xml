@@ -95,7 +95,7 @@
           </quote>
           <bibl>
             <author key="yolen.j">Jane Yolen</author>,
-            <title rend="quoted">The Singer of Seeds,</title>
+            <title rend="quoted">The Singer of Seeds</title>,
             <title key="yolen.j.onceupontime" rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
@@ -108,7 +108,7 @@
           </quote>
           <bibl>
             <author key="yolen.j">Jane Yolen</author>,
-            <title rend="quoted">Women’s Stories,</title>
+            <title rend="quoted">Women’s Stories</title>,
             <title key="yolen.j.onceupontime" rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
@@ -252,7 +252,9 @@
               doesn’t want to have an adventure?</p>
           </quote>
           <bibl>
-            <author>Brian K. Vaughan</author>, <title rend="quoted">Saga</title> Chapter 16</bibl>
+            <author>Brian K. Vaughan</author>, 
+            <series rend="quoted">Saga</series> 
+            <biblScope>Chapter 16</biblScope></bibl>
         </item>
         <item>
           <quote>
@@ -361,9 +363,10 @@
           <quote>
             <p>The act of creation is <hi rend="bold">really</hi> that split second
               inside your own mind, when an idea <hi rend="bold">comes</hi> to you.
-              It’s utterly private, personal and cryptic. Everything
-              <hi rend="bold">else</hi> is just trying to get <hi rend="bold">other</hi> people to
-              see the tiniest <hi rend="bold">fraction</hi> of what <hi rend="bold">you</hi> saw.</p>
+              It’s utterly private, personal and cryptic. Everything 
+              <hi rend="bold">else</hi> is just trying to get <hi rend="bold">other</hi> 
+              people to see the tiniest <hi rend="bold">fraction</hi> of what 
+              <hi rend="bold">you</hi> saw.</p>
           </quote>
           <bibl>
             <author>Carla Speed McNeil</author>,
@@ -554,7 +557,8 @@
             <p>
               <hi rend="italic">Your</hi> head’s like mine, like all our heads; big
               enough to contain every god and devil there ever was. Big enough to hold
-              the weight of oceans and the turning stars. Whole <hi rend="italic">universes</hi> fit in there!</p>
+              the weight of oceans and the turning stars. Whole 
+              <hi rend="italic">universes</hi> fit in there!</p>
             <p>But what do we choose to keep in this miraculous cabinet? Little broken
               things, sad trinkets that we play with over and over.</p>
             <p>The world turns our key and we play the same little tune again and
@@ -617,18 +621,18 @@
         </item>
         <item>
           <quote>
-            <p>The very first rule of <emph>Scooby-Doo</emph>, the single premise that
+            <p>The very first rule of <title rend="italic">Scooby-Doo</title>, the single premise that
               sits at the heart of their adventures, is that the world is full of
               grown-ups who lie to kids, and that it’s up to those kids to figure out
               what those lies are and call them on it, even if there are other adults
               who believe those lies with every fiber of their being. And the way that
               you win isn’t through supernatural powers, or even through fighting. The
               way that you win is by doing the most dangerous thing that any person
-              being lied to by someone in power can do: You <emph>think</emph>.</p>
+              being lied to by someone in power can do: You <hi rend="italic">think</hi>.</p>
           </quote>
           <bibl>
             <author>Chris Sims</author>, 
-            <ref target="http://www.comicsalliance.com/2011/11/25/ask-chris-81-scooby-doo-and-secular-humanism/#ixzz1ek7tcy9l">
+            <ref target="http://www.comicsalliance.com/2011/11/25/ask-chris-81-scooby-doo-and-secular-humanism">
               <title rend="quoted">Ask Chris #81: Scooby Doo and Secular Humanism</title>
             </ref>, 
             <series>Comics Alliance</series>
@@ -1049,7 +1053,7 @@
           </quote>
           <bibl>
             <author>Jane Yolen</author>, 
-            <title rend="quoted">Remembering Books,</title> 
+            <title rend="quoted">Remembering Books</title>, 
             <title rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
@@ -1071,7 +1075,7 @@
           </quote>
           <bibl>
             <author>Clarisse Thorn</author>,
-            <ref target="http://www.feministe.us/blog/archives/2011/04/13/grassroots-organizing-for-feminism-sm-hiv-and-everything-else/#more-18994">
+            <ref target="http://www.feministe.us/blog/archives/2011/04/13/grassroots-organizing-for-feminism-sm-hiv-and-everything-else">
               <title rend="quoted">Grassroots organizing for feminism, S&amp;M, HIV, and everything else</title>
             </ref>
           </bibl>
@@ -1509,8 +1513,10 @@
         </item>
         <item>
           <quote>
-            <p>Ah, but a man’s reach should exceed his grasp,</p>
-            <p>Or what’s a heaven for?</p>
+            <lg>
+              <l>Ah, but a man’s reach should exceed his grasp,</l>
+              <l>Or what’s a heaven for?</l>
+            </lg>
           </quote>
           <bibl><author>Robert Browning</author></bibl>
         </item>
@@ -1558,10 +1564,12 @@
         </item>
         <item>
           <quote>
-            <p>The Riddle we can guess</p>
-            <p>We speedily despise – </p>
-            <p>Not anything is stale so long</p>
-            <p>As Yesterday’s surprise.</p>
+            <lg>
+              <l>The Riddle we can guess</l>
+              <l>We speedily despise – </l>
+              <l>Not anything is stale so long</l>
+              <l>As Yesterday’s surprise.</l>
+            </lg>
           </quote>
           <bibl><author>Emily Dickinson</author></bibl>
         </item>
@@ -1725,7 +1733,11 @@
           <quote>
             <p>Tumbleweeds exist everywhere that something isn’t.</p>
           </quote>
-          <bibl><author>Rebecca Clements</author>, <title rend="quoted">KinokoFry,</title> 4/1/09</bibl>
+          <bibl>
+            <author>Rebecca Clements</author>, 
+            <series>KinokoFry</series> 
+            <date when="2009-04-01"/>
+          </bibl>
         </item>
         <item>
           <quote>
@@ -1866,7 +1878,8 @@
               The real God taketh heed lest a sparrow fall; but the God created from
               human vanity sees no difference between an eagle and a sparrow.</p>
           </quote>
-          <bibl><author>Bram Stoker</author>, <title rend="italic">Dracula</title>
+          <bibl>
+            <author>Bram Stoker</author>, <title rend="italic">Dracula</title>
           </bibl>
         </item>
         <item>
@@ -1970,7 +1983,7 @@
           <bibl>
             <author>Shaenon Garrity</author>, 
             <series>Websnark</series> 
-            <date when="2005-03-04"/>blog post comments
+            <date when="2005-03-04"/> blog post comments
           </bibl>
         </item>
         <item>
@@ -2184,8 +2197,10 @@
           </quote>
           <bibl>
             <author>Sherman Alexie</author>,
-            <title rend="quoted">Sixty-One Things I Learned During the Sonics Trial,</title>
-            <series rend="italic">The Stranger</series> 6/29/08</bibl>
+            <title rend="quoted">Sixty-One Things I Learned During the Sonics Trial</title>,
+            <series rend="italic">The Stranger</series> 
+            <date when="2008-06-29"/>
+          </bibl>
         </item>
         <item>
           <quote>
@@ -2536,7 +2551,7 @@
               like a big ball of wibbly-wobbly... timey-wimey... stuff.</p>
           </quote>
           <bibl>
-            <title rend="quoted">Blink,</title>
+            <title rend="quoted">Blink</title>,
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
@@ -2545,7 +2560,7 @@
             <p>One may tolerate a world of demons for the sake of an angel.</p>
           </quote>
           <bibl>
-            <title rend="quoted">The Girl in the Fireplace,</title>
+            <title rend="quoted">The Girl in the Fireplace</title>,
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
@@ -2554,7 +2569,7 @@
             <p>Some things are worth getting your heart broken for.</p>
           </quote>
           <bibl>
-            <title rend="quoted">School Reunion,</title>
+            <title rend="quoted">School Reunion</title>,
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
@@ -2566,7 +2581,7 @@
               me?</p>
           </quote>
           <bibl>
-            <title rend="quoted">The Long Game,</title>
+            <title rend="quoted">The Long Game</title>,
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
@@ -2622,7 +2637,7 @@
           </quote>
           <bibl>
             <author>Julio Cortázar</author>, 
-            <title rend="quoted">The Pursuer,</title>
+            <title rend="quoted">The Pursuer</title>,
             <title rend="italic">Blow-Up and Other Stories</title>
           </bibl>
         </item>
@@ -3177,7 +3192,8 @@
               drowned there peacefully until morning.</p>
           </quote>
           <bibl>
-            <author>Lloyd Alexander</author>, <title rend="quoted">Max Mondrosch,</title>
+            <author>Lloyd Alexander</author>, 
+            <title rend="quoted">Max Mondrosch</title>,
             <title>Firebirds</title>
           </bibl>
         </item>
@@ -6694,7 +6710,7 @@
           </quote>
           <bibl>
             <author>Steven Seagle</author> and <author>Scott McDaniel</author>,
-            <title rend="quoted">Truth,</title>
+            <title rend="quoted">Truth</title>,
             <series rend="italic">Superman: The 10-Cent Adventure</series> 
             <date when="2003-03"/>
           </bibl>
