@@ -48,6 +48,23 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="leguin.uk.talesearthsea">
+            <monogr>
+              <title>Tales from Earthsea</title>
+              <author>
+                <persName ref="authors_3.0.xml#leguin.uk"/>
+              </author>
+              <imprint>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+                <date when="2001"/>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Earthsea Cycle</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="hobb.r.foolserrand">
             <monogr>
               <title>Fool's Errand</title>
@@ -55,7 +72,9 @@
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
               <imprint>
-                <publisher>Bantam Books</publisher>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
                 <date when="2002"/>
               </imprint>
             </monogr>
@@ -70,7 +89,9 @@
                 <persName ref="authors_3.0.xml#diffenba.v"/>
               </author>
               <imprint>
-                <publisher>Ballentine Books</publisher>
+                <publisher>
+                  <orgName>Ballentine Books</orgName>
+                </publisher>
                 <date when="2011"/>
               </imprint>
             </monogr>

@@ -22,8 +22,11 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-03-23">
-          <p>Read <ref target="booksRead_3.0.xml#hobb.r.foolserrand">Fool’s Errand</ref>.</p>
+        <event from="2016-03-29">
+          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.talesearthsea">Tales from Earthsea</ref>.</p>
+        </event>
+        <event from="2016-03-23" to="2016-03-29">
+          <p>Reread beginning and end of <ref target="booksRead_3.0.xml#hobb.r.foolserrand">Fool’s Errand</ref>.</p>
         </event>
         <event from="2016-03-12" to="2016-03-22">
           <p>Read <ref target="booksRead_3.0.xml#diffenba.v.langflowers">The Language of Flowers</ref>.</p>

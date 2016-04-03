@@ -38,6 +38,7 @@
           </quote>
           <bibl>
             <author>Liz James</author>
+            <date when="2016-03-27"/>
           </bibl>
         </item>
         <item>
@@ -2205,9 +2206,11 @@
         <item>
           <quote>
             <p>One of the most basic rules for survival on any planet is never to
-              upset someone wearing black leather.* (* This is why protesters against
-              the wearing of animal skins by humans unaccountably fail to throw their
-              paint over Hell’s Angels.)</p>
+              upset someone wearing black leather.<note n="*" place="bottom" anchored="true">
+                This is why protesters against the wearing of animal skins by humans 
+                unaccountably fail to throw their paint over Hell’s Angels.
+              </note>
+            </p>
           </quote>
           <bibl>
             <author>Terry Pratchett</author>, <title rend="italic">The Last Continent</title>
@@ -4066,8 +4069,9 @@
         </item>
         <item>
           <quote>
-            <p>When people were in serious trouble they went to a witch.* (*
-              Sometimes, of course, to say, “please stop doing it.”)</p>
+            <p>When people were in serious trouble they went to a witch.<note n="*" place="bottom" anchored="true">
+              Sometimes, of course, to say, “please stop doing it.”</note>
+            </p>
           </quote>
           <bibl>
             <author>Terry Pratchett</author>,
@@ -4227,11 +4231,12 @@
             <p>When does it start?</p>
             <p>There are very few starts. Oh, some things <hi rend="italic">seem</hi>
               to be beginnings. The curtain goes up, the first pawn moves, the first
-              shot is fired* (* Probably at the first pawn.) – but
-              <hi rend="italic">that’s</hi> not the start. The play, the game, the war is just a
-              little window on a ribbon of events that may extend back thousands of
-              years. The point is, there’s always something <hi rend="italic">before</hi>. It’s
-              <hi rend="italic">always</hi> a case of Now Read On.</p>
+              shot is fired<note n="*" place="bottom" anchored="true">Probably at the 
+                first pawn.</note> – but <hi rend="italic">that’s</hi> not the start. 
+              The play, the game, the war is just a little window on a ribbon of events 
+              that may extend back thousands of years. The point is, there’s always 
+              something <hi rend="italic">before</hi>. It’s <hi rend="italic">always</hi> 
+              a case of Now Read On.</p>
           </quote>
           <bibl>
             <author>Terry Pratchett</author>,
@@ -4462,7 +4467,7 @@
         </item>
         <item>
           <quote>
-            <p>[God] made the stars also. God set them in the firmament of the heavens
+            <p><add resp="aclark.ash">[God]</add> made the stars also. God set them in the firmament of the heavens
               to give light on earth, and to rule over the day and over the night, and
               to divide the light from the darkness.</p>
           </quote>
@@ -4525,7 +4530,7 @@
         </item>
         <item>
           <quote>
-            <l>...[W]hat’s past is prologue...</l>
+            <l>...what’s past is prologue...</l>
           </quote>
           <bibl>
             <author>William Shakespeare</author>,
