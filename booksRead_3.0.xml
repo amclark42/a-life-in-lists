@@ -48,6 +48,53 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="mcguire.s.heartdoorway">
+            <monogr>
+              <title>Every Heart a Doorway</title>
+              <author>
+                <persName ref="authors_3.0.xml#mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-04-09"/>
+                <date when="2016-04"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="brosh.a.hyperbolehalf">
+            <monogr>
+              <title>Hyperbole and a Half</title>
+              <author>
+                <persName ref="authors_3.0.xml#brosh.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-04-09"/>
+                <date when="2013"/>
+                <publisher>
+                  <orgName>Touchstone</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="pratchet.t.raisingsteam">
+            <monogr>
+              <title>Raising Steam</title>
+              <author>
+                <persName ref="authors_3.0.xml#pratchet.t"/>
+              </author>
+              <imprint>
+                <publisher>
+                  <orgName>Anchor Books</orgName>
+                </publisher>
+                <date when="2013"/>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Discworld</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="leguin.uk.talesearthsea">
             <monogr>
               <title>Tales from Earthsea</title>
@@ -55,6 +102,7 @@
                 <persName ref="authors_3.0.xml#leguin.uk"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher>
                   <orgName>Ace Books</orgName>
                 </publisher>
@@ -63,23 +111,6 @@
             </monogr>
             <series>
               <title>Earthsea Cycle</title>
-            </series>
-          </biblStruct>
-          <biblStruct xml:id="hobb.r.foolserrand">
-            <monogr>
-              <title>Fool's Errand</title>
-              <author>
-                <persName ref="authors_3.0.xml#hobb.r"/>
-              </author>
-              <imprint>
-                <publisher>
-                  <orgName>Bantam Books</orgName>
-                </publisher>
-                <date when="2002"/>
-              </imprint>
-            </monogr>
-            <series>
-              <title>The Tawny Man</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="diffenba.v.langflowers">
@@ -6233,7 +6264,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <persName ref="authors_3.0.xml#.">Masayuki</persName>
+                <persName ref="authors_3.0.xml#taguchi.m"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -6499,7 +6530,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6514,11 +6547,13 @@
               </author>
               <respStmt>
                 <resp relation="artist"/>
-                <persName ref="authors_3.0.xml#.">George</persName>
+                <persName ref="authors_3.0.xml#pérez.g"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6562,7 +6597,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6592,7 +6629,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6637,7 +6676,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -6664,7 +6705,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6755,7 +6798,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6800,7 +6845,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6816,7 +6863,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6844,10 +6893,25 @@
               <author>
                 <persName ref="authors_3.0.xml#rucka.g"/>
               </author>
+              <author>
+                <persName ref="authors_3.0.xml#johns.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#morales.r"/>
+              </respStmt>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2016-04-09"/>
+                <date from="2004" to="2005"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Wonder Woman</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="cooke.d.dcnewfrontier1">
             <monogr>
@@ -6859,11 +6923,13 @@
               </respStmt>
               <respStmt>
                 <resp relation="colorist"/>
-                <persName ref="authors_3.0.xml#.">Dave</persName>
+                <persName ref="authors_3.0.xml#stewart.d"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7050,7 +7116,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7258,7 +7326,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7273,7 +7343,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7391,7 +7463,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7444,7 +7518,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher>DC Comics</publisher>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7559,7 +7635,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7896,7 +7974,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7961,7 +8041,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8235,7 +8317,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8261,7 +8345,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
+                <date when="2002"/>
               </imprint>
             </monogr>
             <series>
@@ -11505,7 +11592,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>

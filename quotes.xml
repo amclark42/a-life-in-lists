@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng" 
+<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng"
   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -12,7 +12,7 @@
         <p></p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from the Microsoft Word Document 
+        <p>Generated from the Microsoft Word Document
           <title type="filename">Quotes.doc</title>.
         </p>
       </sourceDesc>
@@ -31,9 +31,46 @@
       <list>
         <item>
           <quote>
-            <p>I think the right thing to do is help people. Going out of your 
-              way to help people, make them comfortable, and try to make the 
-              world less scary? That's the right thing to do if you've got a 
+            <p>Past events exist, after all, only in memory, which is a form of
+              imagination. The event is real <hi rend="italic">now</hi>, but
+              once it’s <hi rend="italic">then</hi>, its continuing reality is
+              entirely up to us, dependent on our energy and honesty.</p>
+          </quote>
+          <bibl>
+            <author>Ursula K. Le Guin</author>
+            <title rend="quoted">Foreword</title>,
+            <title>Tales from Earthsea</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>It’s a rare gift, to know where you need to be, before you’ve
+              been to all the places you don’t need to be.
+            </p>
+          </quote>
+          <bibl>
+            <author>Ursula K. Le Guin</author>
+            <title rend="quoted">The Bones of the Earth</title>,
+            <title>Tales from Earthsea</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>"If a word can heal, a word can wound," the witch said. "If a
+              hand can kill, a hand can cure. It’s a poor cart that goes only
+              one direction."</p>
+          </quote>
+          <bibl>
+            <author>Ursula K. Le Guin</author>
+            <title rend="quoted">Dragonfly</title>,
+            <title>Tales from Earthsea</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>I think the right thing to do is help people. Going out of your
+              way to help people, make them comfortable, and try to make the
+              world less scary? That’s the right thing to do if you’ve got a
               heart the size of Texas.</p>
           </quote>
           <bibl>
@@ -44,7 +81,7 @@
         <item>
           <quote>
             <p>I guess off the map is still
-              <hi rend="italic">someone's</hi> map.</p>
+              <hi rend="italic">someone’s</hi> map.</p>
           </quote>
           <bibl>
             <author key="hidier.td.bombayblues">Tanuja Desai Hidier</author>,
@@ -53,7 +90,7 @@
         </item>
         <item>
           <quote>
-            <p>Home was certainly not a place. That's why there was
+            <p>Home was certainly not a place. That’s why there was
               no place like it. I wasn't even sure it was a noun -
               more a verb, a direction. A movement, horse in motion,
               towards a feeling.</p>
@@ -154,7 +191,7 @@
               and Judith Leyster by being "deeply moved. I felt I was seeing an echo
               of my identity as an artist across the centuries," neither woman is
               appealing to a model in order to prove to anyone that
-              <hi rend="italic">Women can’t create</hi> is false. Their concern is with 
+              <hi rend="italic">Women can’t create</hi> is false. Their concern is with
               kinship, that is, with each other.</p>
           </quote>
           <bibl>
@@ -217,7 +254,7 @@
               thoughts, <hi rend="italic">you</hi>, in Death’s presence.</p>
           </quote>
           <bibl>
-            <author>Joyce Carol Oates</author>, 
+            <author>Joyce Carol Oates</author>,
             <title rend="italic">Foxfire: Confessions of a Girl Gang</title>
           </bibl>
         </item>
@@ -239,7 +276,7 @@
               shepherds of lies; they lead the best of us to the slaughter.</p>
           </quote>
           <bibl>
-            <author>Joanne Harris</author>, 
+            <author>Joanne Harris</author>,
             <title rend="italic">Peaches for Father Francis</title>
           </bibl>
         </item>
@@ -253,8 +290,8 @@
               doesn’t want to have an adventure?</p>
           </quote>
           <bibl>
-            <author>Brian K. Vaughan</author>, 
-            <series rend="quoted">Saga</series> 
+            <author>Brian K. Vaughan</author>,
+            <series rend="quoted">Saga</series>
             <biblScope>Chapter 16</biblScope></bibl>
         </item>
         <item>
@@ -364,9 +401,9 @@
           <quote>
             <p>The act of creation is <hi rend="bold">really</hi> that split second
               inside your own mind, when an idea <hi rend="bold">comes</hi> to you.
-              It’s utterly private, personal and cryptic. Everything 
-              <hi rend="bold">else</hi> is just trying to get <hi rend="bold">other</hi> 
-              people to see the tiniest <hi rend="bold">fraction</hi> of what 
+              It’s utterly private, personal and cryptic. Everything
+              <hi rend="bold">else</hi> is just trying to get <hi rend="bold">other</hi>
+              people to see the tiniest <hi rend="bold">fraction</hi> of what
               <hi rend="bold">you</hi> saw.</p>
           </quote>
           <bibl>
@@ -476,7 +513,7 @@
               were going to hurt yourself with it.</p>
           </quote>
           <bibl>
-            <author>missturdle</author>, 
+            <author>missturdle</author>,
             <ref target="http://missturdle.tumblr.com/post/43587146942/on-the-importance-of-magical-girl-heroines">
               <title rend="quoted">On the importance of Magical Girl Heroines &amp; Weaponized Femininity</title>
             </ref>
@@ -491,7 +528,7 @@
               attached."</p>
           </quote>
           <bibl>
-            <author>Mike Carey</author>, 
+            <author>Mike Carey</author>,
             <title rend="italic">The Unwritten Vol. 2: Inside Man</title>
           </bibl>
         </item>
@@ -527,7 +564,7 @@
               window.</p>
           </quote>
           <bibl>
-            <author>Audrey Niffenegger</author>, 
+            <author>Audrey Niffenegger</author>,
             <title rend="italic">The Time Traveler’s Wife</title>
           </bibl>
         </item>
@@ -537,8 +574,8 @@
               along the way.</p>
           </quote>
           <bibl>
-            <author>Jeph Jacques</author>, 
-            <series>Questionable Content</series> 
+            <author>Jeph Jacques</author>,
+            <series>Questionable Content</series>
             comic <ref target="http://www.questionablecontent.net/view.php?comic=2207">2207</ref>
           </bibl>
         </item>
@@ -549,7 +586,7 @@
               image of their dreams. The rest of us must then live with it.</p>
           </quote>
           <bibl>
-            <author>Grant Morrison</author>, 
+            <author>Grant Morrison</author>,
             <title rend="italic">The Invisibles: Say You Want a Revolution</title>
           </bibl>
         </item>
@@ -558,7 +595,7 @@
             <p>
               <hi rend="italic">Your</hi> head’s like mine, like all our heads; big
               enough to contain every god and devil there ever was. Big enough to hold
-              the weight of oceans and the turning stars. Whole 
+              the weight of oceans and the turning stars. Whole
               <hi rend="italic">universes</hi> fit in there!</p>
             <p>But what do we choose to keep in this miraculous cabinet? Little broken
               things, sad trinkets that we play with over and over.</p>
@@ -566,20 +603,20 @@
               again and we think that tune’s all we are.</p>
           </quote>
           <bibl>
-            <author>Grant Morrison</author>, 
+            <author>Grant Morrison</author>,
             <title rend="italic">The Invisibles: Say You Want a Revolution</title>
           </bibl>
         </item>
         <item>
           <quote>
-            <p>THIS is how a glass ceiling works – invisible and inescapable. This is 
-              sexism at its most powerful, not in the hands of an individual or group 
-              to whom it’s easy to point a finger, but perpetuated by social momentum, 
-              financial conservatism, and that social impulse we all have to gather in 
+            <p>THIS is how a glass ceiling works – invisible and inescapable. This is
+              sexism at its most powerful, not in the hands of an individual or group
+              to whom it’s easy to point a finger, but perpetuated by social momentum,
+              financial conservatism, and that social impulse we all have to gather in
               groups of similar people.</p>
           </quote>
           <bibl>
-            <author>Paul Duffield</author>, 
+            <author>Paul Duffield</author>,
             <ref target="http://paulduffield.blogspot.com/2012/03/sexism-in-comics.html">
               <title rend="quoted">Sexism in Comics</title>
             </ref>
@@ -591,7 +628,7 @@
               human with frightening ease.</p>
           </quote>
           <bibl>
-            <author>N.K. Jemisin</author>, 
+            <author>N.K. Jemisin</author>,
             <title rend="italic">The Hundred Thousand Kingdoms</title>
           </bibl>
         </item>
@@ -632,10 +669,10 @@
               being lied to by someone in power can do: You <hi rend="italic">think</hi>.</p>
           </quote>
           <bibl>
-            <author>Chris Sims</author>, 
+            <author>Chris Sims</author>,
             <ref target="http://www.comicsalliance.com/2011/11/25/ask-chris-81-scooby-doo-and-secular-humanism">
               <title rend="quoted">Ask Chris #81: Scooby Doo and Secular Humanism</title>
-            </ref>, 
+            </ref>,
             <series>Comics Alliance</series>
           </bibl>
         </item>
@@ -670,9 +707,9 @@
               them they aren’t. Sit with them and have a drink. </p>
           </quote>
           <bibl>
-            <author>Lemony Snicket</author>, 
+            <author>Lemony Snicket</author>,
             <ref target="http://occupywriters.com/by-lemony-snicket">
-              <title rend="quoted">Thirteen Observations made by Lemony Snicket while 
+              <title rend="quoted">Thirteen Observations made by Lemony Snicket while
                 watching Occupy Wall Street from a Discreet Distance</title>
             </ref>
           </bibl>
@@ -725,7 +762,7 @@
               charming everyone but their own mothers.</p>
           </quote>
           <bibl>
-            <author>Robin Hobb</author>, 
+            <author>Robin Hobb</author>,
             <title rend="italic">The Farseer: Assassin’s Apprentice</title>
           </bibl>
         </item>
@@ -745,7 +782,7 @@
               after all, what every body does all the time.</p>
           </quote>
           <bibl>
-            <author>Susanna Clarke</author>, 
+            <author>Susanna Clarke</author>,
             <title rend="italic">Jonathan Strange and Mr. Norrell</title>
           </bibl>
         </item>
@@ -764,8 +801,8 @@
               fantasies.</p>
           </quote>
           <bibl>
-            <author>Matt Taibbi</author>, 
-            <title rend="quoted">Michele Bachmann’s Holy War</title>, 
+            <author>Matt Taibbi</author>,
+            <title rend="quoted">Michele Bachmann’s Holy War</title>,
             <series>Rolling Stone</series>
             <biblScope>issue 1134/1135</biblScope>
           </bibl>
@@ -885,7 +922,7 @@
               enough to be cursed with.</p>
           </quote>
           <bibl>
-            <author>Andrew Hussie</author>, 
+            <author>Andrew Hussie</author>,
             <series>Homestuck</series>
             <ref target="http://www.mspaintadventures.com/?s=6&amp;p=004582">
               page 4582
@@ -899,7 +936,7 @@
               can’t keep, and often don’t even recognize at the time; I mean joy.</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
@@ -913,7 +950,7 @@
               name ceases to apply?</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
@@ -924,7 +961,7 @@
               that convinces. I was half convinced myself.</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
@@ -938,7 +975,7 @@
               permanent, intolerable uncertainty: not knowing what comes next."</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
@@ -949,7 +986,7 @@
               that there is no God, there would be no religion.</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
@@ -968,7 +1005,7 @@
               but that the lie is indeed a child of silence.</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>, 
+            <author>Ursula K. Le Guin</author>,
             <title type="quoted">The Matter of the Seggri</title>,
             <title rend="italic">The Birthday of the World and Other Stories</title>
           </bibl>
@@ -1019,7 +1056,7 @@
               VULTUROUS LEATHERY VICEGRIP HE’S FIXED AROUND YOUR CAPTIVE MIND.</p>
           </quote>
           <bibl>
-            <author>Andrew Hussie</author>, 
+            <author>Andrew Hussie</author>,
             <series>Homestuck</series>
             <ref target="http://www.mspaintadventures.com/?s=6&amp;p=003578">page 3578</ref>
           </bibl>
@@ -1053,8 +1090,8 @@
               challenging situations.</p>
           </quote>
           <bibl>
-            <author>Jane Yolen</author>, 
-            <title rend="quoted">Remembering Books</title>, 
+            <author>Jane Yolen</author>,
+            <title rend="quoted">Remembering Books</title>,
             <title rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
@@ -1087,7 +1124,7 @@
               it’s <hi rend="italic">givin’ in</hi> to it.</p>
           </quote>
           <bibl>
-            <author>Kurt Busiek</author>, 
+            <author>Kurt Busiek</author>,
             <title rend="italic">Astro City: The Tarnished Angel</title>
           </bibl>
         </item>
@@ -1115,7 +1152,7 @@
               necklace.”</p>
           </quote>
           <bibl>
-            <author>James Thurber</author>, 
+            <author>James Thurber</author>,
             <title rend="quoted">The Princess and the Tin Box</title>
           </bibl>
         </item>
@@ -1135,7 +1172,7 @@
               and redefined, have been challenged more often than conceded.</p>
           </quote>
           <bibl>
-            <author>Richard M. Fried</author>, 
+            <author>Richard M. Fried</author>,
             <title rend="italic">Nightmare in Red: The McCarthy Era in Perspective</title>
           </bibl>
         </item>
@@ -1155,7 +1192,7 @@
               the desire to be very grown up.</p>
           </quote>
           <bibl>
-            <author>C.S. Lewis</author>, 
+            <author>C.S. Lewis</author>,
             <title rend="quoted">On Three Ways of Writing for Children</title>
           </bibl>
         </item>
@@ -1192,7 +1229,7 @@
               do that job for him.</p>
           </quote>
           <bibl>
-            <author>George R.R. Martin</author>, 
+            <author>George R.R. Martin</author>,
             <title rend="italic">A Clash of Kings</title>
           </bibl>
         </item>
@@ -1204,7 +1241,7 @@
               more worms than I do...</p>
           </quote>
           <bibl>
-            <author>George R.R. Martin</author>, 
+            <author>George R.R. Martin</author>,
             <title rend="italic">A Clash of Kings</title>
           </bibl>
         </item>
@@ -1214,7 +1251,7 @@
               about, he believes that he understood the matter all along.</p>
           </quote>
           <bibl>
-            <author>John Pierce</author>, 
+            <author>John Pierce</author>,
             <title rend="italic">An Introduction to Information Theory: Symbols, Signals and Noise</title>
           </bibl>
         </item>
@@ -1225,7 +1262,7 @@
               true.</p>
           </quote>
           <bibl>
-            <author>Kazurou Inoue</author>, 
+            <author>Kazurou Inoue</author>,
             <title rend="italic">Midori Days Vol. 1</title>
           </bibl>
         </item>
@@ -1301,8 +1338,8 @@
               just didn’t know it. Or they wanted to see you.</p>
           </quote>
           <bibl>
-            <author>James L. Sutter</author>, 
-            <title rend="quoted">Miscarriage</title>, 
+            <author>James L. Sutter</author>,
+            <title rend="quoted">Miscarriage</title>,
             <title rend="italic">Machine of Death</title>
           </bibl>
         </item>
@@ -1315,8 +1352,8 @@
               still, but you stay by the story you’ve told yourself.</p>
           </quote>
           <bibl>
-            <author>Pelotard</author>, 
-            <title rend="quoted">Nothing</title>, 
+            <author>Pelotard</author>,
+            <title rend="quoted">Nothing</title>,
             <title rend="italic">Machine of Death</title>
           </bibl>
         </item>
@@ -1332,7 +1369,7 @@
               branching out in complex, often unexpected, directions</p>
           </quote>
           <bibl>
-            <author>William Grallo</author>, 
+            <author>William Grallo</author>,
             <title rend="quoted">After Many Years, Stops Breathing, While Asleep,
               With Smile on Face</title>,
             <title rend="italic">Machine of Death</title>
@@ -1373,7 +1410,7 @@
         <item>
           <quote>
             <p>When you write a story, you’re telling yourself the story... When you
-              rewrite, your main job in taking out all the things that are 
+              rewrite, your main job in taking out all the things that are
               <hi rend="italic">not</hi> the story.</p>
           </quote>
           <bibl>
@@ -1395,7 +1432,7 @@
               means football to thousands of people.</p>
           </quote>
           <bibl>
-            <author>Terry Pratchett</author>, 
+            <author>Terry Pratchett</author>,
             <title rend="italic">Unseen Academicals</title>
           </bibl>
         </item>
@@ -1421,7 +1458,7 @@
             <p>“That is the only time a man can be brave.”</p>
           </quote>
           <bibl>
-            <author>George R.R. Martin</author>, 
+            <author>George R.R. Martin</author>,
             <title rend="italic">A Game of Thrones</title>
           </bibl>
         </item>
@@ -1432,7 +1469,7 @@
               second or two it took to realign.</p>
           </quote>
           <bibl>
-            <author>Alice Sebold</author>, 
+            <author>Alice Sebold</author>,
             <title rend="italic">The Lovely Bones</title>
           </bibl>
         </item>
@@ -1443,7 +1480,7 @@
               mucking up their brains on top of everything else.</p>
           </quote>
           <bibl>
-            <author>Jaida Jones</author> and <author>Danielle Bennett</author>, 
+            <author>Jaida Jones</author> and <author>Danielle Bennett</author>,
             <title rend="italic">Havemercy</title>
           </bibl>
         </item>
@@ -1599,7 +1636,7 @@
               warm and bloody between its teeth.</p>
           </quote>
           <bibl>
-            <author>Warren Ellis</author>, 
+            <author>Warren Ellis</author>,
             <series>Bad Signal</series> mailing list
             <date when="2009-11-06"/>
           </bibl>
@@ -1620,7 +1657,7 @@
               intercourse, is very very small, and so hardly worth worrying about.</p>
           </quote>
           <bibl>
-            <author>Dave Eggers</author>, 
+            <author>Dave Eggers</author>,
             <title rend="italic">A Heartbreaking Work of Staggering Genius</title>
           </bibl>
         </item>
@@ -1667,7 +1704,7 @@
               from the 7-11 and I have no regrets at all. </p>
           </quote>
           <bibl>
-            <author>Joey Comeau</author>, 
+            <author>Joey Comeau</author>,
             <series>A Softer World</series> commentary
             <date when="2009-09-22"/>
           </bibl>
@@ -1682,8 +1719,8 @@
               to you.</p>
           </quote>
           <bibl>
-            <author>Aeire</author>, 
-            <series>Punch and Pie</series> commentary 
+            <author>Aeire</author>,
+            <series>Punch and Pie</series> commentary
             <date when="2009-09-16"/>
           </bibl>
         </item>
@@ -1694,8 +1731,8 @@
               might be swept off to.</p>
           </quote>
           <bibl>
-            <author>J.R.R. Tolkien</author>, 
-            <series>The Lord of the Rings</series>: 
+            <author>J.R.R. Tolkien</author>,
+            <series>The Lord of the Rings</series>:
             <title rend="italic">The Fellowship of the Ring</title>
           </bibl>
         </item>
@@ -1713,8 +1750,8 @@
             </lg>
           </quote>
           <bibl>
-            <author>J.R.R. Tolkien</author>, 
-            <series>The Lord of the Rings</series>: 
+            <author>J.R.R. Tolkien</author>,
+            <series>The Lord of the Rings</series>:
             <title rend="italic">The Fellowship of the Ring</title>
           </bibl>
         </item>
@@ -1725,8 +1762,8 @@
               I’m at a bit of a loss.</p>
           </quote>
           <bibl>
-            <author>Claire</author>, 
-            <title rend="quoted">Mad Scientist Wars</title> 
+            <author>Claire</author>,
+            <title rend="quoted">Mad Scientist Wars</title>
             <date when="2009-05-15"/>
           </bibl>
         </item>
@@ -1735,8 +1772,8 @@
             <p>Tumbleweeds exist everywhere that something isn’t.</p>
           </quote>
           <bibl>
-            <author>Rebecca Clements</author>, 
-            <series>KinokoFry</series> 
+            <author>Rebecca Clements</author>,
+            <series>KinokoFry</series>
             <date when="2009-04-01"/>
           </bibl>
         </item>
@@ -1752,7 +1789,7 @@
               time.</p>
           </quote>
           <bibl>
-            <author>Gish Jen</author>, 
+            <author>Gish Jen</author>,
             <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
@@ -1764,7 +1801,7 @@
               doing up a tree to begin with?</p>
           </quote>
           <bibl>
-            <author>Gish Jen</author>, 
+            <author>Gish Jen</author>,
             <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
@@ -1808,7 +1845,7 @@
               yourself?</p>
           </quote>
           <bibl>
-            <author>Tanuja Desai Hidier</author>, 
+            <author>Tanuja Desai Hidier</author>,
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
@@ -1820,7 +1857,7 @@
               multifaceted and blinding as a cut diamond.</p>
           </quote>
           <bibl>
-            <author>Tanuja Desai Hidier</author>, 
+            <author>Tanuja Desai Hidier</author>,
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
@@ -1831,7 +1868,7 @@
               through, too, like spiritual food.</p>
           </quote>
           <bibl>
-            <author>Tanuja Desai Hidier</author>, 
+            <author>Tanuja Desai Hidier</author>,
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
@@ -1844,7 +1881,7 @@
               best shot and only then what is meant to be will be.</p>
           </quote>
           <bibl>
-            <author>Tanuja Desai Hidier</author>, 
+            <author>Tanuja Desai Hidier</author>,
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
@@ -1889,8 +1926,8 @@
               an ancient prophecy” line from women.</p>
           </quote>
           <bibl>
-            <author>Dan</author>, 
-            <title rend="italic">Candorville</title> 
+            <author>Dan</author>,
+            <title rend="italic">Candorville</title>
             <date when="2009-03-18"/> comments</bibl>
         </item>
         <item>
@@ -1925,9 +1962,9 @@
               you, kid.”</p>
           </quote>
           <bibl>
-            <author>Chris Hastings</author>, 
-            <series>Dr. McNinja</series> 
-            <biblScope>issue 14</biblScope>, 
+            <author>Chris Hastings</author>,
+            <series>Dr. McNinja</series>
+            <biblScope>issue 14</biblScope>,
             <biblScope>page 21</biblScope>
           </bibl>
         </item>
@@ -1937,7 +1974,7 @@
           </quote>
           <bibl>
             <author>Lore Sjöberg</author>,
-            <series>Bad Gods</series> animation 
+            <series>Bad Gods</series> animation
             <title rend="quoted">Kitchen Floor</title>
           </bibl>
         </item>
@@ -1965,8 +2002,8 @@
               see you through to the end.</p>
           </quote>
           <bibl>
-            <author>Deanna Raybourne</author>, 
-            National Novel Writing Month pep talk 
+            <author>Deanna Raybourne</author>,
+            National Novel Writing Month pep talk
             <date when="2007-11"/>
           </bibl>
         </item>
@@ -1982,8 +2019,8 @@
               sweetly all the day long. Oh yes you will.</p>
           </quote>
           <bibl>
-            <author>Shaenon Garrity</author>, 
-            <series>Websnark</series> 
+            <author>Shaenon Garrity</author>,
+            <series>Websnark</series>
             <date when="2005-03-04"/> blog post comments
           </bibl>
         </item>
@@ -1995,8 +2032,8 @@
               "teledildonics." Where did I go wrong in my life?</p>
           </quote>
           <bibl>
-            <author>Shaenon Garrity</author>, 
-            <series>Skin Horse</series> 
+            <author>Shaenon Garrity</author>,
+            <series>Skin Horse</series>
             <date from="2009-01-12" to="2009-01-17"/> comments
           </bibl>
         </item>
@@ -2031,7 +2068,7 @@
             <p>It is the nature of the hero to be a fool.</p>
           </quote>
           <bibl>
-            <author>John Steinbeck</author>, notes in appendix of 
+            <author>John Steinbeck</author>, notes in appendix of
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
@@ -2199,7 +2236,7 @@
           <bibl>
             <author>Sherman Alexie</author>,
             <title rend="quoted">Sixty-One Things I Learned During the Sonics Trial</title>,
-            <series rend="italic">The Stranger</series> 
+            <series rend="italic">The Stranger</series>
             <date when="2008-06-29"/>
           </bibl>
         </item>
@@ -2207,7 +2244,7 @@
           <quote>
             <p>One of the most basic rules for survival on any planet is never to
               upset someone wearing black leather.<note n="*" place="bottom" anchored="true">
-                This is why protesters against the wearing of animal skins by humans 
+                This is why protesters against the wearing of animal skins by humans
                 unaccountably fail to throw their paint over Hell’s Angels.
               </note>
             </p>
@@ -2242,7 +2279,7 @@
               nothing warms your heart like the sight of California on fire.</p>
           </quote>
           <bibl>
-            <author>Christopher Moore</author>, 
+            <author>Christopher Moore</author>,
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
@@ -2254,7 +2291,7 @@
               brushing the wires together over an open bucket of gasoline.</p>
           </quote>
           <bibl>
-            <author>Christopher Moore</author>, 
+            <author>Christopher Moore</author>,
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
@@ -2264,7 +2301,7 @@
               time to start raising lumps and loosening teeth.</p>
           </quote>
           <bibl>
-            <author>Christopher Moore</author>, 
+            <author>Christopher Moore</author>,
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
@@ -2288,8 +2325,8 @@
               break them with your bare hands.</p>
           </quote>
           <bibl>
-            <author>T. Campbell</author>, 
-            <series>Fans!</series> 
+            <author>T. Campbell</author>,
+            <series>Fans!</series>
             <date when="2008-07-01"/>
           </bibl>
         </item>
@@ -2367,7 +2404,7 @@
             <p>I think spooning is the safest place on Earth.</p>
           </quote>
           <bibl>
-            <author>Li-Young Lee</author>, 
+            <author>Li-Young Lee</author>,
             at Drake University poetry reading
             <date when="2008-04-30"/>
           </bibl>
@@ -2626,7 +2663,7 @@
               danger give it.</p>
           </quote>
           <bibl>
-            <author>Julio Cortázar</author>, 
+            <author>Julio Cortázar</author>,
             <title rend="quoted">Blow-Up</title>,
             <title rend="italic">Blow-Up and Other Stories</title>
           </bibl>
@@ -2639,7 +2676,7 @@
               difficult and profound things.</p>
           </quote>
           <bibl>
-            <author>Julio Cortázar</author>, 
+            <author>Julio Cortázar</author>,
             <title rend="quoted">The Pursuer</title>,
             <title rend="italic">Blow-Up and Other Stories</title>
           </bibl>
@@ -2668,7 +2705,7 @@
               as I’m done.</p>
           </quote>
           <bibl>
-            <author>Neil Gaiman</author>, 
+            <author>Neil Gaiman</author>,
             <title rend="quoted">Woot</title> blog post,
             <date when="2008-04-28"/>
           </bibl>
@@ -2764,8 +2801,8 @@
               there’s probably a paper in that." And then you have to write it.</p>
           </quote>
           <bibl>
-            <author>Eric Burns</author>, 
-            <series>Websnark</series> 
+            <author>Eric Burns</author>,
+            <series>Websnark</series>
             <date when="2008-02-18"/></bibl>
         </item>
         <item>
@@ -2872,7 +2909,7 @@
               <hi rend="bold">then</hi> you ask me why I’m so <hi rend="bold">angry</hi>.</p>
           </quote>
           <bibl>
-            <author>Martiza Campos</author>, 
+            <author>Martiza Campos</author>,
             <series>College Roomies from Hell!!!</series>
             <date when="2007-01-15"/>
           </bibl>
@@ -2925,8 +2962,8 @@
               regret!</p>
           </quote>
           <bibl>
-            <author>Ryan North</author>, 
-            <series rend="quoted">Dinosaur Comics</series> 
+            <author>Ryan North</author>,
+            <series rend="quoted">Dinosaur Comics</series>
             <date when="2007-08-20"/>
           </bibl>
         </item>
@@ -2980,7 +3017,7 @@
             </lg>
           </quote>
           <bibl>
-            <author>William Shakespeare</author>, 
+            <author>William Shakespeare</author>,
             <title rend="quoted">The Tempest</title>
           </bibl>
         </item>
@@ -3195,7 +3232,7 @@
               drowned there peacefully until morning.</p>
           </quote>
           <bibl>
-            <author>Lloyd Alexander</author>, 
+            <author>Lloyd Alexander</author>,
             <title rend="quoted">Max Mondrosch</title>,
             <title>Firebirds</title>
           </bibl>
@@ -3258,7 +3295,7 @@
               the riddles matter most.</p>
           </quote>
           <bibl>
-            <author>Lan Samantha Chang</author>, 
+            <author>Lan Samantha Chang</author>,
             <title rend="quoted">San</title>,
             <title>Hunger</title>
           </bibl>
@@ -3321,7 +3358,7 @@
               tongue which we were born speaking. And then forget.</p>
           </quote>
           <bibl>
-            <author>Tony Kushner</author>, 
+            <author>Tony Kushner</author>,
             <title rend="quoted">Homebody/Kabul</title>
           </bibl>
         </item>
@@ -3339,7 +3376,7 @@
               for at least Oh, let’s say three full decades of recession...</p>
           </quote>
           <bibl>
-            <author>Tony Kushner</author>, 
+            <author>Tony Kushner</author>,
             <title rend="quoted">Homebody/Kabul</title>
           </bibl>
         </item>
@@ -4231,11 +4268,11 @@
             <p>When does it start?</p>
             <p>There are very few starts. Oh, some things <hi rend="italic">seem</hi>
               to be beginnings. The curtain goes up, the first pawn moves, the first
-              shot is fired<note n="*" place="bottom" anchored="true">Probably at the 
-                first pawn.</note> – but <hi rend="italic">that’s</hi> not the start. 
-              The play, the game, the war is just a little window on a ribbon of events 
-              that may extend back thousands of years. The point is, there’s always 
-              something <hi rend="italic">before</hi>. It’s <hi rend="italic">always</hi> 
+              shot is fired<note n="*" place="bottom" anchored="true">Probably at the
+                first pawn.</note> – but <hi rend="italic">that’s</hi> not the start.
+              The play, the game, the war is just a little window on a ribbon of events
+              that may extend back thousands of years. The point is, there’s always
+              something <hi rend="italic">before</hi>. It’s <hi rend="italic">always</hi>
               a case of Now Read On.</p>
           </quote>
           <bibl>
@@ -5333,7 +5370,7 @@
             <p>And what is word knowledge but a shadow of wordless knowledge?</p>
           </quote>
           <bibl>
-            <author>Kahlil Gibran</author>, 
+            <author>Kahlil Gibran</author>,
             <title>The Prophet</title>
           </bibl>
         </item>
@@ -5344,7 +5381,7 @@
               it thirsts it drinks even of dead waters.</p>
           </quote>
           <bibl>
-            <author>Kahlil Gibran</author>, 
+            <author>Kahlil Gibran</author>,
             <title>The Prophet</title>
           </bibl>
         </item>
@@ -5798,7 +5835,7 @@
               aspects of the universe!</p>
           </quote>
           <bibl>
-            <author>Jill Thompson</author>, 
+            <author>Jill Thompson</author>,
             <title>Death: At Death’s Door</title>
           </bibl>
         </item>
@@ -5997,7 +6034,7 @@
               How do ideas run you down?</p>
           </quote>
           <bibl>
-            <author>Ray Bradbury</author>, 
+            <author>Ray Bradbury</author>,
             <title>One More For the Road</title>,
             <title rend="quoted">Afterword: Metaphors, the Breakfast of Champions</title>
           </bibl>
@@ -6011,7 +6048,7 @@
               good, we risk his duplicity. Thinking a man bad, we deny sanctuary.</p>
           </quote>
           <bibl>
-            <author>Ray Bradbury</author>, 
+            <author>Ray Bradbury</author>,
             <title>One More For the Road</title>,
             <title rend="quoted">Beasts</title>
           </bibl>
@@ -6046,7 +6083,7 @@
           </quote>
           <bibl>
             <author>Lynn Johnston</author>,
-            <series>For Better or For Worse</series> 
+            <series>For Better or For Worse</series>
             <date when="2003-11-06"/></bibl>
         </item>
         <!--<item>
@@ -6097,8 +6134,8 @@
             <p>It is the spectator, not life, that art really mirrors.</p>
           </quote>
           <bibl>
-            <author>Oscar Wilde</author>, 
-            <title>The Picture of Dorian Gray and Other Writings</title>, 
+            <author>Oscar Wilde</author>,
+            <title>The Picture of Dorian Gray and Other Writings</title>,
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
@@ -6108,8 +6145,8 @@
               not seeing his own face in a glass.</p>
           </quote>
           <bibl>
-            <author>Oscar Wilde</author>, 
-            <title>The Picture of Dorian Gray and Other Writings</title>, 
+            <author>Oscar Wilde</author>,
+            <title>The Picture of Dorian Gray and Other Writings</title>,
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
@@ -6119,8 +6156,8 @@
               his own face in a glass.</p>
           </quote>
           <bibl>
-            <author>Oscar Wilde</author>, 
-            <title>The Picture of Dorian Gray and Other Writings</title>, 
+            <author>Oscar Wilde</author>,
+            <title>The Picture of Dorian Gray and Other Writings</title>,
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
@@ -6716,7 +6753,7 @@
           <bibl>
             <author>Steven Seagle</author> and <author>Scott McDaniel</author>,
             <title rend="quoted">Truth</title>,
-            <series rend="italic">Superman: The 10-Cent Adventure</series> 
+            <series rend="italic">Superman: The 10-Cent Adventure</series>
             <date when="2003-03"/>
           </bibl>
         </item>
