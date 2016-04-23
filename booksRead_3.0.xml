@@ -48,6 +48,23 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="leguin.uk.wizardearthsea">
+            <monogr>
+              <title>A Wizard of Earthsea</title>
+              <author>
+                <persName ref="authors_3.0.xml#leguin.uk"/>
+              </author>
+              <imprint>
+                <date when="1968"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Earthsea Cycle</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="mcguire.s.heartdoorway">
             <monogr>
               <title>Every Heart a Doorway</title>

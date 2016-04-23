@@ -22,10 +22,13 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-04-18">
+          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.wizardearthsea">A Wizard of Earthsea</ref>.</p>
+        </event>
         <event when="2016-04-10">
           <p>Read <ref target="booksRead_3.0.xml#brosh.a.hyperbolehalf">Hyperbole and a Half</ref>.</p>
         </event>
-        <event from="2016-04-07">
+        <event from="2016-04-07" to="2016-04-17">
           <p>Read <ref target="booksRead_3.0.xml#pratchet.t.raisingsteam">Raising Steam</ref>.</p>
         </event>
         <event from="2016-03-29" to="2016-04-06">
