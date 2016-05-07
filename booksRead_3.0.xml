@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Books I've Read 3.0</title>
+        <title>Books I’ve Read 3.0</title>
         <title type="sub">List of Bibliographic Entries</title>
         <editor><persName>Ashley M. Clark</persName></editor>
       </titleStmt>
@@ -48,6 +48,21 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="bradley.mz.firebrand">
+            <monogr>
+              <title>The Firebrand</title>
+              <author>
+                <persName ref="authors_3.0.xml#bradley.mz"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1987"/>
+                <publisher>
+                  <orgName>Roc</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="leguin.uk.wizardearthsea">
             <monogr>
               <title>A Wizard of Earthsea</title>

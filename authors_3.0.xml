@@ -26,6 +26,14 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="bradley.mz">
+          <persName>
+            <forename>Marion</forename>
+            <surname type="birth">Zimmer</surname>
+            <surname>Bradley</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
         <person xml:id="brosh.a">
           <persName>
             <forename>Alexandra</forename>

@@ -31,17 +31,31 @@
       <list>
         <item>
           <quote>
-            <p>The fundamental objective of fanfic, especially when it is written by women, queer and genderqueer people, and people of color, is to insert yourself, aggressively and brazenly, into stories that are not about and were never intended to be about or represent you.
-            </p>
-            <bibl>
-              <author>Aja Romano</author>
-              <ref target="http://www.vox.com/2016/4/14/11418672/hamilton-is-fanfic-not-historically-inaccurate">
-                <title rend="quoted">Hamilton is fanfic, and its historical critics are totally missing the point</title>,
-              </ref>
-              <title>Vox</title>
-              <date when="2016-04-14"/>
-            </bibl>
+            <p>We notice the silence of men. We depend upon the silence of women.</p>
           </quote>
+          <bibl>
+            <author>Seanan McGuire</author>,
+            <title>Every Heart a Doorway</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>The fundamental objective of fanfic, especially when it is written 
+              by women, queer and genderqueer people, and people of color, is to 
+              insert yourself, aggressively and brazenly, into stories that are 
+              not about and were never intended to be about or represent you.
+            </p>
+          </quote>
+          <bibl>
+            <author>Aja Romano</author>,
+            <ref target="http://www.vox.com/2016/4/14/11418672/hamilton-is-fanfic-not-historically-inaccurate">
+              <title rend="quoted">Hamilton is fanfic, and its historical critics are totally missing the point</title>,
+            </ref>
+            <title>Vox</title>
+            <date when="2016-04-14"/>
+          </bibl>
+        </item>
+        <item>
           <quote>
             <p>Past events exist, after all, only in memory, which is a form of
               imagination. The event is real <hi rend="italic">now</hi>, but
@@ -49,7 +63,7 @@
               entirely up to us, dependent on our energy and honesty.</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>
+            <author>Ursula K. Le Guin</author>,
             <title rend="quoted">Foreword</title>,
             <title>Tales from Earthsea</title>
           </bibl>
@@ -61,19 +75,19 @@
             </p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>
+            <author>Ursula K. Le Guin</author>,
             <title rend="quoted">The Bones of the Earth</title>,
             <title>Tales from Earthsea</title>
           </bibl>
         </item>
         <item>
           <quote>
-            <p>"If a word can heal, a word can wound," the witch said. "If a
+            <p>“If a word can heal, a word can wound,” the witch said. “If a
               hand can kill, a hand can cure. It’s a poor cart that goes only
-              one direction."</p>
+              one direction.”</p>
           </quote>
           <bibl>
-            <author>Ursula K. Le Guin</author>
+            <author>Ursula K. Le Guin</author>,
             <title rend="quoted">Dragonfly</title>,
             <title>Tales from Earthsea</title>
           </bibl>
@@ -240,7 +254,7 @@
               energy and time to do otherwise. Even so, the results of such nonthought
               can be appalling. At the level of high culture with which this book is
               concerned, active bigotry is probably fairly rare. <hi rend="italic">It
-              is also hardly ever necessary</hi>, since the social context is so far
+                is also hardly ever necessary</hi>, since the social context is so far
               from neutral. To act in a way that is both sexist and racist, to
               maintain one’s class privilege, it is only necessary to act in the
               customary, ordinary, usual, even polite manner.</p>
@@ -910,24 +924,24 @@
         </item>
         <!--<item>
           <quote>
-            <p>There’s a grosser irony about Politically Correct English. This is that
-              PCE purports to be the dialect of progressive reform but is in fact-\-in
-              its Orwellian substitution of the euphemisms of social equality for
-              social equality itself-\-of vastly more help to conservatives and the US
-              status quo than traditional SNOOT prescriptions ever were. Were I, for
-              instance, a political conservative who opposed using taxation as a means
-              of redistributing national wealth, I would be delighted to watch PC
-              progressives spend their time and energy arguing over whether a poor
-              person should be described as "low-income" or "economically
-              disadvantaged" or "pre-prosperous" rather than constructing effective
-              public arguments for redistributive legislation or higher marginal tax
-              rates. ...In other words, PCE acts as a form of censorship, and
-              censorship always serves the status quo.</p>
+          <p>There’s a grosser irony about Politically Correct English. This is that
+          PCE purports to be the dialect of progressive reform but is in fact-\-in
+          its Orwellian substitution of the euphemisms of social equality for
+          social equality itself-\-of vastly more help to conservatives and the US
+          status quo than traditional SNOOT prescriptions ever were. Were I, for
+          instance, a political conservative who opposed using taxation as a means
+          of redistributing national wealth, I would be delighted to watch PC
+          progressives spend their time and energy arguing over whether a poor
+          person should be described as "low-income" or "economically
+          disadvantaged" or "pre-prosperous" rather than constructing effective
+          public arguments for redistributive legislation or higher marginal tax
+          rates. ...In other words, PCE acts as a form of censorship, and
+          censorship always serves the status quo.</p>
           </quote>
           <bibl>David Foster Wallace, <hi rend="italic">Consider the Lobster: And
-            Other Essays</hi>
+          Other Essays</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Optimism through stalwart skepticism is a defect not everyone is lucky
@@ -1509,7 +1523,7 @@
               will comply but <hi rend="italic">some people will not</hi>, just as the
               lesson of the countries to which the Final Solution was proposed is that
               “it could happen” in most places but <hi rend="italic">it did not happen
-              everywhere</hi>. Humanly speaking, no more is required, and no more
+                everywhere</hi>. Humanly speaking, no more is required, and no more
               can reasonably be asked, for this planet to remain a place fit for human
               habitation.</p>
           </quote>
@@ -1657,7 +1671,7 @@
           <quote>
             <p>Published in the United States by Vintage Books, a division of Random
               House, Inc., New York. Random House is owned <hi rend="italic">in
-              toto</hi> by an absolutely huge German company called Bertelsmann A.G.
+                toto</hi> by an absolutely huge German company called Bertelsmann A.G.
               which owns too many things to count or track. That said, no matter how
               big such companies are, and how many things they own, or how much money
               they have or make or control, their influence over the daily lives and
@@ -1996,7 +2010,7 @@
               I have learned through painful experience this one, incontrovertible
               truth, and I am going to put it in italics so you will know I mean it:
               <hi rend="italic">you only have one chance to tell your story for the
-              very first time</hi>. One chance. Do you want the first time you tell
+                very first time</hi>. One chance. Do you want the first time you tell
               it, when it is imbued with all of the passion and enthusiasm and verve
               you possess, to be when you’re chatting up the UPS guy? Or your mother?
               Or your cat? Trust me, you don’t. You want that first time to be on
@@ -2401,16 +2415,16 @@
         </item>
         <!--<item>
           <quote>
-            <p>God is real unless declared integer.</p>
+          <p>God is real unless declared integer.</p>
           </quote>
           <bibl>David (Squeak wiki Quote of the Day)</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Programming is debugging a blank sheet of paper.</p>
+          <p>Programming is debugging a blank sheet of paper.</p>
           </quote>
           <bibl>Gerald Sussman</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>I think spooning is the safest place on Earth.</p>
@@ -2724,26 +2738,26 @@
         </item>
         <!--<item>
           <quote>
-            <p>Voilà! In view, a humble vaudevillian veteran, cast vicariously as both
-              victim and villain by the vicissitudes of Fate. This visage, no mere
-              veneer of vanity, is it vestige of the vox populi, now vacant, vanished.
-              However, this valorous visitation of a by-gone vexation, stands
-              vivified, and has vowed to vanquish these venal and virulent vermin
-              vanguarding vice and vouchsafing the violently vicious and voracious
-              violation of volition. The only verdict is vengeance; a vendetta, held
-              as a votive, not in vain, for the value and veracity of such shall one
-              day vindicate the vigilant and the virtuous. Verily, this vichyssoise of
-              verbiage veers most verbose so let me simply add that it’s my very good
-              honor to meet you and you may call me V.</p>
+          <p>Voilà! In view, a humble vaudevillian veteran, cast vicariously as both
+          victim and villain by the vicissitudes of Fate. This visage, no mere
+          veneer of vanity, is it vestige of the vox populi, now vacant, vanished.
+          However, this valorous visitation of a by-gone vexation, stands
+          vivified, and has vowed to vanquish these venal and virulent vermin
+          vanguarding vice and vouchsafing the violently vicious and voracious
+          violation of volition. The only verdict is vengeance; a vendetta, held
+          as a votive, not in vain, for the value and veracity of such shall one
+          day vindicate the vigilant and the virtuous. Verily, this vichyssoise of
+          verbiage veers most verbose so let me simply add that it’s my very good
+          honor to meet you and you may call me V.</p>
           </quote>
           <bibl>“V for Vendetta”</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>The act of leaving home is the act of knowing home.</p>
+          <p>The act of leaving home is the act of knowing home.</p>
           </quote>
           <bibl>Dr. Jeff Goldstein, astronomer</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>We would really like to think that you were holding hands with somebody
@@ -2993,17 +3007,17 @@
         </item>
         <!--<item>
           <quote>
-            <p>When a true genius appears in the world you may know him by this sign:
-              that all the dunces are in confederacy against him.</p>
+          <p>When a true genius appears in the world you may know him by this sign:
+          that all the dunces are in confederacy against him.</p>
           </quote>
           <bibl>Jonathan Swift</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>I respect faith, but doubt is what gets you an education.</p>
+          <p>I respect faith, but doubt is what gets you an education.</p>
           </quote>
           <bibl>William Mizner</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Now our generation did soup kitchens. We did clothing drives, food
@@ -5287,16 +5301,16 @@
         </item>
         <!--<item>
           <quote>
-            <p>The fulfillment of the age-old prophecies was about to take place,
-              despite the fact that the enemy himself had read them, knew them, and
-              had seen every last one of them come to fruitation exactly as it had
-              been laid out.</p>
+          <p>The fulfillment of the age-old prophecies was about to take place,
+          despite the fact that the enemy himself had read them, knew them, and
+          had seen every last one of them come to fruitation exactly as it had
+          been laid out.</p>
           </quote>
           <bibl>
-            <author>Tim LaHaye &amp; Jerry B. Jenkins, </author>
-            <title>Glorious Appearing</title>
+          <author>Tim LaHaye &amp; Jerry B. Jenkins, </author>
+          <title>Glorious Appearing</title>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <lg>
@@ -5451,15 +5465,15 @@
         </item>
         <!--<item>
           <quote>
-            <p>Daughters can spend ten percent more than a man can make in any usual
-              occupation. That’s a law of nature, to be known henceforth as ‘Harshaw’s
-              Law.’</p>
+          <p>Daughters can spend ten percent more than a man can make in any usual
+          occupation. That’s a law of nature, to be known henceforth as ‘Harshaw’s
+          Law.’</p>
           </quote>
           <bibl>
-            <author>Robert A. Heinlein</author>,
-            <title>Stranger in a Strange Land</title>
+          <author>Robert A. Heinlein</author>,
+          <title>Stranger in a Strange Land</title>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>If you got yourself all figured out at the age of sixteen, what the
@@ -5556,19 +5570,19 @@
         </item>
         <!--<item>
           <quote>
-            <p>If God is a DJ</p>
-            <p>Life is a dance floor</p>
-            <p>Love is the rhythm</p>
-            <p>You are my music</p>
-            <p>If God is a DJ</p>
-            <p>Life is a dance floor</p>
-            <p>You get what you’re given</p>
-            <p>It’s all how you use it.</p>
+          <p>If God is a DJ</p>
+          <p>Life is a dance floor</p>
+          <p>Love is the rhythm</p>
+          <p>You are my music</p>
+          <p>If God is a DJ</p>
+          <p>Life is a dance floor</p>
+          <p>You get what you’re given</p>
+          <p>It’s all how you use it.</p>
           </quote>
           <bibl>
-            <hi rend="bold">Pink, “God is a DJ”</hi>
+          <hi rend="bold">Pink, “God is a DJ”</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>The measure of a man’s character is what he would do if he knew he
@@ -5853,10 +5867,10 @@
         </item>
         <!--<item>
           <quote>
-            <p>Writers should be read, but neither seen nor heard.</p>
+          <p>Writers should be read, but neither seen nor heard.</p>
           </quote>
           <bibl>Daphne du Maurier</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Please write again soon. Though my own life is full with activity,
@@ -5901,10 +5915,10 @@
         </item>
         <!--<item>
           <quote>
-            <p>Writing is the heart and soul of my being.</p>
+          <p>Writing is the heart and soul of my being.</p>
           </quote>
           <bibl>Christopher Paolini</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Three simple things: Write about what excites and moves you the most,
@@ -5917,22 +5931,22 @@
         </item>
         <!--<item>
           <quote>
-            <p>The insane live in reality while the sane live in fantasy.</p>
+          <p>The insane live in reality while the sane live in fantasy.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Describing words with words I can’t describe.</p>
+          <p>Describing words with words I can’t describe.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>A balanced diet is a cookie in each hand.</p>
+          <p>A balanced diet is a cookie in each hand.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Comfort the disturbed, disturb the comfortable.</p>
@@ -6010,11 +6024,11 @@
         </item>
         <!--<item>
           <quote>
-            <p>Better to write for yourself and have no public, than to write for the
-              public and have no self.</p>
+          <p>Better to write for yourself and have no public, than to write for the
+          public and have no self.</p>
           </quote>
           <bibl>Cyril Connolly</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Many books require no thought from those who read them, and for a very
@@ -6067,18 +6081,18 @@
         </item>
         <!--<item>
           <quote>
-            <p>Human beings, by changing the inner attitudes of their minds, can
-              change the outer aspects of their lives.</p>
+          <p>Human beings, by changing the inner attitudes of their minds, can
+          change the outer aspects of their lives.</p>
           </quote>
           <bibl>William James</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>A strong positive mental attitude will create more miracles than any
-              wonder drug.</p>
+          <p>A strong positive mental attitude will create more miracles than any
+          wonder drug.</p>
           </quote>
           <bibl>Patricia Neal</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>I am still determined to be cheerful and happy, in whatever situation I
@@ -6100,22 +6114,22 @@
         </item>
         <!--<item>
           <quote>
-            <p>The only really good place to buy lumber is at a store where the lumber
-              has already been cut and attached together in the form of furniture,
-              finished, and put inside boxes.</p>
+          <p>The only really good place to buy lumber is at a store where the lumber
+          has already been cut and attached together in the form of furniture,
+          finished, and put inside boxes.</p>
           </quote>
           <bibl>Dave Barry, <hi rend="italic">The Taming of the Screw</hi>
           </bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Electricity is actually made up of extremely tiny particles called
-              electrons, that you cannot see with the naked eye unless you have been
-              drinking.</p>
+          <p>Electricity is actually made up of extremely tiny particles called
+          electrons, that you cannot see with the naked eye unless you have been
+          drinking.</p>
           </quote>
           <bibl>Dave Barry, <hi rend="italic">The Taming of the Screw</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>You can only be young once. But you can always be immature.</p>
@@ -6272,12 +6286,12 @@
         </item>
         <!--<item>
           <quote>
-            <p>Some days you’re the dog, some days you’re the fire hydrant.</p>
+          <p>Some days you’re the dog, some days you’re the fire hydrant.</p>
           </quote>
           <bibl>
-            <hi rend="bold">T-shirt wisdom</hi>
+          <hi rend="bold">T-shirt wisdom</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>The ships hung in the sky in much the same way that bricks don’t.</p>
@@ -6389,29 +6403,29 @@
         </item>
         <!--<item>
           <quote>
-            <p>When you understand one thing through and through, you understand
-              everything.</p>
+          <p>When you understand one thing through and through, you understand
+          everything.</p>
           </quote>
           <bibl>Shunryu Suzuki</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Water which is too pure has no fish.</p>
+          <p>Water which is too pure has no fish.</p>
           </quote>
           <bibl>Ts’ai Ken T’an</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Faith in often strengthened right at the place of disappointment.</p>
+          <p>Faith in often strengthened right at the place of disappointment.</p>
           </quote>
           <bibl>Rodney McBride</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Teachers open the door, but you must enter by yourself.</p>
+          <p>Teachers open the door, but you must enter by yourself.</p>
           </quote>
           <bibl>Chinese proverb</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>I never let my schooling interfere with my education.</p>
@@ -6420,25 +6434,25 @@
         </item>
         <!--<item>
           <quote>
-            <p>Do not seek to follow in the footsteps of the men of old; seek what
-              they sought.</p>
+          <p>Do not seek to follow in the footsteps of the men of old; seek what
+          they sought.</p>
           </quote>
           <bibl>Basho</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>All souls are one. Each is a spark of the original soul and this soul
-              is inherent in all souls.</p>
+          <p>All souls are one. Each is a spark of the original soul and this soul
+          is inherent in all souls.</p>
           </quote>
           <bibl>Hasidic saying</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Doubt is part of all religion. All religious thinkers were
-              doubters.</p>
+          <p>Doubt is part of all religion. All religious thinkers were
+          doubters.</p>
           </quote>
           <bibl>Isaac Bashevis Singer</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>One day you’re going to turn around and there I’ll be – the stereotypes
@@ -6466,10 +6480,10 @@
         </item>
         <!--<item>
           <quote>
-            <p>De donde nace el peligro nace salvación tambien.</p>
+          <p>De donde nace el peligro nace salvación tambien.</p>
           </quote>
           <bibl>Hölderlin</bibl>
-        </item>-->
+          </item>-->
         <item xml:lang="es">
           <quote>
             <p>La luz es tiempo, los colores son relojes, nosotros somos pequeños
@@ -6490,13 +6504,13 @@
         </item>
         <!--<item>
           <quote>
-            <p>Grab the world by the lapels. Life’s a bitch. You’ve got to go out and
-              kick ass.</p>
+          <p>Grab the world by the lapels. Life’s a bitch. You’ve got to go out and
+          kick ass.</p>
           </quote>
           <bibl>
-            <hi rend="bold">Maya Angelou</hi>
+          <hi rend="bold">Maya Angelou</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Women’s place is in the House – and in the Senate.</p>
@@ -6507,21 +6521,21 @@
         </item>
         <!--<item>
           <quote>
-            <p>Well-behaved women rarely make history.</p>
+          <p>Well-behaved women rarely make history.</p>
           </quote>
           <bibl>
-            <hi rend="bold">Laurel Thatcher Urlich</hi>
+          <hi rend="bold">Laurel Thatcher Urlich</hi>
           </bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>I’ve had the same goal since I was a girl. I want to rule the
-              world.</p>
+          <p>I’ve had the same goal since I was a girl. I want to rule the
+          world.</p>
           </quote>
           <bibl>
-            <author>Madonna</author>
+          <author>Madonna</author>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Girls got balls. They’re just higher up, that’s all.</p>
@@ -6551,10 +6565,10 @@
         </item>
         <!--<item>
           <quote>
-            <p>Everybody is somebody’s weirdo.</p>
+          <p>Everybody is somebody’s weirdo.</p>
           </quote>
           <bibl>Dykstra’s Law</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>They that can give up essential liberty to obtain a little temporary
@@ -6592,10 +6606,10 @@
         </item>
         <!--<item>
           <quote>
-            <p>Everybody is somebody’s weirdo.</p>
+          <p>Everybody is somebody’s weirdo.</p>
           </quote>
           <bibl>Dykstra’s Law</bibl>
-        </item>-->
+          </item>-->
         <item>
           <lg>
             <l>Oh body swayed to music, O brightening glance,</l>
@@ -6621,31 +6635,31 @@
         </item>
         <!--<item>
           <quote>
-            <p>When we are unable to find tranquility within ourselves, it is useless
-              to seek it elsewhere.</p>
+          <p>When we are unable to find tranquility within ourselves, it is useless
+          to seek it elsewhere.</p>
           </quote>
           <bibl>Francois de La Rochefoucauld</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>Many would be cowards if they had courage enough.</p>
+          <p>Many would be cowards if they had courage enough.</p>
           </quote>
           <bibl>Thomas Fuller</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>There are 350 varieties of shark, not counting loan and pool.</p>
+          <p>There are 350 varieties of shark, not counting loan and pool.</p>
           </quote>
           <bibl>L.M. Boyd</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>You can take all the sincerity in Hollywood, place it in the navel of a
-              firefly and still have room enough for three caraway seeds and a
-              producer’s heart.</p>
+          <p>You can take all the sincerity in Hollywood, place it in the navel of a
+          firefly and still have room enough for three caraway seeds and a
+          producer’s heart.</p>
           </quote>
           <bibl>Fred Allen</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>It is absurd to divide people into good and bad. People are either
@@ -6655,12 +6669,12 @@
         </item>
         <!--<item>
           <quote>
-            <p>Everyone rises to their level of incompetence.</p>
+          <p>Everyone rises to their level of incompetence.</p>
           </quote>
           <bibl>Laurence J. Peter, <hi rend="italic">The Peter Principle: Why Things
-            Always Go Wrong</hi>
+          Always Go Wrong</hi>
           </bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>It could probably be shown by facts and figures that there is no
@@ -6683,16 +6697,16 @@
         </item>
         <!--<item>
           <quote>
-            <p>You must first have a lot of patience to learn to have patience.</p>
+          <p>You must first have a lot of patience to learn to have patience.</p>
           </quote>
           <bibl>Stanislaw J. Lec, “Unkempt Thoughts”</bibl>
-        </item>
-        <item>
+          </item>
+          <item>
           <quote>
-            <p>We might have seen the end of the beginning.</p>
+          <p>We might have seen the end of the beginning.</p>
           </quote>
           <bibl>Dr. Anton Koekenoer (on observations by the Hubble Telescope)</bibl>
-        </item>-->
+          </item>-->
         <item>
           <quote>
             <p>Seek justice, encourage the oppressed. Defend the cause of the
@@ -6747,8 +6761,8 @@
             <p>On the way, there is a golden, leafy extravagance of a nonimmigrant
               sort – if these trees were kids, what a scolding they would get!
               <hi rend="italic">All that nice green chlorophyll their parents save up
-              for them, and what do they do? Throw it all away! As if chlorophyl
-              grows on trees!</hi>
+                for them, and what do they do? Throw it all away! As if chlorophyl
+                grows on trees!</hi>
             </p>
           </quote>
           <bibl>
