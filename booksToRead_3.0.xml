@@ -1,0 +1,1289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Books to Read 3.0</title>
+        <editor><persName>Ashley M. Clark</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Just me, Ashley.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Generated from the Microsoft Word Document
+          <title type="filename">Books to Read.doc</title>.
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="aclark.ash" when="2005-06-20T21:31:00">Generated conversion TEI from OxGarage.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <bibl>
+        <author>Abbott, Karen</author>.
+        <title>Liar, Temptress, Soldier, Spy: Four
+          Women Undercover in the Civil War</title>.
+      </bibl>
+      <bibl>
+        <author>Addison, Katherine</author>.
+        <title>The Goblin Emperor</title>.
+      </bibl>
+      <bibl>
+        <author>Agi, Tadashi</author> &amp; 
+        <author>Shu Okimoto</author>.
+        <title>The Drops of God Vol. 1</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Alexander, Christopher</author>.
+        <title>A Pattern Language: Towns,
+          Buildings, Constructions</title>.
+      </bibl>
+      <bibl>
+        <author>Alexander, Christopher</author>.
+        <title>The Timeless Way of Building</title>.
+      </bibl>
+      <bibl>
+        <author>Alighieri, Dante</author>.
+        <title>Paradiso</title>.
+      </bibl>
+      <bibl>
+        <author>Ambrose, Susan A.</author>, 
+        <author>Michael W. Bridges</author>, 
+        <author>Michele DiPietro</author>.
+        <title>How Learning Works: Seven Research-Based Principles for Smart Teaching</title>.
+      </bibl>
+      <bibl>
+        <author>Andrews, Ilona</author>.
+        <title>Magic Mourns</title>.
+      </bibl>
+      <bibl>
+        <author>Andrews, Ilona</author>.
+        <title>Magic Bleeds</title>.
+      </bibl>
+      <bibl>
+        <author>Andrews, Ilona</author>.
+        <title>Magic Dreams</title>.
+      </bibl>
+      <bibl>
+        <author>Andrews, Ilona</author>.
+        <title>Magic Slays</title>.
+      </bibl>
+      <bibl>
+        <author>Annable, Graham</author>.
+        <title>Book of Grickle</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Armstrong, Karen</author>.
+        <title>Holy War: The Crusades and Their
+          Impact on Today's World</title>.
+      </bibl>
+      <bibl>
+        <author>Asano, Inio</author>.
+        <title>Solanin</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Atwood, Margaret</author>.
+        <title>Cat’s Eye</title>.
+      </bibl>
+      <bibl>
+        <author>Atwood, Margaret</author>.
+        <title>Oryx and Crake</title>.
+      </bibl>
+      <bibl>
+        <author>Atwood, Margaret</author>.
+        <title>The Robber Bride</title>.
+      </bibl>
+      <bibl>
+        <author>Austen, Jane</author>.
+        <title>Sense and Sensibility</title>.
+      </bibl>
+      <bibl>
+        <author>Auster, Paul</author>.
+        <title>In the Country of Last Things</title>.
+      </bibl>
+      <bibl>
+        <author>Azzarello, Brian</author> and 
+        <author>Cliff Chiang</author>.
+        <title>Doctor 13: Architecture and Mortality</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>B., David</author>.
+        <title>Epileptic</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Bacigalupi, Paolo</author>.
+        <title>The Water Knife</title>.
+      </bibl>
+      <bibl>
+        <author>Baker, Kyle</author>.
+        <title>How to Draw Stupid and Other
+          Essentials of Cartooning</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Baker, Kyle</author>.
+        <title>Plastic Man: Rubber Bandits</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Baker, L.J.</author>
+        <title>Broken Wings</title>.
+      </bibl>
+      <bibl>
+        <author>Banks, Iain M.</author>
+        <title>Consider Phlebas</title>.
+      </bibl>
+      <bibl>
+        <author>Barker, Clive</author>.
+        <title>Weaveworld</title>.
+      </bibl>
+      <bibl>
+        <author>Bartlett, Allison Hoover</author>.
+        <title>The Man Who Loved Books Too Much: The True Story of a 
+          Thief, a Detective, and a World of Literary Obsession</title>.
+      </bibl>
+      <bibl>
+        <author>Bauermeister, Erica</author>.
+        <title>Joy for Beginners</title>.
+      </bibl>
+      <bibl>
+        <author>Beatrice, Allyson</author>.
+        <title>Will the Vampire People Please Leave the Lobby? 
+          True Adventures in Cult Fandom</title>.
+      </bibl>
+      <bibl>
+        <author>Bell, Clare</author>.
+        <title>The Jaguar Princess</title>.
+      </bibl>
+      <bibl>
+        <author>Berube, Allan</author>.
+        <title>Coming Out Under Fire: The History
+          of Gay Men and Women in World War Two</title>.
+      </bibl>
+      <bibl>
+        <author>Bester, Alfred</author>.
+        <title>The Stars My Destination</title>.
+      </bibl>
+      <bibl>
+        <author>Beukes, Lauren</author>.
+        <title>Moxyland</title>.
+      </bibl>
+      <bibl>
+        <author>Borges, Jorge Luis</author>.
+        <title>The Book of Imaginary Beings</title>.
+      </bibl>
+      <bibl>
+        <author>Borges, Jorge Luis</author>.
+        <title>Dreamtigers</title>.
+      </bibl>
+      <bibl>
+        <author>Borges, Jorge Luis</author>.
+        <title>Labyrinths</title>.
+      </bibl>
+      <bibl>
+        <author>Bornstein, Kate</author>.
+        <title>Gender Outlaws: On Men, Women and
+          the Rest of Us</title>.
+      </bibl>
+      <bibl>
+        <author>Bradbury, Ray</author>.
+        <title>Now and Forever</title>.
+      </bibl>
+      <bibl>
+        <author>Brande, Robin</author>.
+        <title>Evolution, Me &amp; Other Freaks of Nature</title>.
+      </bibl>
+      <bibl>
+        <author>Briggs, Patricia</author>.
+        <title>Moon Called</title>.
+      </bibl>
+      <bibl>
+        <author>Bronte, Charlotte</author>.
+        <title>Villette</title>.
+      </bibl>
+      <bibl>
+        <author>Brookner, Anita</author>.
+        <title>Hotel du Lac</title>.
+      </bibl>
+      <bibl>
+        <author>Brooks, Jayde</author>.
+        <title>Daughter of Gods and Shadows</title>.
+      </bibl>
+      <bibl>
+        <author>Brumberg, Joan Jacobs</author>.
+        <title>The Body Project: An Intimate History of 
+          American Girls</title>.
+      </bibl>
+      <bibl>
+        <author>Brust, Steven</author>.
+        <title>Dragon</title>.
+      </bibl>
+      <bibl>
+        <author>Budrys, Algis</author>.
+        <title>Rogue Moon</title>.
+      </bibl>
+      <bibl>
+        <author>Butler, Octavia</author>.
+        <title>Kindred</title>.
+      </bibl>
+      <bibl>
+        <author>Cadigan, Pat</author>.
+        <title>Tea from an Empty Cup</title>.
+      </bibl>
+      <bibl>
+        <author>Carey, Mike</author>.
+        <title>The Devil You Know</title>.
+      </bibl>
+      <bibl>
+        <author>Carr, Caleb</author>.
+        <title>Angel of Darkness</title>.
+      </bibl>
+      <bibl>
+        <author>Carter, Angela</author>.
+        <title>Nights at the Circus</title>.
+      </bibl>
+      <bibl>
+        <author>Casey, Jane</author>.
+        </title>The Burning</title>.
+      </bibl>
+      <bibl>
+        <author>Cast, P.C.</author>
+        <title>Goddess of the Sea</title>.
+      </bibl>
+      <bibl>
+        <editor>Chabon, Michael</editor>.
+        <title>McSweeney’s Mammoth Treasury
+          of Thrilling Tales</title>.
+      </bibl>
+      <bibl>
+        <author>Chabon, Michael</author>.
+        <title>Werewolves in Their Youth</title>.
+      </bibl>
+      <bibl>
+        <author>Cheng'en, Wu</author>.
+        <title>Journey to the West</title>.
+      </bibl>
+      <bibl>
+        <author>Chesnoff, Richard Z.</author>
+        <title>Pack of Thieves: How Hitler and Europe Plundered 
+          the Jews and Committed the Greatest Theft in History</title>.
+      </bibl>
+      <bibl>
+        <author>Chiang, Ted</author>.
+        <title>Stories of Your Life and
+          Others</title>.
+      </bibl>
+      <bibl>
+        <author>Clare, Cassandra</author>.
+        <title>The Mortal Instruments: City of
+          Fallen Angels</title>.
+      </bibl>
+      <bibl>
+        <author>Clarke, Sir Arthur C.</author>
+        <title>2001: A Space Odyssey</title>.
+      </bibl>
+      <bibl>
+        <author>Clarke, Brock</author>.
+        <title>An Arsonist’s Guide to Writers’
+          Homes in New England</title>.
+      </bibl>
+      <bibl>
+        <author>Cleage, Pearl</author>.
+        <title>What Looks Like Crazy on an
+          Ordinary Day</title>.
+      </bibl>
+      <bibl>
+        <author>Christie, Agatha</author>.
+        <title>Mousetrap</title>.
+      </bibl>
+      <bibl>
+        <author>Constantine, Storm</author>.
+        <title>Sea Dragon Heir</title>.
+      </bibl>
+      <bibl>
+        <author>Constantine, Storm</author>.
+        <title>Wraeththu</title>.
+      </bibl>
+      <bibl>
+        <author>Croggon, Alison</author>.
+        <title>The Naming: The First Book of Pellinor</title>.
+      </bibl>
+      <bibl>
+        <author>Cunningham, Michael</author>.
+        <title>Flesh and Blood</title>.
+      </bibl>
+      <bibl>
+        <author>Cunningham, Michael</author>.
+        <title>A Home at the End of the World</title>.
+      </bibl>
+      <bibl>
+        <author>Danielewski, Mark Z.</author>
+        <title>House of Leaves</title>.
+      </bibl>
+      <bibl>
+        <author>David, Peter</author>.
+        <title>Young Justice: Sins of Youth</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Davis, Alan</author>.
+        <title>JLA: Another Nail</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Day, David</author>.
+        <title>The Search for King Arthur</title>.
+      </bibl>
+      <bibl>
+        <author>De Bodard, Aliette</author>.
+        <title>Servant of the Underworld</title>.
+      </bibl>
+      <bibl>
+        <author>Delany, Samuel R.</author>
+        <title>Babel-17</title>.
+      </bibl>
+      <bibl>
+        <author>Delany, Samuel R.</author>.
+        <title>Dhalgren</title>.
+      </bibl>
+      <bibl>
+        <author>Dick, Phillip</author>.
+        <title>Do Androids Dream of Electric Sheep?</title>.
+      </bibl>
+      <bibl>
+        <author>Doctorow, Cory</author>.
+        <title>Little Brother</title>.
+      </bibl>
+      <bibl>
+        <author>Dorst, Doug</author>.
+        <title>Alive in Necropolis</title>.
+      </bibl>
+      <bibl>
+        <author>Due, Tananarive</author>.
+        <title>The Living Blood</title>.
+      </bibl>
+      <bibl>
+        <author>Durham, David Anthony</author>.
+        </title>Acacia: The Other Lands</title>.
+      </bibl>
+      <bibl>
+        <author>Dumas, Alexander</author>.
+        <title>The Count of Monte Cristo</title>.
+      </bibl>
+      <bibl>
+        <author>Eichenwald, Kurt</author>.
+        <title>500 Days: Secrets and Lies in
+          the Terror Wars</title>.
+      </bibl>
+      <bibl>
+        <author>Edington, Ian</author>.
+        <title>Kingdom of the Wicked</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Edun, Terah</author>.
+        <title>Blades of Magic: Crown Service #1</title>.
+      </bibl>
+      <bibl>
+        <author>Eggers, Dave</author>.
+        <title>You Shall Know Our Velocity: or, Sacrament</title>.
+      </bibl>
+      <bibl>
+        <author>Eliot, T.S.</author>
+        <title>The Waste Land</title>.
+      </bibl>
+      <bibl>
+        <author>Elliott, Kate</author>.
+        <title>An Earthly Crown</title>.
+      </bibl>
+      <bibl>
+        <author>Elliott, Kate</author>.
+        <title>His Conquering Sword</title>.
+      </bibl>
+      <bibl>
+        <author>Elliott, Kate</author>.
+        <title>The Law of Becoming</title>.
+      </bibl>
+      <bibl>
+        <author>Elliott, Kate</author>, 
+        <author>Melanie Rawn</author>, and 
+        <author>Jennifer Roberson</author>.
+        <title>The Golden Key</title>.
+      </bibl>
+      <bibl>
+        <author>Ende, Michael</author>.
+        <title>The Neverending Story</title>.
+      </bibl>
+      <bibl>
+        <author>Ensler, Eve</author>.
+        <title>The Vagina Monologues</title>.
+      </bibl>
+      <bibl>
+        <author>Erdrich, Louise</author>.
+        <title>Love Medicine</title>.
+      </bibl>
+      <bibl>
+        <author>Fausto-Sterling, Anne</author>.
+        <title>The Myths of Gender</title>.
+      </bibl>
+      <bibl>
+        <author>Fausto-Sterling, Anne</author>.
+        <title>Sexing the Body</title>.
+      </bibl>
+      <bibl>
+        <author>Feintuch, David</author>.
+        <title>The Still</title>.
+      </bibl>
+      <bibl>
+        <author>Ferrante, Elena</author>.
+        <title>The Days of Abandonment</title>.
+      </bibl>
+      <bibl>
+        <author>Fielding, Helen</author>.
+        <title>Bridget Jones’s Diary</title>.
+      </bibl>
+      <bibl>
+        <author>Fitten, Marc</author>.
+        <title>Valeria's Last Stand</title>.
+      </bibl>
+      <bibl>
+        <author>Fitzhugh, Louise</author>.
+        <title>Nobody’s Family is Going to Change</title>.
+      </bibl>
+      <bibl>
+        <author>Fletcher, Jane</author>.
+        <title>The Exile and the Sorceress</title>.
+      </bibl>
+      <bibl>
+        <author>Flewelling, Lynn</author>.
+        <title>The White Road</title>.
+      </bibl>
+      <bibl>
+        <author>Forster, E.M.</author>
+        <title>A Passage to India</title>.
+      </bibl>
+      <bibl>
+        <author>Forster, E.M.</author>
+        <title>A Room with a View</title>.
+      </bibl>
+      <bibl>
+        <author>Forsyth, Kate</author>.
+        <title>The Tower of Ravens (Rhiannon's
+          Ride Vol. 1)</title>.
+      </bibl>
+      <bibl>
+        <author>Forsyth, Kate</author>.
+        <title>The Witches of Eileanan</title>.
+      </bibl>
+      <bibl>
+        <author>Fowler, Karen Joy</author>.
+        <title>The Jane Austen Book Club</title>.
+      </bibl>
+      <bibl>
+        <editor>Fox, Rose</editor> and 
+        <editor>Daniel Jose Elder</editor>.
+        <title>Long Hidden: Speculative Fiction from the 
+          Margins of History</title>.
+      </bibl>
+      <bibl>
+        <author>Francis, Patry</author>.
+        <title>The Liar’s Diary</title>.
+      </bibl>
+      <bibl>
+        <author>Frazier, Charles</author>.
+        <title>Cold Mountain</title>.
+      </bibl>
+      <bibl>
+        <author>Funke, Cornelia</author>.
+        <title>Inkdeath</title>.
+      </bibl>
+      <bibl>
+        <author>Gabaldon, Diana</author>.
+        <title>Outlander</title>.
+      </bibl>
+      <bibl>
+        <author>Gaiman, Neil</author> and 
+        <author>Michael Reaves</author>.
+        <title>Interworld</title>.
+      </bibl>
+      <bibl>
+        <author>Gibson, William</author>.
+        <title>Neuromancer</title>.
+      </bibl>
+      <bibl>
+        <author>Giddings, Paula J.</author>
+        <title>Ida: A Sword Among Lions</title>.
+      </bibl>
+      <bibl>
+        <author>Gleick, James</author>.
+        <title>Chaos: Making a New Science</title>.
+      </bibl>
+      <bibl>
+        <author>Grant, Michael</author>.
+        <title>Gone</title>.
+      </bibl>
+      <bibl>
+        <author>Grant, Mira</author>.
+        <title>Feed</title>.
+      </bibl>
+      <bibl>
+        <author>Green, Henry</author>.
+        <title>Living, Loving, Partly Going</title>.
+      </bibl>
+      <bibl>
+        <author>Griffith, Nicola</author>.
+        <title>Ammonite</title>.
+      </bibl>
+      <bibl>
+        <author>Griffith, Nicola</author>.
+        <title>Hild</title>.
+      </bibl>
+      <bibl>
+        <author>Goodman, Alison</author>.
+        <title>Singing the Dogstar Blues</title>.
+      </bibl>
+      <bibl>
+        <editor>Guay, Rebecca</editor>.
+        <title>A Flight of Angels</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Hagio, Moto</author>.
+        <title>A Drunken Dream and Other Stories</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Hahn, Steven</author>.
+        <title>A Nation Under Our Feet: Black Political Struggles 
+          in the Rural South from Slavery to the Great Migration</title>.
+      </bibl>
+      <bibl>
+        <author>Hammet, Dashiell</author>.
+        <title>The Maltese Falcon</title>.
+      </bibl>
+      <bibl>
+        <author>Harras, Bob</author>.
+        <title>JLA: World Without a Justice League</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Harris, Joanne</author>.
+        <title>Runemarks</title>.
+      </bibl>
+      <bibl>
+        <author>Harris-Perry, Melissa V.</author>
+        <title>Sister Citizen: Shame, Stereotypes, and 
+          Black Women in America</title>.
+      </bibl>
+      <bibl>
+        <author>Heaney, Seamus</author>.
+        <title>North</title>.
+      </bibl>
+      <bibl>
+        <author>Herbert, Frank</author>.
+        <title>Dune</title>.
+      </bibl>
+      <bibl>
+        <author>Hill, Stuart</author>.
+        <title>The Cry of the Icemark</title>.
+      </bibl>
+      <bibl>
+        <author>Hobb, Robin</author>.
+        <title>Golden Fool</title>.
+      </bibl>
+      <bibl>
+        <author>Hobb, Robin</author>.
+        <title>Fool's Fate</title>.
+      </bibl>
+      <bibl>
+        <author>Hodges, Andrew</author>.
+        <title>Alan Turing: The Enigma</title>.
+      </bibl>
+      <bibl>
+        <author>Homer</author>.
+        <title>The Iliad</title>.
+      </bibl>
+      <bibl>
+        <author>Hopkinson, Nalo</author>.
+        <title>Midnight Robber</title>.
+      </bibl>
+      <bibl>
+        <author>Hoyt, Sarah</author>.
+        <title>Heart of Light</title>.
+      </bibl>
+      <bibl>
+        <author>Hugo, Victor</author>.
+        <title>Les Miserables</title>.
+      </bibl>
+      <bibl>
+        <author>Hurley, Kameron</author>.
+        <title>We Have Always Fought: Essays on
+          Craft, Fiction and Fandom</title>.
+      </bibl>
+      <bibl>
+        <author>Hyde, Lewis</author>.
+        <title>Trickster Makes This World</title>.
+      </bibl>
+      <bibl>
+        <author>Irvine, Alexander</author>.
+        <title>A Scattering of Jades</title>.
+      </bibl>
+      <bibl>
+        <author>Isherwood, Christopher</author>.
+        <title>Goodbye to Berlin</title>.
+      </bibl>
+      <bibl>
+        <author>Jacob, Mira</author>.
+        <title>The Sleepwalker's Guide to Dancing</title>.
+      </bibl>
+      <bibl>
+        <author>Jacobs, Harriet</author>.
+        <title>Incidents in the Life of a Slave Girl</title>.
+      </bibl>
+      <bibl>
+        <author>James, Henry</author>.
+        <title>The Turn of the Screw and Other
+          Short Stories</title>.
+      </bibl>
+      <bibl>
+        <author>Jeffreys, Sheila</author>.
+        <title>The Spinster and Her Enemies</title>.
+      </bibl>
+      <bibl>
+        <author>Jemisin, N.K.</author>
+        <title>The Fifth Season</title>.
+      </bibl>
+      <bibl>
+        <author>Jordan, Robert</author>.
+        <title>The Eye of the World</title>.
+      </bibl>
+      <bibl>
+        <author>Kalpakian, Laura</author>.
+        <title>The Delinquent Virgin</title>.
+      </bibl>
+      <bibl>
+        <author>Karr, Mary</author>.
+        <title>The Liars' Club: A Memoir</title>.
+      </bibl>
+      <bibl>
+        <author>Kay, Elizabeth</author>.
+        <title>The Divide</title>.
+      </bibl>
+      <bibl>
+        <author>Kesey, Ken</author>.
+        <title>One Flew Over the Cuckoo’s Nest</title>.
+      </bibl>
+      <bibl>
+        <author>Kincaid, Jamaica</author>.
+        <title>A Small Place</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>A Letter of Mary</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>The Moor</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>O Jerusalem</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>Justice Hall</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>The Game</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>Locked Rooms</title>.
+      </bibl>
+      <bibl>
+        <author>King, Laurie R.</author>
+        <title>The Language of Bees</title>.
+      </bibl>
+      <bibl>
+        <author>King, Stephen</author>.
+        <title>11/22/63</title>.
+      </bibl>
+      <bibl>
+        <author>Kingsolver, Barbara</author>.
+        <title>The Bean Trees</title>.
+      </bibl>
+      <bibl>
+        <author>Kingsolver, Barbara</author>.
+        <title>The Poisonwood Bible</title>.
+      </bibl>
+      <bibl>
+        <author>Kipling, Rudyard</author>.
+        <title>Kim</title>.
+      </bibl>
+      <bibl>
+        <author>Knisley, Lucy</author>.
+        <title>An Age of License: A Travelogue</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Kowal, Mary Robinette</author>.
+        <title>Glamour and Glass</title>.
+      </bibl>
+      <bibl>
+        <author>Kushner, Ellen</author>.
+        <title>Thomas the Rhymer</title>.
+      </bibl>
+      <bibl>
+        <author>Kushner, Tony</author>.
+        <title>Angels in America Part One:
+          Millennium Approaches</title>.
+      </bibl>
+      <bibl>
+        <author>Larson, Erik</author>.
+        <title>The Devil in the White City</title>.
+      </bibl>
+      <bibl>
+        <author>Larson, Jonathan</author>.
+        <title>Rent</title>.
+      </bibl>
+      <bibl>
+        <author>Leckie, Ann</author>.
+        <title>Ancillary Justice</title>.
+      </bibl>
+      <bibl>
+        <author>Lee, Li-Young</author>.
+        <title>Book of My Nights</title>.
+      </bibl>
+      <bibl>
+        <author>Lee, Li-Young</author>.
+        <title>The Winged Seed: A Remembrance</title>.
+      </bibl>
+      <bibl>
+        <author>Levine, Gail Carson</author>.
+        <title>Writing Magic: Creating
+          Stories that Fly</title>.
+      </bibl>
+      <bibl>
+        <author>Lewis, John</author>, 
+        <author>Andrew Aydin</author>, and 
+        <author>Nate Powell</author>.
+        <title>March, Book Two</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Long, Mark</author>, 
+        <author>Jim Demonakos</author> and 
+        <author>Nate Powell</author>.
+        <title>The Silence of Our Friends</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Lonnrot, Elias</author>.
+        <title>The Kalevala: An Epic Poem After
+          Oral Tradition</title>.
+      </bibl>
+      <bibl>
+        <author>Lorde, Audre</author>.
+        <title>Sister Outsider</title>.
+      </bibl>
+      <bibl>
+        <author>Lorde, Audre</author>.
+        <title>Zami: A New Spelling of My Name – 
+          A Biomythology</title>.
+      </bibl>
+      <bibl>
+        <author>Lynch, Scott</author>.
+        <title>Red Seas Under Red Skies</title>.
+      </bibl>
+      <bibl>
+        <author>Mack, David</author>.
+        <title>Kabuki: Circle of Blood</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Maguire, Gregory</author>.
+        <title>The Dream Stealer</title>.
+      </bibl>
+      <bibl>
+        <author>Mann, Charles C.</author>
+        <title>1491: New Revelations of the
+          Americas Before Columbus</title>.
+      </bibl>
+      <bibl>
+        <author>Marley, Louise</author>.
+        <title>The Maquisarde</title>.
+      </bibl>
+      <bibl>
+        <author>Marz, Ron</author> and 
+        <author>Karl Kesel</author>.
+        <title>The Final Night</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Matarese, Jennifer</author>.
+        <title>Heroine Addiction</title>.
+      </bibl>
+      <bibl>
+        <author>Maxey, James</author>.
+        <title>Nobody Gets the Girl</title>.
+      </bibl>
+      <bibl>
+        <author>McGee, Harold</author>.
+        <title>On Food and Cooking: The Science
+          and Lore of the Kitchen</title>.
+      </bibl>
+      <bibl>
+        <author>McGuire, Seanan</author>.
+        <title>One Salt Sea</title>.
+      </bibl>
+      <bibl>
+        <author>McGuire, Seanan</author>.
+        <title>Ashes of Honor</title>.
+      </bibl>
+      <bibl>
+        <author>McGuire, Seanan</author>.
+        <title>Chimes at Midnight</title>.
+      </bibl>
+      <bibl>
+        <author>McGuire, Seanan</author>.
+        <title>The Winter Long</title>.
+      </bibl>
+      <bibl>
+        <author>McGuire, Seanan</author>.
+        <title>Sparrow Hill Road</title>.
+      </bibl>
+      <bibl>
+        <author>McHugh, Maureen</author>.
+        <title>Mission Child</title>.
+      </bibl>
+      <bibl>
+        <author>McMahon, Jennifer</author>.
+        <title>Island of Lost Girls</title>.
+      </bibl>
+      <bibl>
+        <author>McRobbie, Linda Rodriguez</author>.
+        <title>Princesses Behaving Badly: Real Stories from 
+          History Without the Fairy-Tale Endings</title>.
+      </bibl>
+      <bibl>
+        <author>Meltzer, Brad</author>.
+        <title>The Book of Lies</title>.
+      </bibl>
+      <bibl>
+        <author>Miéville, China</author>.
+        <title>The Scar</title>.
+      </bibl>
+      <bibl>
+        <author>Miller, Kirsten</author>.
+        <title>Kiki Strike: Inside the Shadow City</title>.
+      </bibl>
+      <bibl>
+        <author>Minnick, Fred</author>.
+        <title>Whiskey Women: The Untold Story of
+          How Women Saved Bourbon, Scotch, and Irish Whiskey</title>.
+      </bibl>
+      <bibl>
+        <author>Moore, Moira</author>.
+        <title>Resenting the Hero</title>.
+      </bibl>
+      <bibl>
+        <author>Murakami, Haruki</author>.
+        <title>After Dark</title>.
+      </bibl>
+      <bibl>
+        <author>Murakami, Haruki</author>.
+        <title>Kafka on the Shore</title>.
+      </bibl>
+      <bibl>
+        <author>Murdoch, Iris</author>.
+        <title>The Unicorn</title>.
+      </bibl>
+      <bibl>
+        <author>Murphy, Louise</author>.
+        <title>The True Story of Hansel and Gretel</title>.
+      </bibl>
+      <bibl>
+        <author>Myers, Walter Dean</author>.
+        <title>Dream Bearer</title>.
+      </bibl>
+      <bibl>
+        <author>Myers, Walter Dean</author>.
+        <title>Shooter</title>.
+      </bibl>
+      <bibl>
+        <author>Nagpal, Saraswati</author>.
+        <title>Sita: Daughter of the Earth</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Napoli, Donna Jo</author>.
+        <title>Beast</title>.
+      </bibl>
+      <bibl>
+        <author>Napoli, Donna Jo</author>.
+        <title>The Song of the Magdalene</title>.
+      </bibl>
+      <bibl>
+        <author>Nelson, Advid</author>.
+        <title>Rex Mundi: The Guardian of the Temple</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Niven, Larry</author>.
+        <title>Ringworld</title>.
+      </bibl>
+      <bibl>
+        <author>Nix, Garth</author>.
+        <title>Clariel</title>.
+      </bibl>
+      <bibl>
+        <author>Novik, Naomi</author>.
+        <title>Empire of Ivory</title>.
+      </bibl>
+      <bibl>
+        <author>Novik, Naomi</author>.
+        <title>Victory of Eagles</title>.
+      </bibl>
+      <bibl>
+        <author>Novik, Naomi</author>.
+        <title>Tongues of Serpents</title>.
+      </bibl>
+      <bibl>
+        <author>Novik, Naomi</author>.
+        <title>Crucible of Gold</title>.
+      </bibl>
+      <bibl>
+        <author>Oates, Joyce Carol</author>.
+        <title>Beasts</title>.
+      </bibl>
+      <bibl>
+        <author>Ogawa, Yoko</author>.
+        <title>The Housekeeper and the Professor</title>.
+      </bibl>
+      <bibl>
+        <author>O’Neill, Eugene</author>.
+        <title>Long Day’s Journey Into Night</title>.
+      </bibl>
+      <bibl>
+        <author>Parker, Jeff</author>.
+        <title>Mysterius the Unfathomable</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Parker, Jeff</author>.
+        <title>Underground</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Parks, Tim</author>.
+        <title>Cleaver</title>.
+      </bibl>
+      <bibl>
+        <author>Peace, David</author>.
+        <title>Tokyo Year Zero</title>.
+      </bibl>
+      <bibl>
+        <author>Peake, Mervyn</author>.
+        <title>Gormenghast</title>.
+      </bibl>
+      <bibl>
+        <author>Philbrick, Rodman</author>.
+        <title>Dark Matter</title>.
+      </bibl>
+      <bibl>
+        <author>Pierce, Tamora</author>.
+        <title>Beka Cooper: Bloodhound</title>.
+      </bibl>
+      <bibl>
+        <author>Pierce, Tamora</author>.
+        <title>Trickster’s Queen</title>.
+      </bibl>
+      <bibl>
+        <author>Pinker, Steven</author>.
+        <title>The Language Instinct: How the
+          Mind Creates Language</title>.
+      </bibl>
+      <bibl>
+        <author>Pinker, Steven</author>.
+        <title>The Stuff of Thought: Language as a Window
+          into Human Nature</title>.
+      </bibl>
+      <bibl>
+        <author>Pinto, Ricardo</author>.
+        <title>The Chosen</title>.
+      </bibl>
+      <bibl>
+        <author>Potok, Chaim</author>.
+        <title>The Chosen</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>Once More With Footnotes</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>The Dark Side of the Sun</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>Where’s My Cow?</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>Nation</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>Snuff</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>Dodger</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>The Long Mars</title>.
+      </bibl>
+      <bibl>
+        <author>Pratchett, Terry</author>.
+        <title>The Amazing Maurice and His Educated Rodents</title>.
+      </bibl>
+      <bibl>
+        <author>Prince, Liz</author>.
+        <title>Tomboy: A Graphic Memoir</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Pynchon, Thomas</author>.
+        <title>The Crying of Lot 49</title>.
+      </bibl>
+      <bibl>
+        <author>Rhys, Jean</author>.
+        <title>Wide Sargasso Sea</title>.
+      </bibl>
+      <bibl>
+        <author>Rodi, Robert</author>.
+        <title>What They Did to Princess Paragon</title>.
+      </bibl>
+      <bibl>
+        <author>Rubinstein, Gillian</author>.
+        <title>Tales of the Otori: Across
+          the Nightingale Floor</title>.
+      </bibl>
+      <bibl>
+        <author>Ruhlman, Michael</author>.
+        <title>Ratio: The Simple Codes Behind
+          the Craft of Everyday Cooking</title>.
+      </bibl>
+      <bibl>
+        <author>Rucka, Greg</author>.
+        <title>Bravo</title>.
+      </bibl>
+      <bibl>
+        <author>Rucka, Greg</author>.
+        <title>Keeper</title>.
+      </bibl>
+      <bibl>
+        <author>Rushdie, Salman</author>.
+        <title>East, West: stories</title>.
+      </bibl>
+      <bibl>
+        <author>Rushdie, Salman</author>.
+        <title>Fury</title>.
+      </bibl>
+      <bibl>
+        <author>Sagan, Carl</author>.
+        <title>Cosmos</title>.
+      </bibl>
+      <bibl>
+        <author>Saldaña, Rene</author>.
+        <title>Finding Our Way</title>.
+      </bibl>
+      <bibl>
+        <author>Sanderson, Brandon</author>.
+        <title>Steelheart</title>.
+      </bibl>
+      <bibl>
+        <author>Sanderson, Brandon</author>.
+        <title>Warbreaker</title>.
+      </bibl>
+      <bibl>
+        <author>Sanderson, Brandon</author>.
+        <title>Words of Radiance</title>.
+      </bibl>
+      <bibl>
+        <author>Scott, Melissa</author>.
+        <title>Dreamships</title>.
+      </bibl>
+      <bibl>
+        <author>Sebold, Alice</author>.
+        <title>The Almost Moon</title>.
+      </bibl>
+      <bibl>
+        <author>Sedaris, David</author>.
+        <title>Dress Your Family in Corduroy and Denim</title>.
+      </bibl>
+      <bibl>
+        <author>Sedaris, David</author>.
+        <title>Naked</title>.
+      </bibl>
+      <bibl>
+        <author>Senna, Danzy</author>.
+        <title>Caucasia</title>.
+      </bibl>
+      <bibl>
+        <author>Shakur, Assata</author>.
+        <title>Assata: An Autobiography</title>.
+      </bibl>
+      <bibl>
+        <author>Sheehan, Aurelie</author>.
+        <title>The Anxiety of Everyday Objects</title>.
+      </bibl>
+      <bibl>
+        <author>Sherman, Delia</author>.
+        <title>The Freedom Maze</title>.
+      </bibl>
+      <bibl>
+        <author>Shiga, Jason</author>.
+        <title>Bookhunter</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Shinn, Sharon</author>.
+        <title>The Shape-Changer’s Wife</title>.
+      </bibl>
+      <bibl>
+        <author>Slonczewski, Joan</author>.
+        <title>The Children Star</title>.
+      </bibl>
+      <bibl>
+        <author>Smith, Zadie</author>.
+        <title>White Teeth</title>.
+      </bibl>
+      <bibl>
+        <author>Spangler, K.B.</author>
+        <title>Digital Divide</title>.
+      </bibl>
+      <bibl>
+        <author>Spenser, Sir Edmund</author>.
+        <title>The Faerie Queen</title>.
+      </bibl>
+      <bibl>
+        <author>Spolsky, Joel</author>.
+        <title>Joel on Software</title>.
+      </bibl>
+      <bibl>
+        <author>Stephenson, Neal</author>.
+        <title>Anathem</title>.
+      </bibl>
+      <bibl>
+        <author>Stephenson, Neal</author>.
+        <title>Reamde</title>.
+      </bibl>
+      <bibl>
+        <author>Stephenson, Neal</author>.
+        <title>Snow Crash</title>.
+      </bibl>
+      <bibl>
+        <author>Stoppard, Tom</author>.
+        <title>Rosencrantz and Guildenstern Are Dead</title>.
+      </bibl>
+      <bibl>
+        <author>Sullivan, Tricia</author>.
+        <title>Lightborn</title>.
+      </bibl>
+      <bibl>
+        <author>Talbot, Bryan</author>.
+        <title>Alice in Sunderland</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Talbot, Mary M.</author>, 
+        <author>Kate Charlesworth</author>, and 
+        <author>Bryan Talbot</author>.
+        <title>Sally Heathcote: Suffragette</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Taylor, John H.</author>
+        <title>Death and the Afterlife in Ancient Egypt</title>.
+      </bibl>
+      <bibl>
+        <author>Tevis, Walter</author>.
+        <title>The Man Who Fell to Earth</title>.
+      </bibl>
+      <bibl>
+        <author>Thomas, Scarlett</author>.
+        <title>The End of Mr. Y</title>.
+      </bibl>
+      <bibl>
+        <author>Trivers, Robert</author>.
+        <title>The Folly of Fools: The Logic of
+          Deceit and Self-Deception in Human Life</title>.
+      </bibl>
+      <bibl>
+        <author>Tufte, Edward R.</author>
+        <title>The Visual Display of
+          Quantitative Information</title>.
+      </bibl>
+      <bibl>
+        <author>Unsworth, Barry</author>.
+        <title>Sacred Hunger</title>.
+      </bibl>
+      <bibl>
+        <author>Vinge, Joan D.</author>
+        <title>The Snow Queen</title>.
+      </bibl>
+      <bibl>
+        <author>Vonnegut, Kurt</author>.
+        <title>Sirens of Titan</title>.
+      </bibl>
+      <bibl>
+        <author>Vonnegut, Kurt</author>.
+        <title>Slaughterhouse Five</title>.
+      </bibl>
+      <bibl>
+        <author>Way, Gerard</author>.
+        <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
+        <catRef target="#tag.comics"/>
+      </bibl>
+      <bibl>
+        <author>Wellington, David</author>.
+        <title>13 Bullets</title>.
+      </bibl>
+      <bibl>
+        <author>Wells, Ida B.</author>
+        <title>Crusade for Justice: The Autobiography of Ida B. Wells</title>.
+      </bibl>
+      <bibl>
+        <author>Westerfeld, Scott</author>.
+        <title>Uglies</title>.
+      </bibl>
+      <bibl>
+        <author>Wharton, Edith</author>.
+        <title>Age of Innocence</title>.
+      </bibl>
+      <bibl>
+        <author>Williams, Tad</author>.
+        <title>Mirror World</title>.
+      </bibl>
+      <bibl>
+        <author>Woolf, Virginia</author>.
+        <title>Orlando</title>.
+      </bibl>
+      <bibl>
+        <author>Yancey, Richard</author>.
+        <title>The Highly Effective Detective</title>.
+      </bibl>
+    </body>
+  </text>
+</TEI>
