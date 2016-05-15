@@ -1,0 +1,25 @@
+<encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+  <classDecl>
+    <taxonomy xml:id="tag">
+      <bibl>Tags</bibl>
+      <category xml:id="tag.owned">
+        <catDesc>owned</catDesc>
+      </category>
+      <category xml:id="tag.comics">
+        <catDesc>comics</catDesc>
+      </category>
+      <category xml:id="tag.class">
+        <catDesc>classroom reading</catDesc>
+      </category>
+      <category xml:id="tag.nonfiction">
+        <catDesc>nonfiction</catDesc>
+      </category>
+      <category xml:id="tag.cookbook">
+        <catDesc>cookbook</catDesc>
+      </category>
+      <category xml:id="tag.kickstart">
+        <catDesc>Kickstarted</catDesc>
+      </category>
+    </taxonomy>
+  </classDecl>
+</encodingDesc>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng" 
+<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng"
   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -13,41 +13,83 @@
         <p>Just me, Ashley.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from the Open Office Document 
+        <p>Generated from the Open Office Document
           <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title>.
         </p>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <classDecl>
-        <taxonomy xml:id="tag">
-          <bibl>Tags</bibl>
-          <category xml:id="tag.owned">
-            <catDesc>owned</catDesc>
-          </category>
-          <category xml:id="tag.comics">
-            <catDesc>comics</catDesc>
-          </category>
-          <category xml:id="tag.class">
-            <catDesc>classroom reading</catDesc>
-          </category>
-          <category xml:id="tag.nonfiction">
-            <catDesc>nonfiction</catDesc>
-          </category>
-          <category xml:id="tag.cookbook">
-            <catDesc>cookbook</catDesc>
-          </category>
-          <category xml:id="tag.kickstart">
-            <catDesc>Kickstarted</catDesc>
-          </category>
-        </taxonomy>
-      </classDecl>
-    </encodingDesc>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
   </teiHeader>
   <text>
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="pini.w.elfquest.discovery">
+            <monogr>
+              <title>Elfquest: The Discovery</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <resp relation="letterer"/>
+                <persName ref="authors_3.0.xml#pini.w"/>
+              </respStmt>
+              <author>
+                <persName ref="authors_3.0.xml#pini.r"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2006"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Elfquest</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="brubaker.b.fatale.deathchasesme">
+            <monogr>
+              <title>Fatale: Death Chases Me</title>
+              <author>
+                <persName ref="authors_3.0.xml#brubaker.e"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#phillips.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="authors_3.0.xml#stewart.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2012"/>
+                <publisher>
+                  <orgName>Image</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Fatale</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="faustost.a.sexingbody">
+            <monogr>
+              <author>
+                <persName ref="authors_3.0.xml#faustost.a"/>
+              </author>
+              <title>Sexing the Body</title>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>Basic Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bradley.mz.firebrand">
             <monogr>
               <title>The Firebrand</title>
@@ -3149,9 +3191,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest1">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 1</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3167,9 +3212,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest7">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 7</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3185,9 +3233,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest8">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 8</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3203,9 +3254,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest9">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 9</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3221,9 +3275,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest10">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 10</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3239,9 +3296,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest11">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 11</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3257,9 +3317,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest12">
             <monogr>
               <title>Elfquest: The Grand Quest Vol. 12</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -3639,9 +3702,12 @@
           <biblStruct xml:id="pini.w.elfquest.dreamtime">
             <monogr>
               <title>Elfquest: Dreamtime</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -4032,9 +4098,12 @@
           <biblStruct xml:id="pini.w.elfquest.bloodtenchiefs">
             <monogr>
               <title>Elfquest: Blood of Ten Chiefs</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -4050,9 +4119,12 @@
           <biblStruct xml:id="pini.w.elfquest.roguescurse">
             <monogr>
               <title>Elfquest: Rogue's Curse</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -5455,9 +5527,12 @@
           <biblStruct xml:id="pini.w.elfquest.hiddenyears">
             <monogr>
               <title>ElfQuest: The Hidden Years</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -5651,9 +5726,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest3">
             <monogr>
               <title>ElfQuest: The Grand Quest Vol. 3</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -5669,9 +5747,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest4">
             <monogr>
               <title>ElfQuest: The Grand Quest Vol. 4</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>
@@ -5830,9 +5911,12 @@
           <biblStruct xml:id="pini.w.elfquest.grandquest5">
             <monogr>
               <title>ElfQuest: The Grand Quest Vol. 5</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="letterer"/>
                 <persName ref="authors_3.0.xml#pini.w"/>
-              </author>
+              </respStmt>
               <author>
                 <persName ref="authors_3.0.xml#pini.r"/>
               </author>

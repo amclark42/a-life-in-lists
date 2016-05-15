@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng" 
+<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng"
   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -12,20 +12,34 @@
         <p>Just me, Ashley.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from the Open Office Document 
+        <p>Generated from the Open Office Document
           <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title>.
         </p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2016-04-03" who="aclark.ash">Added @evidence to all gender elements. 
-        Default is "conjecture." There weren't many I was comfortable claiming as 
+      <change when="2016-04-03" who="amclark42">Added <att>evidence</att> to all gender elements.
+        Default is "conjecture." There weren't many I was comfortable claiming as
         "self-identification."</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPerson>
+        <person xml:id="phillips.s">
+          <persName>
+            <forename>Sean</forename>
+            <surname>Phillips</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="faustost.a">
+          <persName>
+            <forename>Anne</forename>
+            <surname>Fausto-Sterling</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
         <person xml:id="bradley.mz">
           <persName>
             <forename>Marion</forename>

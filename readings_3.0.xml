@@ -22,6 +22,15 @@
   <text>
     <body>
       <listEvent>
+        <event when="2016-05-13">
+          <p>Read <ref target="booksRead_3.0.xml#brubaker.b.fatale.deathchasesme">Fatale: Death Chases Me</ref>.</p>
+        </event>
+        <event when="2016-05-13">
+          <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.discovery">Elfquest: The Discovery</ref>.</p>
+        </event>
+        <event from="2016-05-10">
+          <p>Read <ref target="booksRead_3.0.xml#faustost.a.sexingbody">Sexing the Body</ref>.</p>
+        </event>
         <event from="2016-04-30" to="2016-05-07">
           <p>Started <ref target="booksRead_3.0.xml#bradley.mz.firebrand">The Firebrand</ref>. Left unfinished.</p>
         </event>
