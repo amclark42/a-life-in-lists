@@ -22,13 +22,19 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-05-29">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.onesaltsea">One Salt Sea</ref>.</p>
+        </event>
+        <event from="2016-05-26" to="2016-05-27">
+          <p>Read <ref target="booksRead_3.0.xml#kushner.t.angelsmillennium">Angels in America Part One: Millennium Approaches</ref>.</p>
+        </event>
         <event when="2016-05-13">
           <p>Read <ref target="booksRead_3.0.xml#brubaker.b.fatale.deathchasesme">Fatale: Death Chases Me</ref>.</p>
         </event>
         <event when="2016-05-13">
           <p>Read <ref target="booksRead_3.0.xml#pini.w.elfquest.discovery">Elfquest: The Discovery</ref>.</p>
         </event>
-        <event from="2016-05-10">
+        <event from="2016-05-10" to="2016-05-28">
           <p>Read <ref target="booksRead_3.0.xml#faustost.a.sexingbody">Sexing the Body</ref>.</p>
         </event>
         <event from="2016-04-30" to="2016-05-07">

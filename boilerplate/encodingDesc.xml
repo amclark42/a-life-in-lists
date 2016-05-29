@@ -17,6 +17,9 @@
       <category xml:id="tag.cookbook">
         <catDesc>cookbook</catDesc>
       </category>
+      <category xml:id="tag.drama">
+        <catDesc>drama</catDesc>
+      </category>
       <category xml:id="tag.kickstart">
         <catDesc>Kickstarted</catDesc>
       </category>

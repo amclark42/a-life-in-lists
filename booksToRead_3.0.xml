@@ -22,9 +22,9 @@
       <listChange>
         <change who="amclark42" when="2016-05-15">
           <list>
-            <item>Added XIncluded <gi>encodingDesc</gi> from booksRead_3.0.xml;</item>
+            <item>Added XIncluded <gi>encodingDesc</gi> from ;</item>
             <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; and </item>
-            <item>started using <gi>date</gi> with <att>type</att> of "added" to keep 
+            <item>started using <gi>date</gi> with <att>type</att> of "added" to keep
               track of how long items stay on this list.</item>
           </list>
         </change>
@@ -49,7 +49,7 @@
           <author>Agi, Tadashi</author> &amp;
           <author>Shu Okimoto</author>.
           <title>The Drops of God Vol. 1</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Alexander, Christopher</author>.
@@ -89,7 +89,7 @@
         <bibl>
           <author>Annable, Graham</author>.
           <title>Book of Grickle</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Armstrong, Karen</author>.
@@ -99,7 +99,7 @@
         <bibl>
           <author>Asano, Inio</author>.
           <title>Solanin</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Atwood, Margaret</author>.
@@ -125,12 +125,12 @@
           <author>Azzarello, Brian</author> and
           <author>Cliff Chiang</author>.
           <title>Doctor 13: Architecture and Mortality</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>B., David</author>.
           <title>Epileptic</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Bacigalupi, Paolo</author>.
@@ -140,12 +140,12 @@
           <author>Baker, Kyle</author>.
           <title>How to Draw Stupid and Other
             Essentials of Cartooning</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Baker, Kyle</author>.
           <title>Plastic Man: Rubber Bandits</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Baker, L.J.</author>
@@ -204,8 +204,7 @@
         </bibl>
         <bibl>
           <author>Bornstein, Kate</author>.
-          <title>Gender Outlaws: On Men, Women and
-            the Rest of Us</title>.
+          <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
         </bibl>
         <bibl>
           <author>Bradbury, Ray</author>.
@@ -233,8 +232,7 @@
         </bibl>
         <bibl>
           <author>Brumberg, Joan Jacobs</author>.
-          <title>The Body Project: An Intimate History of
-            American Girls</title>.
+          <title>The Body Project: An Intimate History of American Girls</title>.
         </bibl>
         <bibl>
           <author>Brust, Steven</author>.
@@ -274,12 +272,16 @@
         </bibl>
         <bibl>
           <editor>Chabon, Michael</editor>.
-          <title>McSweeney’s Mammoth Treasury
-            of Thrilling Tales</title>.
+          <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
         </bibl>
         <bibl>
           <author>Chabon, Michael</author>.
           <title>Werewolves in Their Youth</title>.
+        </bibl>
+        <bibl>
+          <author>Chauncey, George</author>.
+          <title>Gay New York: Gender, Urban Culture and the Making of the Gay Male World</title>.
+          <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Cheng'en, Wu</author>.
@@ -292,13 +294,11 @@
         </bibl>
         <bibl>
           <author>Chiang, Ted</author>.
-          <title>Stories of Your Life and
-            Others</title>.
+          <title>Stories of Your Life and Others</title>.
         </bibl>
         <bibl>
           <author>Clare, Cassandra</author>.
-          <title>The Mortal Instruments: City of
-            Fallen Angels</title>.
+          <title>The Mortal Instruments: City of Fallen Angels</title>.
         </bibl>
         <bibl>
           <author>Clarke, Sir Arthur C.</author>
@@ -345,12 +345,12 @@
         <bibl>
           <author>David, Peter</author>.
           <title>Young Justice: Sins of Youth</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Davis, Alan</author>.
           <title>JLA: Another Nail</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Day, David</author>.
@@ -367,6 +367,12 @@
         <bibl>
           <author>Delany, Samuel R.</author>.
           <title>Dhalgren</title>.
+        </bibl>
+        <bibl>
+          <author>D'Emilio, John</author> and
+          <author>Estelle B. Freedman</author>.
+          <title>Initimate Matters: A History of Sexuality in America</title>.
+          <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Dick, Phillip</author>.
@@ -393,14 +399,9 @@
           <title>The Count of Monte Cristo</title>.
         </bibl>
         <bibl>
-          <author>Eichenwald, Kurt</author>.
-          <title>500 Days: Secrets and Lies in
-            the Terror Wars</title>.
-        </bibl>
-        <bibl>
           <author>Edington, Ian</author>.
           <title>Kingdom of the Wicked</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Edun, Terah</author>.
@@ -409,6 +410,16 @@
         <bibl>
           <author>Eggers, Dave</author>.
           <title>You Shall Know Our Velocity: or, Sacrament</title>.
+        </bibl>
+        <bibl>
+          <author>Ehrenreich, Barbara</author>.
+          <title>The Hearts of Men: American Dreams and the Flight from Commitment</title>.
+          <date type="added" when="2016-05-29"/>
+        </bibl>
+        <bibl>
+          <author>Eichenwald, Kurt</author>.
+          <title>500 Days: Secrets and Lies in
+            the Terror Wars</title>.
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -562,12 +573,12 @@
         <bibl>
           <editor>Guay, Rebecca</editor>.
           <title>A Flight of Angels</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Hagio, Moto</author>.
           <title>A Drunken Dream and Other Stories</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Hahn, Steven</author>.
@@ -581,7 +592,7 @@
         <bibl>
           <author>Harras, Bob</author>.
           <title>JLA: World Without a Justice League</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Harris, Joanne</author>.
@@ -608,7 +619,7 @@
         <bibl>
           <author>Hicks, Faith Erin</author>.
           <title>The Nameless City</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
           <date type="added" when="2016-05-15"/>
         </bibl>
         <bibl>
@@ -752,13 +763,13 @@
         <bibl>
           <author>Knisley, Lucy</author>.
           <title>An Age of License: A Travelogue</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Knisley, Lucy</author>.
           <title>Something New</title>.
           <date type="added" when="2016-05-15"/>
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Kowal, Mary Robinette</author>.
@@ -770,8 +781,8 @@
         </bibl>
         <bibl>
           <author>Kushner, Tony</author>.
-          <title>Angels in America Part One:
-            Millennium Approaches</title>.
+          <title>Angels in America Part Two: Perestroika</title>.
+          <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Larson, Erik</author>.
@@ -803,14 +814,14 @@
           <author>Andrew Aydin</author>, and
           <author>Nate Powell</author>.
           <title>March, Book Two</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Long, Mark</author>,
           <author>Jim Demonakos</author> and
           <author>Nate Powell</author>.
           <title>The Silence of Our Friends</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Lonnrot, Elias</author>.
@@ -832,7 +843,7 @@
         <bibl>
           <author>Mack, David</author>.
           <title>Kabuki: Circle of Blood</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Maguire, Gregory</author>.
@@ -851,7 +862,7 @@
           <author>Marz, Ron</author> and
           <author>Karl Kesel</author>.
           <title>The Final Night</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Matarese, Jennifer</author>.
@@ -862,13 +873,14 @@
           <title>Nobody Gets the Girl</title>.
         </bibl>
         <bibl>
+          <author>May, Elaine T.</author>
+          <title>Barren in the Promised Land: Childless Americans and the Pursuit of Happiness</title>.
+          <date type="added" when="2016-05-29"/>
+        </bibl>
+        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science
             and Lore of the Kitchen</title>.
-        </bibl>
-        <bibl>
-          <author>McGuire, Seanan</author>.
-          <title>One Salt Sea</title>.
         </bibl>
         <bibl>
           <author>McGuire, Seanan</author>.
@@ -947,7 +959,7 @@
           <bibl>
             <author>Nagpal, Saraswati</author>.
             <title>Sita: Daughter of the Earth</title>.
-            <trait ref="booksRead_3.0.xml#tag.comics"/>
+            <trait ref="#tag.comics"/>
           </bibl>
           <bibl>
             <author>Napoli, Donna Jo</author>.
@@ -960,7 +972,7 @@
           <bibl>
             <author>Nelson, Advid</author>.
             <title>Rex Mundi: The Guardian of the Temple</title>.
-            <trait ref="booksRead_3.0.xml#tag.comics"/>
+            <trait ref="#tag.comics"/>
           </bibl>
           <bibl>
             <author>Niven, Larry</author>.
@@ -987,6 +999,12 @@
             <title>Crucible of Gold</title>.
           </bibl>
           <bibl>
+            <author>Nugent, Alida</author>.
+            <title>You Don't Have to Like Me: Essays on Growing Up, Speaking Out,
+              and Finding Feminism</title>
+            <date type="added" when="2016-05-20"/>
+          </bibl>
+          <bibl>
             <author>Oates, Joyce Carol</author>.
             <title>Beasts</title>.
           </bibl>
@@ -1001,12 +1019,12 @@
           <bibl>
             <author>Parker, Jeff</author>.
             <title>Mysterius the Unfathomable</title>.
-            <trait ref="booksRead_3.0.xml#tag.comics"/>
+            <trait ref="#tag.comics"/>
           </bibl>
           <bibl>
             <author>Parker, Jeff</author>.
             <title>Underground</title>.
-            <trait ref="booksRead_3.0.xml#tag.comics"/>
+            <trait ref="#tag.comics"/>
           </bibl>
           <bibl>
             <author>Parks, Tim</author>.
@@ -1085,7 +1103,7 @@
         <bibl>
           <author>Prince, Liz</author>.
           <title>Tomboy: A Graphic Memoir</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Pynchon, Thomas</author>.
@@ -1176,7 +1194,7 @@
         <bibl>
           <author>Shiga, Jason</author>.
           <title>Bookhunter</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Shinn, Sharon</author>.
@@ -1225,14 +1243,14 @@
         <bibl>
           <author>Talbot, Bryan</author>.
           <title>Alice in Sunderland</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Talbot, Mary M.</author>,
           <author>Kate Charlesworth</author>, and
           <author>Bryan Talbot</author>.
           <title>Sally Heathcote: Suffragette</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Taylor, John H.</author>
@@ -1275,7 +1293,7 @@
         <bibl>
           <author>Way, Gerard</author>.
           <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
-          <trait ref="booksRead_3.0.xml#tag.comics"/>
+          <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Wellington, David</author>.

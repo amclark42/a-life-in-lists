@@ -24,6 +24,41 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="mcguire.s.onesaltsea">
+            <monogr>
+              <title>One Salt Sea</title>
+              <author>
+                <persName ref="authors_3.0.xml#mcguire.s"/>
+              </author>
+              <imprint>
+                <date when="2011"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="kushner.t.angelsmillennium">
+            <monogr>
+              <title>Angels in America Part One: Millennium Approaches</title>
+              <author>
+                <persName ref="authors_3.0.xml#kushner.t"/>
+              </author>
+              <imprint>
+                <date when="1992"/>
+                <publisher>
+                  <catRef target="#tag.drama"/>
+                  <orgName>Theatre Communications Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Angels in America</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="pini.w.elfquest.discovery">
             <monogr>
               <title>Elfquest: The Discovery</title>
@@ -80,7 +115,7 @@
               <author>
                 <persName ref="authors_3.0.xml#faustost.a"/>
               </author>
-              <title>Sexing the Body</title>
+              <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
               <imprint>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2000"/>
@@ -8495,7 +8530,7 @@
           </biblStruct>
           <biblStruct xml:id="mori.k.emma.1">
             <monogr>
-              <title>Emma Vol.1</title>
+              <title>Emma Vol. 1</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
