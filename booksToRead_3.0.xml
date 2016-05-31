@@ -22,7 +22,7 @@
       <listChange>
         <change who="amclark42" when="2016-05-15">
           <list>
-            <item>Added XIncluded <gi>encodingDesc</gi> from ;</item>
+            <item>Added XIncluded <gi>encodingDesc</gi>.</item>
             <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; and </item>
             <item>started using <gi>date</gi> with <att>type</att> of "added" to keep
               track of how long items stay on this list.</item>

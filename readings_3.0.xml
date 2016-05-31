@@ -22,7 +22,10 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-05-29">
+        <event from="2016-05-30">
+          <p>Read <ref target="booksRead_3.0.xml#fforde.j.eyreaffair">The Eyre Affair</ref>.</p>
+        </event>
+        <event when="2016-05-29">
           <p>Read <ref target="booksRead_3.0.xml#mcguire.s.onesaltsea">One Salt Sea</ref>.</p>
         </event>
         <event from="2016-05-26" to="2016-05-27">

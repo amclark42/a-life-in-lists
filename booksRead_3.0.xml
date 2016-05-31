@@ -24,6 +24,23 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="fforde.j.eyreaffair">
+            <monogr>
+              <title>The Eyre Affair</title>
+              <author>
+                <persName ref="authors_3.0.xml#fforde.j"/>
+              </author>
+              <imprint>
+                <date when="2001"/>
+                <publisher>
+                  <orgName>New England Library</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Thursday Next</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="mcguire.s.onesaltsea">
             <monogr>
               <title>One Salt Sea</title>
