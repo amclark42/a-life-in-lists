@@ -12,15 +12,13 @@
         <p></p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from the Microsoft Word Document
-          <title type="filename">Quotes.doc</title>.
-        </p>
+        <p>Generated from the Microsoft Word Document <title type="filename">Quotes.doc</title>.</p>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
       <listChange>
-        <change when="2016-03-29">Completed re-encoding after OxGarage's conversion from DOCX.</change>
-        <change when="2016-02-24">Changed //bibl/persName to //bibl/author, and began using &lt;series&gt; to refer to some titles.</change>
+        <change when="2016-03-29">Completed re-encoding after OxGarage’s conversion from DOCX.</change>
+        <change when="2016-02-24">Changed //bibl/persName to //bibl/author, and began using <gi>series</gi> to refer to some titles.</change>
         <change when="2016-02-23">Reversed order of items so that the first are the most recently added.</change>
         <change when="2016-02-22">Itemized quotes and their bibls, but did not otherwise reformat.</change>
       </listChange>
@@ -29,6 +27,19 @@
   <text>
     <body>
       <list>
+        <item>
+          <quote>
+            <p>All at once I liked her. She was a flat, sure, and she was spoiled, 
+              for damn sure, but she’d done her best to think things through, and 
+              she was trying hard not to make the same mistake twice. Some days you 
+              got to accept that’s all you can do, and it takes guts to admit that’s 
+              the kind of day you’re up against.</p>
+          </quote>
+          <bibl>
+            <author>Sarah Monette</author>,
+            <title>Mélusine</title>
+          </bibl>
+        </item>
         <item>
           <quote>
             <p>It is likely that, politically or otherwise, marginal people always
@@ -100,7 +111,7 @@
               of difference are socially neutral. Today’s statistical tests,
               however, evolved from efforts to differentiate elements of human
               society, to make plain the differences between various social groups
-              (rich and poor; the law-abiding and the crimial; the Caucasian and the
+              (rich and poor; the law-abiding and the criminal; the Caucasian and the
               Negro; male and female; the English and the Irish; the heterosexual
               and the homosexual—to name but a few).</p>
           </quote>
@@ -155,7 +166,7 @@
           </sp>
           <sp>
             <speaker>Prior</speaker>
-            <p>You could never be a lawyer because you are oversexed. You're too 
+            <p>You could never be a lawyer because you are oversexed. You’re too 
               distracted.</p>
           </sp>
           <sp>
@@ -184,7 +195,7 @@
             <p>That it should be the questions and shape of a life, its total 
               complexity gathered, arranged and considered, which matters in the end, 
               not some stamp of salvation or damnation which disperses all the 
-              complexity in some unsatisfying little decision--the balancing of the 
+              complexity in some unsatisfying little decision—the balancing of the 
               scales...</p>
           </sp>
           <bibl>
@@ -291,8 +302,7 @@
         </item>
         <item>
           <quote>
-            <p>I guess off the map is still
-              <hi rend="italic">someone’s</hi> map.</p>
+            <p>I guess off the map is still <hi rend="italic">someone’s</hi> map.</p>
           </quote>
           <bibl>
             <author key="hidier.td.bombayblues">Tanuja Desai Hidier</author>,
@@ -301,12 +311,11 @@
         </item>
         <item>
           <quote>
-            <p>Home was certainly not a place. That’s why there was
-              no place like it. I wasn't even sure it was a noun -
-              more a verb, a direction. A movement, horse in motion,
-              towards a feeling.</p>
-            <p>Of sanctuary. Which you might find in a place. In a
-              person. A song. Sight.</p>
+            <p>Home was certainly not a place. That’s why there was no place like 
+              it. I wasn’t even sure it was a noun—more a verb, a direction. A 
+              movement, horse in motion, towards a feeling.</p>
+            <p>Of sanctuary. Which you might find in a place. In a person. A song. 
+              Sight.</p>
           </quote>
           <bibl>
             <author key="hidier.td">Tanuja Desai Hidier</author>,
@@ -334,7 +343,6 @@
           <bibl>
             <author key="kerr.p">Peg Kerr</author>,
             <title key="kerr.p.wildswans" rend="italic">The Wild Swans</title>
-            <ref/>
           </bibl>
         </item>
         <item>
@@ -3001,13 +3009,13 @@
             <p>My father, for those who came in late, is a (now retired) professor of
               English, and I’ve taken several courses from him over the years. He’s a
               remarkable teacher, dressed up in his professorial sweater (for Dad, it
-              was always a sweater -- I’m not sure why, but to this day when he
+              was always a sweater — I’m not sure why, but to this day when he
               happens to wear a sweater I have an urge to take notes and pretend to be
               listening to what he says) and sipping tea in the front of the class. He
               guides discussion deftly, leads commentary adroitly, and has a
               remarkable facility to remember what others have written about a book
               essentially verbatim. And when you think you have him cornered and
-              you’re closing in for the kill -- rhetorically speaking -- he has this
+              you’re closing in for the kill — rhetorically speaking — he has this
               annoying habit of smiling, looking a bit proud, and saying "you know,
               there’s probably a paper in that." And then you have to write it.</p>
           </quote>
@@ -3920,7 +3928,7 @@
           <quote>
             <p>Once you’ve written something it’s not yours any longer: it belongs to
               other people, and they all have opinions about it, and every single one
-              of those opinions is as correct as that of the author--more so,
+              of those opinions is as correct as that of the author—more so,
               perhaps.</p>
           </quote>
           <bibl><author>Neil Gaiman</author></bibl>

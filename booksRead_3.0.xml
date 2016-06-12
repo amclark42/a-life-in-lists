@@ -1752,7 +1752,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2005"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>

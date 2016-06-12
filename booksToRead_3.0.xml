@@ -102,6 +102,11 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Ashby, Madeline</author>.
+          <title>Company Town</title>.
+          <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
           <author>Atwood, Margaret</author>.
           <title>Cat’s Eye</title>.
         </bibl>
@@ -178,6 +183,11 @@
           <title>The Jaguar Princess</title>.
         </bibl>
         <bibl>
+          <author>Bergemann, Rosalind A.</author>.
+          <title>An Asperger's Guide to Public Speaking</title>.
+          <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
           <author>Berube, Allan</author>.
           <title>Coming Out Under Fire: The History
             of Gay Men and Women in World War Two</title>.
@@ -213,6 +223,11 @@
         <bibl>
           <author>Brande, Robin</author>.
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
+        </bibl>
+        <bibl>
+          <author>Bray, Libba</author>.
+          <title>Beauty Queens</title>.
+          <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
           <author>Briggs, Patricia</author>.
@@ -749,6 +764,11 @@
           <title>11/22/63</title>.
         </bibl>
         <bibl>
+          <author>Kingfisher, T.</author>
+          <title>The Seventh Bride</title>.
+          <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
           <author>Kingsolver, Barbara</author>.
           <title>The Bean Trees</title>.
         </bibl>
@@ -846,6 +866,11 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>McGuire, Seanan</author>.
+          <title>Ashes of Honor</title>.
+          <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
           <author>Maguire, Gregory</author>.
           <title>The Dream Stealer</title>.
         </bibl>
@@ -928,154 +953,159 @@
           <title>Whiskey Women: The Untold Story of
             How Women Saved Bourbon, Scotch, and Irish Whiskey</title>.
         </bibl>
-          <bibl>
-            <author>Moore, Moira</author>.
-            <title>Resenting the Hero</title>.
-          </bibl>
-          <bibl>
-            <author>Murakami, Haruki</author>.
-            <title>After Dark</title>.
-          </bibl>
-          <bibl>
-            <author>Murakami, Haruki</author>.
-            <title>Kafka on the Shore</title>.
-          </bibl>
-          <bibl>
-            <author>Murdoch, Iris</author>.
-            <title>The Unicorn</title>.
-          </bibl>
-          <bibl>
-            <author>Murphy, Louise</author>.
-            <title>The True Story of Hansel and Gretel</title>.
-          </bibl>
-          <bibl>
-            <author>Myers, Walter Dean</author>.
-            <title>Dream Bearer</title>.
-          </bibl>
-          <bibl>
-            <author>Myers, Walter Dean</author>.
-            <title>Shooter</title>.
-          </bibl>
-          <bibl>
-            <author>Nagpal, Saraswati</author>.
-            <title>Sita: Daughter of the Earth</title>.
-            <trait ref="#tag.comics"/>
-          </bibl>
-          <bibl>
-            <author>Napoli, Donna Jo</author>.
-            <title>Beast</title>.
-          </bibl>
-          <bibl>
-            <author>Napoli, Donna Jo</author>.
-            <title>The Song of the Magdalene</title>.
-          </bibl>
-          <bibl>
-            <author>Nelson, Advid</author>.
-            <title>Rex Mundi: The Guardian of the Temple</title>.
-            <trait ref="#tag.comics"/>
-          </bibl>
-          <bibl>
-            <author>Niven, Larry</author>.
-            <title>Ringworld</title>.
-          </bibl>
-          <bibl>
-            <author>Nix, Garth</author>.
-            <title>Clariel</title>.
-          </bibl>
-          <bibl>
-            <author>Novik, Naomi</author>.
-            <title>Empire of Ivory</title>.
-          </bibl>
-          <bibl>
-            <author>Novik, Naomi</author>.
-            <title>Victory of Eagles</title>.
-          </bibl>
-          <bibl>
-            <author>Novik, Naomi</author>.
-            <title>Tongues of Serpents</title>.
-          </bibl>
-          <bibl>
-            <author>Novik, Naomi</author>.
-            <title>Crucible of Gold</title>.
-          </bibl>
-          <bibl>
-            <author>Nugent, Alida</author>.
-            <title>You Don't Have to Like Me: Essays on Growing Up, Speaking Out,
-              and Finding Feminism</title>
-            <date type="added" when="2016-05-20"/>
-          </bibl>
-          <bibl>
-            <author>Oates, Joyce Carol</author>.
-            <title>Beasts</title>.
-          </bibl>
-          <bibl>
-            <author>Ogawa, Yoko</author>.
-            <title>The Housekeeper and the Professor</title>.
-          </bibl>
-          <bibl>
-            <author>O’Neill, Eugene</author>.
-            <title>Long Day’s Journey Into Night</title>.
-          </bibl>
-          <bibl>
-            <author>Parker, Jeff</author>.
-            <title>Mysterius the Unfathomable</title>.
-            <trait ref="#tag.comics"/>
-          </bibl>
-          <bibl>
-            <author>Parker, Jeff</author>.
-            <title>Underground</title>.
-            <trait ref="#tag.comics"/>
-          </bibl>
-          <bibl>
-            <author>Parks, Tim</author>.
-            <title>Cleaver</title>.
-          </bibl>
-          <bibl>
-            <author>Peace, David</author>.
-            <title>Tokyo Year Zero</title>.
-          </bibl>
-          <bibl>
-            <author>Peake, Mervyn</author>.
-            <title>Gormenghast</title>.
-          </bibl>
-          <bibl>
-            <author>Philbrick, Rodman</author>.
-            <title>Dark Matter</title>.
-          </bibl>
-          <bibl>
-            <author>Pierce, Tamora</author>.
-            <title>Beka Cooper: Bloodhound</title>.
-          </bibl>
-          <bibl>
-            <author>Pierce, Tamora</author>.
-            <title>Trickster’s Queen</title>.
-          </bibl>
-          <bibl>
-            <author>Pinker, Steven</author>.
-            <title>The Language Instinct: How the
-              Mind Creates Language</title>.
-          </bibl>
-          <bibl>
-            <author>Pinker, Steven</author>.
-            <title>The Stuff of Thought: Language as a Window
-              into Human Nature</title>.
-          </bibl>
-          <bibl>
-            <author>Pinto, Ricardo</author>.
-            <title>The Chosen</title>.
-          </bibl>
-          <bibl>
-            <author>Potok, Chaim</author>.
-            <title>The Chosen</title>.
-          </bibl>
-          <bibl>
-            <author>Pratchett, Terry</author>.
-            <title>Once More With Footnotes</title>.
-          </bibl>
-          <bibl>
-            <author>Pratchett, Terry</author>.
-            <title>The Dark Side of the Sun</title>.
-          </bibl>
+        <bibl>
+          <author>Moore, Moira</author>.
+          <title>Resenting the Hero</title>.
+        </bibl>
+        <bibl>
+          <author>Murakami, Haruki</author>.
+          <title>After Dark</title>.
+        </bibl>
+        <bibl>
+          <author>Murakami, Haruki</author>.
+          <title>Kafka on the Shore</title>.
+        </bibl>
+        <bibl>
+          <author>Murdoch, Iris</author>.
+          <title>The Unicorn</title>.
+        </bibl>
+        <bibl>
+          <author>Murphy, Louise</author>.
+          <title>The True Story of Hansel and Gretel</title>.
+        </bibl>
+        <bibl>
+          <author>Myers, Walter Dean</author>.
+          <title>Dream Bearer</title>.
+        </bibl>
+        <bibl>
+          <author>Myers, Walter Dean</author>.
+          <title>Shooter</title>.
+        </bibl>
+        <bibl>
+          <author>Nagpal, Saraswati</author>.
+          <title>Sita: Daughter of the Earth</title>.
+          <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Napoli, Donna Jo</author>.
+          <title>Beast</title>.
+        </bibl>
+        <bibl>
+          <author>Napoli, Donna Jo</author>.
+          <title>The Song of the Magdalene</title>.
+        </bibl>
+        <bibl>
+          <author>Nelson, Advid</author>.
+          <title>Rex Mundi: The Guardian of the Temple</title>.
+          <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Niven, Larry</author>.
+          <title>Ringworld</title>.
+        </bibl>
+        <bibl>
+          <author>Nix, Garth</author>.
+          <title>Clariel</title>.
+        </bibl>
+        <bibl>
+          <author>Novik, Naomi</author>.
+          <title>Empire of Ivory</title>.
+        </bibl>
+        <bibl>
+          <author>Novik, Naomi</author>.
+          <title>Victory of Eagles</title>.
+        </bibl>
+        <bibl>
+          <author>Novik, Naomi</author>.
+          <title>Tongues of Serpents</title>.
+        </bibl>
+        <bibl>
+          <author>Novik, Naomi</author>.
+          <title>Crucible of Gold</title>.
+        </bibl>
+        <bibl>
+          <author>Nugent, Alida</author>.
+          <title>You Don't Have to Like Me: Essays on Growing Up, Speaking Out,
+            and Finding Feminism</title>
+          <date type="added" when="2016-05-20"/>
+        </bibl>
+        <bibl>
+          <author>Oates, Joyce Carol</author>.
+          <title>Beasts</title>.
+        </bibl>
+        <bibl>
+          <author>Ogawa, Yoko</author>.
+          <title>The Housekeeper and the Professor</title>.
+        </bibl>
+        <bibl>
+          <author>Okorafor, Nnedi</author>.
+          <title>Zahrah the Windseeker</title>.
+          <date type="added" when="2016-06-05"/>
+        </bibl>
+        <bibl>
+          <author>O’Neill, Eugene</author>.
+          <title>Long Day’s Journey Into Night</title>.
+        </bibl>
+        <bibl>
+          <author>Parker, Jeff</author>.
+          <title>Mysterius the Unfathomable</title>.
+          <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Parker, Jeff</author>.
+          <title>Underground</title>.
+          <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Parks, Tim</author>.
+          <title>Cleaver</title>.
+        </bibl>
+        <bibl>
+          <author>Peace, David</author>.
+          <title>Tokyo Year Zero</title>.
+        </bibl>
+        <bibl>
+          <author>Peake, Mervyn</author>.
+          <title>Gormenghast</title>.
+        </bibl>
+        <bibl>
+          <author>Philbrick, Rodman</author>.
+          <title>Dark Matter</title>.
+        </bibl>
+        <bibl>
+          <author>Pierce, Tamora</author>.
+          <title>Beka Cooper: Bloodhound</title>.
+        </bibl>
+        <bibl>
+          <author>Pierce, Tamora</author>.
+          <title>Trickster’s Queen</title>.
+        </bibl>
+        <bibl>
+          <author>Pinker, Steven</author>.
+          <title>The Language Instinct: How the
+            Mind Creates Language</title>.
+        </bibl>
+        <bibl>
+          <author>Pinker, Steven</author>.
+          <title>The Stuff of Thought: Language as a Window
+            into Human Nature</title>.
+        </bibl>
+        <bibl>
+          <author>Pinto, Ricardo</author>.
+          <title>The Chosen</title>.
+        </bibl>
+        <bibl>
+          <author>Potok, Chaim</author>.
+          <title>The Chosen</title>.
+        </bibl>
+        <bibl>
+          <author>Pratchett, Terry</author>.
+          <title>Once More With Footnotes</title>.
+        </bibl>
+        <bibl>
+          <author>Pratchett, Terry</author>.
+          <title>The Dark Side of the Sun</title>.
+        </bibl>
         <bibl>
           <author>Pratchett, Terry</author>.
           <title>Where’s My Cow?</title>.
@@ -1097,10 +1127,6 @@
           <title>The Long Mars</title>.
         </bibl>
         <bibl>
-          <author>Pratchett, Terry</author>.
-          <title>The Amazing Maurice and His Educated Rodents</title>.
-        </bibl>
-        <bibl>
           <author>Prince, Liz</author>.
           <title>Tomboy: A Graphic Memoir</title>.
           <trait ref="#tag.comics"/>
@@ -1112,6 +1138,11 @@
         <bibl>
           <author>Rhys, Jean</author>.
           <title>Wide Sargasso Sea</title>.
+        </bibl>
+        <bibl>
+          <author>Roach, Mary</author>.
+          <title>Grunt: The Curious Science of Humans at War</title>.
+          <date type="added" when="2016-06-03"/>
         </bibl>
         <bibl>
           <author>Rodi, Robert</author>.
@@ -1138,6 +1169,16 @@
         <bibl>
           <author>Rushdie, Salman</author>.
           <title>East, West: stories</title>.
+        </bibl>
+        <bibl>
+          <author>Russ, Joanna</author>.
+          <title>The Adventures of Alyx</title>.
+          <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
+          <author>Russ, Joanna</author>.
+          <title>Extra (Ordinary) People</title>.
+          <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
           <author>Rushdie, Salman</author>.
