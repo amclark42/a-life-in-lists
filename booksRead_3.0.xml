@@ -24,6 +24,64 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="trotman.cs.sleepofreason">
+            <monogr>
+              <title>The Sleep of Reason: An Anthology of Horror</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <resp relation="contributor"/>
+                <persName ref="authors_3.0.xml#trotman.cs"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-06-15"/>
+                <catRef target="#tag.comics"/>
+                <date when="2014-02"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="trotman.cs.newworld">
+            <monogr>
+              <title>New World: An Anthology of Sci-Fi and Fantasy</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <resp relation="contributor"/>
+                <persName ref="authors_3.0.xml#trotman.cs"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2015-06-16"/>
+                <catRef target="#tag.owned" from="2016-06-15"/>
+                <catRef target="#tag.comics"/>
+                <date when="2016"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="trotman.cs.yesroya">
+            <monogr>
+              <title>Yes, Roya</title>
+              <author>
+                <persName ref="authors_3.0.xml#trotman.cs"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#denich.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2016-02-24"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <date when="2016"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="fforde.j.eyreaffair">
             <monogr>
               <title>The Eyre Affair</title>
@@ -65,9 +123,9 @@
                 <persName ref="authors_3.0.xml#kushner.t"/>
               </author>
               <imprint>
+                <catRef target="#tag.drama"/>
                 <date when="1992"/>
                 <publisher>
-                  <catRef target="#tag.drama"/>
                   <orgName>Theatre Communications Group</orgName>
                 </publisher>
               </imprint>
@@ -1100,7 +1158,7 @@
             <monogr>
               <title>Poison Study</title>
               <author>
-                <persName ref="authors_3.0.xml#snyder.m">V.</persName>
+                <persName ref="authors_3.0.xml#snyder.m"/>
               </author>
               <imprint>
                 <publisher/>
@@ -1562,6 +1620,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="chbosky.s.perksbeingwallflower">
             <monogr>
@@ -1865,6 +1926,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Abhorsen</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="gaiman.n.fragilethings">
             <monogr>
@@ -2255,6 +2319,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>The Sandman</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="pierce.t.bekacooperterrier">
             <monogr>
@@ -2266,6 +2333,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Beka Cooper</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="dunant.s.birthvenus">
             <monogr>
@@ -3155,6 +3225,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>The Pit Dragon Chronicles</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="pratchet.t.nightwatch">
             <monogr>
@@ -3549,6 +3622,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Booster Gold</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="willingh.b.fables.homelands">
             <monogr>
@@ -4134,6 +4210,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4214,6 +4291,8 @@
                 <persName ref="authors_3.0.xml#harrison.k"/>
               </author>
               <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.class"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4298,6 +4377,8 @@
                 <persName ref="authors_3.0.xml#evans.w"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.class"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4522,6 +4603,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Love Hina</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="johns.g.greenlantern.revengegreenlanterns">
             <monogr>
@@ -4728,6 +4812,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>The Flash</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="martin.grr.clashkings">
             <monogr>
@@ -5503,6 +5590,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>The Kingkiller Chronicle</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="green.m.supermanbatman.finestworlds">
             <monogr>
@@ -5537,6 +5627,7 @@
                 <persName ref="authors_3.0.xml#fried.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -5715,6 +5806,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="medley.l.castlewaiting.cursebramblyhedge">
             <monogr>
@@ -5748,6 +5842,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Usagi Yojimbo</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="rieber.jn.booksmagic.summonings">
             <monogr>
@@ -5761,6 +5858,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>The Books of Magic</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="dixon.c.greenlantern.emeraldallies">
             <monogr>
@@ -5777,6 +5877,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Green Lantern</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="pini.w.elfquest.grandquest3">
             <monogr>
@@ -5861,6 +5964,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Buddha</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="higuchi.t.gakuenalice.2">
             <monogr>
@@ -5876,6 +5982,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Gakuen Alice</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="loeb.j.supermanbatman.vengeance">
             <monogr>
@@ -5962,6 +6071,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>How to Train Your Dragon</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="pini.w.elfquest.grandquest5">
             <monogr>
@@ -6224,6 +6336,7 @@
                 <persName ref="authors_3.0.xml#leguin.uk"/>
               </author>
               <imprint>
+                <catRef target="#tag.class"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6237,7 +6350,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6270,7 +6385,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6518,6 +6635,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Gakuen Alice</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="kibuishi.k.flight.8">
             <monogr>
@@ -6559,7 +6679,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6582,6 +6704,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Chew</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="byrnes.j.jla.tenthcircle">
             <monogr>
@@ -6592,7 +6717,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6608,7 +6735,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6635,7 +6764,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6832,7 +6963,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6897,7 +7030,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Marvel Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -7115,7 +7250,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Marvel Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7175,7 +7312,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Marvel Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7225,7 +7364,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2011-07-29"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7269,6 +7408,7 @@
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7379,7 +7519,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2011-07-29"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7894,7 +8034,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7908,6 +8050,7 @@
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -8412,7 +8555,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2012-05-31"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -8748,7 +8891,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2012-06-02"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -8783,7 +8926,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -8813,8 +8958,12 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
-                <publisher/>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.kickstart" when="2012-05-28"/>
+                <catRef target="#tag.erotica"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8856,7 +9005,9 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -9560,8 +9711,7 @@
           <biblStruct
             xml:id="gladston.b.influencingmachine">
             <monogr>
-              <title>The Influencing Machine: Brooke Gladstone on the
-                Media</title>
+              <title>The Influencing Machine: Brooke Gladstone on the Media</title>
               <author>
                 <persName ref="authors_3.0.xml#gladston.b"/>
               </author>
@@ -9736,9 +9886,14 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Secret Six</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="moore.t.rachelrising.1shadowdeath">
             <monogr>
@@ -10124,8 +10279,7 @@
           </biblStruct>
           <biblStruct xml:id="moore.a.leagueextraordinarygentlemen.century1910">
             <monogr>
-              <title>The League of Extraordinary Gentlemen: Century:
-                1910</title>
+              <title>The League of Extraordinary Gentlemen: Century: 1910</title>
               <author>
                 <persName ref="authors_3.0.xml#moore.a"/>
               </author>
@@ -10489,6 +10643,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.comics"/>
                 <publisher/>
               </imprint>
@@ -10618,7 +10773,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2012-09-14"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -10818,8 +10973,7 @@
           </biblStruct>
           <biblStruct xml:id="brothwel.d.foodinantiquity">
             <monogr>
-              <title>Food in Antiquity: A Survey of the Diet of Early
-                Peoples</title>
+              <title>Food in Antiquity: A Survey of the Diet of Early Peoples</title>
               <author>
                 <persName ref="authors_3.0.xml#brothwel.d"/>
               </author>
@@ -10910,8 +11064,7 @@
           <biblStruct
             xml:id="johns.g.justicesocietyamerica.thykingdomcomepartone">
             <monogr>
-              <title>Justice Society of America: Thy Kingdom Come Part
-                One</title>
+              <title>Justice Society of America: Thy Kingdom Come Part One</title>
               <author>
                 <persName ref="authors_3.0.xml#johns.g"/>
               </author>
@@ -10959,14 +11112,14 @@
                 <persName ref="authors_3.0.xml#mckinley.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="king.lr.beekeepersapprentice">
             <monogr>
-              <title>The Beekeeper's Apprentice, Or On the Segregation of the
-                Queen</title>
+              <title>The Beekeeper's Apprentice, Or On the Segregation of the Queen</title>
               <author>
                 <persName ref="authors_3.0.xml#king.lr"/>
               </author>
@@ -11017,12 +11170,10 @@
                 <persName ref="authors_3.0.xml#fine.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
-            <series>
-              <title>nonfiction</title>
-            </series>
           </biblStruct>
           <biblStruct xml:id="medley.l.castlewaiting.2">
             <monogr>
@@ -11160,7 +11311,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11440,8 +11593,7 @@
           <biblStruct
             xml:id="mccranie.s.brickbybrick">
             <monogr>
-              <title>Brick by Brick: Principles for Achieving Artistic
-                Mastery</title>
+              <title>Brick by Brick: Principles for Achieving Artistic Mastery</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -11450,7 +11602,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2013-11-14"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11575,6 +11727,7 @@
                 <persName ref="authors_3.0.xml#russ.j"/>
               </author>
               <imprint>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11616,6 +11769,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11903,8 +12057,7 @@
           <biblStruct
             xml:id="vincent.n.selfmademan">
             <monogr>
-              <title>Self-Made Man: One Woman's Journey into Manhood and Back
-                Again</title>
+              <title>Self-Made Man: One Woman's Journey into Manhood and Back Again</title>
               <author>
                 <persName ref="authors_3.0.xml#vincent.n"/>
               </author>
@@ -12398,6 +12551,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12480,6 +12634,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Mouse Guard</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="trotman.cs.smutpeddler2014">
             <monogr>
@@ -12491,6 +12648,8 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.kickstart" when="2014-05-05"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -12551,7 +12710,7 @@
               </imprint>
             </monogr>
           </biblStruct>
-          <biblStruct xml:id="telge.r.drama">
+          <biblStruct xml:id="telgemei.r.drama">
             <monogr>
               <title>Drama</title>
               <respStmt>
@@ -12624,6 +12783,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Glamourist Histories</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="elgin.sh.earthsong">
             <monogr>
@@ -12646,6 +12808,7 @@
                 <persName ref="authors_3.0.xml#sanderso.b"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12717,7 +12880,7 @@
                 <persName ref="authors_3.0.xml#nock.d"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.kickstart"/>
+                <catRef target="#tag.kickstart" when="2014-12-17"/>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <publisher>
@@ -12804,7 +12967,7 @@
               <title>Acacia</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="fleis.p.seedfolk">
+          <biblStruct xml:id="fleischm.p.seedfolk">
             <monogr>
               <title>Seedfolk</title>
               <author>
@@ -13172,8 +13335,7 @@
           </biblStruct>
           <biblStruct xml:id="monster.sr.beyond">
             <monogr>
-              <title>Beyond: The Queer Sci-Fi &amp; Fantasy Comic
-                Anthology</title>
+              <title>Beyond: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="authors_3.0.xml#monster.sr"/>
@@ -13266,6 +13428,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.nonfiction"/>
                 <publisher>Touchstone</publisher>
               </imprint>
             </monogr>
