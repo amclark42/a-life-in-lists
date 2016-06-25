@@ -26,6 +26,33 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="horton.c">
+          <persName>
+            <forename>Chase</forename>
+            <surname>Horton</surname>
+          </persName>
+        </person>
+        <person xml:id="woods.k">
+          <persName>
+            <forename>Katherine</forename>
+            <surname>Woods</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="blackbur.p">
+          <persName>
+            <forename>Paul</forename>
+            <surname>Blackburn</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="tamaki.j">
+          <persName>
+            <forename>Jillian</forename>
+            <surname>Tamaki</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
         <person xml:id="denich.e">
           <persName>
             <forename>Emilee</forename>
@@ -623,7 +650,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
-        <person xml:id="stein.j">
+        <person xml:id="steinbec.j">
           <persName>
             <forename>John</forename>
             <surname>Steinbeck</surname>

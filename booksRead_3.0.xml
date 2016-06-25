@@ -24,6 +24,59 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="jacques.b.legendluke">
+            <monogr>
+              <title>The Legend of Luke</title>
+              <author>
+                <persName ref="authors_3.0.xml#jacques.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1999"/>
+                <publisher>
+                  <orgName>Philomel Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="kushner.t.angelsperestroika">
+            <monogr>
+              <title>Angels in America Part Two: Perestroika</title>
+              <author>
+                <persName ref="authors_3.0.xml#kushner.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.drama"/>
+                <date when="1992"/>
+                <publisher>
+                  <orgName>Theatre Communications Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Angels in America</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="tamaki.j.supermutantmagic">
+            <monogr>
+              <title>SuperMutant Magic Academy</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#tamaki.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2015-04"/>
+                <publisher>
+                  <orgName>Drawn &amp; Quarterly</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="trotman.cs.sleepofreason">
             <monogr>
               <title>The Sleep of Reason: An Anthology of Horror</title>
@@ -320,7 +373,10 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.class"/>
-                <publisher/>
+                <date when="1990"/>
+                <publisher>
+                  <orgName>Broadway Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -522,7 +578,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2006"/>
+                <publisher>
+                  <orgName>Punk Planet Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -614,10 +673,17 @@
               <author>
                 <persName ref="authors_3.0.xml#cortázar.j"/>
               </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="blackbur.p"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.class"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1967"/>
+                <publisher>
+                  <orgName>Pantheon Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -679,7 +745,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -706,7 +774,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -721,7 +791,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -736,7 +808,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1978"/>
+                <publisher>
+                  <orgName>Broadway Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -749,7 +824,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -765,7 +842,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -808,7 +887,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1995"/>
+                <publisher>
+                  <orgName>Dell Publishing</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -821,7 +903,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -837,7 +921,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -852,7 +938,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2005"/>
+                <publisher>
+                  <orgName>Back Bay Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -890,7 +979,10 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2007"/>
+                <publisher>
+                  <orgName>Villard Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -961,7 +1053,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1995"/>
+                <publisher>
+                  <orgName>Puffin Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -972,7 +1067,11 @@
                 <persName ref="authors_3.0.xml#lightman.a"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned"/>
+                <date when="1993"/>
+                <publisher>
+                  <orgName>Warner Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -985,7 +1084,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -1001,7 +1102,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -1016,7 +1119,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1065,7 +1170,6 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -1118,7 +1222,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1897"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1209,7 +1316,9 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -1268,7 +1377,11 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <catRef target="#tag.class"/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Vintage International</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1286,12 +1399,21 @@
           <biblStruct xml:id="saintexu.a.littleprince">
             <monogr>
               <title>The Little Prince</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="illustrator"/>
                 <persName ref="authors_3.0.xml#saintexu.a"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="authors_3.0.xml#woods.k"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1943"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1303,7 +1425,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1988"/>
+                <publisher>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1330,7 +1455,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1983"/>
+                <publisher>
+                  <orgName>Harcourt, Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -1398,7 +1526,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1977"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1416,13 +1547,21 @@
           </biblStruct>
           <biblStruct xml:id="stein.j.actskingarthurhisnobleknights">
             <monogr>
-              <title>The Acts of King Arthur and His Noble Knights</title>
+              <title>The Acts of King Arthur and His Noble Knights From the Winchester 
+                Manuscripts of Thomas Malory and Other Sources</title>
               <author>
-                <persName ref="authors_3.0.xml#stein.j"/>
+                <persName ref="authors_3.0.xml#steinbec.j"/>
               </author>
+              <respStmt>
+                <resp relation="editor"/>
+                <persName ref="authors_3.0.xml#horton.c"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1976"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1434,7 +1573,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>Puffin Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1476,13 +1618,17 @@
           </biblStruct>
           <biblStruct xml:id="paolini.c.brisingr">
             <monogr>
-              <title>Brisingr</title>
+              <title>Brisingr, or, The Seven Promises of Eragon Shadeslayer and Saphira 
+                Bjartskular</title>
               <author>
                 <persName ref="authors_3.0.xml#paolini.c"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2007"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -1594,7 +1740,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when=""/>
+                <publisher>
+                  <orgName></orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>

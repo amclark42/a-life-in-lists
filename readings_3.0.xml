@@ -22,8 +22,17 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-06-15">
-          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.newworld">New World</ref>.</p>
+        <event from="2016-06-25">
+          <p>Reread <ref target="booksRead_3.0.xml#">The Legend of Luke</ref>.</p>
+        </event>
+        <event from="2016-06-22" to="2016-06-25">
+          <p>Read <ref target="booksRead_3.0.xml#kushner.t.angelsperestroika">Angels in America Part Two: Perestroika</ref>.</p>
+        </event>
+        <event from="2016-06-21" to="2016-06-22">
+          <p>Read <ref target="booksRead_3.0.xml#tamaki.j.supermutantmagic">SuperMutant Magic Academy</ref>.</p>
+        </event>
+        <event from="2016-06-15" to="2016-06-21">
+          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.newworld">New World: An Anthology of Sci-Fi and Fantasy</ref>.</p>
         </event>
         <event from="2016-06-08" to="2016-06-18">
           <p>Reread <ref target="booksRead_3.0.xml#monette.s.mélusine">Mélusine</ref>.</p>
