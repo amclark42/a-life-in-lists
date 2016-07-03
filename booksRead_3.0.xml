@@ -24,6 +24,33 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="tolkien.jrr.returnking">
+            <monogr>
+              <title>The Return of the King</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="cover designer"/>
+                <persName ref="authors_3.0.xml#tolkien.jrr"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="authors_3.0.xml#beagle.ps"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1965"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Lord of the Rings</title>
+            </series>
+            <series>
+              <title>Middle-Earth</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="jacques.b.legendluke">
             <monogr>
               <title>The Legend of Luke</title>
@@ -1740,12 +1767,15 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <date when=""/>
+                <date when="1962"/>
                 <publisher>
-                  <orgName></orgName>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>The Time Quartet</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="peters.ja.keepingyousecret">
             <monogr>
@@ -1781,7 +1811,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1999"/>
+                <publisher>
+                  <orgName>Simon &amp; Schuster Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1974,13 +2007,16 @@
           </biblStruct>
           <biblStruct xml:id="gaiman.n.smokemirrors">
             <monogr>
-              <title>Smoke and Mirrors</title>
+              <title>Smoke and Mirrors: Short Fictions and Illusions</title>
               <author>
                 <persName ref="authors_3.0.xml#gaiman.n"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Avon Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -1992,7 +2028,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1957"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2029,7 +2068,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>Vintage Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2087,7 +2129,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2006"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2156,7 +2201,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2008"/>
+                <publisher>
+                  <orgName>Random House</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2198,18 +2246,31 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="tolkien.jrr.hobbit">
             <monogr>
-              <title>The Hobbit</title>
-              <author>
+              <title>The Hobbit or There and Back Again (Revised Edition)</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="cover designer"/>
                 <persName ref="authors_3.0.xml#tolkien.jrr"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="authors_3.0.xml#beagle.ps"/>
+              </respStmt>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned"/>
+                <date when="1966"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -2532,12 +2593,21 @@
           <biblStruct xml:id="tolkien.jrr.fellowshipring">
             <monogr>
               <title>The Fellowship of the Ring</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="cover designer"/>
                 <persName ref="authors_3.0.xml#tolkien.jrr"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="authors_3.0.xml#beagle.ps"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1965"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -2555,7 +2625,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1981"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2797,6 +2870,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <date when=""/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -9433,12 +9507,21 @@
           <biblStruct xml:id="tolkien.jrr.twotowers">
             <monogr>
               <title>The Two Towers</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="cover designer"/>
                 <persName ref="authors_3.0.xml#tolkien.jrr"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="authors_3.0.xml#beagle.ps"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1965"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>

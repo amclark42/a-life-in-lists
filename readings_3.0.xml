@@ -22,8 +22,11 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-06-29" to="2016-07-02">
+          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.sleepofreason">The Sleep of Reason</ref>.</p>
+        </event>
         <event from="2016-06-25">
-          <p>Reread <ref target="booksRead_3.0.xml#">The Legend of Luke</ref>.</p>
+          <p>Reread <ref target="booksRead_3.0.xml#jacques.b.legendluke">The Legend of Luke</ref>.</p>
         </event>
         <event from="2016-06-22" to="2016-06-25">
           <p>Read <ref target="booksRead_3.0.xml#kushner.t.angelsperestroika">Angels in America Part Two: Perestroika</ref>.</p>
