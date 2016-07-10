@@ -22,6 +22,9 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-07-09">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.somethingnew">Something New: Tales from a Makeshift Bride</ref>.</p>
+        </event>
         <event from="2016-06-29" to="2016-07-02">
           <p>Read <ref target="booksRead_3.0.xml#trotman.cs.sleepofreason">The Sleep of Reason</ref>.</p>
         </event>

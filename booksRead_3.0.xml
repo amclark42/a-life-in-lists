@@ -24,6 +24,58 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="westerfe.s.risenempire">
+            <monogr>
+              <title>The Risen Empire</title>
+              <author>
+                <persName ref="authors_3.0.xml#westerfe.s"/>
+              </author>
+              <imprint>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Succession</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="mcguire.s.asheshonor">
+            <monogr>
+              <title>Ashes of Honor</title>
+              <author>
+                <persName ref="authors_3.0.xml#mcguire.s"/>
+              </author>
+              <imprint>
+                <date when="2012"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="knisley.l.somethingnew">
+            <monogr>
+              <title>Something New: Tales from a Makeshift Bride</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#knisley.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2016"/>
+                <date type="added" when="2016-05-15"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="tolkien.jrr.returnking">
             <monogr>
               <title>The Return of the King</title>
