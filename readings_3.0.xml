@@ -22,13 +22,19 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-07-09">
+        <event from="2016-07-22">
+          <p>Read <ref target="booksRead_3.0.xml#mcguire.s.asheshonor">Ashes of Honor</ref>.</p>
+        </event>
+        <event from="2016-07-14" to="2016-07-21">
+          <p>Read <ref target="booksRead_3.0.xml#westerfe.s.risenempire">The Risen Empire</ref>.</p>
+        </event>
+        <event from="2016-07-09" to="2016-07-15">
           <p>Read <ref target="booksRead_3.0.xml#knisley.l.somethingnew">Something New: Tales from a Makeshift Bride</ref>.</p>
         </event>
         <event from="2016-06-29" to="2016-07-02">
           <p>Read <ref target="booksRead_3.0.xml#trotman.cs.sleepofreason">The Sleep of Reason</ref>.</p>
         </event>
-        <event from="2016-06-25">
+        <event from="2016-06-25" to="2016-07-14">
           <p>Reread <ref target="booksRead_3.0.xml#jacques.b.legendluke">The Legend of Luke</ref>.</p>
         </event>
         <event from="2016-06-22" to="2016-06-25">
