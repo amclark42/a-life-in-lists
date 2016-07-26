@@ -24,6 +24,31 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="yang.gl.avatarpromise">
+            <monogr>
+              <title>Avatar: The Last Airbender—The Promise</title>
+              <author>
+                <persName ref="authors_3.0.xml#yang.gl"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#gurihiru"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="authors_3.0.xml#heisler.m"/>
+              </respStmt>
+              <imprint>
+                <date from="2012" to="2013"/>
+                <publisher>
+                  <orgName>Dark Horse</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Avatar: The Last Airbender</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="westerfe.s.risenempire">
             <monogr>
               <title>The Risen Empire</title>

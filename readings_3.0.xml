@@ -22,7 +22,10 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-07-22">
+        <event from="2016-07-24">
+          <p>Read <ref target="booksRead_3.0.xml#yang.gl.avatarpromise">Avatar: The Last Airbender—The Promise</ref>.</p>
+        </event>
+        <event from="2016-07-22" to="2016-07-23">
           <p>Read <ref target="booksRead_3.0.xml#mcguire.s.asheshonor">Ashes of Honor</ref>.</p>
         </event>
         <event from="2016-07-14" to="2016-07-21">
@@ -69,6 +72,9 @@
         </event>
         <event from="2016-05-10" to="2016-05-28">
           <p>Read <ref target="booksRead_3.0.xml#faustost.a.sexingbody">Sexing the Body</ref>.</p>
+        </event>
+        <event when="2016-05-07">
+          <p>Reread <ref target="booksRead_3.0.xml#leguin.uk.tombsatuan">The Tombs of Atuan</ref>.</p>
         </event>
         <event from="2016-04-30" to="2016-05-07">
           <p>Started <ref target="booksRead_3.0.xml#bradley.mz.firebrand">The Firebrand</ref>. Left unfinished.</p>

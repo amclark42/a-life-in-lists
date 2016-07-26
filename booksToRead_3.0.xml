@@ -93,7 +93,7 @@
         </bibl>
         <bibl>
           <author>Armstrong, Karen</author>.
-          <title>Holy War: The Crusades and Their Impact on Today's World</title>.
+          <title>Holy War: The Crusades and Their Impact on Today’s World</title>.
         </bibl>
         <bibl>
           <author>Asano, Inio</author>.
@@ -183,7 +183,7 @@
         </bibl>
         <bibl>
           <author>Bergemann, Rosalind A.</author>.
-          <title>An Asperger's Guide to Public Speaking</title>.
+          <title>An Asperger’s Guide to Public Speaking</title>.
           <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
@@ -303,13 +303,18 @@
           <title>Werewolves in Their Youth</title>.
         </bibl>
         <bibl>
+          <author>Chambers, Becky</author>.
+          <title>A Long Way to a Small, Angry Planet</title>.
+          <date type="added" when="2016-07-26"/>
+        </bibl>
+        <bibl>
           <author>Chauncey, George</author>.
           <title>Gay New York: Gender, Urban Culture and the Making of the Gay 
             Male World</title>.
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
-          <author>Cheng'en, Wu</author>.
+          <author>Cheng’en, Wu</author>.
           <title>Journey to the West</title>.
         </bibl>
         <bibl>
@@ -392,7 +397,7 @@
           <title>Dhalgren</title>.
         </bibl>
         <bibl>
-          <author>D'Emilio, John</author> and
+          <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Initimate Matters: A History of Sexuality in America</title>.
           <date type="added" when="2016-05-29"/>
@@ -519,7 +524,7 @@
         </bibl>
         <bibl>
           <author>Forsyth, Kate</author>.
-          <title>The Tower of Ravens (Rhiannon's Ride Vol. 1)</title>.
+          <title>The Tower of Ravens (Rhiannon’s Ride Vol. 1)</title>.
         </bibl>
         <bibl>
           <author>Forsyth, Kate</author>.
@@ -652,7 +657,7 @@
         </bibl>
         <bibl>
           <author>Hobb, Robin</author>.
-          <title>Fool's Fate</title>.
+          <title>Fool’s Fate</title>.
         </bibl>
         <bibl>
           <author>Hodges, Andrew</author>.
@@ -692,7 +697,7 @@
         </bibl>
         <bibl>
           <author>Jacob, Mira</author>.
-          <title>The Sleepwalker's Guide to Dancing</title>.
+          <title>The Sleepwalker’s Guide to Dancing</title>.
         </bibl>
         <bibl>
           <author>Jacobs, Harriet</author>.
@@ -720,7 +725,7 @@
         </bibl>
         <bibl>
           <author>Karr, Mary</author>.
-          <title>The Liars' Club: A Memoir</title>.
+          <title>The Liars’ Club: A Memoir</title>.
         </bibl>
         <bibl>
           <author>Kay, Elizabeth</author>.
@@ -913,10 +918,6 @@
         </bibl>
         <bibl>
           <author>McGuire, Seanan</author>.
-          <title>Ashes of Honor</title>.
-        </bibl>
-        <bibl>
-          <author>McGuire, Seanan</author>.
           <title>Chimes at Midnight</title>.
         </bibl>
         <bibl>
@@ -1029,7 +1030,7 @@
         </bibl>
         <bibl>
           <author>Nugent, Alida</author>.
-          <title>You Don't Have to Like Me: Essays on Growing Up, Speaking Out,
+          <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out,
             and Finding Feminism</title>
           <date type="added" when="2016-05-20"/>
         </bibl>
@@ -1317,13 +1318,12 @@
         </bibl>
         <bibl>
           <author>Trivers, Robert</author>.
-          <title>The Folly of Fools: The Logic of
-            Deceit and Self-Deception in Human Life</title>.
+          <title>The Folly of Fools: The Logic of Deceit and Self-Deception in Human 
+            Life</title>.
         </bibl>
         <bibl>
           <author>Tufte, Edward R.</author>
-          <title>The Visual Display of
-            Quantitative Information</title>.
+          <title>The Visual Display of Quantitative Information</title>.
         </bibl>
         <bibl>
           <author>Unsworth, Barry</author>.
@@ -1353,6 +1353,11 @@
         <bibl>
           <author>Wells, Ida B.</author>
           <title>Crusade for Justice: The Autobiography of Ida B. Wells</title>.
+        </bibl>
+        <bibl>
+          <author>Westerfeld, Scott</author>.
+          <title>The Killing of Worlds</title>.
+          <date type="added" when="2016-07-26"/>
         </bibl>
         <bibl>
           <author>Westerfeld, Scott</author>.
