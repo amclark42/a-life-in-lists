@@ -22,7 +22,7 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-07-24">
+        <event from="2016-07-24" to="2016-07-27">
           <p>Read <ref target="booksRead_3.0.xml#yang.gl.avatarpromise">Avatar: The Last Airbender—The Promise</ref>.</p>
         </event>
         <event from="2016-07-22" to="2016-07-23">

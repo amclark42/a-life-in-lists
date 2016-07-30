@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Open Office Document
-          <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title>.
+          <title type="filename">Books I’ve Read 2.0 (start Mar. 2008).odt</title>.
         </p>
       </sourceDesc>
     </fileDesc>
@@ -24,6 +24,112 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="hicks.fe.namelesscity">
+            <monogr>
+              <title>The Nameless City</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#hicks.fe"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-07-29"/>
+                <catRef target="#tag.comics"/>
+                <date when="2016"/>
+                <date type="added" when="2016-05-15"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Nameless City</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="rucka.g.ww.missionsend">
+            <monogr>
+              <title>Wonder Woman: Mission’s End</title>
+              <author>
+                <persName ref="authors_3.0.xml#rucka.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#richards.c"/>
+                <persName ref="authors_3.0.xml#morales.r"/>
+                <persName ref="authors_3.0.xml#lopez.d"/>
+                <persName ref="authors_3.0.xml#derenick.k"/>
+                <persName ref="authors_3.0.xml#jeanty.g"/>
+                <persName ref="authors_3.0.xml#kerschl.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="artist"/>
+                <resp relation="inker"/>
+                <persName ref="authors_3.0.xml#randall.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="inker"/>
+                <persName ref="authors_3.0.xml#snyder.r"/>
+                <persName ref="authors_3.0.xml#bit"/>
+                <persName ref="authors_3.0.xml#bair.m"/>
+                <persName ref="authors_3.0.xml#propst.m"/>
+                <persName ref="authors_3.0.xml#vines.d"/>
+                <persName ref="authors_3.0.xml#petrecca.b"/>
+                <persName ref="authors_3.0.xml#nelson"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="authors_3.0.xml#horie.r"/>
+                <persName ref="authors_3.0.xml#horie.t"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="authors_3.0.xml#klein.t"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-07-29"/>
+                <date from="2005" to="2006"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wonder Woman</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="sanderso.b.wordsradiance">
+            <monogr>
+              <title>Words of Radiance</title>
+              <author>
+                <persName ref="sanderso.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-07-29"/>
+                <date when="2014-03"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Stormlight Archive</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="griffith.n.hild">
+            <monogr>
+              <title>Hild: A Novel</title>
+              <author>
+                <persName ref="authors_3.0.xml#griffith.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2016-07-29"/>
+                <date when="2013"/>
+                <publisher>
+                  <orgName>Picador</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="yang.gl.avatarpromise">
             <monogr>
               <title>Avatar: The Last Airbender—The Promise</title>
@@ -578,19 +684,19 @@
             <monogr>
               <title>Justice League Dark Vol. 1: In the Dark</title>
               <author>
-                <persName ref="author_3.0.xml#milligan.p"/>
+                <persName ref="authors_3.0.xml#milligan.p"/>
               </author>
               <respStmt>
                 <resp relation="artist"/>
-                <persName ref="author_3.0.xml#janin.m"/>
+                <persName ref="authors_3.0.xml#janin.m"/>
               </respStmt>
               <respStmt>
                 <resp relation="colorist"/>
-                <persName ref="author_3.0.xml#arreola.u"/>
+                <persName ref="authors_3.0.xml#arreola.u"/>
               </respStmt>
               <respStmt>
                 <resp relation="letterer"/>
-                <persName ref="author_3.0.xml#leigh.r"/>
+                <persName ref="authors_3.0.xml#leigh.r"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -819,7 +925,7 @@
           </biblStruct>
           <biblStruct xml:id="jones.t.starshiptitanic">
             <monogr>
-              <title>Douglas Adams' Starship Titanic</title>
+              <title>Douglas Adams’ Starship Titanic</title>
               <author>
                 <persName ref="authors_3.0.xml#jones.t"/>
               </author>
@@ -1166,7 +1272,7 @@
           </biblStruct>
           <biblStruct xml:id="lightman.a.einsteinsdreams">
             <monogr>
-              <title>Einstein's Dreams</title>
+              <title>Einstein’s Dreams</title>
               <author>
                 <persName ref="authors_3.0.xml#lightman.a"/>
               </author>
@@ -1402,14 +1508,8 @@
               <title>52 Vol. 1</title>
               <author>
                 <persName ref="authors_3.0.xml#johns.g"/>
-              </author>
-              <author>
                 <persName ref="authors_3.0.xml#morrison.g"/>
-              </author>
-              <author>
                 <persName ref="authors_3.0.xml#rucka.g"/>
-              </author>
-              <author>
                 <persName ref="authors_3.0.xml#waid.m"/>
               </author>
               <respStmt>
@@ -1491,7 +1591,7 @@
           </biblStruct>
           <biblStruct xml:id="edwards.k.memorykeepersdaughter">
             <monogr>
-              <title>The Memory Keeper's Daughter</title>
+              <title>The Memory Keeper’s Daughter</title>
               <author>
                 <persName ref="authors_3.0.xml#edwards.k"/>
               </author>
@@ -1585,7 +1685,7 @@
           </biblStruct>
           <biblStruct xml:id="jones.dw.howlsmovingcastle">
             <monogr>
-              <title>Howl's Moving Castle</title>
+              <title>Howl’s Moving Castle</title>
               <author>
                 <persName ref="authors_3.0.xml#jones.dw"/>
               </author>
@@ -1595,7 +1695,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>Howl's Moving Castle</title>
+              <title>Howl’s Moving Castle</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="daly.m.seventeenthsummer">
@@ -1610,11 +1710,11 @@
               </imprint>
             </monogr>
           </biblStruct>
-          <biblStruct xml:id="stein.j.ofmicemen">
+          <biblStruct xml:id="steinbec.j.ofmicemen">
             <monogr>
               <title>Of Mice and Men</title>
               <author>
-                <persName ref="authors_3.0.xml#stein.j"/>
+                <persName ref="authors_3.0.xml#steinbec.j"/>
               </author>
               <imprint>
                 <catRef target="#tag.class"/>
@@ -1624,7 +1724,7 @@
           </biblStruct>
           <biblStruct xml:id="card.os.endersgame">
             <monogr>
-              <title>Ender's Game</title>
+              <title>Ender’s Game</title>
               <author>
                 <persName ref="authors_3.0.xml#card.os"/>
               </author>
@@ -1649,7 +1749,7 @@
               </imprint>
             </monogr>
           </biblStruct>
-          <biblStruct xml:id="stein.j.actskingarthurhisnobleknights">
+          <biblStruct xml:id="steinbec.j.actskingarthurhisnobleknights">
             <monogr>
               <title>The Acts of King Arthur and His Noble Knights From the Winchester 
                 Manuscripts of Thomas Malory and Other Sources</title>
@@ -2361,6 +2461,7 @@
                 <persName ref="authors_3.0.xml#mosse.k"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2484,7 +2585,7 @@
           </biblStruct>
           <biblStruct xml:id="ellis.w.transmetropolitan.spidersthrash">
             <monogr>
-              <title>Transmetropolitan: Spider's Thrash</title>
+              <title>Transmetropolitan: Spider’s Thrash</title>
               <author>
                 <persName ref="authors_3.0.xml#ellis.w"/>
               </author>
@@ -3516,7 +3617,7 @@
           </biblStruct>
           <biblStruct xml:id="yolen.j.dragonsblood">
             <monogr>
-              <title>Dragon's Blood</title>
+              <title>Dragon’s Blood</title>
               <author>
                 <persName ref="authors_3.0.xml#yolen.j"/>
               </author>
@@ -4117,7 +4218,7 @@
           </biblStruct>
           <biblStruct xml:id="zafόn.cr.angelsgame">
             <monogr>
-              <title>The Angel's Game</title>
+              <title>The Angel’s Game</title>
               <author>
                 <persName ref="authors_3.0.xml#zafόn.cr"/>
               </author>
@@ -4266,7 +4367,7 @@
           </biblStruct>
           <biblStruct xml:id="winick.j.greenlantern.brotherskeeper">
             <monogr>
-              <title>Green Lantern: Brother's Keeper</title>
+              <title>Green Lantern: Brother’s Keeper</title>
               <author>
                 <persName ref="authors_3.0.xml#winick.j"/>
               </author>
@@ -4283,7 +4384,7 @@
           <biblStruct
             xml:id="clevinge.b.atomicrobo.fightinscientists">
             <monogr>
-              <title>Atomic Robo: Atomic Robo and the Fightin' Scientists of
+              <title>Atomic Robo: Atomic Robo and the Fightin’ Scientists of
                 Tesladyne</title>
               <author>
                 <persName ref="authors_3.0.xml#clevinge.b"/>
@@ -4517,7 +4618,7 @@
           </biblStruct>
           <biblStruct xml:id="moore.a.hypotheticallizard">
             <monogr>
-              <title>Alan Moore's Hypothetical Lizard</title>
+              <title>Alan Moore’s Hypothetical Lizard</title>
               <author>
                 <persName ref="authors_3.0.xml#moore.a"/>
               </author>
@@ -4550,7 +4651,7 @@
           </biblStruct>
           <biblStruct xml:id="pini.w.elfquest.roguescurse">
             <monogr>
-              <title>Elfquest: Rogue's Curse</title>
+              <title>Elfquest: Rogue’s Curse</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -4760,7 +4861,7 @@
           </biblStruct>
           <biblStruct xml:id="omalley.bl.scottpilgrimspreciouslittlelife">
             <monogr>
-              <title>Scott Pilgrim's Precious Little Life</title>
+              <title>Scott Pilgrim’s Precious Little Life</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -4980,7 +5081,7 @@
           </biblStruct>
           <biblStruct xml:id="omalley.bl.scottpilgrimsfinesthour">
             <monogr>
-              <title>Scott Pilgrim's Finest Hour</title>
+              <title>Scott Pilgrim’s Finest Hour</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -5658,7 +5759,7 @@
           </biblStruct>
           <biblStruct xml:id="whedon.j.serenityshepherdstale">
             <monogr>
-              <title>Serenity: The Shepherd's Tale</title>
+              <title>Serenity: The Shepherd’s Tale</title>
               <author>
                 <persName ref="authors_3.0.xml#whedon.j"/>
               </author>
@@ -6413,7 +6514,7 @@
           </biblStruct>
           <biblStruct xml:id="gaiman.n.midnightdays">
             <monogr>
-              <title>Neil Gaiman's Midnight Days</title>
+              <title>Neil Gaiman’s Midnight Days</title>
               <author>
                 <persName ref="authors_3.0.xml#gaiman.n"/>
               </author>
@@ -6725,7 +6826,7 @@
           </biblStruct>
           <biblStruct xml:id="sfar.j.rabbiscat">
             <monogr>
-              <title>The Rabbi's Cat</title>
+              <title>The Rabbi’s Cat</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -6737,7 +6838,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Rabbi's Cat</title>
+              <title>The Rabbi’s Cat</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="moore.a.promethea.book3">
@@ -6990,7 +7091,7 @@
           </biblStruct>
           <biblStruct xml:id="layman.j.chew.1tasterschoice">
             <monogr>
-              <title>Chew Vol. 1: Taster's Choice</title>
+              <title>Chew Vol. 1: Taster’s Choice</title>
               <author>
                 <persName ref="authors_3.0.xml#layman.j"/>
               </author>
@@ -7111,7 +7212,7 @@
           </biblStruct>
           <biblStruct xml:id="hobb.r.assassinsapprentice">
             <monogr>
-              <title>Assassin's Apprentice</title>
+              <title>Assassin’s Apprentice</title>
               <author>
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
@@ -8345,7 +8446,7 @@
           </biblStruct>
           <biblStruct xml:id="hobb.r.assassinsquest">
             <monogr>
-              <title>Assassin's Quest</title>
+              <title>Assassin’s Quest</title>
               <author>
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
@@ -8616,7 +8717,7 @@
           </biblStruct>
           <biblStruct xml:id="sakai.s.usagiyojimbo.book3wanderersroad">
             <monogr>
-              <title>Usagi Yojimbo Book 3: The Wanderer's Road</title>
+              <title>Usagi Yojimbo Book 3: The Wanderer’s Road</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -8746,7 +8847,7 @@
           </biblStruct>
           <biblStruct xml:id="novik.n.hismajestysdragon">
             <monogr>
-              <title>His Majesty's Dragon</title>
+              <title>His Majesty’s Dragon</title>
               <author>
                 <persName ref="authors_3.0.xml#novik.n"/>
               </author>
@@ -8761,7 +8862,7 @@
           </biblStruct>
           <biblStruct xml:id="butler.oe.lilithsbrood">
             <monogr>
-              <title>Lilith's Brood</title>
+              <title>Lilith’s Brood</title>
               <author>
                 <persName ref="authors_3.0.xml#butler.oe"/>
               </author>
@@ -8773,7 +8874,7 @@
           </biblStruct>
           <biblStruct xml:id="brennan.sr.demonslexicon">
             <monogr>
-              <title>The Demon's Lexicon</title>
+              <title>The Demon’s Lexicon</title>
               <author>
                 <persName ref="authors_3.0.xml#brennan.sr"/>
               </author>
@@ -8831,7 +8932,7 @@
           </biblStruct>
           <biblStruct xml:id="niffeneg.a.timetravelerswife">
             <monogr>
-              <title>The Time Traveler's Wife</title>
+              <title>The Time Traveler’s Wife</title>
               <author>
                 <persName ref="authors_3.0.xml#niffeneg.a"/>
               </author>
@@ -8953,7 +9054,7 @@
           </biblStruct>
           <biblStruct xml:id="hobb.r.foolserrand">
             <monogr>
-              <title>Fool's Errand</title>
+              <title>Fool’s Errand</title>
               <author>
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
@@ -8971,7 +9072,7 @@
           </biblStruct>
           <biblStruct xml:id="bradbury.r.wellalwayshaveparis">
             <monogr>
-              <title>We'll Always Have Paris</title>
+              <title>We’ll Always Have Paris</title>
               <author>
                 <persName ref="authors_3.0.xml#bradbury.r"/>
               </author>
@@ -9181,7 +9282,7 @@
           <biblStruct
             xml:id="willis.d.dumbingage.1escherprint">
             <monogr>
-              <title>Dumbing of Age Vol. 1: This Campus is a Friggin' Escher
+              <title>Dumbing of Age Vol. 1: This Campus is a Friggin’ Escher
                 Print</title>
               <respStmt>
                 <resp relation="author"/>
@@ -9201,7 +9302,7 @@
           </biblStruct>
           <biblStruct xml:id="flewelli.l.traitorsmoon">
             <monogr>
-              <title>Traitor's Moon</title>
+              <title>Traitor’s Moon</title>
               <author>
                 <persName ref="authors_3.0.xml#flewelli.l"/>
               </author>
@@ -9765,7 +9866,7 @@
           </biblStruct>
           <biblStruct xml:id="woolf.v.aroomonesown">
             <monogr>
-              <title>A Room of One's Own</title>
+              <title>A Room of One’s Own</title>
               <author>
                 <persName ref="authors_3.0.xml#woolf.v"/>
               </author>
@@ -10360,7 +10461,7 @@
           <biblStruct
             xml:id="daviskim.j.warriorwomen">
             <monogr>
-              <title>Warrior Women: An Archeologist's Search for History's
+              <title>Warrior Women: An Archeologist’s Search for History’s
                 Hidden Heroines</title>
               <author>
                 <persName ref="authors_3.0.xml#daviskim.j"/>
@@ -11006,7 +11107,7 @@
           </biblStruct>
           <biblStruct xml:id="obreht.t.tigerswife">
             <monogr>
-              <title>The Tiger's Wife</title>
+              <title>The Tiger’s Wife</title>
               <author>
                 <persName ref="authors_3.0.xml#obreht.t"/>
               </author>
@@ -11428,7 +11529,7 @@
           </biblStruct>
           <biblStruct xml:id="king.lr.beekeepersapprentice">
             <monogr>
-              <title>The Beekeeper's Apprentice, Or On the Segregation of the Queen</title>
+              <title>The Beekeeper’s Apprentice, Or On the Segregation of the Queen</title>
               <author>
                 <persName ref="authors_3.0.xml#king.lr"/>
               </author>
@@ -11549,7 +11650,7 @@
           </biblStruct>
           <biblStruct xml:id="koike.k.lonewolfcub.1assassinsroad">
             <monogr>
-              <title>Lone Wolf and Cub Vol. 1: The Assassin's Road</title>
+              <title>Lone Wolf and Cub Vol. 1: The Assassin’s Road</title>
               <author>
                 <persName ref="authors_3.0.xml#koike.k"/>
               </author>
@@ -11753,7 +11854,7 @@
           </biblStruct>
           <biblStruct xml:id="mori.k.bridesstory.1">
             <monogr>
-              <title>A Bride's Story Vol. 1</title>
+              <title>A Bride’s Story Vol. 1</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -11766,7 +11867,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>A Bride's Story</title>
+              <title>A Bride’s Story</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="edginton.i.hinterkind.1wakingworld">
@@ -12031,7 +12132,7 @@
           </biblStruct>
           <biblStruct xml:id="russ.j.howtosuppresswomenswriting">
             <monogr>
-              <title>How to Suppress Women's Writing</title>
+              <title>How to Suppress Women’s Writing</title>
               <author>
                 <persName ref="authors_3.0.xml#russ.j"/>
               </author>
@@ -12268,7 +12369,7 @@
           </biblStruct>
           <biblStruct xml:id="smith.s.kingsshield">
             <monogr>
-              <title>King's Shield</title>
+              <title>King’s Shield</title>
               <author>
                 <persName ref="authors_3.0.xml#smith.s"/>
               </author>
@@ -12345,7 +12446,11 @@
                 <persName ref="authors_3.0.xml#mcguire.s"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned" from="2016-07-29"/>
+                <date when="2009-09"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -12366,7 +12471,7 @@
           <biblStruct
             xml:id="vincent.n.selfmademan">
             <monogr>
-              <title>Self-Made Man: One Woman's Journey into Manhood and Back Again</title>
+              <title>Self-Made Man: One Woman’s Journey into Manhood and Back Again</title>
               <author>
                 <persName ref="authors_3.0.xml#vincent.n"/>
               </author>
@@ -12721,7 +12826,7 @@
           </biblStruct>
           <biblStruct xml:id="smith.s.treasonsshore">
             <monogr>
-              <title>Treason's Shore</title>
+              <title>Treason’s Shore</title>
               <author>
                 <persName ref="authors_3.0.xml#smith.s"/>
               </author>
@@ -12803,7 +12908,7 @@
           </biblStruct>
           <biblStruct xml:id="sfar.j.rabbiscat2">
             <monogr>
-              <title>The Rabbi's Cat 2</title>
+              <title>The Rabbi’s Cat 2</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -12815,7 +12920,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Rabbi's Cat</title>
+              <title>The Rabbi’s Cat</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="tobe.k.withlightraisingautisticchild1">
@@ -13200,7 +13305,7 @@
           </biblStruct>
           <biblStruct xml:id="mori.k.bridesstory.2">
             <monogr>
-              <title>A Bride's Story Vol. 2</title>
+              <title>A Bride’s Story Vol. 2</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -13213,7 +13318,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>A Bride's Story</title>
+              <title>A Bride’s Story</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="crichton.m.timeline">
@@ -13441,9 +13546,11 @@
           <biblStruct xml:id="beaton.k.harkavagrant.stepasidepops">
             <monogr>
               <title>Step Aside, Pops: A Hark A Vagrant! Collection</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
                 <persName ref="authors_3.0.xml#beaton.k"/>
-              </author>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned" from="2015-09-28"/>
                 <catRef target="#tag.comics"/>
@@ -13498,9 +13605,6 @@
               <respStmt>
                 <resp relation="artist"/>
                 <persName ref="authors_3.0.xml#scott.n"/>
-              </respStmt>
-              <respStmt>
-                <resp relation="artist"/>
                 <persName ref="authors_3.0.xml#dagnino.f"/>
               </respStmt>
               <imprint>
@@ -13520,8 +13624,6 @@
               <title>Secret Six: Cats in the Cradle</title>
               <author>
                 <persName ref="authors_3.0.xml#simone.g"/>
-              </author>
-              <author>
                 <persName ref="authors_3.0.xml#ostrande.j"/>
               </author>
               <respStmt>
@@ -13580,9 +13682,6 @@
               <respStmt>
                 <resp relation="artist"/>
                 <persName ref="authors_3.0.xml#delandro.v"/>
-              </respStmt>
-              <respStmt>
-                <resp relation="artist"/>
                 <persName ref="authors_3.0.xml#wilson.r"/>
               </respStmt>
               <respStmt>
