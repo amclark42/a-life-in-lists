@@ -24,6 +24,77 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="stephens.n.reamde">
+            <monogr>
+              <title>Reamde</title>
+              <author>
+                <persName ref="authors_3.0.xml#stephens.n"/>
+              </author>
+              <imprint>
+                <date when="2011"/>
+                <publisher>
+                  <orgName>William Morrow</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="keatinge.j.shutter.1.wanderlost">
+            <monogr>
+              <title>Shutter Vol. 1: Wanderlost</title>
+              <author>
+                <persName ref="authors_3.0.xml#keatinge.j"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#duca.ld"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="authors_3.0.xml#gieni.o"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="authors_3.0.xml#brisson.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2014-04"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="simone.g.redsonja.queenplagues">
+            <monogr>
+              <title>Red Sonja: Queen of Plagues</title>
+              <author>
+                <persName ref="authors_3.0.xml#simone.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="authors_3.0.xml#geovani.w"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="authors_3.0.xml#lucas.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="authors_3.0.xml#bowland.s"/>
+              </respStmt>
+              <editor>
+                <persName ref="authors_3.0.xml#rybandt.j"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2014"/>
+                <publisher>
+                  <orgName>Dynamite Entertainment</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="hicks.fe.namelesscity">
             <monogr>
               <title>The Nameless City</title>

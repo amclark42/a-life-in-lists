@@ -22,6 +22,12 @@
   <text>
     <body>
       <listEvent>
+        <event when="2016-07-31">
+          <p>Read <ref target="booksRead_3.0.xml#hicks.fe.namelesscity">The Nameless City</ref>.</p>
+        </event>
+        <event from="2016-07-30">
+          <p>Read <ref target="booksRead_3.0.xml#stephens.n.reamde">Reamde</ref>.</p>
+        </event>
         <event from="2016-07-24" to="2016-07-27">
           <p>Read <ref target="booksRead_3.0.xml#yang.gl.avatarpromise">Avatar: The Last Airbender—The Promise</ref>.</p>
         </event>

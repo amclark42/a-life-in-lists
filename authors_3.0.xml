@@ -26,6 +26,69 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="stephens.n">
+          <persName>
+            <forename>Neal</forename>
+            <surname>Stephenson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="keatinge.j">
+          <persName>
+            <forename>Joe</forename>
+            <surname>Keatinge</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="duca.ld">
+          <persName>
+            <forename>Leila Del</forename>
+            <surname>Duca</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="gieni.o">
+          <persName>
+            <forename>Owen</forename>
+            <surname>Gieni</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="brisson.e">
+          <persName>
+            <forename>Ed</forename>
+            <surname>Brisson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="geovani.w">
+          <persName>
+            <forename>Walter</forename>
+            <surname>Geovani</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="lucas.a">
+          <persName>
+            <forename>Adriano</forename>
+            <surname>Lucas</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="bowland.s">
+          <persName>
+            <forename>Simon</forename>
+            <surname>Bowland</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="rybandt.j">
+          <persName>
+            <forename>Joseph</forename>
+            <surname>Rybandt</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="hicks.fe">
           <persName>
             <forename>Faith Erin</forename>
