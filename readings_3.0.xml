@@ -22,10 +22,13 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-08-04">
+          <p>Read <ref target="booksRead_3.0.xml#griffith.n.hild">Hild</ref>.</p>
+        </event>
         <event when="2016-07-31">
           <p>Read <ref target="booksRead_3.0.xml#hicks.fe.namelesscity">The Nameless City</ref>.</p>
         </event>
-        <event from="2016-07-30">
+        <event from="2016-07-30" to="2016-08-04">
           <p>Read <ref target="booksRead_3.0.xml#stephens.n.reamde">Reamde</ref>.</p>
         </event>
         <event from="2016-07-24" to="2016-07-27">
