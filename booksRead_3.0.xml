@@ -24,6 +24,33 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="campbell.s.shadoweyes.1">
+            <monogr>
+              <title>Shadoweyes: Volume 1</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <persName ref="a:campbell.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:watson.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2015-11-27"/>
+                <catRef target="#tag.owned" from="2016-08-18"/>
+                <catRef target="#tag.comics"/>
+                <date when="2016"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Shadoweyes</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="stephens.n.reamde">
             <monogr>
               <title>Reamde</title>
@@ -671,10 +698,13 @@
                 <catRef target="#tag.owned"/>
                 <date when="2014"/>
                 <publisher>
-                  <orgName>Scholastic</orgName>
+                  <orgName>Scholastic Inc.</orgName>
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Dimple Lala</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="thompson.k.heartbox">
             <monogr>
@@ -1000,6 +1030,10 @@
               <author>
                 <persName ref="authors_3.0.xml#jones.t"/>
               </author>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="authors_3.0.xml#adams.d"/>
+              </respStmt>
               <imprint>
                 <publisher/>
               </imprint>
@@ -2500,6 +2534,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Dimple Lala</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="tolkien.jrr.hobbit">
             <monogr>
@@ -3119,8 +3156,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <date when=""/>
-                <publisher/>
+                <date when="2007"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -5176,7 +5215,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2008"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -5775,7 +5817,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -6059,7 +6104,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2007"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -6652,7 +6700,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2009"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7420,7 +7471,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2004"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8083,13 +8137,16 @@
           </biblStruct>
           <biblStruct xml:id="paolini.c.inheritance">
             <monogr>
-              <title>Inheritance</title>
+              <title>Inheritance, or The Vault of Souls</title>
               <author>
                 <persName ref="authors_3.0.xml#paolini.c"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2011"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8178,7 +8235,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8924,7 +8984,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2006"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8939,9 +9002,15 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2000-06"/>
+                <publisher>
+                  <orgName>Hachette Book Group</orgName>
+                </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>The Xenogenesis Trilogy</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="brennan.sr.demonslexicon">
             <monogr>
@@ -9009,7 +9078,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>Harcourt, Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -9072,7 +9144,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2009-09"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -10672,7 +10747,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2013"/>
+                <publisher>
+                  <orgName>HarperCollins Publishers</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -13067,7 +13145,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2010-10"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13309,7 +13390,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1993"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -13458,9 +13542,16 @@
               <author>
                 <persName ref="authors_3.0.xml#fleischm.p"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:pedersen.j"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>HarperCollins Publishers</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -13589,7 +13680,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1988"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13640,7 +13734,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13805,7 +13902,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2006"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13835,7 +13935,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1962"/>
+                <publisher>
+                  <orgName>Avon Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -14052,6 +14155,452 @@
               <title>The Wicked and the Divine</title>
             </series>
           </biblStruct>
+          <biblStruct xml:id="adams.d.hitchhikerradio">
+            <monogr>
+              <title>The Original Hitchhiker Radio Scripts</title>
+              <author>
+                <persName ref="a:adams.d"/>
+              </author>
+              <edition>First American</edition>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1985"/>
+                <publisher>
+                  <orgName>Harmony Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Hitchhiker's Guide to the Galaxy</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="adams.d.hitchhikersguide">
+            <monogr>
+              <title>The Hitchhiker's Guide to the Galaxy</title>
+              <author>
+                <persName ref="a:adams.d"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1980"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Hitchhiker's Guide to the Galaxy</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="rowling.jk.hp.sorcerersstone">
+            <monogr>
+              <title>Harry Potter and the Sorcerer's Stone</title>
+              <author>
+                <persName ref="a:rowling.jk"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Harry Potter</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="rowling.jk.hp.gobletfire">
+            <monogr>
+              <title>Harry Potter and the Goblet of Fire</title>
+              <author>
+                <persName ref="a:rowling.jk"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Harry Potter</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="pullman.p.completehisdarkmaterials">
+            <monogr>
+              <title>His Dark Materials</title>
+              <author>
+                <persName ref="a:pullman.p"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2007-04"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>His Dark Materials</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="paolini.c.eldest">
+            <monogr>
+              <title>Eldest</title>
+              <author>
+                <persName ref="a:paolini.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2005"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Inheritance Cycle</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="paolini.c.eragon">
+            <monogr>
+              <title>Eragon</title>
+              <author>
+                <persName ref="a:paolini.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Inheritance Cycle</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="dahl.r.completewonka">
+            <monogr>
+              <title>The Complete Adventures of Charlie and Willy Wonka</title>
+              <author>
+                <persName ref="a:dahl.r"/>
+              </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:schindel.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1964"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="dahl.r.matilda">
+            <monogr>
+              <title>Matilda</title>
+              <author>
+                <persName ref="a:dahl.r"/>
+              </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:blake.q"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1988"/>
+                <publisher>
+                  <orgName>Puffin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="dahl.r.bfg">
+            <monogr>
+              <title>The BFG</title>
+              <author>
+                <persName ref="a:dahl.r"/>
+              </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:blake.q"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1982"/>
+                <publisher>
+                  <orgName>Puffin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="dahl.r.witches">
+            <monogr>
+              <title>The Witches</title>
+              <author>
+                <persName ref="a:dahl.r"/>
+              </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:blake.q"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1983"/>
+                <publisher>
+                  <orgName>Puffin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="lengle.m.winddoor">
+            <monogr>
+              <title>A Wind in the Door</title>
+              <author>
+                <persName ref="authors_3.0.xml#lengle.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1973"/>
+                <publisher>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Time Quartet</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="lengle.m.swiftlytiltingplanet">
+            <monogr>
+              <title>A Swiftly Tilting Planet</title>
+              <author>
+                <persName ref="authors_3.0.xml#lengle.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1978"/>
+                <publisher>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Time Quartet</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="lengle.m.manywaters">
+            <monogr>
+              <title>Many Waters</title>
+              <author>
+                <persName ref="authors_3.0.xml#lengle.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1986"/>
+                <publisher>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Time Quartet</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="white.th.swordstone">
+            <monogr>
+              <title>The Sword in the Stone</title>
+              <author>
+                <persName ref="a:white.th"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1963-10"/>
+                <publisher>
+                  <orgName>Bantam Doubleday Dell Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="stearns.m.wizardsdozen">
+            <monogr>
+              <title>A Wizard's Dozen</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <persName ref="a:stearns.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1993"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="jacques.b.bellmaker">
+            <monogr>
+              <title>The Bellmaker</title>
+              <author>
+                <persName ref="authors_3.0.xml#jacques.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1994"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="jacques.b.marlfox">
+            <monogr>
+              <title>Marlfox</title>
+              <author>
+                <persName ref="authors_3.0.xml#jacques.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="jacques.b.pearlslutra">
+            <monogr>
+              <title>Pearls of Lutra</title>
+              <author>
+                <persName ref="authors_3.0.xml#jacques.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="jacques.b.mariel">
+            <monogr>
+              <title>Mariel of Redwall</title>
+              <author>
+                <persName ref="authors_3.0.xml#jacques.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1991"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Redwall</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="coelho.p.alchemist">
+            <monogr>
+              <title>The Alchemist</title>
+              <title type="alt" xml:lang="pt">O Alquimista</title>
+              <author>
+                <persName ref="a:coelho.p"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:clarke.ar"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <date when="1988"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="atwood.m.handmaidstale">
+            <monogr>
+              <title>The Handmaid's Tale</title>
+              <author>
+                <persName ref="a:atwood.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <date when="1986"/>
+                <publisher>
+                  <orgName>Random House, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="spinelli.j.stargirl">
+            <monogr>
+              <title>Stargirl</title>
+              <author>
+                <persName ref="a:spinelli.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="adams.d.salmondoubt">
+            <monogr>
+              <title>The Salmon of Doubt: Hitchhiking the Galaxy One Last Time</title>
+              <author>
+                <persName ref="a:adams.d"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>Random House, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <!--<biblStruct>
+            <monogr>
+              <title></title>
+              <author>
+                <persName ref="a:"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when=""/>
+                <publisher>
+                  <orgName></orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title></title>
+            </series>
+          </biblStruct>
+          -->
         </listBibl>
       </div>
     </body>

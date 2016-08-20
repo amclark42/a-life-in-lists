@@ -26,6 +26,19 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="campbell.s">
+          <persName>
+            <forename>Sophie</forename>
+            <surname>Campbell</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
+        <person xml:id="watson.e">
+          <persName>
+            <forename>Erin</forename>
+            <surname>Watson</surname>
+          </persName>
+        </person>
         <person xml:id="stephens.n">
           <persName>
             <forename>Neal</forename>
@@ -3574,6 +3587,76 @@
           <persName>
             <forename>Robbie</forename>
             <surname>Robbins</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="adams.d">
+          <persName>
+            <forename>Douglas</forename>
+            <surname>Adams</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="rowling.jk">
+          <persName>
+            <forename>J.K.</forename>
+            <surname>Rowling</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="dahl.r">
+          <persName>
+            <forename>Roald</forename>
+            <surname>Dahl</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="schindel.j">
+          <persName>
+            <forename>Joseph</forename>
+            <surname>Schindelman</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="blake.q">
+          <persName>
+            <forename>Quentin</forename>
+            <surname>Blake</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="white.th">
+          <persName>
+            <forename>T.H.</forename>
+            <surname>White</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="pedersen.j">
+          <persName>
+            <forename>Judy</forename>
+            <surname>Pedersen</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="stearns.m">
+          <persName>
+            <forename>Michael</forename>
+            <surname>Stearns</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="clarke.ar">
+          <persName>
+            <forename>Alan R.</forename>
+            <surname>Clarke</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="spinelli.j">
+          <persName>
+            <forename>Jerry</forename>
+            <surname>Spinelli</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
