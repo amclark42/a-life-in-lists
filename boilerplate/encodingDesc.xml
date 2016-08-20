@@ -26,6 +26,9 @@
       <category xml:id="tag.erotica">
         <catDesc>erotica</catDesc>
       </category>
+      <category xml:id="tag.anthology">
+        <catDesc>anthology</catDesc>
+      </category>
     </taxonomy>
   </classDecl>
 </encodingDesc>

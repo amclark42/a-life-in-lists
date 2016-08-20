@@ -18,7 +18,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2016-04-03" who="amclark42">Added <att>evidence</att> to all gender elements.
+      <change when="2016-04-03">Added <att>evidence</att> to all gender elements.
         Default is "conjecture." There weren't many I was comfortable claiming as
         "self-identification."</change>
     </revisionDesc>
@@ -3659,6 +3659,107 @@
             <surname>Spinelli</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="homer">
+          <persName>
+            <name>Homer</name>
+          </persName>
+        </person>
+        <person xml:id="fitzgera.r">
+          <persName>
+            <forename>Robert</forename>
+            <surname>Fitzgerald</surname>
+          </persName>
+        </person>
+        <person xml:id="rosenber.p">
+          <persName>
+            <forename>Portia</forename>
+            <surname>Rosenberg</surname>
+          </persName>
+        </person>
+        <person xml:id="mckean.d">
+          <persName>
+            <forename>Dave</forename>
+            <surname>McKean</surname>
+          </persName>
+        </person>
+        <person xml:id="chalk.g">
+          <persName>
+            <forename>Gary</forename>
+            <surname>Chalk</surname>
+          </persName>
+        </person>
+        <person xml:id="howell.t">
+          <persName>
+            <forename>Troy</forename>
+            <surname>Howell</surname>
+          </persName>
+        </person>
+        <person xml:id="graves.l">
+          <persName>
+            <forename>Lucia</forename>
+            <surname>Graves</surname>
+          </persName>
+        </person>
+        <person xml:id="elliot.d">
+          <persName>
+            <forename>David</forename>
+            <surname>Elliot</surname>
+          </persName>
+        </person>
+        <person xml:id="funke.c">
+          <persName>
+            <forename>Cornelia</forename>
+            <surname>Funke</surname>
+          </persName>
+        </person>
+        <person xml:id="bell.a">
+          <persName>
+            <forename>Anthea</forename>
+            <surname>Bell</surname>
+          </persName>
+        </person>
+        <person xml:id="lawson.c">
+          <persName>
+            <forename>Carol</forename>
+            <surname>Lawson</surname>
+          </persName>
+        </person>
+        <person xml:id="shakespe.w">
+          <persName>
+            <forename>William</forename>
+            <surname>Shakespeare</surname>
+          </persName>
+        </person>
+        <person xml:id="garcíamá.g">
+          <persName>
+            <forename>Gabriel</forename>
+            <surname>García Márquez</surname>
+          </persName>
+        </person>
+        <person xml:id="rabassa.g">
+          <persName>
+            <forename>Gregory</forename>
+            <surname>Rabassa</surname>
+          </persName>
+        </person>
+        <person xml:id="november.s">
+          <persName>
+            <forename>Sharyn</forename>
+            <surname>November</surname>
+          </persName>
+        </person>
+        <person xml:id="hill.f">
+          <persName>
+            <forename>Frances</forename>
+            <surname>Hill</surname>
+          </persName>
+        </person>
+        <person xml:id="obrian.p">
+          <persName>
+            <forename>Patrick</forename>
+            <surname>O’Brian</surname>
+          </persName>
         </person>
       </listPerson>
       <listOrg>

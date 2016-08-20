@@ -19,6 +19,11 @@
       </sourceDesc>
     </fileDesc>
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
+    <revisionDesc>
+      <listChange>
+        <change when="2016-08-20">Added "anthology" tag.</change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
@@ -396,6 +401,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2016-06-15"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <date when="2014-02"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -415,6 +421,7 @@
                 <catRef target="#tag.kickstart" when="2015-06-16"/>
                 <catRef target="#tag.owned" from="2016-06-15"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <date when="2016"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -981,6 +988,7 @@
           <biblStruct xml:id="cortázar.j.blowup">
             <monogr>
               <title>Blow-Up and Other Stories</title>
+              <title type="alt">End of the Game and Other Stories</title>
               <author>
                 <persName ref="authors_3.0.xml#cortázar.j"/>
               </author>
@@ -3172,9 +3180,16 @@
               <author>
                 <persName ref="authors_3.0.xml#jacques.b"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:chalk.g"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1993"/>
+                <publisher>
+                  <orgName>Philomel Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -3243,7 +3258,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1992"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -3733,7 +3751,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>Harcourt, Inc.</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -3748,7 +3769,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -3763,7 +3787,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>Vintage Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -4329,12 +4356,20 @@
           <biblStruct xml:id="zafόn.cr.angelsgame">
             <monogr>
               <title>The Angel’s Game</title>
+              <title type="alt" xml:lang="es">Juego del Ángel</title>
               <author>
                 <persName ref="authors_3.0.xml#zafόn.cr"/>
               </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:graves.l"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2009"/>
+                <publisher>
+                  <orgName>Doubleday</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -5143,6 +5178,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -5170,7 +5206,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>Back Bay Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -5389,8 +5428,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <catRef target="#tag.comics"/>
-                <publisher/>
+                <date when="2009"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -5520,9 +5561,13 @@
               <author>
                 <persName ref="authors_3.0.xml#bradbury.r"/>
               </author>
+              <edition>50th Anniversary Edition</edition>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1953"/>
+                <publisher>
+                  <orgName>Del Rey Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -5844,14 +5889,17 @@
           </biblStruct>
           <biblStruct xml:id="king.s.onwriting">
             <monogr>
-              <title>On Writing</title>
+              <title>On Writing: A Memoir of the Craft</title>
               <author>
                 <persName ref="authors_3.0.xml#king.s"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.nonfiction"/>
-                <publisher/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>Scribner</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -5934,6 +5982,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6186,7 +6235,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -6452,6 +6504,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6467,7 +6520,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -6892,6 +6948,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7172,6 +7229,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7185,9 +7243,16 @@
               <author>
                 <persName ref="authors_3.0.xml#clarke.s"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:rosenber.p"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2004"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -7339,7 +7404,11 @@
                 <persName ref="authors_3.0.xml#hobb.r"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned"/>
+                <date when="1995"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7564,13 +7633,16 @@
           </biblStruct>
           <biblStruct xml:id="rawn.m.ruinsambrai">
             <monogr>
-              <title>The Ruins of Ambrai</title>
+              <title>Exiles: The Ruins of Ambrai</title>
               <author>
                 <persName ref="authors_3.0.xml#rawn.m"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1994"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7853,9 +7925,17 @@
               <author>
                 <persName ref="authors_3.0.xml#jacques.b"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:howell.t"/>
+              </respStmt>
+              <edition>Anniversary Edition</edition>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1986"/>
+                <publisher>
+                  <orgName>Philomel Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -7923,7 +8003,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1994"/>
+                <publisher>
+                  <orgName>Firebird</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -7935,7 +8018,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1996"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8126,9 +8212,16 @@
               <author>
                 <persName ref="authors_3.0.xml#jacques.b"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:chalk.g"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1990"/>
+                <publisher>
+                  <orgName>Philomel Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8583,7 +8676,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -8649,6 +8745,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -8921,7 +9018,11 @@
                 <persName ref="authors_3.0.xml#pratchet.t"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned"/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -9162,7 +9263,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="1997"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -9327,6 +9431,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -9508,6 +9613,7 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.kickstart" when="2012-05-28"/>
                 <catRef target="#tag.erotica"/>
+                <catRef target="#tag.anthology"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -10518,9 +10624,16 @@
               <author>
                 <persName ref="authors_3.0.xml#gaiman.n"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:mckean.d"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2008"/>
+                <publisher>
+                  <orgName>HarperPerennial</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -11030,9 +11143,16 @@
               <author>
                 <persName ref="authors_3.0.xml#jacques.b"/>
               </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:elliot.d"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>Philomel Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13115,7 +13235,10 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.nonfiction"/>
-                <publisher/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>North Point Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -13216,6 +13339,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.kickstart" when="2014-05-05"/>
+                <catRef target="#tag.anthology"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -13298,7 +13422,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2010"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13346,7 +13473,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2010"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13405,7 +13535,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13431,7 +13564,11 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <catRef target="#tag.anthology"/>
+                <date when="2013"/>
+                <publisher>
+                  <orgName>Grand Central Publishing</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13529,7 +13666,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2007"/>
+                <publisher>
+                  <orgName>Anchor Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13628,7 +13768,10 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <publisher/>
+                <date when="2012"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -13923,6 +14066,7 @@
                 <catRef target="#tag.kickstart" when="2015-04-16"/>
                 <catRef target="#tag.owned" from="2015-10-20"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -13973,7 +14117,10 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned" from="2015-10-24"/>
-                <publisher/>
+                <date when="2006-01"/>
+                <publisher>
+                  <orgName>The NESFA Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -14171,12 +14318,12 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Hitchhiker's Guide to the Galaxy</title>
+              <title>The Hitchhiker’s Guide to the Galaxy</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="adams.d.hitchhikersguide">
             <monogr>
-              <title>The Hitchhiker's Guide to the Galaxy</title>
+              <title>The Hitchhiker’s Guide to the Galaxy</title>
               <author>
                 <persName ref="a:adams.d"/>
               </author>
@@ -14189,12 +14336,12 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Hitchhiker's Guide to the Galaxy</title>
+              <title>The Hitchhiker’s Guide to the Galaxy</title>
             </series>
           </biblStruct>
           <biblStruct xml:id="rowling.jk.hp.sorcerersstone">
             <monogr>
-              <title>Harry Potter and the Sorcerer's Stone</title>
+              <title>Harry Potter and the Sorcerer’s Stone</title>
               <author>
                 <persName ref="a:rowling.jk"/>
               </author>
@@ -14429,13 +14576,14 @@
           </biblStruct>
           <biblStruct xml:id="stearns.m.wizardsdozen">
             <monogr>
-              <title>A Wizard's Dozen</title>
+              <title>A Wizard’s Dozen</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="a:stearns.m"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.anthology"/>
                 <date when="1993"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
@@ -14538,7 +14686,7 @@
           </biblStruct>
           <biblStruct xml:id="atwood.m.handmaidstale">
             <monogr>
-              <title>The Handmaid's Tale</title>
+              <title>The Handmaid’s Tale</title>
               <author>
                 <persName ref="a:atwood.m"/>
               </author>
@@ -14582,7 +14730,361 @@
               </imprint>
             </monogr>
           </biblStruct>
-          <!--<biblStruct>
+          <biblStruct xml:id="vonnegut.k.breakfastchampions">
+            <monogr>
+              <title>Breakfast of Champions</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="illustrator"/>
+                <persName ref="a:vonnegut.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <date when="1973"/>
+                <publisher>
+                  <orgName>Random House, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="steinbec.j.canneryrow">
+            <monogr>
+              <title>Cannery Row</title>
+              <author>
+                <persName ref="a:steinbec.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <date when="1945"/>
+                <publisher>
+                  <orgName>Penguin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="goldman.w.princessbride">
+            <monogr>
+              <title>The Princess Bride: S. Morgenstern’s Classic Tale of True Love 
+                and High Adventure</title>
+              <author>
+                <persName ref="a:goldman.w"/>
+              </author>
+              <edition>30th Anniversary Edition</edition>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1973"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="homer.odyssey">
+            <monogr>
+              <title>The Odyssey</title>
+              <author>
+                <persName ref="a:homer"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:fitzgera.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Farrar, Straus and Giroux</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="gaiman.n.goodomens">
+            <monogr>
+              <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, 
+                Witch</title>
+              <author>
+                <persName ref="a:gaiman.n"/>
+                <persName ref="a:pratchet.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1990"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="gaiman.n.stardust">
+            <monogr>
+              <title>Stardust</title>
+              <author>
+                <persName ref="a:gaiman.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1999"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="kidd.sm.secretbees">
+            <monogr>
+              <title>The Secret Life of Bees</title>
+              <author>
+                <persName ref="a:kidd.sm"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2002"/>
+                <publisher>
+                  <orgName>Penguin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="funke.c.inkheart">
+            <monogr>
+              <title>Inkheart</title>
+              <title type="alt" xml:lang="de">Tintenherz</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="illustrator"/>
+                <persName ref="a:funke.c"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:bell.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:lawson.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>Chicken House</orgName>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Inkheart</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="funke.c.inkspell">
+            <monogr>
+              <title>Inkspell</title>
+              <title type="alt" xml:lang="de">Tintenblut</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="illustrator"/>
+                <persName ref="a:funke.c"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:bell.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:lawson.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2005"/>
+                <publisher>
+                  <orgName>Chicken House</orgName>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Inkheart</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="zafόn.cr.shadowwind">
+            <monogr>
+              <title>The Shadow of the Wind</title>
+              <title type="alt" xml:lang="es">La Sombra del Viento</title>
+              <author>
+                <persName ref="authors_3.0.xml#zafόn.cr"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:graves.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2001"/>
+                <publisher>
+                  <orgName>The Penguin Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Cemetery of Forgotten Books</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="north.r.tobeornottobe">
+            <monogr>
+              <title>To Be or Not To Be: A Chooseable-Path Adventure</title>
+              <author>
+                <persName ref="a:north.r"/>
+              </author>
+              <!-- Need to expand on illustrators -->
+              <respStmt>
+                <resp relation="creator"/>
+                <persName ref="a:shakespe.w"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2012-12-21"/>
+                <catRef target="#tag.owned" from="2013"/>
+                <date when="2013"/>
+                <publisher>
+                  <orgName>Breadpig, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="garcíamá.g.hundredyears">
+            <monogr>
+              <title>One Hundred Years of Solitude</title>
+              <title type="alt" xml:lang="es">Cien Años del Soledad</title>
+              <author>
+                <persName ref="a:garcíamá.g"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:rabassa.g"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1967"/>
+                <!--<date when="2006"/>-->
+                <publisher>
+                  <orgName>HarperPerennial</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="gaiman.n.americangods">
+            <monogr>
+              <title>American Gods</title>
+              <author>
+                <persName ref="a:gaiman.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2001"/>
+                <publisher>
+                  <orgName>HarperTorch</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>American Gods</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="gaiman.n.anansiboys">
+            <monogr>
+              <title>Anansi Boys</title>
+              <author>
+                <persName ref="a:gaiman.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="2005"/>
+                <publisher>
+                  <orgName>William Morrow</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>American Gods</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="november.s.firebirds">
+            <monogr>
+              <title>Firebirds: An Anthology of Original Fantasy and Science Fiction</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:november.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.anthology"/>
+                <date when="2003"/>
+                <publisher>
+                  <orgName>Firebird</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="hill.f.salemtrialsreader">
+            <monogr>
+              <title>The Salem Witch Trials Reader</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <persName ref="a:hill.f"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class"/>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2000"/>
+                <publisher>
+                  <orgName>DaCapo Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="soustell.j.dailylifeaztecs">
+            <monogr>
+              <title>Daily Life of the Aztecs On the Eve of the Spanish Conquest</title>
+              <title type="alt" xml:lang="fr">La Vie Quotidienne des Aztèques à la 
+                Veille de la Conquête Espagnole</title>
+              <author>
+                <persName ref="a:soustell.j"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:obrian.p"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.nonfiction"/>
+                <!--<date when="1955"/>-->
+                <date when="1970"/>
+                <publisher>
+                  <orgName>Stanford University Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="jones.dw.derkholm">
+            <monogr>
+              <title>Dark Lord of Derkholm</title>
+              <author>
+                <persName ref="a:jones.dw"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date when="1998"/>
+                <publisher>
+                  <orgName>Greenwillow Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <!--
+          <biblStruct>
             <monogr>
               <title></title>
               <author>

@@ -22,7 +22,7 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-08-18">
+        <event from="2016-08-18" to="2016-08-20">
           <p>Read <ref target="booksRead_3.0.xml#campbell.s.shadoweyes.1">Shadoweyes Volume 1</ref>.</p>
         </event>
         <event when="2016-08-08">

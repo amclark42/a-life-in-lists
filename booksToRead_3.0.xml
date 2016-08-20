@@ -20,7 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change who="amclark42" when="2016-05-15">
+        <change when="2016-05-15">
           <list>
             <item>Added XIncluded <gi>encodingDesc</gi>.</item>
             <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; and </item>
@@ -28,8 +28,8 @@
               track of how long items stay on this list.</item>
           </list>
         </change>
-        <change who="amclark42" when="2016-05-07">Generated conversion TEI from OxGarage.</change>
-        <change who="amclark42" when="2005-06-20T21:31:00">Created the first version of this list in Microsoft Word.</change>
+        <change when="2016-05-07">Generated conversion TEI from OxGarage.</change>
+        <change when="2005-06-20T21:31:00">Created the first version of this list in Microsoft Word.</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
