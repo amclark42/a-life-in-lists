@@ -22,6 +22,9 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-08-25">
+          <p>Read <ref target="booksRead_3.0.xml#sanderso.b.wordsradiance">Words of Radiance</ref>.</p>
+        </event>
         <event from="2016-08-18" to="2016-08-20">
           <p>Read <ref target="booksRead_3.0.xml#campbell.s.shadoweyes.1">Shadoweyes Volume 1</ref>.</p>
         </event>
@@ -31,7 +34,7 @@
         <event when="2016-08-07">
           <p>Read <ref target="booksRead_3.0.xml#keatinge.j.shutter.1.wanderlost">Shutter Vol. 1: Wanderlost</ref>.</p>
         </event>
-        <event from="2016-08-04">
+        <event from="2016-08-04" to="2016-08-25">
           <p>Read <ref target="booksRead_3.0.xml#griffith.n.hild">Hild</ref>.</p>
         </event>
         <event when="2016-07-31">
