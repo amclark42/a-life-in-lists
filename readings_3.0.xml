@@ -22,6 +22,12 @@
   <text>
     <body>
       <listEvent>
+        <event when="2016-08-31">
+          <p>Read <ref target="booksRead_3.0.xml#watsuki.n.rurounikenshin.2">Rurouni Kenshin Vol. 2</ref>.</p>
+        </event>
+        <event when="2016-08-30">
+          <p>Read <ref target="booksRead_3.0.xml#watsuki.n.rurounikenshin.1">Rurouni Kenshin Vol. 1</ref>.</p>
+        </event>
         <event from="2016-08-25">
           <p>Read <ref target="booksRead_3.0.xml#sanderso.b.wordsradiance">Words of Radiance</ref>.</p>
         </event>

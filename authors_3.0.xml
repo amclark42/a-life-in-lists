@@ -26,6 +26,13 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="watsuki.n">
+          <persName>
+            <forename>Nobuhiro</forename>
+            <surname>Watsuki</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="campbell.s">
           <persName>
             <forename>Sophie</forename>

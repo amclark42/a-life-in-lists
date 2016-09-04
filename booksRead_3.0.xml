@@ -29,6 +29,48 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="watsuki.n.rurounikenshin.2">
+            <monogr>
+              <title>Rurouni Kenshin Vol. 2</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:watsuki.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="1994"/>
+                <date type="publication" when="2003-11"/>
+                <publisher>
+                  <orgName>VIZ, LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Rurouni Kenshin</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="watsuki.n.rurounikenshin.1">
+            <monogr>
+              <title>Rurouni Kenshin Vol. 1</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:watsuki.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="1994"/>
+                <date type="publication" when="2003-10"/>
+                <publisher>
+                  <orgName>VIZ, LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Rurouni Kenshin</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="campbell.s.shadoweyes.1">
             <monogr>
               <title>Shadoweyes: Volume 1</title>

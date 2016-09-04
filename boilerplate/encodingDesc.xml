@@ -2,17 +2,14 @@
   <classDecl>
     <taxonomy xml:id="tag">
       <bibl>Tags</bibl>
-      <category xml:id="tag.owned">
-        <catDesc>owned</catDesc>
-      </category>
-      <category xml:id="tag.comics">
-        <catDesc>comics</catDesc>
+      <category xml:id="tag.anthology">
+        <catDesc>anthology</catDesc>
       </category>
       <category xml:id="tag.class">
         <catDesc>classroom reading</catDesc>
       </category>
-      <category xml:id="tag.nonfiction">
-        <catDesc>nonfiction</catDesc>
+      <category xml:id="tag.comics">
+        <catDesc>comics</catDesc>
       </category>
       <category xml:id="tag.cookbook">
         <catDesc>cookbook</catDesc>
@@ -20,14 +17,17 @@
       <category xml:id="tag.drama">
         <catDesc>drama</catDesc>
       </category>
-      <category xml:id="tag.kickstart">
-        <catDesc>Kickstarted</catDesc>
-      </category>
       <category xml:id="tag.erotica">
         <catDesc>erotica</catDesc>
       </category>
-      <category xml:id="tag.anthology">
-        <catDesc>anthology</catDesc>
+      <category xml:id="tag.kickstart">
+        <catDesc>Kickstarted</catDesc>
+      </category>
+      <category xml:id="tag.nonfiction">
+        <catDesc>nonfiction</catDesc>
+      </category>
+      <category xml:id="tag.owned">
+        <catDesc>owned</catDesc>
       </category>
     </taxonomy>
   </classDecl>
