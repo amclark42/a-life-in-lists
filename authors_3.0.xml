@@ -3490,6 +3490,7 @@
             <forename>Rico</forename>
             <surname>Renzi</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="cowles.c">
           <persName>
@@ -3671,102 +3672,119 @@
           <persName>
             <name>Homer</name>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="fitzgera.r">
           <persName>
             <forename>Robert</forename>
             <surname>Fitzgerald</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="rosenber.p">
           <persName>
             <forename>Portia</forename>
             <surname>Rosenberg</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="mckean.d">
           <persName>
             <forename>Dave</forename>
             <surname>McKean</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="chalk.g">
           <persName>
             <forename>Gary</forename>
             <surname>Chalk</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="howell.t">
           <persName>
             <forename>Troy</forename>
             <surname>Howell</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="graves.l">
           <persName>
             <forename>Lucia</forename>
             <surname>Graves</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="elliot.d">
           <persName>
             <forename>David</forename>
             <surname>Elliot</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="funke.c">
           <persName>
             <forename>Cornelia</forename>
             <surname>Funke</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="bell.a">
           <persName>
             <forename>Anthea</forename>
             <surname>Bell</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="lawson.c">
           <persName>
             <forename>Carol</forename>
             <surname>Lawson</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="shakespe.w">
           <persName>
             <forename>William</forename>
             <surname>Shakespeare</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="garcíamá.g">
           <persName>
             <forename>Gabriel</forename>
             <surname>García Márquez</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="rabassa.g">
           <persName>
             <forename>Gregory</forename>
             <surname>Rabassa</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
         <person xml:id="november.s">
           <persName>
             <forename>Sharyn</forename>
             <surname>November</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="hill.f">
           <persName>
             <forename>Frances</forename>
             <surname>Hill</surname>
           </persName>
+          <gender value="female" evidence="conjecture"/>
         </person>
         <person xml:id="obrian.p">
           <persName>
             <forename>Patrick</forename>
             <surname>O’Brian</surname>
           </persName>
+          <gender value="male" evidence="conjecture"/>
         </person>
       </listPerson>
       <listOrg>
