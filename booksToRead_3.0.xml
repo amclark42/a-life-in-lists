@@ -64,6 +64,11 @@
           <title>Paradiso</title>.
         </bibl>
         <bibl>
+          <author>Allen, Sarah Addison</author>.
+          <title>Garden Spells</title>.
+          <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
           <author>Ambrose, Susan A.</author>,
           <author>Michael W. Bridges</author>,
           <author>Michele DiPietro</author>.
@@ -108,6 +113,11 @@
         <bibl>
           <author>Atwood, Margaret</author>.
           <title>Cat’s Eye</title>.
+        </bibl>
+        <bibl>
+          <author>Atwood, Margaret</author>.
+          <title>Hag-Seed</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Atwood, Margaret</author>.
@@ -170,6 +180,11 @@
         <bibl>
           <author>Bauermeister, Erica</author>.
           <title>Joy for Beginners</title>.
+        </bibl>
+        <bibl>
+          <author>Bear, Elizabeth</author>.
+          <title>Karen Memory</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Beatrice, Allyson</author>.
@@ -349,6 +364,11 @@
         <bibl>
           <author>Christie, Agatha</author>.
           <title>Mousetrap</title>.
+        </bibl>
+        <bibl>
+          <author>Coates, Ta-Nehisi</author>.
+          <title>Between the World and Me</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Constantine, Storm</author>.
@@ -558,6 +578,10 @@
         <bibl>
           <author>Gabaldon, Diana</author>.
           <title>Outlander</title>.
+        </bibl>
+        <bibl>
+          <author>Gaiman, Neil</author>.
+          <title>The View from the Cheap Seats</title>.
         </bibl>
         <bibl>
           <author>Gaiman, Neil</author> and
@@ -807,8 +831,19 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Knisley, Lucy</author>.
+          <title>Displacement: A Travelogue</title>.
+          <date type="added" when="2016-10-01"/>
+          <trait ref="#tag,comics"/>
+        </bibl>
+        <bibl>
           <author>Kowal, Mary Robinette</author>.
           <title>Glamour and Glass</title>.
+        </bibl>
+        <bibl>
+          <author>Koyanagi, Jacqueline</author>.
+          <title>Ascension</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Kushner, Ellen</author>.
@@ -967,6 +1002,17 @@
             Scotch, and Irish Whiskey</title>.
         </bibl>
         <bibl>
+          <author>Monette, Sarah</author> and
+          <author>Elizabeth Bear</author>.
+          <title>An Apprentice to Elves</title>.
+          <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Moore, Lorrie</author>.
+          <title>Anagrams</title>.
+          <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
           <author>Moore, Moira</author>.
           <title>Resenting the Hero</title>.
         </bibl>
@@ -1024,6 +1070,11 @@
         <bibl>
           <author>Nix, Garth</author>.
           <title>Clariel</title>.
+        </bibl>
+        <bibl>
+          <author>Nix, Garth</author>.
+          <title>Goldenhand</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Novik, Naomi</author>.
@@ -1221,8 +1272,9 @@
           <title>Warbreaker</title>.
         </bibl>
         <bibl>
-          <author>Sanderson, Brandon</author>.
-          <title>Words of Radiance</title>.
+          <author>Schickel, Katie</author>.
+          <title>Housewitch</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Scott, Melissa</author>.
@@ -1272,6 +1324,11 @@
         <bibl>
           <author>Smith, Zadie</author>.
           <title>White Teeth</title>.
+        </bibl>
+        <bibl>
+          <author>Snyder, Maria V.</author>
+          <title>Shadow Study</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Spangler, K.B.</author>
@@ -1349,6 +1406,11 @@
         <bibl>
           <author>Vonnegut, Kurt</author>.
           <title>Slaughterhouse Five</title>.
+        </bibl>
+        <bibl>
+          <author>Walton, Jo</author>.
+          <title>The Just City</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Way, Gerard</author>.

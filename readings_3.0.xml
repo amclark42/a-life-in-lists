@@ -22,13 +22,19 @@
   <text>
     <body>
       <listEvent>
+        <event from="2016-09-30">
+          <p>Read <ref target="booksRead_3.0.xml#scott.m.dreamships">Dreamships</ref>.</p>
+        </event>
+        <event when="2016-09-29">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.whatdidyoueat.1">What Did You Eat Yesterday? Vol. 1</ref>.</p>
+        </event>
         <event when="2016-08-31">
           <p>Read <ref target="booksRead_3.0.xml#watsuki.n.rurounikenshin.2">Rurouni Kenshin Vol. 2</ref>.</p>
         </event>
         <event when="2016-08-30">
           <p>Read <ref target="booksRead_3.0.xml#watsuki.n.rurounikenshin.1">Rurouni Kenshin Vol. 1</ref>.</p>
         </event>
-        <event from="2016-08-25">
+        <event from="2016-08-25" to="2016-09-29">
           <p>Read <ref target="booksRead_3.0.xml#sanderso.b.wordsradiance">Words of Radiance</ref>.</p>
         </event>
         <event from="2016-08-18" to="2016-08-20">
