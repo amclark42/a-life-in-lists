@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2016-10-08">Added "memoir" tag.</change>
         <change when="2016-08-20">Added "anthology" tag.</change>
       </listChange>
     </revisionDesc>
@@ -29,6 +30,151 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="priest.c.maplecroft">
+            <monogr>
+              <title>Maplecroft: The Borden Dispatches</title>
+              <author>
+                <persName ref="a:priest.c"/>
+              </author>
+              <imprint>
+                <date when="2014-09"/>
+                <date type="added" when="2016-07-09"/>
+                <publisher>
+                  <orgName>Penguin Random House LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="westerfe.s.killingworlds">
+            <monogr>
+              <title>The Killing of Worlds</title>
+              <author>
+                <persName ref="a:westerfe.s"/>
+              </author>
+              <imprint>
+                <date when="2003"/>
+                <date type="added" when="2016-07-26"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Succession</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="nugent.a.donthavetolikeme">
+            <monogr>
+              <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out, 
+                and Finding Feminism</title>
+              <author>
+                <persName ref="a:nugent.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2015"/>
+                <date type="added" when="2016-05-20"/>
+                <publisher>
+                  <orgName>Penguin Random House LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="harris.j.gospelloki">
+            <monogr>
+              <title>The Gospel of Loki</title>
+              <author>
+                <persName ref="a:harris.j"/>
+              </author>
+              <imprint>
+                <date when="2014"/>
+                <date type="first-publication" when="2014"/>
+                <date type="added" when="2016-09-25"/>
+                <publisher>
+                  <orgName>Simon &amp; Schuster, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="keatinge.j.shutter.2.wayworld">
+            <monogr>
+              <title>Shutter Vol. 2: Way of the World</title>
+              <author>
+                <persName ref="a:keatinge.j"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:duca.ld"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:gieni.o"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:workman.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2015-07"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Shutter</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="knisley.l.displacement">
+            <monogr>
+              <title>Displacement: A Travelogue</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:knisley.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2015"/>
+                <date type="added" when="2016-10-01"/>
+                <publisher>
+                  <orgName>Fantagraphics Books, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="agi.t.dropsofgod.2">
+            <monogr>
+              <title>The Drops of God Vol. 2</title>
+              <title type="alt" xml:lang="ja">Kami no Shizuku 3, 4</title>
+              <author>
+                <persName ref="a:agi.t"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:okimoto.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:robinson.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2011"/>
+                <date type="first-publication" when="2005"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Drops of God</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="mcneil.cs.finder.thirdworld">
             <monogr>
               <title>Finder: Third World</title>
@@ -70,6 +216,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2015"/>
                 <publisher>
@@ -98,7 +245,7 @@
           <biblStruct xml:id="agi.t.dropsofgod.1">
             <monogr>
               <title>The Drops of God Vol. 1</title>
-              <title type="alt" xml:lang="ja">Kami no Shizuku</title>
+              <title type="alt" xml:lang="ja">Kami no Shizuku 1, 2</title>
               <author>
                 <persName ref="a:agi.t"/>
               </author>
@@ -258,6 +405,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Shutter</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="simone.g.redsonja.queenplagues">
             <monogr>
@@ -288,6 +438,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Red Sonja</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="hicks.fe.namelesscity">
             <monogr>
@@ -464,6 +617,8 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
                 <date when="2016"/>
                 <date type="added" when="2016-05-15"/>
                 <publisher>
@@ -1008,6 +1163,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2014"/>
                 <publisher>
@@ -1360,6 +1516,8 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2540,6 +2698,9 @@
                 <publisher/>
               </imprint>
             </monogr>
+            <series>
+              <title>Eden</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="sakai.s.usagiyojimbo.grasscutter">
             <monogr>
@@ -3949,6 +4110,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.memoir"/>
                 <date when="2000"/>
                 <publisher>
                   <orgName>Vintage Books</orgName>
@@ -4731,6 +4893,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.class"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -4798,6 +4961,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.class"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -4853,7 +5017,7 @@
                 <persName ref="a:boyer.ps"/>
               </author>
               <author>
-                <persName ref="a:nissenbaum.s">Stephen</persName>
+                <persName ref="a:nissenbaum.s"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -4918,6 +5082,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -5162,6 +5327,7 @@
                 <persName ref="a:miller.a"/>
               </author>
               <imprint>
+                <catRef target="#tag.drama"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6057,6 +6223,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2000"/>
                 <publisher>
@@ -10259,6 +10426,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -11137,6 +11305,7 @@
                 <persName ref="a:sedaris.d"/>
               </author>
               <imprint>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -11179,6 +11348,7 @@
                 <persName ref="a:angelou.m"/>
               </author>
               <imprint>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <publisher/>
               </imprint>
@@ -12610,6 +12780,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2013"/>
                 <publisher>

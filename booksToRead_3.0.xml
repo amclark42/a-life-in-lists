@@ -22,7 +22,7 @@
       <listChange>
         <change when="2016-05-15">
           <list>
-            <item>Added XIncluded <gi>encodingDesc</gi>.</item>
+            <item>Added XIncluded <gi>encodingDesc</gi>;</item>
             <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; and </item>
             <item>started using <gi>date</gi> with <att>type</att> of "added" to keep
               track of how long items stay on this list.</item>
@@ -40,24 +40,22 @@
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the
             Civil War</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Addison, Katherine</author>.
           <title>The Goblin Emperor</title>.
         </bibl>
         <bibl>
-          <author>Agi, Tadashi</author> &amp;
-          <author>Shu Okimoto</author>.
-          <title>The Drops of God Vol. 1</title>.
-          <trait ref="#tag.comics"/>
-        </bibl>
-        <bibl>
           <author>Alexander, Christopher</author>.
           <title>A Pattern Language: Towns, Buildings, Constructions</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Alexander, Christopher</author>.
           <title>The Timeless Way of Building</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Alighieri, Dante</author>.
@@ -74,6 +72,7 @@
           <author>Michele DiPietro</author>.
           <title>How Learning Works: Seven Research-Based Principles for Smart
             Teaching</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Andrews, Ilona</author>.
@@ -99,6 +98,7 @@
         <bibl>
           <author>Armstrong, Karen</author>.
           <title>Holy War: The Crusades and Their Impact on Today’s World</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Asano, Inio</author>.
@@ -154,6 +154,7 @@
           <author>Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Baker, Kyle</author>.
@@ -176,6 +177,7 @@
           <author>Bartlett, Allison Hoover</author>.
           <title>The Man Who Loved Books Too Much: The True Story of a Thief, a
             Detective, and a World of Literary Obsession</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Bauermeister, Erica</author>.
@@ -190,6 +192,8 @@
           <author>Beatrice, Allyson</author>.
           <title>Will the Vampire People Please Leave the Lobby? True Adventures
             in Cult Fandom</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Bell, Clare</author>.
@@ -199,11 +203,13 @@
           <author>Bergemann, Rosalind A.</author>
           <title>An Asperger’s Guide to Public Speaking</title>.
           <date type="added" when="2016-06-04"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Berube, Allan</author>.
           <title>Coming Out Under Fire: The History of Gay Men and Women in
             World War Two</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Bester, Alfred</author>.
@@ -228,6 +234,7 @@
         <bibl>
           <author>Bornstein, Kate</author>.
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Bradbury, Ray</author>.
@@ -266,6 +273,7 @@
         <bibl>
           <author>Brumberg, Joan Jacobs</author>.
           <title>The Body Project: An Intimate History of American Girls</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Brust, Steven</author>.
@@ -316,6 +324,7 @@
         <bibl>
           <editor>Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
+          <trait ref="#tag.anthology"/>
         </bibl>
         <bibl>
           <author>Chabon, Michael</author>.
@@ -330,6 +339,7 @@
           <author>Chauncey, George</author>.
           <title>Gay New York: Gender, Urban Culture and the Making of the Gay
             Male World</title>.
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
@@ -340,6 +350,7 @@
           <author>Chesnoff, Richard Z.</author>
           <title>Pack of Thieves: How Hitler and Europe Plundered the Jews and
             Committed the Greatest Theft in History</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Chiang, Ted</author>.
@@ -368,6 +379,8 @@
         <bibl>
           <author>Coates, Ta-Nehisi</author>.
           <title>Between the World and Me</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -424,6 +437,7 @@
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Initimate Matters: A History of Sexuality in America</title>.
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
@@ -466,11 +480,13 @@
         <bibl>
           <author>Ehrenreich, Barbara</author>.
           <title>The Hearts of Men: American Dreams and the Flight from Commitment</title>.
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Eichenwald, Kurt</author>.
           <title>500 Days: Secrets and Lies in the Terror Wars</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -501,6 +517,7 @@
         <bibl>
           <author>Ensler, Eve</author>.
           <title>The Vagina Monologues</title>.
+          <trait ref="#tag.drama"/>
         </bibl>
         <bibl>
           <author>Erdrich, Louise</author>.
@@ -509,6 +526,7 @@
         <bibl>
           <author>Fausto-Sterling, Anne</author>.
           <title>The Myths of Gender</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Feintuch, David</author>.
@@ -562,6 +580,7 @@
           <editor>Fox, Rose</editor> and
           <editor>Daniel Jose Elder</editor>.
           <title>Long Hidden: Speculative Fiction from the Margins of History</title>.
+          <trait ref="#tag.anthology"/>
         </bibl>
         <bibl>
           <author>Francis, Patry</author>.
@@ -595,10 +614,13 @@
         <bibl>
           <author>Giddings, Paula J.</author>
           <title>Ida: A Sword Among Lions</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Gleick, James</author>.
           <title>Chaos: Making a New Science</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Grant, Michael</author>.
@@ -615,10 +637,6 @@
         <bibl>
           <author>Griffith, Nicola</author>.
           <title>Ammonite</title>.
-        </bibl>
-        <bibl>
-          <author>Griffith, Nicola</author>.
-          <title>Hild</title>.
         </bibl>
         <bibl>
           <author>Goodman, Alison</author>.
@@ -638,6 +656,7 @@
           <author>Hahn, Steven</author>.
           <title>A Nation Under Our Feet: Black Political Struggles in the Rural
             South from Slavery to the Great Migration</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Hammet, Dashiell</author>.
@@ -660,6 +679,7 @@
         <bibl>
           <author>Harris-Perry, Melissa V.</author>
           <title>Sister Citizen: Shame, Stereotypes, and Black Women in America</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Hawthorne, Nathaniel</author>.
@@ -694,6 +714,8 @@
         <bibl>
           <author>Hodges, Andrew</author>.
           <title>Alan Turing: The Enigma</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Homer</author>.
@@ -714,6 +736,7 @@
         <bibl>
           <author>Hurley, Kameron</author>.
           <title>We Have Always Fought: Essays on Craft, Fiction and Fandom</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Hyde, Lewis</author>.
@@ -734,6 +757,8 @@
         <bibl>
           <author>Jacobs, Harriet</author>.
           <title>Incidents in the Life of a Slave Girl</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>James, Henry</author>.
@@ -742,6 +767,7 @@
         <bibl>
           <author>Jeffreys, Sheila</author>.
           <title>The Spinster and Her Enemies</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Jemisin, N.K.</author>
@@ -829,12 +855,16 @@
           <author>Knisley, Lucy</author>.
           <title>An Age of License: A Travelogue</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Knisley, Lucy</author>.
           <title>Displacement: A Travelogue</title>.
           <date type="added" when="2016-10-01"/>
-          <trait ref="#tag,comics"/>
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Kowal, Mary Robinette</author>.
@@ -852,6 +882,7 @@
         <bibl>
           <author>Larson, Erik</author>.
           <title>The Devil in the White City</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Larson, Jonathan</author>.
@@ -887,13 +918,17 @@
         <bibl>
           <author>Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lewis, John</author>,
           <author>Andrew Aydin</author>, and
           <author>Nate Powell</author>.
-          <title>March, Book Two</title>.
+          <title>March: Book Three</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
           <author>Long, Mark</author>,
@@ -901,6 +936,8 @@
           <author>Nate Powell</author>.
           <title>The Silence of Our Friends</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lonnrot, Elias</author>.
@@ -909,10 +946,14 @@
         <bibl>
           <author>Lorde, Audre</author>.
           <title>Sister Outsider</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lorde, Audre</author>.
           <title>Zami: A New Spelling of My Name – A Biomythology</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lynch, Scott</author>.
@@ -930,6 +971,7 @@
         <bibl>
           <author>Mann, Charles C.</author>
           <title>1491: New Revelations of the Americas Before Columbus</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Marley, Louise</author>.
@@ -953,11 +995,14 @@
           <author>May, Elaine T.</author>
           <title>Barren in the Promised Land: Childless Americans and the
             Pursuit of Happiness</title>.
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
+          <trait ref="#tag.cookbook"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>McGuire, Seanan</author>.
@@ -983,6 +1028,7 @@
           <author>McRobbie, Linda Rodriguez</author>.
           <title>Princesses Behaving Badly: Real Stories from History Without the
             Fairy-Tale Endings</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Meltzer, Brad</author>.
@@ -1000,6 +1046,7 @@
           <author>Minnick, Fred</author>.
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Monette, Sarah</author> and
@@ -1096,6 +1143,8 @@
           <author>Nugent, Alida</author>.
           <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out,
             and Finding Feminism</title>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-20"/>
         </bibl>
         <bibl>
@@ -1152,10 +1201,12 @@
         <bibl>
           <author>Pinker, Steven</author>.
           <title>The Language Instinct: How the Mind Creates Language</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Pinker, Steven</author>.
           <title>The Stuff of Thought: Language as a Window into Human Nature</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Pinto, Ricardo</author>.
@@ -1202,6 +1253,8 @@
           <author>Prince, Liz</author>.
           <title>Tomboy: A Graphic Memoir</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Pulley, Natasha</author>.
@@ -1219,6 +1272,7 @@
         <bibl>
           <author>Roach, Mary</author>.
           <title>Grunt: The Curious Science of Humans at War</title>.
+          <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-06-03"/>
         </bibl>
         <bibl>
@@ -1232,6 +1286,8 @@
         <bibl>
           <author>Ruhlman, Michael</author>.
           <title>Ratio: The Simple Codes Behind the Craft of Everyday Cooking</title>.
+          <trait ref="#tag.cookbook"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Rucka, Greg</author>.
@@ -1277,8 +1333,20 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Scott, Melissa</author> and
+          <author>Amy Griswold</author>
+          <title>Death by Silver</title>.
+          <date type="added" when="2016-10-07"/>
+        </bibl>
+        <bibl>
           <author>Scott, Melissa</author>.
-          <title>Dreamships</title>.
+          <title>Dreaming Metal</title>.
+          <date type="added" when="2016-10-07"/>
+        </bibl>
+        <bibl>
+          <author>Scott, Melissa</author>.
+          <title>Shadow Man</title>.
+          <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
           <author>Sebold, Alice</author>.
@@ -1287,6 +1355,8 @@
         <bibl>
           <author>Sedaris, David</author>.
           <title>Dress Your Family in Corduroy and Denim</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Sedaris, David</author>.
@@ -1299,6 +1369,8 @@
         <bibl>
           <author>Shakur, Assata</author>.
           <title>Assata: An Autobiography</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Sheehan, Aurelie</author>.
@@ -1319,7 +1391,8 @@
         </bibl>
         <bibl>
           <author>Slonczewski, Joan</author>.
-          <title>The Children Star</title>.
+          <title>A Door into Ocean</title>.
+          <date type="added" when="2016-10-08"/>
         </bibl>
         <bibl>
           <author>Smith, Zadie</author>.
@@ -1341,6 +1414,7 @@
         <bibl>
           <author>Spolsky, Joel</author>.
           <title>Joel on Software</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Stephenson, Neal</author>.
@@ -1353,6 +1427,7 @@
         <bibl>
           <author>Stoppard, Tom</author>.
           <title>Rosencrantz and Guildenstern Are Dead</title>.
+          <trait ref="#tag.drama"/>
         </bibl>
         <bibl>
           <author>Sullivan, Tricia</author>.
@@ -1373,6 +1448,7 @@
         <bibl>
           <author>Taylor, John H.</author>
           <title>Death and the Afterlife in Ancient Egypt</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Tevis, Walter</author>.
@@ -1386,10 +1462,12 @@
           <author>Trivers, Robert</author>.
           <title>The Folly of Fools: The Logic of Deceit and Self-Deception in Human
             Life</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Unsworth, Barry</author>.
@@ -1413,6 +1491,12 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Walton, Jo</author>.
+          <title>What Makes This Book So Great</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-10-08"/>
+        </bibl>
+        <bibl>
           <author>Way, Gerard</author>.
           <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
           <trait ref="#tag.comics"/>
@@ -1424,6 +1508,8 @@
         <bibl>
           <author>Wells, Ida B.</author>
           <title>Crusade for Justice: The Autobiography of Ida B. Wells</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Westerfeld, Scott</author>.

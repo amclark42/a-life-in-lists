@@ -22,7 +22,19 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-09-30">
+        <event when="2016-10-08">
+          <p>Read <ref target="booksRead_3.0.xml#knisley.l.displacement">Displacement: A Travelogue</ref>.</p>
+        </event>
+        <event when="2016-10-08">
+          <p>Read <ref target="booksRead_3.0.xml#mcneil.cs.finder.thirdworld">Finder: Third World</ref>.</p>
+        </event>
+        <event when="2016-10-07">
+          <p>Read <ref target="booksRead_3.0.xml#lewis.j.march.booktwo">March: Book Two</ref>.</p>
+        </event>
+        <event when="2016-10-07">
+          <p>Read <ref target="booksRead_3.0.xml#agi.t.dropsofgod.1">The Drops of God Vol. 1</ref>.</p>
+        </event>
+        <event from="2016-09-30" to="2016-10-07">
           <p>Read <ref target="booksRead_3.0.xml#scott.m.dreamships">Dreamships</ref>.</p>
         </event>
         <event when="2016-09-29">

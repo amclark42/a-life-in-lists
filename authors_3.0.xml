@@ -26,6 +26,20 @@
   <text>
     <body>
       <listPerson>
+        <person xml:id="nugent.a">
+          <persName>
+            <forename>Alida</forename>
+            <surname>Nugent</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="workman.j">
+          <persName>
+            <forename>John</forename>
+            <surname>Workman</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="mudron.b">
           <persName>
             <forename>Bill</forename>
@@ -2412,7 +2426,7 @@
         </person>
         <person xml:id="harris.j">
           <persName>
-            <forename>Joanne</forename>
+            <forename>Joanne M.</forename>
             <surname>Harris</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>

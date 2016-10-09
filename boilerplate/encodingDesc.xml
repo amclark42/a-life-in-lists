@@ -23,6 +23,9 @@
       <category xml:id="tag.kickstart">
         <catDesc>Kickstarted</catDesc>
       </category>
+      <category xml:id="tag.memoir">
+        <catDesc>biography and memoir</catDesc>
+      </category>
       <category xml:id="tag.nonfiction">
         <catDesc>nonfiction</catDesc>
       </category>
