@@ -859,14 +859,6 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Knisley, Lucy</author>.
-          <title>Displacement: A Travelogue</title>.
-          <date type="added" when="2016-10-01"/>
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
           <author>Kowal, Mary Robinette</author>.
           <title>Glamour and Glass</title>.
         </bibl>
@@ -1245,11 +1237,6 @@
           <title>The Long Mars</title>.
         </bibl>
         <bibl>
-          <author>Priest, Cherie</author>.
-          <title>Maplecroft</title>.
-          <date type="added" when="2016-07-09"/>
-        </bibl>
-        <bibl>
           <author>Prince, Liz</author>.
           <title>Tomboy: A Graphic Memoir</title>.
           <trait ref="#tag.comics"/>
@@ -1468,6 +1455,14 @@
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Tyson, Neil deGrasse</author>, 
+          <author>Michael A. Strauss</author>, and 
+          <author>J. Richard Gott</author>.
+          <title>Welcome to the Universe: An Astrophysical Tour</title>
+          <trait ref="#tag.nonfiction"/>
+          <date when="2016-10-15"/>
         </bibl>
         <bibl>
           <author>Unsworth, Barry</author>.

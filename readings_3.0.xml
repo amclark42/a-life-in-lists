@@ -22,6 +22,13 @@
   <text>
     <body>
       <listEvent>
+        <event>
+          <p>Read <ref target="booksRead_3.0.xml#nugent.a.donthavetolikeme">You Don’t Have to Like Me: Essays on Growing Up, 
+            Speaking Out, and Finding Feminism</ref>.</p>
+        </event>
+        <event from="2016-10-08" to="2016-10-15">
+          <p>Read <ref target="booksRead_3.0.xml#priest.c.maplecroft">Maplecroft: The Borden Dispatches</ref>.</p>
+        </event>
         <event when="2016-10-08">
           <p>Read <ref target="booksRead_3.0.xml#knisley.l.displacement">Displacement: A Travelogue</ref>.</p>
         </event>
