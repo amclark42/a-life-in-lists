@@ -22,7 +22,13 @@
   <text>
     <body>
       <listEvent>
-        <event>
+        <event from="2016-10-20">
+          <p>Read <ref target="booksRead_3.0.xml#harris.j.gospelloki">The Gospel of Loki</ref>.</p>
+        </event>
+        <event when="2016-10-17">
+          <p>Read <ref target="booksRead_3.0.xml#agi.t.dropsofgod.2">The Drops of God Vol. 2</ref>.</p>
+        </event>
+        <event from="2016-10-15" to="2016-10-19">
           <p>Read <ref target="booksRead_3.0.xml#nugent.a.donthavetolikeme">You Don’t Have to Like Me: Essays on Growing Up, 
             Speaking Out, and Finding Feminism</ref>.</p>
         </event>
