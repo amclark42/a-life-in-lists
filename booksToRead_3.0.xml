@@ -718,6 +718,13 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Hogan, Kristen</author>.
+          <title>The Feminist Bookstore Movement: Lesbian Antiracism and Feminist
+            Accountability</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-10-29"/>
+        </bibl>
+        <bibl>
           <author>Homer</author>.
           <title>The Iliad</title>.
         </bibl>
@@ -898,6 +905,13 @@
           <author>Le Guin, Ursula K.</author>
           <title>Lavinia</title>.
           <date type="added" when="2016-07-09"/>
+        </bibl>
+        <bibl>
+          <author>Le Guin, Ursula K.</author>
+          <title>Words Are My Matter: Writings About Life and Books 2000 - 2016</title>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-10-29"/>
         </bibl>
         <bibl>
           <author>Lee, Li-Young</author>.
@@ -1130,14 +1144,6 @@
         <bibl>
           <author>Novik, Naomi</author>.
           <title>Crucible of Gold</title>.
-        </bibl>
-        <bibl>
-          <author>Nugent, Alida</author>.
-          <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out,
-            and Finding Feminism</title>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-05-20"/>
         </bibl>
         <bibl>
           <author>Oates, Joyce Carol</author>.
@@ -1527,6 +1533,11 @@
           <author>Wilson, G. Willow</author>.
           <title>Alif the Unseen</title>.
           <date type="added" when="2016-05-15"/>
+        </bibl>
+        <bibl>
+          <author>Wilson, Kai Ashante</author>.
+          <title>The Sorcerer of the Wildeeps</title>.
+          <date type="added" when="2016-10-29"/>
         </bibl>
         <bibl>
           <author>Woolf, Virginia</author>.

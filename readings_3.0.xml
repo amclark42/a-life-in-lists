@@ -22,7 +22,13 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-10-20">
+        <event from="2016-10-29">
+          <p>Read <ref target="booksRead_3.0.xml#westerfe.s.killingworlds">The Killing of Worlds</ref>.</p>
+        </event>
+        <event when="2016-10-29">
+          <p>Read <ref target="booksRead_3.0.xml#keatinge.j.shutter.2.wayworld">Shutter Vol. 2: Way of the World</ref>.</p>
+        </event>
+        <event from="2016-10-20" to="2016-10-28">
           <p>Read <ref target="booksRead_3.0.xml#harris.j.gospelloki">The Gospel of Loki</ref>.</p>
         </event>
         <event when="2016-10-17">
