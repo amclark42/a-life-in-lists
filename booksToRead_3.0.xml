@@ -302,6 +302,11 @@
           <title>Tea from an Empty Cup</title>.
         </bibl>
         <bibl>
+          <author>Cadwaller, Karen</author>.
+          <title>The Anchoress</title>.
+          <date type="added" when="2016-11-06"/>
+        </bibl>
+        <bibl>
           <author>Carey, Mike</author>.
           <title>The Devil You Know</title>.
         </bibl>
@@ -1243,6 +1248,11 @@
           <title>The Long Mars</title>.
         </bibl>
         <bibl>
+          <author>Priest, Cherie</author>.
+          <title>Chapelwood</title>.
+          <date type="added" when="2016-11-06"/>
+        </bibl>
+        <bibl>
           <author>Prince, Liz</author>.
           <title>Tomboy: A Graphic Memoir</title>.
           <trait ref="#tag.comics"/>
@@ -1511,11 +1521,6 @@
           <title>Crusade for Justice: The Autobiography of Ida B. Wells</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Westerfeld, Scott</author>.
-          <title>The Killing of Worlds</title>.
-          <date type="added" when="2016-07-26"/>
         </bibl>
         <bibl>
           <author>Westerfeld, Scott</author>.
