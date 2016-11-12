@@ -22,7 +22,10 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-11-06">
+        <event from="2016-11-12">
+          <p>Read <ref target="booksRead_3.0.xml#king.lr.lettermary">A Letter of Mary</ref>.</p>
+        </event>
+        <event from="2016-11-06" to="2016-11-12">
           <p>Read <ref target="booksRead_3.0.xml#willow.gw.alifunseen">Alif the Unseen</ref>.</p>
         </event>
         <event from="2016-10-29" to="2016-11-05">

@@ -17,8 +17,9 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2016-11-12">Replaced double quotation marks with <gi>said</gi>, <gi>soCalled</gi>, and <gi>quote</gi>.</change>
         <change when="2016-03-29">Completed re-encoding after OxGarage’s conversion from DOCX.</change>
-        <change when="2016-02-24">Changed //bibl/persName to //bibl/author, and began using <gi>series</gi> to refer to some titles.</change>
+        <change when="2016-02-24">Changed <code>//bibl/persName</code> to <code>//bibl/author</code>, and began using <gi>series</gi> to refer to some titles.</change>
         <change when="2016-02-23">Reversed order of items so that the first are the most recently added.</change>
         <change when="2016-02-22">Itemized quotes and their bibls, but did not otherwise reformat.</change>
       </listChange>
@@ -29,8 +30,51 @@
       <list>
         <item>
           <quote>
+            <p><said>They’re marching together,</said> said Alif, half to himself. 
+              <said>All the disaffected scum at once. I probably know a lot of these 
+              people.</said></p>
+            <p><said>We did this, <foreign>akh</foreign>. Computer geeks did this. 
+              We told these ruffians they could all have a voice, but they had to 
+              share the same virtual platform. And now that the virtual platform is 
+              gone—</said></p>
+            <p><said>They have to share the real world.</said></p>
+            <p><said>IRL.</said></p>
+            <p><said>In real life.</said></p>
+            <p><said>Holy shit.</said></p>
+          </quote>
+          <bibl>
+            <author>G. Willow Wilson</author>,
+            <title>Alif the Unseen</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p><said>I’m impressed you’re willing to admit as much. Most people who 
+              become convinced that kind of power is within their grasp stop 
+              believing in the possibility of failure.</said></p>
+          </quote>
+          <bibl>
+            <author>G. Willow Wilson</author>,
+            <title>Alif the Unseen</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p><said>Who knew demons were such cowards?</said> <gap reason="omitted"/></p>
+            <p><said>They are cowards,</said> said Sheikh Bilal quietly, breaking his silence. 
+              <said>As the Enemy of Man is a coward. We are not meant to fear them 
+              because they are powerful, but because we ourselves are so easily 
+              misled.</said></p>
+          </quote>
+          <bibl>
+            <author>G. Willow Wilson</author>,
+            <title>Alif the Unseen</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
             <p>Historians speak of social pressures as if they were physical laws,
-              of “unstoppable” forces of change, of destiny. But for the men and
+              of <soCalled>unstoppable</soCalled> forces of change, of destiny. But for the men and
               women who walked the historical stage, these forces were often
               invisible, hidden by their sheer scale and the rank propaganda of the
               times. Social pressures built invisibly over lifetimes, not across the
@@ -95,11 +139,11 @@
               supermodel: it means you like what you see when you see yourself. I 
               want the world to be crawling with women who tell you that they think 
               they are beautiful. I want to take all your flaws and shove them in 
-              the  face of the world. I want you to say: “I don’t really care what 
-              you think about it, because I think it.” It takes away a little bit of 
+              the  face of the world. I want you to say: <said>I don’t really care what 
+              you think about it, because I think it.</said> It takes away a little bit of 
               that objectification that so often comes with being beautiful. And it 
               <hi rend="italic">is</hi> brazen. A brazen love of yourself.</p>
-            <p>You’ve spent all too long feeling “just enough,” and only beautiful 
+            <p>You’ve spent all too long feeling <soCalled>just enough,</soCalled> and only beautiful 
               when you are alone in your room. I challenge you to look the world in 
               the face and say you love the way you look, and that you are beautiful 
               the way you are born and also the way you choose to look. I want you 
@@ -158,18 +202,18 @@
         <item>
           <quote>
             <p>She ran her fingers along the line of his jaw.</p>
-            <p>“You’re beautiful, Laurent.”</p>
+            <p><said>You’re beautiful, Laurent.</said></p>
             <p>He shook his head. A smile played on his face, but his voice trembled
               as he spoke.</p>
-            <p>“I am in pieces, Nara.”</p>
-            <p>“Your body is, Laurent. Not unlike my mind.”</p>
+            <p><said>I am in pieces, Nara.</said></p>
+            <p><said>Your body is, Laurent. Not unlike my mind.</said></p>
             <p>Zai touched her forehead with the fingers of his flesh-and-blood hand.
               He drew some shape she didn’t recognize, a mark of his dark religion,
               or perhaps simply a random and meaningless sign.</p>
-            <p>“You began life in madness, Nara. But you wake up every day and
-              cohere, pull yourself to sanity. I, on the other hand," he lifted his
-              gloved prosthetic, “possessed absolute surety as a child, piety and
-              scripture. And every day I shatter more.”</p>
+            <p><said>You began life in madness, Nara. But you wake up every day and
+              cohere, pull yourself to sanity. I, on the other hand,</said> he lifted his
+              gloved prosthetic, <said>possessed absolute surety as a child, piety and
+              scripture. And every day I shatter more.</said></p>
             <p>Nara took both of Laurent’s hands in hers. The false one was as hard
               as metal, without the rubbery feel of a civilian prosthetic. It closed
               gently around her fingers.</p>
@@ -178,7 +222,7 @@
               body and machine. She found the hidden latches that released his false
               members. Removed them. She saw his phantom limbs as if they were real.
               She put her mind into him.</p>
-            <p>“Shatter, then,” she said.</p>
+            <p><said>Shatter, then,</said> she said.</p>
           </quote>
           <bibl>
             <author>Scott Westerfeld</author>,
@@ -296,8 +340,8 @@
               women to follow passively their natural inclinations, partly explains
               why Jost and others accepted an underproven hypothesis.
               <gap reason="omitted"/> If female development was a state of nature,
-              only male development required explanation, and the phrase “sexual
-              differentiation” really meant “male differentiation.”</p>
+              only male development required explanation, and the phrase <soCalled>sexual
+              differentiation</soCalled> really meant <soCalled>male differentiation.</soCalled></p>
           </quote>
           <bibl>
             <author>Anne Fausto-Sterling</author>,
@@ -494,9 +538,9 @@
         </item>
         <item>
           <quote>
-            <p>“If a word can heal, a word can wound,” the witch said. “If a
+            <p><said>If a word can heal, a word can wound,</said> the witch said. <said>If a
               hand can kill, a hand can cure. It’s a poor cart that goes only
-              one direction.”</p>
+              one direction.</said></p>
           </quote>
           <bibl>
             <author>Ursula K. Le Guin</author>,
@@ -621,10 +665,10 @@
               in the context of explicit feminism, after considerable open anger, and
               with the backing of feminist solidarity. This is a response I can only
               call <hi rend="italic">woman-centeredness</hi>. Thus, when Hacker writes
-              "It was very exciting to see them, a past, <hi rend="italic">our</hi>
-              past," or Judy Chicago responds to self-portraits of Rosalba Carriera
-              and Judith Leyster by being "deeply moved. I felt I was seeing an echo
-              of my identity as an artist across the centuries," neither woman is
+              <quote>It was very exciting to see them, a past, <hi rend="italic">our</hi>
+              past,</quote> or Judy Chicago responds to self-portraits of Rosalba Carriera
+              and Judith Leyster by being <quote>deeply moved. I felt I was seeing an echo
+              of my identity as an artist across the centuries,</quote> neither woman is
               appealing to a model in order to prove to anyone that
               <hi rend="italic">Women can’t create</hi> is false. Their concern is with
               kinship, that is, with each other.</p>
@@ -901,7 +945,7 @@
             <p>Yet it seemed absurd, I thought, turning over the evening paper, that a
               man with all this power should be angry. Or is anger, I wondered,
               somehow, the familiar, the attendant sprite on power? ...Possibly they
-              were not "angry" at all; often, indeed, they were admiring, devoted,
+              were not <soCalled>angry</soCalled> at all; often, indeed, they were admiring, devoted,
               exemplary in the relations of private life. Possibly when the professor
               insisted a little to emphatically upon the inferiority of women, he was
               concerned not with their inferiority, but with his own superiority. That
@@ -956,11 +1000,11 @@
         </item>
         <item>
           <quote>
-            <p>"Do you <hi rend="italic">believe</hi> that shit or do you just peddle
-              it?"</p>
-            <p>"I believe that <hi rend="italic">others</hi> should believe it.
+            <p><said>Do you <hi rend="italic">believe</hi> that shit or do you just peddle
+              it?</said></p>
+            <p><said>I believe that <hi rend="italic">others</hi> should believe it.
               Beliefs are <hi rend="italic">collars</hi> to which leashes can be
-              attached."</p>
+              attached.</said></p>
           </quote>
           <bibl>
             <author>Mike Carey</author>,
@@ -1069,11 +1113,11 @@
         </item>
         <item>
           <quote>
-            <p>"You follow baseball, John?" Emilio asked after awhile, his voice
+            <p><said>You follow baseball, John?</said> Emilio asked after awhile, his voice
               coming through the rows of wet fabric.</p>
-            <p>"Cubs fan," John muttered. The Chicagoan’s curse.</p>
-            <p>Sandoz pushed a towel aside, eyes wide. "How bad?"</p>
-            <p>"Anybody can have a couple of lousy centuries."</p>
+            <p><said>Cubs fan,</said> John muttered. The Chicagoan’s curse.</p>
+            <p>Sandoz pushed a towel aside, eyes wide. <said>How bad?</said></p>
+            <p><said>Anybody can have a couple of lousy centuries.</said></p>
           </quote>
           <bibl>
             <author>Mary Doria Russell</author>, <title rend="italic">The Sparrow</title>
@@ -1261,7 +1305,7 @@
               the men who had the guns. Little men, some of them, big men too, each
               one of whom he could snap like a twig if he wanted to. Men who knew
               their manhood lay in their guns and were not even embarrassed by the
-              knowledge that without gunshot fox would laugh at them. And these "men"
+              knowledge that without gunshot fox would laugh at them. And these <soCalled>men</soCalled>
               who made even vixen laugh could, if you let them, stop you from hearing
               doves or loving moonlight. So you protected yourself and loved small.
               Picked the tiniest stars out of the sky to own; lay down with head
@@ -1402,12 +1446,12 @@
         </item>
         <item>
           <quote>
-            <p>"Tell me, Genry, what is known? What is sure, predictable, inevitable –
-              the one certain thing you know concerning your future, and mine?"</p>
-            <p>"That we shall die."</p>
-            <p>"Yes. There’s really only one question that can be answered, Genry, and
+            <p><said>Tell me, Genry, what is known? What is sure, predictable, inevitable –
+              the one certain thing you know concerning your future, and mine?</said></p>
+            <p><said>That we shall die.</said></p>
+            <p><said>Yes. There’s really only one question that can be answered, Genry, and
               we already know the answer... The only thing that makes life possible is
-              permanent, intolerable uncertainty: not knowing what comes next."</p>
+              permanent, intolerable uncertainty: not knowing what comes next.</said></p>
           </quote>
           <bibl>
             <author>Ursula K. Le Guin</author>,
@@ -1465,11 +1509,11 @@
         </item>
         <item>
           <quote>
-            <p>"...What do we believe that will be proven wrong in the future? I envy
-              your ability to live forever so you can see.”</p>
-            <p>“You should not,” I said, surprised by my own bitterness. “People of
+            <p><said>...What do we believe that will be proven wrong in the future? I envy
+              your ability to live forever so you can see.</said></p>
+            <p><said>You should not,</said> I said, surprised by my own bitterness. <said>People of
               the future are as likely to destroy your truths as to uncover your
-              falsehoods.”</p>
+              falsehoods.</said></p>
           </quote>
           <bibl>
             <author>Rachel Swirsky</author>,
@@ -1566,8 +1610,8 @@
         <item>
           <quote>
             <p>The thing about sexism, and all the various -isms that are out there,
-              is that none of us exists in a vacuum. You can’t just say “Oh, I wasn’t
-              intending to be offensive” when people get upset for something you do or
+              is that none of us exists in a vacuum. You can’t just say <said>Oh, I wasn’t
+              intending to be offensive</said> when people get upset for something you do or
               say, because intention or not, you just added your small part to a
               problem that is larger than you.</p>
           </quote>
@@ -1583,8 +1627,8 @@
             <p>All those who thought that the Princess was going to select the tin box
               filled with worthless stones instead of one of the other gifts will
               kindly stay after class and write one hundred times on the blackboard,
-              “I would rather have a hunk of aluminum silicate than a diamond
-              necklace.”</p>
+              <said>I would rather have a hunk of aluminum silicate than a diamond
+              necklace.</said></p>
           </quote>
           <bibl>
             <author>James Thurber</author>,
@@ -1782,7 +1826,7 @@
           <quote>
             <p>...that is the way childhoods are constructed, long afterward: you
               remember scattered parts, some chosen at random, some that affected you
-              deeply, and you string them together and say “this was me growing up.”
+              deeply, and you string them together and say <said>this was me growing up.</said>
               Your parents say something else, your grandparents something different
               still, but you stay by the story you’ve told yourself.</p>
           </quote>
@@ -1798,7 +1842,7 @@
               My death. And yes, it does bring me comfort – but not as much as you’d
               think. Like just knowing a story has a happy ending alone doesn’t make
               it a good story. All you have is the effect without the cause. The
-              “then” without the “if.” And life, I think, doesn’t work like that. You
+              <soCalled>then</soCalled> without the <soCalled>if.</soCalled> And life, I think, doesn’t work like that. You
               can’t just plot it out on a line graph, point to point, straight through
               to the end. It operates in many dimensions – each action, each decision,
               branching out in complex, often unexpected, directions</p>
@@ -1889,8 +1933,8 @@
         </item>
         <item>
           <quote>
-            <p>“Can a man still be brave if he’s afraid?”</p>
-            <p>“That is the only time a man can be brave.”</p>
+            <p><said>Can a man still be brave if he’s afraid?</said></p>
+            <p><said>That is the only time a man can be brave.</said></p>
           </quote>
           <bibl>
             <author>George R.R. Martin</author>,
@@ -1931,8 +1975,8 @@
               Politically speaking, it is that under conditions of terror most people
               will comply but <hi rend="italic">some people will not</hi>, just as the
               lesson of the countries to which the Final Solution was proposed is that
-              “it could happen” in most places but <hi rend="italic">it did not happen
-                everywhere</hi>. Humanly speaking, no more is required, and no more
+              <quote>it could happen</quote> in most places but <hi rend="italic">it did not 
+              happen everywhere</hi>. Humanly speaking, no more is required, and no more
               can reasonably be asked, for this planet to remain a place fit for human
               habitation.</p>
           </quote>
@@ -1970,14 +2014,16 @@
         <item>
           <quote>
             <p>As a matter of fact, nothing I write could make any difference
-              whatever. It would only be a “book” at best. If it were a safely
-              dangerous one it would be “scientific” or “political” or
-              “revolutionary.” If it were really dangerous it would be “literature” or
-              “religion” or “mysticism” or “art,” and under one such name or another
-              might in time achieve the emasculation of acceptance. If it were
-              dangerous enough to be of any remote use to the human race it would be
-              merely “frivolous” or “pathological,” and that would be the end of
-              that.</p>
+              whatever. It would only be a <soCalled>book</soCalled> at best. If it 
+              were a safely dangerous one it would be <soCalled>scientific</soCalled> 
+              or <soCalled>political</soCalled> or <soCalled>revolutionary.</soCalled> 
+              If it were really dangerous it would be <soCalled>literature</soCalled> or
+              <soCalled>religion</soCalled> or <soCalled>mysticism</soCalled> or 
+              <soCalled>art,</soCalled> and under one such name or another might in 
+              time achieve the emasculation of acceptance. If it were dangerous 
+              enough to be of any remote use to the human race it would be merely 
+              <soCalled>frivolous</soCalled> or <soCalled>pathological,</soCalled> 
+              and that would be the end of that.</p>
           </quote>
           <bibl>
             <author>James Agee</author> and <author>Walker Evans</author>,
@@ -2030,8 +2076,8 @@
         </item>
         <item>
           <quote>
-            <p>No one ever said on their deathbed, “Gee, I wish I had spent more time
-              alone with my computer.”</p>
+            <p>No one ever said on their deathbed, <said>Gee, I wish I had spent more time
+              alone with my computer.</said></p>
           </quote>
           <bibl><author>Dani Bunten Berry</author></bibl>
         </item>
@@ -2357,8 +2403,8 @@
         </item>
         <item>
           <quote>
-            <p>I can’t tell you how many times I’ve heard the old “it’s not you, it’s
-              an ancient prophecy” line from women.</p>
+            <p>I can’t tell you how many times I’ve heard the old <soCalled>it’s not you, it’s
+              an ancient prophecy</soCalled> line from women.</p>
           </quote>
           <bibl>
             <author>Dan</author>,
@@ -2393,8 +2439,8 @@
         </item>
         <item>
           <quote>
-            <p>Nobody ever stops talking after they say “I don’t know what to tell
-              you, kid.”</p>
+            <p>Nobody ever stops talking after they say <said>I don’t know what to tell
+              you, kid.</said></p>
           </quote>
           <bibl>
             <author>Chris Hastings</author>,
@@ -2464,7 +2510,7 @@
             <p>You draw an innocent little comic strip, you try to bring a dash of joy
               into people’s lives in these troubled times, and before you know it
               folks are describing steam-powered copper wangs and using the term
-              "teledildonics." Where did I go wrong in my life?</p>
+              <soCalled>teledildonics.</soCalled> Where did I go wrong in my life?</p>
           </quote>
           <bibl>
             <author>Shaenon Garrity</author>,
@@ -2540,10 +2586,10 @@
         </item>
         <item>
           <quote>
-            <p>Arthur looked upward and he said, “It’s a black day, a troubled
-              day.”</p>
-            <p>“It is a day, simply a day. You have a black and troubled mind, my
-              lord.”</p>
+            <p>Arthur looked upward and he said, <said>It’s a black day, a troubled
+              day.</said></p>
+            <p><said>It is a day, simply a day. You have a black and troubled mind, my
+              lord.</said></p>
           </quote>
           <bibl>
             <author>John Steinbeck</author>,
@@ -2768,9 +2814,9 @@
         <item>
           <quote>
             <p>The fighting gradually stopped. The fighters tried to look as if they’d
-              just happened to be standing there. There was a sudden and general “Axe?
+              just happened to be standing there. There was a sudden and general <soCalled>Axe?
               What axe? Oh, <hi rend="italic">this</hi> axe? I was just showing it to
-              my friend Bjorn over here, good old Bjorn” feel to the atmosphere.</p>
+              my friend Bjorn over here, good old Bjorn</soCalled> feel to the atmosphere.</p>
           </quote>
           <bibl>
             <author>Terry Pratchett</author>,
@@ -2910,8 +2956,8 @@
         </item>
         <item>
           <quote>
-            <p>One should always be wary of people who talk unashamedly of "fellowship
-              and good cheer" as if it were something that can be applied to life like
+            <p>One should always be wary of people who talk unashamedly of <soCalled>fellowship
+              and good cheer</soCalled> as if it were something that can be applied to life like
               a poultice.</p>
           </quote>
           <bibl>
@@ -3182,9 +3228,9 @@
         </item>
         <item>
           <quote>
-            <p>“Where do you go when you die? Ha ha. Go on and tell her, Billy.”</p>
-            <p>Billy smiles. “You become a little voice in someone’s ear telling them
-              that things will be all right.”</p>
+            <p><said>Where do you go when you die? Ha ha. Go on and tell her, Billy.</said></p>
+            <p>Billy smiles. <said>You become a little voice in someone’s ear telling them
+              that things will be all right.</said></p>
           </quote>
           <bibl>
             <author>Joe Meno</author>,
@@ -3193,8 +3239,8 @@
         </item>
         <item>
           <quote>
-            <p>“Why do people do evil things?”</p>
-            <p>The Professor nods, tugging on his white tuft of beard. “It is our true
+            <p><said>Why do people do evil things?</said></p>
+            <p>The Professor nods, tugging on his white tuft of beard. <said>It is our true
               selves: our identity as they appear in nature. The natural world is full
               of disorder and so, by our flawed definition, the natural world is evil.
               We are immoral by design, and so when we act evilly, we are only
@@ -3204,7 +3250,7 @@
               true mystery. It is completely unnatural – a gigantic step beyond the
               jungle instincts of man and a leap into the unknown wisdom of silent
               grace which lurks, harbored in the small vessel of mankind, within us
-              all.”</p>
+              all.</said></p>
           </quote>
           <bibl>
             <author>Joe Meno</author>,
@@ -3232,8 +3278,8 @@
               remarkable facility to remember what others have written about a book
               essentially verbatim. And when you think you have him cornered and
               you’re closing in for the kill — rhetorically speaking — he has this
-              annoying habit of smiling, looking a bit proud, and saying "you know,
-              there’s probably a paper in that." And then you have to write it.</p>
+              annoying habit of smiling, looking a bit proud, and saying <said>you know,
+              there’s probably a paper in that.</said> And then you have to write it.</p>
           </quote>
           <bibl>
             <author>Eric Burns</author>,
@@ -3470,7 +3516,7 @@
         </item>
         <item>
           <quote>
-            <p>Do not confuse “duty” with what other people expect of you; they are
+            <p>Do not confuse <soCalled>duty</soCalled> with what other people expect of you; they are
               utterly different. Duty is a debt you owe yourself to fulfill
               obligations you have assumed voluntarily. Paying that debt can entail
               anything from years of patient work to instant willingness to die.
@@ -3480,7 +3526,7 @@
               say No – and to be rude about it when necessary.</p>
             <p>(This rule does not mean that you must not do a favor for a friend, or
               even a stranger. But let that choice be <hi rend="italic">yours</hi>.
-              Don’t do it because it is “expected” of you.)</p>
+              Don’t do it because it is <soCalled>expected</soCalled> of you.)</p>
           </quote>
           <bibl>
             <author>Robert Heinlein</author>,
@@ -3489,8 +3535,9 @@
         </item>
         <item>
           <quote>
-            <p>To be “matter of fact” about the world is to blunder into fantasy – and
-              a dull fantasy at that, as the real world is strange and wonderful.</p>
+            <p>To be <soCalled>matter of fact</soCalled> about the world is to 
+              blunder into fantasy – and a dull fantasy at that, as the real world 
+              is strange and wonderful.</p>
           </quote>
           <bibl>
             <author>Robert Heinlein</author>,
@@ -3905,7 +3952,7 @@
         </item>
         <item>
           <quote>
-            <p>They’ll say, “Oh my God, that’s horrible,” and then go on eating their
+            <p>They’ll say, <said>Oh my God, that’s horrible,</said> and then go on eating their
               dinners.</p>
           </quote>
           <bibl><title rend="quoted">Hotel Rwanda</title></bibl>
@@ -3957,12 +4004,12 @@
         </item>
         <item>
           <quote>
-            <p>"1/0" is a paradox; in a way that "0/1" is not. Nothing can be divided
+            <p><soCalled>1/0</soCalled> is a paradox; in a way that <soCalled>0/1</soCalled> is not. Nothing can be divided
               by zero. If one approaches the formula from the positive side, it would
               appear that the answer is an infinite positive value. If one approaches
               the formula from the negative side, the opposite is true. Thus, anything
-              divided by zero is simultaneously positive and negative infinity. "One
-              over Zero" is a paradox in another way too, in a way that transcends
+              divided by zero is simultaneously positive and negative infinity. <soCalled>One
+              over Zero</soCalled> is a paradox in another way too, in a way that transcends
               mere arithmetic. One is something, and Zero is nothing. The fact that
               the universe holds something over nothing, that it prefers to exist,
               rather than not exist, is fundamentally absurd. No being can ever come
@@ -4153,7 +4200,7 @@
           <quote>
             <p>The best reaction to a rejection slip is a sort of wild-eyed madness,
               an evil grin, and sitting yourself in front of the keyboard muttering
-              "Okay, you bastards. Try rejecting this!" and then writing something so
+              <said>Okay, you bastards. Try rejecting this!</said> and then writing something so
               unbelievably brilliant that all other writers will disembowel themselves
               with their pens upon reading it, because there’s nothing left to write.
               Because the rejection slips will arrive.</p>
@@ -4169,7 +4216,7 @@
               writing, because the alternative, in terms of sudden-onset mental decay,
               is too dreadful to think about. Meanwhile I walk around aimlessly,
               cannot remember where I put things, or the names of the things that I
-              can’t remember where I put them. And I say "er..." a lot, and pick
+              can’t remember where I put them. And I say <said>er...</said> a lot, and pick
               things up and look at them.</p>
           </quote>
           <bibl><author>Neil Gaiman</author></bibl>
@@ -4247,8 +4294,8 @@
               with it. Today, like every day, roughly five thousand people on the face
               of the planet will experience one-chance-in-a-million things, and not
               one of them will refuse to believe the evidence of their senses. Most of
-              them will say the equivalent, in their own language, of “Funny old
-              world, isn’t it?” and just keep going.</p>
+              them will say the equivalent, in their own language, of <said>Funny old
+              world, isn’t it?</said> and just keep going.</p>
           </quote>
           <bibl>
             <author>Neil Gaiman</author>,
@@ -4442,8 +4489,8 @@
           <quote>
             <p>We get that in here some nights, when someone’s had a few. Cosmic
               speculation about whether gods really exist. Next thing, there’s a bolt
-              of lightning through the roof with a note wrapped round it saying “Yes,
-              we do” and a pair of sandals with smoke coming out. That sort of thing,
+              of lightning through the roof with a note wrapped round it saying <said>Yes,
+              we do</said> and a pair of sandals with smoke coming out. That sort of thing,
               it takes all the interest out of metaphysical speculation.</p>
           </quote>
           <bibl>
@@ -4491,8 +4538,8 @@
         </item>
         <item>
           <quote>
-            <p>“Luck is my middle name,” said Rincewind, indistinctly. “Mind you, my
-              first name is Bad.”</p>
+            <p><said>Luck is my middle name,</said> said Rincewind, indistinctly. 
+              <said>Mind you, my first name is Bad.</said></p>
           </quote>
           <bibl>
             <author>Terry Pratchett</author>,
@@ -4542,7 +4589,7 @@
         <item>
           <quote>
             <p>When people were in serious trouble they went to a witch.<note n="*" place="bottom" anchored="true">
-              Sometimes, of course, to say, “please stop doing it.”</note>
+              Sometimes, of course, to say, <said>please stop doing it.</said></note>
             </p>
           </quote>
           <bibl>
@@ -4564,7 +4611,7 @@
         </item>
         <item>
           <quote>
-            <p>She liked the idea of “cordially.” It had a rich, a thick and above all
+            <p>She liked the idea of <soCalled>cordially.</soCalled> It had a rich, a thick and above all
               and <hi rend="italic">alcoholic</hi> sound.</p>
           </quote>
           <bibl>
@@ -4719,7 +4766,7 @@
           <quote>
             <p>Nature abhors dimensional abnormalities, and seals them neatly away so
               that they don’t upset people. Nature, in fact, abhors a lot of things,
-              including vacuums, ships called the "Marie Celeste", and the chuck keys
+              including vacuums, ships called the <soCalled>Marie Celeste</soCalled>, and the chuck keys
               for electric drills.</p>
           </quote>
           <bibl>
@@ -5542,11 +5589,11 @@
         </item>
         <item>
           <quote>
-            <p>Little children were trained not to do “just what they liked” but... but
+            <p>Little children were trained not to do <said>just what they liked</said> but... but
               what? Of course! What <hi rend="underline">others</hi> liked. And which
               others? Parents, teachers, supervisors, policemen, judges, officials,
-              kings, dictators. All authorities. When you are trained to despise “just
-              what you like” then, of course, you become a much more obedient servant
+              kings, dictators. All authorities. When you are trained to despise <said>just
+              what you like</said> then, of course, you become a much more obedient servant
               of others – a <hi rend="italic">good</hi> slave.</p>
           </quote>
           <bibl>
@@ -5605,8 +5652,8 @@
         </item>
         <item>
           <quote>
-            <p>The truth knocks on the door and you say, “Go away, I’m looking for the
-              truth,” and so it goes away. Puzzling.</p>
+            <p>The truth knocks on the door and you say, <said>Go away, I’m looking 
+              for the truth,</said> and so it goes away. Puzzling.</p>
           </quote>
           <bibl>
             <author>Robert M. Pirsig</author>,
@@ -6290,10 +6337,11 @@
         </item>
         <item>
           <quote>
-            <p>If you substitute “Oh sugar!” for “Oh shit!” because you’re thinking
-              about the Legion of Decency, you are breaking the unspoken contract that
-              exists between writer and reader – your promise to express the truth of
-              how people act and talk through the medium of a made-up story.</p>
+            <p>If you substitute <soCalled>Oh sugar!</soCalled> for <soCalled>Oh 
+              shit!</soCalled> because you’re thinking about the Legion of Decency, 
+              you are breaking the unspoken contract that exists between writer and 
+              reader – your promise to express the truth of how people act and talk 
+              through the medium of a made-up story.</p>
           </quote>
           <bibl>
             <author>Stephen King</author>, <title>On Writing</title>
@@ -6987,13 +7035,13 @@
         </item>
         <item>
           <quote>
-            <p>“Now if that happens to you, and you want to see someone you’re
+            <p><said>Now if that happens to you, and you want to see someone you’re
               missing, you just call us up at 767-8900 and leave a message, talk as
               long as you want and tell me what you want to hear. ’Cause music works
               as good as food. Brings back old times and old folks. Makes your
               wallpaper change right there on the wall to what you had when you were a
               baby, or maybe to when you and your baby first met. So let’s turn the
-              clock back and raise a few ghosts.”</p>
+              clock back and raise a few ghosts.</said></p>
           </quote>
           <bibl>
             <author>Paul Fleischman</author>, <title>Seek</title>
@@ -7001,13 +7049,13 @@
         </item>
         <item>
           <quote>
-            <p>“Sure there’s hardship out there, and suffering, but you don’t have to
+            <p><said>Sure there’s hardship out there, and suffering, but you don’t have to
               let it get you down. That’s not the only reality. All the religions,
               every one of ’em, tell you there’s another world behind this one. That’s
               what religion is all about, getting you across the busy street, with all
               the horns honking and distractions and accidents. But on the other side,
               there’s harmony. That’s where artists live. They’re telling us about
-              it... And writing down what it sounds like. And it’s full of joy.”</p>
+              it... And writing down what it sounds like. And it’s full of joy.</said></p>
           </quote>
           <bibl>
             <author>Paul Fleischman</author>, <title>Seek</title>
@@ -7152,14 +7200,14 @@
         </item>
         <item>
           <quote>
-            <p>Then thoughtfully: “It hasn’t been so easy, getting used to this
-              change.”</p>
-            <p>“It’s the lesson of a lifetime.”</p>
-            <p>“Who said that?” He winks. “A man of great wisdom. For this is the
+            <p>Then thoughtfully: <said>It hasn’t been so easy, getting used to this
+              change.</said></p>
+            <p><said>It’s the lesson of a lifetime.</said></p>
+            <p><said>Who said that?</said> He winks. <said>A man of great wisdom. For this is the
               truth: It’s not so easy to get rid of your old self. On the other hand,
               nothing stands still. All growth involves change, all change involves
               loss. It’s not fair to have had to pay a price for love, and yet I’m a
-              richer person for it. A paradox...”</p>
+              richer person for it. A paradox...</said></p>
           </quote>
           <bibl>
             <author>Gish Jen</author>, <title rend="italic">Mona in the Promised Land</title>
