@@ -96,6 +96,12 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Arendt, Hannah</author>.
+          <title>The Origins of Totalitarianism</title>.
+          <date type="added" when="2016-11-21"/>
+          <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
           <author>Armstrong, Karen</author>.
           <title>Holy War: The Crusades and Their Impact on Today’s World</title>.
           <trait ref="#tag.nonfiction"/>

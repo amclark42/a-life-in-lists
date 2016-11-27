@@ -8051,20 +8051,6 @@
               <title>Blue Beetle</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="lengle.m.manywaters">
-            <monogr>
-              <title>Many Waters</title>
-              <author>
-                <persName ref="a:lengle.m"/>
-              </author>
-              <imprint>
-                <catRef target="#tag.owned"/>
-                <publisher>
-                  <orgName>DC Comics</orgName>
-                </publisher>
-              </imprint>
-            </monogr>
-          </biblStruct>
           <biblStruct xml:id="johns.g.52.3">
             <monogr>
               <title>52 Vol. 3</title>
@@ -10091,6 +10077,49 @@
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="a:trotman.cs"/>
+                <persName ref="a:sebastia.tl"/>
+                <persName ref="a:carlson.jd"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:algesiras"/>
+                <persName ref="a:ambrosia"/>
+                <persName ref="a:argets"/>
+                <persName ref="a:basie.e"/>
+                <persName ref="a:blauerso.l"/>
+                <persName ref="a:currey.el"/>
+                <persName ref="a:dechanique"/>
+                <persName ref="a:delliquan.b"/>
+                <persName ref="a:doe.bj"/>
+                <persName ref="a:doyle.j"/>
+                <persName ref="a:dwam"/>
+                <persName ref="a:fink.j"/>
+                <persName ref="a:fox.a"/>
+                <persName ref="a:frier.n"/>
+                <persName ref="a:furesz.m"/>
+                <persName ref="a:hes.s"/>
+                <persName ref="a:horton.s"/>
+                <persName ref="a:hunt.a"/>
+                <persName ref="a:jones.p"/>
+                <persName ref="a:kingsley.r"/>
+                <persName ref="a:lafrenai.a"/>
+                <persName ref="a:lark.a"/>
+                <persName ref="a:lorenz.t"/>
+                <persName ref="a:magdalen.m"/>
+                <persName ref="a:mcdanger.k"/>
+                <persName ref="a:mcneil.cs"/>
+                <persName ref="a:moen.e"/>
+                <persName ref="a:mrdarcy"/>
+                <persName ref="a:nock.d"/>
+                <persName ref="a:porter.m"/>
+                <persName ref="a:riley.b"/>
+                <persName ref="a:ruby.r"/>
+                <persName ref="a:sebastia.tl"/>
+                <persName ref="a:trotman.cs"/>
+                <persName ref="a:weathing.l"/>
+                <persName ref="a:weaver.ek"/>
+                <persName ref="a:white.b"/>
+                <persName ref="a:wood.u"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -10098,6 +10127,7 @@
                 <catRef target="#tag.kickstart" when="2012-05-28"/>
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.anthology"/>
+                <date when="2012-09"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -13824,6 +13854,42 @@
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="a:trotman.cs"/>
+                <persName ref="a:carlson.jd"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:anderson.jl"/>
+                <persName ref="a:broadfoo.l"/>
+                <persName ref="a:cooper.t"/>
+                <persName ref="a:copeland.k"/>
+                <persName ref="a:delliquan.b"/>
+                <persName ref="a:estep.j"/>
+                <persName ref="a:fink.j"/>
+                <persName ref="a:gedris.mr"/>
+                <persName ref="a:ghostgre"/>
+                <persName ref="a:hathaway.g"/>
+                <persName ref="a:henderso.e"/>
+                <persName ref="a:horrocks.s"/>
+                <persName ref="a:jujunghe"/>
+                <persName ref="a:kiely.m"/>
+                <persName ref="a:lab"/>
+                <persName ref="a:lark.a"/>
+                <persName ref="a:lafrenai.a"/>
+                <persName ref="a:leth.k"/>
+                <persName ref="a:lorenz.t"/>
+                <persName ref="a:munroe.a"/>
+                <persName ref="a:om"/>
+                <persName ref="a:petruzzo.l"/>
+                <persName ref="a:scarboro.d"/>
+                <persName ref="a:searle.sw"/>
+                <persName ref="a:smith.n"/>
+                <persName ref="a:stiffler.a"/>
+                <persName ref="a:trotman.cs"/>
+                <persName ref="a:visel.l"/>
+                <persName ref="a:weathing.l"/>
+                <persName ref="a:wells.k"/>
+                <persName ref="a:wilcox.ja"/>
+                <persName ref="a:woodcock.r"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -13831,6 +13897,7 @@
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.kickstart" when="2014-05-05"/>
                 <catRef target="#tag.anthology"/>
+                <date when="2014-09"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -14552,13 +14619,45 @@
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="a:monster.sr"/>
+                <persName ref="a:stotts.t"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:black.r"/>
+                <persName ref="a:cairns.j"/>
+                <persName ref="a:closson.t"/>
+                <persName ref="a:copeland.k"/>
+                <persName ref="a:delliqua.b"/>
+                <persName ref="a:dukes.r"/>
+                <persName ref="a:ebenstei.k"/>
+                <persName ref="a:edwards.d"/>
+                <persName ref="a:espinosa.a"/>
+                <persName ref="a:goudreau.c"/>
+                <persName ref="a:handwerk.km"/>
+                <persName ref="a:horrocks.s"/>
+                <persName ref="a:hughes.k"/>
+                <persName ref="a:khor.sy"/>
+                <persName ref="a:maclean.wm"/>
+                <persName ref="a:martins.aj"/>
+                <persName ref="a:monster.sr"/>
+                <persName ref="a:reed.g"/>
+                <persName ref="a:smith.n"/>
+                <persName ref="a:stiffler.a"/>
+                <persName ref="a:stotts.t"/>
+                <persName ref="a:thomas.b"/>
+                <persName ref="a:visel.l"/>
+                <persName ref="a:weathing.l"/>
+                <persName ref="a:wilgus.a"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.kickstart" when="2015-04-16"/>
                 <catRef target="#tag.owned" from="2015-10-20"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.anthology"/>
-                <publisher/>
+                <publisher>
+                  <persName ref="a:monster.sr"/>
+                  <persName ref="a:stotts.t"/>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
