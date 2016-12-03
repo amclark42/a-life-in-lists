@@ -62,6 +62,12 @@
           <title>Paradiso</title>.
         </bibl>
         <bibl>
+          <author>Alexander, Michelle</author>.
+          <title>The New Jim Crow</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
           <author>Allen, Sarah Addison</author>.
           <title>Garden Spells</title>.
           <date type="added" when="2016-10-01"/>
@@ -178,6 +184,17 @@
         <bibl>
           <author>Barker, Clive</author>.
           <title>Weaveworld</title>.
+        </bibl>
+        <bibl>
+          <author>Barker, Meg-John</author> and
+          <respStmt>
+            <resp relation="artist"/>
+            <persName>Julia Scheele</persName>
+          </respStmt>.
+          <title>Queer: A Graphic History</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-11-29"/>
         </bibl>
         <bibl>
           <author>Bartlett, Allison Hoover</author>.
@@ -522,6 +539,11 @@
           <title>The Golden Key</title>.
         </bibl>
         <bibl>
+          <author>Ellis, Warren</author>.
+          <title>Normal</title>.
+          <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
           <author>Ende, Michael</author>.
           <title>The Neverending Story</title>.
         </bibl>
@@ -550,6 +572,12 @@
         <bibl>
           <author>Fielding, Helen</author>.
           <title>Bridget Jones’s Diary</title>.
+        </bibl>
+        <bibl>
+          <author>Fisher, Carrie</author>.
+          <title>The Princess Diarist</title>.
+          <trait ref="#tag.memoir"/>
+          <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
           <author>Fitten, Marc</author>.
@@ -693,6 +721,14 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <editor>Harvey, Jennifer</editor>,
+          <editor>Karin A. Case</editor> and
+          <editor>Robin Hawley Gorsline</editor>.
+          <title>Disrupting White Supremacy from Within</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
           <author>Hawthorne, Nathaniel</author>.
           <title>The House of the Seven Gables</title>.
           <date type="added" when="2016-09-25"/>
@@ -738,6 +774,12 @@
         <bibl>
           <author>Homer</author>.
           <title>The Iliad</title>.
+        </bibl>
+        <bibl>
+          <author>hooks, bell</author>.
+          <title>Killing Rage: Ending Racism</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
           <author>Hopkinson, Nalo</author>.
@@ -969,6 +1011,13 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Lowery, Wesley</author>.
+          <title>They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in 
+            Americas’s Racial Justice Movement</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
           <author>Lynch, Scott</author>.
           <title>Red Seas Under Red Skies</title>.
         </bibl>
@@ -1024,10 +1073,6 @@
         <bibl>
           <author>McGuire, Seanan</author>.
           <title>The Winter Long</title>.
-        </bibl>
-        <bibl>
-          <author>McGuire, Seanan</author>.
-          <title>Sparrow Hill Road</title>.
         </bibl>
         <bibl>
           <author>McHugh, Maureen</author>.

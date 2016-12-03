@@ -22,7 +22,13 @@
   <text>
     <body>
       <listEvent>
-        <event from="2016-11-20">
+        <event from="2016-12-02">
+          <p>Reread <ref target="booksRead_3.0.xml#carey.m.lucifer.bookone">Lucifer Book One</ref>.</p>
+        </event>
+        <event from="2016-12-02">
+          <p>Reread <ref target="booksRead_3.0.xml#arendt.h.eichmanninjerusalem">Eichmann in Jerusalem</ref>.</p>
+        </event>
+        <event from="2016-11-20" to="2016-11-30">
           <p>Read <ref target="booksRead_3.0.xml#mcguire.sparrowhillroad">Sparrow Hill Road</ref>.</p>
         </event>
         <event when="2016-11-19">
