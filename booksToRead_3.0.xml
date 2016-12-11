@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2016-12-11">Added <gi>series</gi> to most books that needed them.</change>
         <change when="2016-05-15">
           <list>
             <item>Added XIncluded <gi>encodingDesc</gi>;</item>
@@ -83,18 +84,22 @@
         <bibl>
           <author>Andrews, Ilona</author>.
           <title>Magic Mourns</title>.
+          <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author>Andrews, Ilona</author>.
           <title>Magic Bleeds</title>.
+          <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author>Andrews, Ilona</author>.
           <title>Magic Dreams</title>.
+          <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author>Andrews, Ilona</author>.
           <title>Magic Slays</title>.
+          <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author>Annable, Graham</author>.
@@ -134,6 +139,7 @@
         <bibl>
           <author>Atwood, Margaret</author>.
           <title>Oryx and Crake</title>.
+          <series><title>MaddAddam</title></series>
         </bibl>
         <bibl>
           <author>Atwood, Margaret</author>.
@@ -225,8 +231,8 @@
         <bibl>
           <author>Bergemann, Rosalind A.</author>
           <title>An Asperger’s Guide to Public Speaking</title>.
-          <date type="added" when="2016-06-04"/>
           <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
           <author>Berube, Allan</author>.
@@ -275,11 +281,13 @@
         <bibl>
           <author>Brennan, Marie</author>.
           <title>A Natural History of Dragons: A Memoir by Lady Trent</title>.
+          <series><title>The Memoirs of Lady Trent</title></series>
           <date type="added" when="2016-07-29"/>
         </bibl>
         <bibl>
           <author>Briggs, Patricia</author>.
           <title>Moon Called</title>.
+          <series><title>Mercy Thompson</title></series>
         </bibl>
         <bibl>
           <author>Bronte, Charlotte</author>.
@@ -301,6 +309,7 @@
         <bibl>
           <author>Brust, Steven</author>.
           <title>Dragon</title>.
+          <series><title>Vlad Taltos</title></series>
         </bibl>
         <bibl>
           <author>Budrys, Algis</author>.
@@ -346,10 +355,6 @@
           <title>The Burning</title>.
         </bibl>
         <bibl>
-          <author>Cast, P.C.</author>
-          <title>Goddess of the Sea</title>.
-        </bibl>
-        <bibl>
           <editor>Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
           <trait ref="#tag.anthology"/>
@@ -361,6 +366,7 @@
         <bibl>
           <author>Chambers, Becky</author>.
           <title>A Long Way to a Small, Angry Planet</title>.
+          <series><title>Wayfarers</title></series>
           <date type="added" when="2016-07-26"/>
         </bibl>
         <bibl>
@@ -387,10 +393,12 @@
         <bibl>
           <author>Clare, Cassandra</author>.
           <title>The Mortal Instruments: City of Fallen Angels</title>.
+          <series><title>The Mortal Instruments</title></series>
         </bibl>
         <bibl>
           <author>Clarke, Sir Arthur C.</author>
           <title>2001: A Space Odyssey</title>.
+          <series><title>Space Odyssey</title></series>
         </bibl>
         <bibl>
           <author>Clarke, Brock</author>.
@@ -414,14 +422,17 @@
         <bibl>
           <author>Constantine, Storm</author>.
           <title>Sea Dragon Heir</title>.
+          <series><title>The Chronicles of Magravandias</title></series>
         </bibl>
         <bibl>
           <author>Constantine, Storm</author>.
           <title>Wraeththu</title>.
+          <series><title>Wraeththu</title></series>
         </bibl>
         <bibl>
           <author>Croggon, Alison</author>.
           <title>The Naming: The First Book of Pellinor</title>.
+          <series><title>The Books of Pellinor</title></series>
         </bibl>
         <bibl>
           <author>Cunningham, Michael</author>.
@@ -452,6 +463,7 @@
         <bibl>
           <author>De Bodard, Aliette</author>.
           <title>Servant of the Underworld</title>.
+          <series><title>Obsidian and Blood</title></series>
         </bibl>
         <bibl>
           <author>Delany, Samuel R.</author>
@@ -483,10 +495,12 @@
         <bibl>
           <author>Due, Tananarive</author>.
           <title>The Living Blood</title>.
+          <series><title>African Immortals</title></series>
         </bibl>
         <bibl>
           <author>Durham, David Anthony</author>.
           <title>Acacia: The Other Lands</title>.
+          <series><title>Acacia</title></series>
         </bibl>
         <bibl>
           <author>Dumas, Alexander</author>.
@@ -499,7 +513,8 @@
         </bibl>
         <bibl>
           <author>Edun, Terah</author>.
-          <title>Blades of Magic: Crown Service #1</title>.
+          <title>Blades of Magic</title>.
+          <series><title>Crown Service</title></series>
         </bibl>
         <bibl>
           <author>Eggers, Dave</author>.
@@ -523,14 +538,17 @@
         <bibl>
           <author>Elliott, Kate</author>.
           <title>An Earthly Crown</title>.
+          <series><title>Jaran</title></series>
         </bibl>
         <bibl>
           <author>Elliott, Kate</author>.
           <title>His Conquering Sword</title>.
+          <series><title>Jaran</title></series>
         </bibl>
         <bibl>
           <author>Elliott, Kate</author>.
           <title>The Law of Becoming</title>.
+          <series><title>Jaran</title></series>
         </bibl>
         <bibl>
           <author>Elliott, Kate</author>,
@@ -564,6 +582,7 @@
         <bibl>
           <author>Feintuch, David</author>.
           <title>The Still</title>.
+          <series><title>Rodrigo of Caledon</title></series>
         </bibl>
         <bibl>
           <author>Ferrante, Elena</author>.
@@ -594,6 +613,7 @@
         <bibl>
           <author>Flewelling, Lynn</author>.
           <title>The White Road</title>.
+          <series><title>Nightrunner</title></series>
         </bibl>
         <bibl>
           <author>Forster, E.M.</author>
@@ -605,11 +625,8 @@
         </bibl>
         <bibl>
           <author>Forsyth, Kate</author>.
-          <title>The Tower of Ravens (Rhiannon’s Ride Vol. 1)</title>.
-        </bibl>
-        <bibl>
-          <author>Forsyth, Kate</author>.
           <title>The Witches of Eileanan</title>.
+          <series><title>The Witches of Eileanan</title></series>
         </bibl>
         <bibl>
           <author>Fowler, Karen Joy</author>.
@@ -632,10 +649,12 @@
         <bibl>
           <author>Funke, Cornelia</author>.
           <title>Inkdeath</title>.
+          <series><title>Inkworld</title></series>
         </bibl>
         <bibl>
           <author>Gabaldon, Diana</author>.
           <title>Outlander</title>.
+          <series><title>Outlander</title></series>
         </bibl>
         <bibl>
           <author>Gaiman, Neil</author>.
@@ -668,6 +687,7 @@
         <bibl>
           <author>Grant, Mira</author>.
           <title>Feed</title>.
+          <series><title>Newsflesh Trilogy</title></series>
         </bibl>
         <bibl>
           <author>Green, Henry</author>.
@@ -708,11 +728,6 @@
         </bibl>
         <bibl>
           <author>Harris, Joanne</author>.
-          <title>The Gospel of Loki</title>.
-          <date type="added" when="2016-09-25"/>
-        </bibl>
-        <bibl>
-          <author>Harris, Joanne</author>.
           <title>Runemarks</title>.
         </bibl>
         <bibl>
@@ -745,6 +760,7 @@
         <bibl>
           <author>Herbert, Frank</author>.
           <title>Dune</title>.
+          <series><title>Dune Chronicles</title></series>
         </bibl>
         <bibl>
           <author>Hill, Stuart</author>.
@@ -753,10 +769,12 @@
         <bibl>
           <author>Hobb, Robin</author>.
           <title>Golden Fool</title>.
+          <series><title>Tawny Man</title></series>
         </bibl>
         <bibl>
           <author>Hobb, Robin</author>.
           <title>Fool’s Fate</title>.
+          <series><title>Tawny Man</title></series>
         </bibl>
         <bibl>
           <author>Hodges, Andrew</author>.
@@ -788,6 +806,7 @@
         <bibl>
           <author>Hoyt, Sarah</author>.
           <title>Heart of Light</title>.
+          <series><title>Magical British Empire</title></series>
         </bibl>
         <bibl>
           <author>Hugo, Victor</author>.
@@ -832,10 +851,12 @@
         <bibl>
           <author>Jemisin, N.K.</author>
           <title>The Fifth Season</title>.
+          <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
           <author>Jordan, Robert</author>.
           <title>The Eye of the World</title>.
+          <series><title>Wheel of Time</title></series>
         </bibl>
         <bibl>
           <author>Kalpakian, Laura</author>.
@@ -865,26 +886,32 @@
         <bibl>
           <author>King, Laurie R.</author>
           <title>The Moor</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Laurie R.</author>
           <title>O Jerusalem</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Laurie R.</author>
           <title>Justice Hall</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Laurie R.</author>
           <title>The Game</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Laurie R.</author>
           <title>Locked Rooms</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Laurie R.</author>
           <title>The Language of Bees</title>.
+          <series><title>Mary Russell</title></series>
         </bibl>
         <bibl>
           <author>King, Stephen</author>.
@@ -917,10 +944,12 @@
         <bibl>
           <author>Kowal, Mary Robinette</author>.
           <title>Glamour and Glass</title>.
+          <series><title>Glamour in Glass</title></series>
         </bibl>
         <bibl>
           <author>Koyanagi, Jacqueline</author>.
           <title>Ascension</title>.
+          <series><title>Tangled Axon</title></series>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -939,6 +968,7 @@
         <bibl>
           <author>Leckie, Ann</author>.
           <title>Ancillary Justice</title>.
+          <series><title>Imperial Radch</title></series>
         </bibl>
         <bibl>
           <author>Le Guin, Ursula K.</author>
@@ -948,6 +978,7 @@
         <bibl>
           <author>Le Guin, Ursula K.</author>
           <title>The Farthest Shore</title>.
+          <series><title>Earthsea Cycle</title></series>
           <date type="added" when="2016-07-09"/>
         </bibl>
         <bibl>
@@ -980,6 +1011,7 @@
           <author>Andrew Aydin</author>, and
           <author>Nate Powell</author>.
           <title>March: Book Three</title>.
+          <series><title>March</title></series>
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
@@ -1020,6 +1052,7 @@
         <bibl>
           <author>Lynch, Scott</author>.
           <title>Red Seas Under Red Skies</title>.
+          <series><title>Gentleman Bastard</title></series>
         </bibl>
         <bibl>
           <author>Mack, David</author>.
@@ -1069,10 +1102,18 @@
         <bibl>
           <author>McGuire, Seanan</author>.
           <title>Chimes at Midnight</title>.
+          <series><title>October Daye</title></series>
         </bibl>
         <bibl>
           <author>McGuire, Seanan</author>.
           <title>The Winter Long</title>.
+          <series><title>October Daye</title></series>
+        </bibl>
+        <bibl>
+          <author>McGuire, Seanan</author>.
+          <title>Down Among the Sticks and Bones</title>.
+          <date type="added" when="2016-12-11"/>
+          <series><title>Wayward Children</title></series>
         </bibl>
         <bibl>
           <author>McHugh, Maureen</author>.
@@ -1095,6 +1136,7 @@
         <bibl>
           <author>Miéville, China</author>.
           <title>The Scar</title>.
+          <series><title>New Crobuzon</title></series>
         </bibl>
         <bibl>
           <author>Miller, Kirsten</author>.
@@ -1110,6 +1152,7 @@
           <author>Monette, Sarah</author> and
           <author>Elizabeth Bear</author>.
           <title>An Apprentice to Elves</title>.
+          <series><title>Iskryne World</title></series>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -1175,27 +1218,33 @@
         <bibl>
           <author>Nix, Garth</author>.
           <title>Clariel</title>.
+          <series><title>Abhorsen</title></series>
         </bibl>
         <bibl>
           <author>Nix, Garth</author>.
           <title>Goldenhand</title>.
+          <series><title>Abhorsen</title></series>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Novik, Naomi</author>.
           <title>Empire of Ivory</title>.
+          <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
           <author>Novik, Naomi</author>.
           <title>Victory of Eagles</title>.
+          <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
           <author>Novik, Naomi</author>.
           <title>Tongues of Serpents</title>.
+          <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
           <author>Novik, Naomi</author>.
           <title>Crucible of Gold</title>.
+          <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
           <author>Oates, Joyce Carol</author>.
@@ -1235,6 +1284,7 @@
         <bibl>
           <author>Peake, Mervyn</author>.
           <title>Gormenghast</title>.
+          <series><title>Gormengast</title></series>
         </bibl>
         <bibl>
           <author>Philbrick, Rodman</author>.
@@ -1243,10 +1293,12 @@
         <bibl>
           <author>Pierce, Tamora</author>.
           <title>Beka Cooper: Bloodhound</title>.
+          <series><title>Beka Cooper</title></series>
         </bibl>
         <bibl>
           <author>Pierce, Tamora</author>.
           <title>Trickster’s Queen</title>.
+          <series><title>Daughter of the Lioness</title></series>
         </bibl>
         <bibl>
           <author>Pinker, Steven</author>.
@@ -1285,18 +1337,22 @@
         <bibl>
           <author>Pratchett, Terry</author>.
           <title>Snuff</title>.
+          <series><title>Discworld</title></series>
         </bibl>
         <bibl>
           <author>Pratchett, Terry</author>.
           <title>Dodger</title>.
         </bibl>
         <bibl>
-          <author>Pratchett, Terry</author>.
+          <author>Pratchett, Terry</author> and
+          <author>Stephen Baxter</author>.
           <title>The Long Mars</title>.
+          <series><title>The Long Earth</title></series>
         </bibl>
         <bibl>
           <author>Priest, Cherie</author>.
           <title>Chapelwood</title>.
+          <series><title>The Borden Dispatches</title></series>
           <date type="added" when="2016-11-06"/>
         </bibl>
         <bibl>
@@ -1332,6 +1388,7 @@
         <bibl>
           <author>Rubinstein, Gillian</author>.
           <title>Tales of the Otori: Across the Nightingale Floor</title>.
+          <series><title>Tales of the Otori</title></series>
         </bibl>
         <bibl>
           <author>Ruhlman, Michael</author>.
@@ -1342,10 +1399,12 @@
         <bibl>
           <author>Rucka, Greg</author>.
           <title>Bravo</title>.
+          <series><title>Jad Bell</title></series>
         </bibl>
         <bibl>
           <author>Rucka, Greg</author>.
           <title>Keeper</title>.
+          <series><title>Atticus Kodiak</title></series>
         </bibl>
         <bibl>
           <author>Rushdie, Salman</author>.
@@ -1372,10 +1431,12 @@
         <bibl>
           <author>Sanderson, Brandon</author>.
           <title>Steelheart</title>.
+          <series><title>Reckoners</title></series>
         </bibl>
         <bibl>
           <author>Sanderson, Brandon</author>.
           <title>Warbreaker</title>.
+          <series><title>Warbreaker</title></series>
         </bibl>
         <bibl>
           <author>Schickel, Katie</author>.
@@ -1386,6 +1447,7 @@
           <author>Scott, Melissa</author> and
           <author>Amy Griswold</author>
           <title>Death by Silver</title>.
+          <series><title>Julian Lynes and Ned Mathey</title></series>
           <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
@@ -1411,6 +1473,8 @@
         <bibl>
           <author>Sedaris, David</author>.
           <title>Naked</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Senna, Danzy</author>.
@@ -1451,6 +1515,9 @@
         <bibl>
           <author>Snyder, Maria V.</author>
           <title>Shadow Study</title>.
+          <series><title>Soulfinders</title></series>
+          <series><title>Study</title></series>
+          <series><title>The Chronicles of Ixia</title></series>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -1496,9 +1563,15 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Tanzer, Molly</author>.
+          <title>Vermilion</title>
+          <date type="added" when="2016-12-11"/>
+        </bibl>
+        <bibl>
           <author>Taylor, John H.</author>
           <title>Death and the Afterlife in Ancient Egypt</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.owned"/>
         </bibl>
         <bibl>
           <author>Tevis, Walter</author>.
@@ -1525,11 +1598,17 @@
           <author>J. Richard Gott</author>.
           <title>Welcome to the Universe: An Astrophysical Tour</title>
           <trait ref="#tag.nonfiction"/>
-          <date when="2016-10-15"/>
+          <date type="added" when="2016-10-15"/>
         </bibl>
         <bibl>
           <author>Unsworth, Barry</author>.
           <title>Sacred Hunger</title>.
+        </bibl>
+        <bibl>
+          <author>Valentine, Genevieve</author>.
+          <title>Persona</title>.
+          <series><title>Persona</title></series>
+          <date type="added" when="2016-12-11"/>
         </bibl>
         <bibl>
           <author>Vinge, Joan D.</author>
@@ -1546,6 +1625,7 @@
         <bibl>
           <author>Walton, Jo</author>.
           <title>The Just City</title>.
+          <series><title>Thessaly</title></series>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -1572,6 +1652,7 @@
         <bibl>
           <author>Westerfeld, Scott</author>.
           <title>Uglies</title>.
+          <series><title>Uglies</title></series>
         </bibl>
         <bibl>
           <author>Wharton, Edith</author>.
@@ -1593,6 +1674,7 @@
         <bibl>
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
+          <series><title>The Highly Effective Detective</title></series>
         </bibl>
       </listBibl>
     </body>

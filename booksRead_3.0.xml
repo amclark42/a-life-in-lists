@@ -109,38 +109,6 @@
               <title>Lucifer</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="duggan.g.deadpool.1.deadpresidents">
-            <monogr>
-              <title>Deadpool Vol. 1: Dead Presidents</title>
-              <author>
-                <persName ref="a:duggan.g"/>
-                <persName ref="a:posehn.b"/>
-              </author>
-              <respStmt>
-                <resp relation="artist"/>
-                <persName ref="a:moore.to"/>
-              </respStmt>
-              <respStmt>
-                <resp relation="colorist"/>
-                <persName ref="a:staples.v"/>
-              </respStmt>
-              <respStmt>
-                <resp relation="letterer"/>
-                <persName ref="a:sabino.j"/>
-                <persName ref="a:cowles.c"/>
-              </respStmt>
-              <imprint>
-                <catRef target="#tag.comics"/>
-                <date type="copyright" when="2013"/>
-                <publisher>
-                  <orgName>Marvel Comics</orgName>
-                </publisher>
-              </imprint>
-            </monogr>
-            <series>
-              <title>Deadpool</title>
-            </series>
-          </biblStruct>
           <biblStruct xml:id="yoshinag.f.whatdidyoueat.2">
             <monogr>
               <title>What Did You Eat Yesterday? Vol. 2</title>
@@ -1086,6 +1054,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="brosh.a.hyperbolehalf">
             <monogr>
