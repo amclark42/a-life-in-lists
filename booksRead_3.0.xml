@@ -30,6 +30,227 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="kibuishi.k.amulet.2.stonekeeperscurse">
+            <monogr>
+              <title>Amulet Book Two: The Stonekeeper's Curse</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:kibuishi.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:kibuishi.ak"/>
+                <persName ref="a:wu.ag"/>
+                <persName ref="a:caffoe.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2009-09"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Amulet</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="roman.d.astronautacademy">
+            <monogr>
+              <title>Astronaut Academy: Zero Gravity</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:roman.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2011"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="clevinge.b.atomicrobo.9.goldencircle">
+            <monogr>
+              <title>Atomic Robo Vol. 9: The Knights of the Golden Circle</title>
+              <author>
+                <persName ref="a:clevinge.b"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:wegener.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:clark.an"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:powell.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="editor"/>
+                <persName ref="a:black.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2014"/>
+                <publisher>
+                  <orgName>Red 5 Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Atomic Robo</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="north.r.squirrelgirl.2.squirreltrue">
+            <monogr>
+              <title>The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It's True</title>
+              <author>
+                <persName ref="a:north.r"/>
+                <persName ref="a:slott.d"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <persName ref="a:henderso.e"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:renzi.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2016-12-24"/>
+                <date when="2015"/>
+                <publisher>
+                  <orgName>Marvel Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Unbeatable Squirrel Girl</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="stevenso.n.lumberjanes.2.friendshipmax">
+            <monogr>
+              <title>Lumberjanes Vol. 2: Friendship to the Max</title>
+              <author>
+                <persName ref="a:stevenso.n"/>
+                <persName ref="a:ellis.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:allen.b"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:laiho.m"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:aiese.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2016-12-24"/>
+                <date type="copyright" when="2016-10"/>
+                <date type="first-publication" when="2014"/>
+                <publisher>
+                  <orgName>Boom! Box</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Lumberjanes</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="cloonan.b.gothamacademy.2.calamity">
+            <monogr>
+              <title>Gotham Academy Vol. 2: Calamity</title>
+              <author>
+                <persName ref="a:cloonan.b"/>
+                <persName ref="a:fletcher.b"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:kerschl.k"/>
+                <persName ref="a:chen.mh"/>
+                <persName ref="a:msassyk"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:lapointe.s"/>
+                <persName ref="a:msassyk"/>
+                <persName ref="a:chen.mh"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:wands.s"/>
+                <persName ref="a:patrizio.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2016-12-24"/>
+                <date type="copyright" when="2016"/>
+                <date type="first-publication" when="2015"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Gotham Academy</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="beatty.s.batgirlrobinyearone">
+            <monogr>
+              <title>Batgirl/Robin Year One</title>
+              <author>
+                <persName ref="a:beatty.s"/>
+                <persName ref="a:dixon.c"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:pulido.j"/>
+                <persName ref="a:martin.m"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="inker"/>
+                <persName ref="a:campanel.r"/>
+                <persName ref="a:lopez.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:loughrid.l"/>
+                <persName ref="a:rodrigue.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:konot.s"/>
+                <persName ref="a:schubert.w"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2013"/>
+                <date type="first-publication" from="2000" to="2003"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Batgirl</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="mcguire.s.sparrowhillroad">
             <monogr>
               <title>Sparrow Hill Road</title>
@@ -1293,7 +1514,7 @@
                 <catRef target="#tag.nonfiction"/>
                 <date when="2014"/>
                 <publisher>
-                  <orgName>Scholastic</orgName>
+                  <orgName>Scholastic Inc.</orgName>
                 </publisher>
               </imprint>
             </monogr>

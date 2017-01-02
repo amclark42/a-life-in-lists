@@ -1605,6 +1605,16 @@
           <title>Sacred Hunger</title>.
         </bibl>
         <bibl>
+          <author>Valente, Catherynne M.</author>
+          <respStmt>
+            <resp relation="artist"/>
+            <persName>Ana Juan</persName>
+          </respStmt>.
+          <title>The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making</title>.
+          <series><title>Fairyland</title></series>
+          <date type="added" when="2016-12-28"/>
+        </bibl>
+        <bibl>
           <author>Valentine, Genevieve</author>.
           <title>Persona</title>.
           <series><title>Persona</title></series>

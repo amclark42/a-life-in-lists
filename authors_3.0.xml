@@ -26,6 +26,206 @@
   <text>
     <body>
       <listPerson>
+        <!--<person xml:id="">
+          <persName>
+            <forename></forename>
+            <surname></surname>
+          </persName>
+          <gender value="" evidence="conjecture"/>
+        </person>-->
+        <person xml:id="slott.d">
+          <persName>
+            <forename>Dan</forename>
+            <surname>Slott</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="stevenso.n">
+          <persName>
+            <forename>Noelle</forename>
+            <surname>Stevenson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="ellis.g">
+          <persName>
+            <forename>Grace</forename>
+            <surname>Ellis</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="allen.b">
+          <persName>
+            <forename>Brooke</forename>
+            <surname>Allen</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="laiho.m">
+          <persName>
+            <forename>Maarta</forename>
+            <surname>Laiho</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="aiese.a">
+          <persName>
+            <forename>Aubrey</forename>
+            <surname>Aiese</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="kibuishi.ak">
+          <persName>
+            <forename>Amy Kim</forename>
+            <surname>Kibuishi</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="wu.ag">
+          <persName>
+            <forename>Anthony Go</forename>
+            <surname>Wu</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="caffoe.j">
+          <persName>
+            <forename>Jason</forename>
+            <surname>Caffoe</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="roman.d">
+          <persName>
+            <forename>Dave</forename>
+            <surname>Roman</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="clark.an">
+          <persName>
+            <forename>Anthony</forename>
+            <surname>Clark</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="powell.j">
+          <persName>
+            <forename>Jeff</forename>
+            <surname>Powell</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="black.l">
+          <persName>
+            <forename>Lee</forename>
+            <surname>Black</surname>
+          </persName>
+        </person>
+        <person xml:id="fletcher.b">
+          <persName>
+            <forename>Brenden</forename>
+            <surname>Fletcher</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="chen.mh">
+          <persName>
+            <forename>Mingjue Helen</forename>
+            <surname>Chen</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="msassyk">
+          <persName>
+            <name>Msassyk</name>
+          </persName>
+        </person>
+        <person xml:id="lapointe.s">
+          <persName>
+            <forename>Serge</forename>
+            <surname>Lapointe</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="wands.s">
+          <persName>
+            <forename>Steve</forename>
+            <surname>Wands</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="patrizio.m">
+          <persName>
+            <forename>Marilyn</forename>
+            <surname>Patrizio</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="beatty.s">
+          <persName>
+            <forename>Scott</forename>
+            <surname>Beatty</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="pulido.j">
+          <persName>
+            <forename>Javier</forename>
+            <surname>Pulido</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="martin.m">
+          <persName>
+            <forename>Marcos</forename>
+            <surname>Martin</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="campanel.r">
+          <persName>
+            <forename>Robert</forename>
+            <surname>Campanella</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="lopez.a">
+          <persName>
+            <forename>Alvaro</forename>
+            <surname>Lopez</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="loughrid.l">
+          <persName>
+            <forename>Lee</forename>
+            <surname>Loughridge</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="rodrigue.j">
+          <persName>
+            <forename>Javier</forename>
+            <surname>Rodriguez</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="konot.s">
+          <persName>
+            <forename>Sean</forename>
+            <surname>Konot</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="schubert.w">
+          <persName>
+            <forename>Willie</forename>
+            <surname>Schubert</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="wells.k">
           <persName>
             <forename>Kendra</forename>
@@ -96,6 +296,7 @@
             <forename>Megan Rose</forename>
             <surname>Gedris</surname>
           </persName>
+          <gender value="female" evidence="self-identification"/>
         </person>
         <person xml:id="scarboro.d">
           <persName>

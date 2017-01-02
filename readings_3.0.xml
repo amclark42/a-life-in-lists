@@ -22,10 +22,13 @@
   <text>
     <body>
       <listEvent>
+        <event from="2017-01-01">
+          <p>Read <ref target="booksRead_3.0.xml#beatty.s.batgirlrobinyearone">Batgirl/Robin Year One</ref>.</p>
+        </event>
         <event from="2016-12-02" to="2016-12-04">
           <p>Reread <ref target="booksRead_3.0.xml#carey.m.lucifer.bookone">Lucifer Book One</ref>.</p>
         </event>
-        <event from="2016-12-02">
+        <event from="2016-12-02" to="2017-01-01">
           <p>Reread <ref target="booksRead_3.0.xml#arendt.h.eichmanninjerusalem">Eichmann in Jerusalem</ref>.</p>
         </event>
         <event from="2016-11-20" to="2016-11-30">
