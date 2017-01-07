@@ -213,6 +213,11 @@
           <title>Joy for Beginners</title>.
         </bibl>
         <bibl>
+          <author>Beagle, Peter S.</author>
+          <title>Summerlong</title>.
+          <date type="added" when="2017-01-07"/>
+        </bibl>
+        <bibl>
           <author>Bear, Elizabeth</author>.
           <title>Karen Memory</title>.
           <date type="added" when="2016-10-01"/>
@@ -589,10 +594,6 @@
           <title>The Days of Abandonment</title>.
         </bibl>
         <bibl>
-          <author>Fielding, Helen</author>.
-          <title>Bridget Jones’s Diary</title>.
-        </bibl>
-        <bibl>
           <author>Fisher, Carrie</author>.
           <title>The Princess Diarist</title>.
           <trait ref="#tag.memoir"/>
@@ -659,6 +660,7 @@
         <bibl>
           <author>Gaiman, Neil</author>.
           <title>The View from the Cheap Seats</title>.
+          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Gaiman, Neil</author> and
@@ -857,6 +859,11 @@
           <author>Jordan, Robert</author>.
           <title>The Eye of the World</title>.
           <series><title>Wheel of Time</title></series>
+        </bibl>
+        <bibl>
+          <author>Kagan, Janet</author>.
+          <title>Hellspark</title>.
+          <date type="added" when="2017-01-07"/>
         </bibl>
         <bibl>
           <author>Kalpakian, Laura</author>.
@@ -1405,6 +1412,12 @@
           <author>Rucka, Greg</author>.
           <title>Keeper</title>.
           <series><title>Atticus Kodiak</title></series>
+        </bibl>
+        <bibl>
+          <editor>Rusch, Kristine Kathryn</editor>.
+          <title>Women of Futures Past: Classic Stories</title>.
+          <trait ref="#tag.anthology"/>
+          <date type="added" when="2017-01-07"/>
         </bibl>
         <bibl>
           <author>Rushdie, Salman</author>.

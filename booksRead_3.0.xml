@@ -30,6 +30,85 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="rucka.g.bravo">
+            <monogr>
+              <title>Bravo</title>
+              <author>
+                <persName ref="a:rucka.g"/>
+              </author>
+              <imprint>
+                <date when="2014-07"/>
+                <publisher>
+                  <orgName>Mulholland Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Jad Bell</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="pratchett.t.snuff">
+            <monogr>
+              <title>Snuff</title>
+              <author>
+                <persName ref="a:pratchett.t"/>
+              </author>
+              <imprint>
+                <date when="2011"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Discworld</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="rhys.j.widesargasso">
+            <monogr>
+              <title>Wide Sargasso Sea</title>
+              <author>
+                <persName ref="a:rhys.j"/>
+              </author>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:wyndham.f"/>
+              </respStmt>
+              <imprint>
+                <date when="1966"/>
+                <publisher>
+                  <orgName>W. W. Norton &amp; Company, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.3">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 3</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:rosewood.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <date type="copyright" when="2014"/>
+                <date type="first-publication" when="2009"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="kibuishi.k.amulet.2.stonekeeperscurse">
             <monogr>
               <title>Amulet Book Two: The Stonekeeper's Curse</title>
@@ -345,6 +424,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2008"/>
                 <publisher>
@@ -629,6 +709,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2007"/>
                 <publisher>

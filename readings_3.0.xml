@@ -22,7 +22,19 @@
   <text>
     <body>
       <listEvent>
-        <event from="2017-01-01">
+        <event from="2017-01-07">
+          <p>Read <ref target="booksRead_3.0.xml#rhys.j.widesargasso">Wide Sargasso Sea</ref>.</p>
+        </event>
+        <event from="2017-01-06" to="2017-01-07">
+          <p>Read <ref target="booksRead_3.0.xml#stevenso.n.lumberjanes.2.friendshipmax">Lumberjanes Vol. 2: Friendship to the Max</ref>.</p>
+        </event>
+        <event from="2017-01-05" to="2017-01-06">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.whatdidyoueat.3">What Did You Eat Yesterday? Vol. 3</ref>.</p>
+        </event>
+        <event when="2017-01-03">
+          <p>Read <ref target="booksRead_3.0.xml#kibuishi.k.amulet.2.stonekeeperscurse">Amulet Vol. 2: The Stonekeeper’s Curse</ref>.</p>
+        </event>
+        <event from="2017-01-01" to="2017-01-02">
           <p>Read <ref target="booksRead_3.0.xml#beatty.s.batgirlrobinyearone">Batgirl/Robin Year One</ref>.</p>
         </event>
         <event from="2016-12-02" to="2016-12-04">

@@ -26,13 +26,28 @@
   <text>
     <body>
       <listPerson>
-        <!--<person xml:id="">
+        <!--
+        <person xml:id="">
           <persName>
             <forename></forename>
             <surname></surname>
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        <person xml:id="rhys.j">
+          <persName>
+            <forename>Jean</forename>
+            <surname>Rhys</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="wyndham.f">
+          <persName>
+            <forename>Francis</forename>
+            <surname>Wyndham</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="slott.d">
           <persName>
             <forename>Dan</forename>
