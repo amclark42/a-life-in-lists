@@ -34,6 +34,40 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        <person xml:id="muth.jj">
+          <persName>
+            <forename>Jon J.</forename>
+            <surname>Muth</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="wegmülle.a">
+          <persName>
+            <forename>Akemi</forename>
+            <surname>Wegmüller</surname>
+          </persName>
+        </person>
+        <person xml:id="zdarsky.c">
+          <persName>
+            <forename>Chip</forename>
+            <surname>Zdarsky</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="fraction.m">
+          <persName>
+            <forename>Matt</forename>
+            <surname>Fraction</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        <person xml:id="prince.l">
+          <persName>
+            <forename>Liz</forename>
+            <surname>Prince</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
         <person xml:id="rhys.j">
           <persName>
             <forename>Jean</forename>
@@ -2685,10 +2719,10 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
-        <person xml:id="leguin.uk">
+        <person xml:id="kleguin.u">
           <persName>
-            <forename>Ursula K.</forename>
-            <surname>Le Guin</surname>
+            <forename>Ursula</forename>
+            <surname>K. Le Guin</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>

@@ -22,7 +22,16 @@
   <text>
     <body>
       <listEvent>
-        <event from="2017-01-07">
+        <event when="2017-01-15">
+          <p>Read <ref target="booksRead_3.0.xml#prince.l.tomboy">Tomboy: A Graphic Memoir</ref>.</p>
+        </event>
+        <event from="2017-01-14">
+          <p>Read <ref target="booksRead_3.0.xml#rucka.g.bravo">Bravo</ref>.</p>
+        </event>
+        <event from="2017-01-07" to="2017-01-14">
+          <p>Read <ref target="booksRead_3.0.xml#pratchet.t.snuff">Snuff</ref>.</p>
+        </event>
+        <event when="2017-01-07">
           <p>Read <ref target="booksRead_3.0.xml#rhys.j.widesargasso">Wide Sargasso Sea</ref>.</p>
         </event>
         <event from="2017-01-06" to="2017-01-07">
@@ -171,7 +180,7 @@
           <p>Read <ref target="booksRead_3.0.xml#faustost.a.sexingbody">Sexing the Body</ref>.</p>
         </event>
         <event when="2016-05-07">
-          <p>Reread <ref target="booksRead_3.0.xml#leguin.uk.tombsatuan">The Tombs of Atuan</ref>.</p>
+          <p>Reread <ref target="booksRead_3.0.xml#kleguin.u.tombsatuan">The Tombs of Atuan</ref>.</p>
         </event>
         <event from="2016-04-30" to="2016-05-07">
           <p>Started <ref target="booksRead_3.0.xml#bradley.mz.firebrand">The Firebrand</ref>. Left unfinished.</p>
@@ -180,7 +189,7 @@
           <p>Read <ref target="booksRead_3.0.xml#mcguire.s.heartdoorway">Every Heart a Doorway</ref>.</p>
         </event>
         <event from="2016-04-18" to="2016-04-26">
-          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.wizardearthsea">A Wizard of Earthsea</ref>.</p>
+          <p>Read <ref target="booksRead_3.0.xml#kleguin.u.wizardearthsea">A Wizard of Earthsea</ref>.</p>
         </event>
         <event when="2016-04-10">
           <p>Read <ref target="booksRead_3.0.xml#brosh.a.hyperbolehalf">Hyperbole and a Half</ref>.</p>
@@ -189,7 +198,7 @@
           <p>Read <ref target="booksRead_3.0.xml#pratchet.t.raisingsteam">Raising Steam</ref>.</p>
         </event>
         <event from="2016-03-29" to="2016-04-06">
-          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.talesearthsea">Tales from Earthsea</ref>.</p>
+          <p>Read <ref target="booksRead_3.0.xml#kleguin.u.talesearthsea">Tales from Earthsea</ref>.</p>
         </event>
         <event from="2016-03-23" to="2016-03-29">
           <p>Reread beginning and end of <ref target="booksRead_3.0.xml#hobb.r.foolserrand">Fool’s Errand</ref>.</p>
@@ -1363,7 +1372,7 @@
           <p>Read <ref target="booksRead_3.0.xml#carey.m.lucifer.exodus">Lucifer: Exodus</ref>.</p>
         </event>
         <event from="2012-02-26" to="2012-02-29">
-          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.tombsatuan">The Tombs of Atuan</ref>.</p>
+          <p>Read <ref target="booksRead_3.0.xml#kleguin.u.tombsatuan">The Tombs of Atuan</ref>.</p>
         </event>
         <event from="2012-02-24" to="2012-02-25">
           <p>Read <ref target="booksRead_3.0.xml#cooke.d.dcnewfrontier2">DC: The New Frontier Vol. 2</ref>.</p>
@@ -1657,7 +1666,7 @@
           <p>Read <ref target="booksRead_3.0.xml#oswalt.p.jla.welcometoworkingweek">JLA: Welcome to the Working Week</ref>.</p>
         </event>
         <event from="2011-05-13" to="2011-05-22">
-          <p>Read <ref target="booksRead_3.0.xml#leguin.uk.lefthanddarkness">The Left Hand of Darkness</ref>.</p>
+          <p>Read <ref target="booksRead_3.0.xml#kleguin.u.lefthanddarkness">The Left Hand of Darkness</ref>.</p>
         </event>
         <event when="2011-05-11">
           <p>Read <ref target="booksRead_3.0.xml#morrison.g.allstarsuperman2">All Star Superman Vol. 2</ref>.</p>

@@ -28,10 +28,66 @@
   <text>
     <body>
       <list>
+        <!--
         <item>
           <quote>
-            <p>Eichmann's inability to speak coherently in court was connected with his 
-              incapacity to think, or to think from another person's point of view. His 
+            <p></p>
+          </quote>
+          <bibl>
+            <author></author>,
+            <title></title>
+          </bibl>
+        </item>-->
+        <item>
+          <quote>
+            <p>No, the world of next worlds, afterlives and purgatorial destinations 
+              simply did not fit into his head. Whether you wanted it or not, you were 
+              born, you did the best you could, and then, whether you really wanted it or 
+              not, you died.</p>
+          </quote>
+          <bibl>
+            <author>Terry Pratchett</author>,
+            <title>Snuff</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>A copper should always be willing to learn, and Vimes had learned from 
+              Lord Vetinari that you should never react to any comment or situation until 
+              you had decided exactly what you were going to do. This had the dual 
+              attraction of preventing you from saying or doing the wrong thing while at 
+              the same time making other people extremely nervous.</p>
+          </quote>
+          <bibl>
+            <author>Terry Pratchett</author>,
+            <title>Snuff</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>To a bachelor this would have appeared to be gentle advice; to an 
+              experienced husband it was a command, all the more powerful because it was 
+              made delicately.</p>
+          </quote>
+          <bibl>
+            <author>Terry Pratchett</author>,
+            <title>Snuff</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>It is well known that any drive to reduce paperwork only results in extra 
+              paperwork.</p>
+          </quote>
+          <bibl>
+            <author>Terry Pratchett</author>,
+            <title>Snuff</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>Eichmann’s inability to speak coherently in court was connected with his 
+              incapacity to think, or to think from another person’s point of view. His 
               shallowness was by no means identical with stupidity. He personified 
               neither hatred or madness nor an insatiable thirst for blood, but something 
               far worse, the faceless nature of Nazi evil itself, within a closed system 
@@ -55,7 +111,7 @@
         </item>
         <item>
           <quote>
-            <p>It is quite gratifying to feel guilty if you haven't done anything wrong: 
+            <p>It is quite gratifying to feel guilty if you haven’t done anything wrong: 
               how noble! Whereas it is rather hard and certainly depressing to admit 
               guilt and to repent.</p>
           </quote>
@@ -2019,9 +2075,9 @@
           <quote>
             <p>It is true that totalitarian domination tried to establish these holes of 
               oblivion into which all deeds, good and evil, would disappear, but just as 
-              the Nazis' feverish attempts, from June, 1942, on, to erase all traces of 
-              the massacres--through cremation, through burning in open pits, through the 
-              use of explosives and flame-throwers and bone-crushing machinery--were 
+              the Nazis’ feverish attempts, from June, 1942, on, to erase all traces of 
+              the massacres—through cremation, through burning in open pits, through the 
+              use of explosives and flame-throwers and bone-crushing machinery—were 
               doomed to failure, so all efforts to let their opponents <quote>disappear
               in silent anonymity</quote> were in vain. The holes of oblivion do not exist. 
               Nothing human is that perfect, and there are simply too many people in the 
@@ -2032,7 +2088,7 @@
               confused inner condition, if there were more such stories to be told.
               For the lesson of such stories is simple and within everybody’s grasp.
               Politically speaking, it is that under conditions of terror most people
-              will comply but <hi rend="italic">some people will not</hi>, just as the
+              will comply but <hi rend="italic">some people will not,</hi> just as the
               lesson of the countries to which the Final Solution was proposed is that
               <quote>it could happen</quote> in most places but <hi rend="italic">it did not 
               happen everywhere</hi>. Humanly speaking, no more is required, and no more
@@ -2679,7 +2735,7 @@
               have not been to feed the multitude on five loaves and two fishes, or to
               raise the dead, but to perfect mass destruction and prolong
               senility.</p>
-            <p>On those ratings, God is still ahead. </p>
+            <p>On those ratings, God is still ahead.</p>
           </quote>
           <bibl>
             <author>Jeanette Winterson</author>,
@@ -4130,7 +4186,7 @@
           <quote>
             <p>Things need not have happened to be true. Tales and dreams are the
               shadow-truths that will endure when mere facts are dust and ashes, and
-              forgot. </p>
+              forgot.</p>
           </quote>
           <bibl>
             <author>Neil Gaiman</author>,

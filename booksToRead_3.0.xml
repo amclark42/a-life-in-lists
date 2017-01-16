@@ -160,11 +160,6 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <author>B., David</author>.
-          <title>Epileptic</title>.
-          <trait ref="#tag.comics"/>
-        </bibl>
-        <bibl>
           <author>Bacigalupi, Paolo</author>.
           <title>The Water Knife</title>.
         </bibl>
@@ -730,6 +725,11 @@
         </bibl>
         <bibl>
           <author>Harris, Joanne</author>.
+          <title>Different Class</title>.
+          <date type="added" when="2017-01-15"></date>
+        </bibl>
+        <bibl>
+          <author>Harris, Joanne</author>.
           <title>Runemarks</title>.
         </bibl>
         <bibl>
@@ -1123,6 +1123,11 @@
           <series><title>Wayward Children</title></series>
         </bibl>
         <bibl>
+          <author>McGuire, Seanan</author>.
+          <title>Dusk or Dark or Dawn or Day</title>.
+          <date type="added" when="2017-01-08"/>
+        </bibl>
+        <bibl>
           <author>McHugh, Maureen</author>.
           <title>Mission Child</title>.
         </bibl>
@@ -1343,11 +1348,6 @@
         </bibl>
         <bibl>
           <author>Pratchett, Terry</author>.
-          <title>Snuff</title>.
-          <series><title>Discworld</title></series>
-        </bibl>
-        <bibl>
-          <author>Pratchett, Terry</author>.
           <title>Dodger</title>.
         </bibl>
         <bibl>
@@ -1363,13 +1363,6 @@
           <date type="added" when="2016-11-06"/>
         </bibl>
         <bibl>
-          <author>Prince, Liz</author>.
-          <title>Tomboy: A Graphic Memoir</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
           <author>Pulley, Natasha</author>.
           <title>The Watchmaker of Filigree Street</title>.
           <date type="added" when="2016-07-09"/>
@@ -1377,10 +1370,6 @@
         <bibl>
           <author>Pynchon, Thomas</author>.
           <title>The Crying of Lot 49</title>.
-        </bibl>
-        <bibl>
-          <author>Rhys, Jean</author>.
-          <title>Wide Sargasso Sea</title>.
         </bibl>
         <bibl>
           <author>Roach, Mary</author>.

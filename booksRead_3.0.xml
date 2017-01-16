@@ -30,6 +30,126 @@
     <body>
       <div>
         <listBibl>
+          <biblStruct xml:id="fraction.m.sexcrims.2">
+            <monogr>
+              <title>Sex Criminals Vol. 2: Two Worlds, One Cop</title>
+              <author>
+                <persName ref="a:fraction.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:zdarsky.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2015"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Sex Criminals</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="carey.m.lucifer.booktwo">
+            <monogr>
+              <title>Lucifer Book Two</title>
+              <author>
+                <persName ref="a:carey.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:gross.p"/>
+                <persName ref="a:kelly.r"/>
+                <persName ref="a:ormston.d"/>
+                <persName ref="a:muth.jj"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:vozzo.d"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="cover designer"/>
+                <persName ref="a:fegredo.d"/>
+                <persName ref="a:moeller.c"/>
+                <persName ref="a:muth.jj"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:gaiman.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2013"/>
+                <date type="first-publication" from="2001" to="2002"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Lucifer</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="kleguin.u.wordsaremymatter">
+            <monogr>
+              <title>Words Are My Matter: Writings About Life and Books, 2000–2016</title>
+              <author>
+                <persName ref="a:kleguin.u"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2016"/>
+                <date type="added" when="2016-10-29"/>
+                <publisher>
+                  <orgName>Small Beer Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="yoshinag.f.ôokuinnerchambers.6">
+            <monogr>
+              <title>Ôoku: The Inner Chambers Vol. 6</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:wegmülle.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2011-07"/>
+                <date type="first-publication" when="2010"/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ôoku: The Inner Chambers</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="prince.l.tomboy">
+            <monogr>
+              <title>Tomboy: A Graphic Memoir</title>
+              <author>
+                <persName ref="a:prince.l"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date when="2014"/>
+                <publisher>
+                  <orgName>Zest Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="rucka.g.bravo">
             <monogr>
               <title>Bravo</title>
@@ -47,11 +167,11 @@
               <title>Jad Bell</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="pratchett.t.snuff">
+          <biblStruct xml:id="pratchet.t.snuff">
             <monogr>
               <title>Snuff</title>
               <author>
-                <persName ref="a:pratchett.t"/>
+                <persName ref="a:pratchet.t"/>
               </author>
               <imprint>
                 <date when="2011"/>
@@ -1325,11 +1445,11 @@
               </imprint>
             </monogr>
           </biblStruct>
-          <biblStruct xml:id="leguin.uk.wizardearthsea">
+          <biblStruct xml:id="kleguin.u.wizardearthsea">
             <monogr>
               <title>A Wizard of Earthsea</title>
               <author>
-                <persName ref="a:leguin.uk"/>
+                <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
                 <date when="1968"/>
@@ -1392,11 +1512,11 @@
               <title>Discworld</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="leguin.uk.talesearthsea">
+          <biblStruct xml:id="kleguin.u.talesearthsea">
             <monogr>
               <title>Tales from Earthsea</title>
               <author>
-                <persName ref="a:leguin.uk"/>
+                <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -7665,11 +7785,11 @@
               <title>Superman</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="leguin.uk.lefthanddarkness">
+          <biblStruct xml:id="kleguin.u.lefthanddarkness">
             <monogr>
               <title>The Left Hand of Darkness</title>
               <author>
-                <persName ref="a:leguin.uk"/>
+                <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
                 <catRef target="#tag.class"/>
@@ -9206,11 +9326,11 @@
               <title>DC: The New Frontier</title>
             </series>
           </biblStruct>
-          <biblStruct xml:id="leguin.uk.tombsatuan">
+          <biblStruct xml:id="kleguin.u.tombsatuan">
             <monogr>
               <title>The Tombs of Atuan</title>
               <author>
-                <persName ref="a:leguin.uk"/>
+                <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -10926,7 +11046,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11100,7 +11222,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11257,7 +11381,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11274,7 +11400,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11478,9 +11606,17 @@
                 <resp relation="artist"/>
                 <persName ref="a:yoshinag.f"/>
               </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:wegmülle.a"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <date type="copyright" when="2010-12"/>
+                <date type="first-publication" when="2009"/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
