@@ -22,10 +22,23 @@
   <text>
     <body>
       <listEvent>
+        <event from="2017-01-18" to="2017-01-20">
+          <p>Read <ref target="booksRead_3.0.xml#fraction.m.sexcrims.2">Sex Criminals Vol. 2: Two Worlds, One Cop</ref>.</p>
+        </event>
+        <event from="2017-01-17">
+          <p>Read <ref target="booksRead_3.0.xml#kleguin.u.wordsaremymatter">Words are My Matter: Writings About 
+            Life and Books, 2000–2016</ref>.</p>
+        </event>
+        <event when="2017-01-15">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.6">Ôoku: The Inner Chambers Vol. 6</ref>.</p>
+        </event>
+        <event when="2017-01-15">
+          <p>Reread <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.5">Ôoku: The Inner Chambers Vol. 5</ref>.</p>
+        </event>
         <event when="2017-01-15">
           <p>Read <ref target="booksRead_3.0.xml#prince.l.tomboy">Tomboy: A Graphic Memoir</ref>.</p>
         </event>
-        <event from="2017-01-14">
+        <event from="2017-01-14" to="2017-01-17">
           <p>Read <ref target="booksRead_3.0.xml#rucka.g.bravo">Bravo</ref>.</p>
         </event>
         <event from="2017-01-07" to="2017-01-14">
