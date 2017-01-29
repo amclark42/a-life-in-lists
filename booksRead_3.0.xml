@@ -99,6 +99,7 @@
                 <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date when="2016"/>
                 <date type="added" when="2016-10-29"/>

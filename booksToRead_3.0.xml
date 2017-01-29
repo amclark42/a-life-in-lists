@@ -481,8 +481,13 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
-          <author>Dick, Phillip</author>.
+          <author>Dick, Phillip K.</author>
           <title>Do Androids Dream of Electric Sheep?</title>.
+        </bibl>
+        <bibl>
+          <author>Dick, Phillip K.</author>
+          <title>The Man in the High Castle</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Doctorow, Cory</author>.
@@ -560,6 +565,11 @@
           <author>Ellis, Warren</author>.
           <title>Normal</title>.
           <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
+          <author>Emshwiller, Carol</author>.
+          <title>Ledoyt</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Ende, Michael</author>.
@@ -736,6 +746,11 @@
           <author>Harris-Perry, Melissa V.</author>
           <title>Sister Citizen: Shame, Stereotypes, and Black Women in America</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Haruf, Kent</author>.
+          <title>Our Souls at Night</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <editor>Harvey, Jennifer</editor>,
@@ -935,6 +950,11 @@
         </bibl>
         <bibl>
           <author>Kingsolver, Barbara</author>.
+          <title>Flight Behavior</title>.
+          <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Kingsolver, Barbara</author>.
           <title>The Poisonwood Bible</title>.
         </bibl>
         <bibl>
@@ -994,19 +1014,17 @@
           <date type="added" when="2016-07-09"/>
         </bibl>
         <bibl>
-          <author>Le Guin, Ursula K.</author>
-          <title>Words Are My Matter: Writings About Life and Books 2000 - 2016</title>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-10-29"/>
-        </bibl>
-        <bibl>
           <author>Lee, Li-Young</author>.
           <title>Book of My Nights</title>.
         </bibl>
         <bibl>
           <author>Lee, Li-Young</author>.
           <title>The Winged Seed: A Remembrance</title>.
+        </bibl>
+        <bibl>
+          <author>Lem, Stanislaw</author>.
+          <title>Solaris</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Levine, Gail Carson</author>.
@@ -1132,6 +1150,11 @@
           <title>Mission Child</title>.
         </bibl>
         <bibl>
+          <author>McIntyre, Vonda</author>.
+          <title>Dreamsnake</title>.
+          <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
           <author>McMahon, Jennifer</author>.
           <title>Island of Lost Girls</title>.
         </bibl>
@@ -1175,6 +1198,11 @@
         <bibl>
           <author>Moore, Moira</author>.
           <title>Resenting the Hero</title>.
+        </bibl>
+        <bibl>
+          <author>Morris, Jan</author>.
+          <title>Hav</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Murakami, Haruki</author>.
@@ -1274,6 +1302,11 @@
         <bibl>
           <author>O’Neill, Eugene</author>.
           <title>Long Day’s Journey Into Night</title>.
+        </bibl>
+        <bibl>
+          <author>Otsuka, Julie</author>.
+          <title>The Buddha in the Attic</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Parker, Jeff</author>.
@@ -1439,6 +1472,11 @@
           <author>Sanderson, Brandon</author>.
           <title>Warbreaker</title>.
           <series><title>Warbreaker</title></series>
+        </bibl>
+        <bibl>
+          <author>Saramago, Jose</author>.
+          <title>Raised from the Ground</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Schickel, Katie</author>.
@@ -1633,6 +1671,11 @@
         <bibl>
           <author>Vonnegut, Kurt</author>.
           <title>Slaughterhouse Five</title>.
+        </bibl>
+        <bibl>
+          <author>Walton, Jo</author>.
+          <title>Among Others</title>.
+          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author>Walton, Jo</author>.

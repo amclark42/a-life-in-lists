@@ -22,10 +22,16 @@
   <text>
     <body>
       <listEvent>
+        <event from="2017-01-29">
+          <p>Reread <ref target="booksRead_3.0.xml#gaiman.n.oceanatendlane">Ocean at the End of the Lane</ref>.</p>
+        </event>
+        <event when="2017-01-28">
+          <p>Partial reread <ref target="booksRead_3.0.xml#carey.m.lucifer.booktwo">Lucifer Book Two</ref>.</p>
+        </event>
         <event from="2017-01-18" to="2017-01-20">
           <p>Read <ref target="booksRead_3.0.xml#fraction.m.sexcrims.2">Sex Criminals Vol. 2: Two Worlds, One Cop</ref>.</p>
         </event>
-        <event from="2017-01-17">
+        <event from="2017-01-17" to="2017-01-28">
           <p>Read <ref target="booksRead_3.0.xml#kleguin.u.wordsaremymatter">Words are My Matter: Writings About 
             Life and Books, 2000–2016</ref>.</p>
         </event>
