@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-02-04">Added list heading.</change>
         <change when="2016-10-08">Added "memoir" tag.</change>
         <change when="2016-08-20">Added "anthology" tag.</change>
       </listChange>
@@ -30,6 +31,88 @@
     <body>
       <div>
         <listBibl>
+          <head>Books I’ve Read</head>
+          <biblStruct xml:id="tanaka.s.hisfavorite.1">
+            <monogr>
+              <title>His Favorite Vol. 1</title>
+              <title xml:lang="ja">Aitsu no Daihonmei</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="tanaka.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:bloom.i"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2008"/>
+                <date type="printing" when="2012-09"/>
+                <publisher>
+                  <orgName>SuBLime Manga</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="yoshinag.f.ôokuinnerchambers.7">
+            <monogr>
+              <title>Ôoku: The Inner Chambers Vol. 7</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:wegmülle.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2011"/>
+                <date type="first-publication" when="2011"/>
+                <date type="printing" when="2012-07"/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ôoku: The Inner Chambers</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="scott.m.dreamingmetal">
+            <monogr>
+              <title>Dreaming Metal</title>
+              <author>
+                <persName ref="a:scott.m"/>
+              </author>
+              <imprint>
+                <date when="1997"/>
+                <date type="added" when="2016-10-07"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Persephone</title>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="casey.j.burning">
+            <monogr>
+              <title>The Burning</title>
+              <author>
+                <persName ref="a:casey.j"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>Minotaur Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="fraction.m.sexcrims.2">
             <monogr>
               <title>Sex Criminals Vol. 2: Two Worlds, One Cop</title>
@@ -232,7 +315,7 @@
           </biblStruct>
           <biblStruct xml:id="kibuishi.k.amulet.2.stonekeeperscurse">
             <monogr>
-              <title>Amulet Book Two: The Stonekeeper's Curse</title>
+              <title>Amulet Book Two: The Stonekeeper’s Curse</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -309,7 +392,7 @@
           </biblStruct>
           <biblStruct xml:id="north.r.squirrelgirl.2.squirreltrue">
             <monogr>
-              <title>The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It's True</title>
+              <title>The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It’s True</title>
               <author>
                 <persName ref="a:north.r"/>
                 <persName ref="a:slott.d"/>
@@ -786,6 +869,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Persephone</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="agi.t.dropsofgod.1">
             <monogr>

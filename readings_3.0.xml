@@ -18,11 +18,28 @@
         </p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2017-02-04">Added list heading.</change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listEvent>
-        <event from="2017-01-29">
+        <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
+        
+        <event from="2017-02-04">
+          <p>Read <ref target="booksRead_3.0.xml#casey.j.burning">The Burning</ref>.</p>
+        </event>
+        <event from="2017-02-02" to="2017-02-03">
+          <p>Read <ref target="booksRead_3.0.xml#cloonan.b.gothamacademy.2.calamity">Gotham Academy Vol. 2: Calamity</ref>.</p>
+        </event>
+        <event from="2017-01-31" to="2017-02-02">
+          <p>Read <ref target="booksRead_3.0.xml#north.r.squirrelgirl.2.squirreltrue">The Unbeatable Squirrel Girl 
+            Vol. 2: Squirrel You Know It’s True</ref>.</p>
+        </event>
+        <event from="2017-01-29" to="2017-01-31">
           <p>Reread <ref target="booksRead_3.0.xml#gaiman.n.oceanatendlane">Ocean at the End of the Lane</ref>.</p>
         </event>
         <event when="2017-01-28">

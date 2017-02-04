@@ -18,14 +18,18 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2016-04-03">Added <att>evidence</att> to all gender elements.
-        Default is "conjecture." There weren't many I was comfortable claiming as
-        "self-identification."</change>
+      <listChange>
+        <change when="2017-02-04">Added list heading.</change>
+        <change when="2016-04-03">Added <att>evidence</att> to all gender elements.
+          Default is "conjecture." There weren't many I was comfortable claiming as
+          "self-identification."</change>
+      </listChange>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPerson>
+        <head>List of Authors and Contributors</head>
         <!--
         <person xml:id="">
           <persName>
@@ -34,6 +38,27 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        <person xml:id="bloom.i">
+          <persName>
+            <forename>Ivana</forename>
+            <surname>Bloom</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="tanaka.s">
+          <persName>
+            <forename>Suzuki</forename>
+            <surname>Tanaka</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="casey.j">
+          <persName>
+            <forename>Jane</forename>
+            <surname>Casey</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
         <person xml:id="muth.jj">
           <persName>
             <forename>Jon J.</forename>

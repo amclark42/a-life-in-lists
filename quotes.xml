@@ -17,6 +17,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2017-02-04">Added list heading.</change>
         <change when="2016-11-12">Replaced double quotation marks with <gi>said</gi>, <gi>soCalled</gi>, and <gi>quote</gi>.</change>
         <change when="2016-03-29">Completed re-encoding after OxGarage’s conversion from DOCX.</change>
         <change when="2016-02-24">Changed <code>//bibl/persName</code> to <code>//bibl/author</code>, and began using <gi>series</gi> to refer to some titles.</change>
@@ -28,6 +29,7 @@
   <text>
     <body>
       <list>
+        <head>Quotes</head>
         <!--
         <item>
           <quote>
@@ -40,10 +42,25 @@
         </item>-->
         <item>
           <quote>
+            <p>Grown-ups don’t look like grown-ups on the inside either. Outside, 
+              they’re big and thoughtless and they always know what they’re doing. 
+              Inside, they look just like they always have. Like they did when they 
+              were your age. The truth is, there aren’t any grown-ups. Not one, in 
+              the whole world.</p>
+          </quote>
+          <bibl>
+            <author>Neil Gaiman</author>,
+            <title>The Ocean at the End of the Lane</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
             <said>
-              <p>Grief has a kind of inertia all its own. It's hard to stop moving when there's so much to do...</p>
-              <p>...And once you do stop, once you <hi rend="italic">sit</hi> by <hi rend="italic">yourself and the enormity of it hits you...</hi></p>
-              <p>It's hard to imagine ever getting up again.</p>
+              <p>Grief has a kind of inertia all its own. It’s hard to stop moving 
+                when there’s so much to do...</p>
+              <p>...And once you do stop, once you <hi rend="italic">sit</hi> by 
+                <hi rend="italic">yourself and the enormity of it hits you...</hi></p>
+              <p>It’s hard to imagine ever getting up again.</p>
             </said>
           </quote>
           <bibl>
@@ -60,14 +77,14 @@
           <bibl>
             <author>Ursula K. Le Guin</author>,
             <title rend="quoted">Getting It Right: 
-              <bibl><author>Charles L. McNichols</author>'s 
+              <bibl><author>Charles L. McNichols</author>’s 
               <title>Crazy Weather</title></bibl>,</title>
             <title>Words are My Matter</title>
           </bibl>
         </item>
         <item>
           <quote>
-            <p>Subversion through terror, shock, pain is easy--instant 
+            <p>Subversion through terror, shock, pain is easy—instant 
               gratification, as it were. Subversion through friendliness is 
               paradoxical, slow-acting, and durable. And sneaky. A moral 
               revolutionary, rewriting rules the rest of us were still following, 
@@ -77,7 +94,7 @@
           <bibl>
             <author>Ursula K. Le Guin</author>,
             <title rend="quoted">The Wild Winds of Possibility: 
-              <bibl><author>Vonda McIntyre</author>'s 
+              <bibl><author>Vonda McIntyre</author>’s 
               <title>Dreamsnake</title></bibl>,</title>
             <title>Words are My Matter</title>
           </bibl>
@@ -85,17 +102,17 @@
         <item>
           <quote>
             <p>I want to talk here about the difference between imagination and 
-              wishful thinking, because it's important both in writing and in 
+              wishful thinking, because it’s important both in writing and in 
               living. Wishful thinking is thinking cut loose from reality, a 
               self-indulgence that is often merely childish, but may be dangerous. 
               Imagination, even in its wildest flights, is not detached from 
               reality: imagination acknowledges reality, starts from it, and returns 
               to it to enrich it. Don Quixote indulges his longing to be a knight 
               till he loses touch with reality and makes an awful mess of his life. 
-              That's wishful thinking. Miguel Cervantes, by working out and telling 
+              That’s wishful thinking. Miguel Cervantes, by working out and telling 
               the invented story of a man who wishes he were a knight, vastly 
               increased our store of laughter and of human understanding. Wishful 
-              thinking is Hitler's Thousand-Year Reich. Imagination is the 
+              thinking is Hitler’s Thousand-Year Reich. Imagination is the 
               Constitution of the United States.</p>
             <p>A failure to see this difference is in itself dangerous. If we assume 
               that imagination has no connection with reality but is mere escapism, 
@@ -117,9 +134,9 @@
             <p>Even when a woman novelist is admitted to be a first-rate artist, the 
               techniques of exclusion still operate. Jane Austen is vastly admired, 
               yet she is less often considered as an exemplar than as a unique, 
-              inimitable--a wonderful fluke. She cannot be disappeared; but she is 
+              inimitable—a wonderful fluke. She cannot be disappeared; but she is 
               not fully included.</p>
-            <p>Denigration, omission, and exception during a writer's lifetime are 
+            <p>Denigration, omission, and exception during a writer’s lifetime are 
               preparations for her disappearance after her death.</p>
           </quote>
           <bibl>
@@ -141,13 +158,13 @@
           </quote>
           <bibl>
             <author>Ursula K. Le Guin</author>,
-            <title rend="quoted">Great Nature's Second Course,</title>
+            <title rend="quoted">Great Nature’s Second Course,</title>
             <title>Words are My Matter</title>
           </bibl>
         </item>
         <item>
           <quote>
-            <p>No matter how humble the spirit it's in, a sermon is an act of 
+            <p>No matter how humble the spirit it’s in, a sermon is an act of 
               aggression.</p>
           </quote>
           <bibl>
@@ -160,7 +177,7 @@
           <quote>
             <p>Fiction offers the best means of understanding people different from 
               oneself, short of experience. Actually, fiction can be lots better 
-              than experience, because it's a manageable size, it's comprehensible, 
+              than experience, because it’s a manageable size, it’s comprehensible, 
               while experience just steamrollers over you and you understand what 
               happened decades later, if ever. Fiction is terrific at giving 
               factual, psychological, and moral understanding.</p>
@@ -168,8 +185,8 @@
           <bibl>
             <author>Ursula K. Le Guin</author>,
             <title rend="quoted">
-              <quote>Things Not Actually Present</quote>: On Fantasy, with a Tribute to Jorge Luis Borges
-            </title>
+              <quote>Things Not Actually Present</quote>: 
+              On Fantasy, with a Tribute to Jorge Luis Borges,</title>
             <title>Words are My Matter</title>
           </bibl>
         </item>

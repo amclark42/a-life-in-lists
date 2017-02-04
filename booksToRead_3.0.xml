@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-02-04">Added list heading.</change>
         <change when="2016-12-11">Added <gi>series</gi> to most books that needed them.</change>
         <change when="2016-05-15">
           <list>
@@ -37,6 +38,7 @@
   <text>
     <body>
       <listBibl>
+        <head>Books to Read</head>
         <bibl>
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the
