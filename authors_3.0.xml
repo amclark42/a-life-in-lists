@@ -38,6 +38,20 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        <person xml:id="blackman.a">
+          <persName>
+            <forename>Abigail</forename>
+            <surname>Blackman</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="flanagan.w">
+          <persName>
+            <forename>William</forename>
+            <surname>Flanagan</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         <person xml:id="bloom.i">
           <persName>
             <forename>Ivana</forename>

@@ -210,6 +210,13 @@
           <title>Joy for Beginners</title>.
         </bibl>
         <bibl>
+          <author>Baym, Nina</author>.
+          <title>Novels, Readers, and Reviewers: Responses to Fiction in Antebellum 
+            America</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-02-19"/>
+        </bibl>
+        <bibl>
           <author>Beagle, Peter S.</author>
           <title>Summerlong</title>.
           <date type="added" when="2017-01-07"/>
@@ -354,7 +361,9 @@
         </bibl>
         <bibl>
           <author>Casey, Jane</author>.
-          <title>The Burning</title>.
+          <title>The Reckoning</title>.
+          <series><title>Maeve Kerrigan</title></series>
+          <date type="added" when="2017-02-19"/>
         </bibl>
         <bibl>
           <editor>Chabon, Michael</editor>.
@@ -622,6 +631,14 @@
           <author>Flewelling, Lynn</author>.
           <title>The White Road</title>.
           <series><title>Nightrunner</title></series>
+        </bibl>
+        <bibl>
+          <author>Flores, Irene</author> and
+          <author>Ashley Raiti</author>.
+          <title>Sci-Fi Fashion Art School: How to Draw Science Fiction Characters, Styles and Action Scenes</title>.
+          <series><title>Shojo Fashion Manga</title></series>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-11-21"/>
         </bibl>
         <bibl>
           <author>Forster, E.M.</author>
@@ -1193,6 +1210,12 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Montfort, Nick</author>.
+          <title>Exploratory Programming for the Arts and Humanities</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-02-19"/>
+        </bibl>
+        <bibl>
           <author>Moore, Lorrie</author>.
           <title>Anagrams</title>.
           <date type="added" when="2016-10-01"/>
@@ -1331,7 +1354,7 @@
         <bibl>
           <author>Peake, Mervyn</author>.
           <title>Gormenghast</title>.
-          <series><title>Gormengast</title></series>
+          <series><title>Gormenghast</title></series>
         </bibl>
         <bibl>
           <author>Philbrick, Rodman</author>.

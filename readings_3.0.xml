@@ -29,7 +29,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-02-04">
+        <event from="2017-02-10">
+          <p>Reread <ref target="booksRead_3.0.xml#russ.j.howtosuppresswomenswriting">How to Suppress Women’s Writing</ref>.</p>
+        </event>
+        <event from="2017-02-04" to="2017-02-19">
           <p>Read <ref target="booksRead_3.0.xml#casey.j.burning">The Burning</ref>.</p>
         </event>
         <event from="2017-02-02" to="2017-02-03">

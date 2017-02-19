@@ -32,6 +32,38 @@
       <div>
         <listBibl>
           <head>Books I’ve Read</head>
+          
+          
+          <biblStruct xml:id="mori.k.bridesstory.3">
+            <monogr>
+              <title>A Bride’s Story Vol. 3</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:mori.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-02-10"/>
+                <date type="first-published" when="2011"/>
+                <date type="first-american-edition" when="2012-03"/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>A Bride’s Story</title>
+            </series>
+          </biblStruct>
           <biblStruct xml:id="tanaka.s.hisfavorite.1">
             <monogr>
               <title>His Favorite Vol. 1</title>
@@ -112,6 +144,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Maeve Kerrigan</title>
+            </series>
           </biblStruct>
           <biblStruct xml:id="fraction.m.sexcrims.2">
             <monogr>
@@ -13420,7 +13455,11 @@
               </author>
               <imprint>
                 <catRef target="#tag.nonfiction"/>
-                <publisher/>
+                <catRef target="#tag.owned" from="2017-02-10"/>
+                <date type="copyright" when="1983"/>
+                <publisher>
+                  <orgName>University of Texas Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -14086,7 +14125,10 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned" from="2017-02-10"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
