@@ -30,6 +30,7 @@
     <body>
       <list>
         <head>Quotes</head>
+        
         <!--
         <item>
           <quote>
@@ -40,6 +41,65 @@
             <title></title>
           </bibl>
         </item>-->
+        <item>
+          <quote>
+            <p><said>A . . . diplomat?</said> Arthur blinked at me as our carriage 
+              rattled to a stop, presumably in front of our destination. <said>But 
+              the first thing you did was eat my sister’s maid.</said></p>
+            <p><said>I am aware,</said> I said primly, gathering my skirts as I 
+              waited for the doors to slide open on their well-oiled tracks. 
+              <said>But I was sorry afterward, which is the very definition of 
+              diplomacy.</said></p>
+          </quote>
+          <bibl>
+            <author>Seanan McGuire</author>,
+            <title rend="quoted">Lady Antheia’s Guide to Horticultural Warfare</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>My friend said, <said>Women always write in the vernacular.</said></p>
+            <p><hi rend="italic">Women always write in the vernacular.</hi></p>
+            <p>Not strictly true, and yet it explains a lot. 
+              <gap extent="about a page" reason="omitted, but the whole thing is damn good"/></p>
+            <p>In the vernacular it’s also hard to be <soCalled>classic,</soCalled>
+              to be smooth, to be perfect. The Sacred Canon of Literature quite 
+              often pretends that some works are not only atemporal and universal 
+              (that is, outside of history, a religious claim) but without flaw and 
+              without perceptible limitations. It’s hard, in the vernacular, to 
+              pretend this, to paper over the cracks. It’s also hard to read the 
+              vernacular as Holy Writ (which some critics still do, interpreting 
+              even the typographical errors as genius).</p>
+            <p>Minority art, vernacular art, is marginal art. Only on the margins 
+              does growth occur.</p>
+          </quote>
+          <bibl>
+            <author>Joanna Russ</author>,
+            <title rend="italic">How to Suppress Women’s Writing</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>If you are a woman and wish to become pre-eminent in a field, it’s a 
+              good idea to (a) invent it and (b) locate it in an area either so 
+              badly paid or of so low status that men don’t want it; hence Florence
+              Nightingale and Jane Addams.</p>
+          </quote>
+          <bibl>
+            <author>Joanna Russ</author>,
+            <title rend="italic">How to Suppress Women’s Writing</title>
+          </bibl>
+        </item>
+        <item>
+          <quote>
+            <p>The trick in the double standard of content is to label one set of 
+              experiences as more valuable and important than the other.</p>
+          </quote>
+          <bibl>
+            <author>Joanna Russ</author>,
+            <title rend="italic">How to Suppress Women’s Writing</title>
+          </bibl>
+        </item>
         <item>
           <quote>
             <p>Grown-ups don’t look like grown-ups on the inside either. Outside, 
@@ -902,7 +962,27 @@
               writing that I have described work by suppressing context: writing is
               separated from experience, women writers are separated from their
               tradition and each other, public is separated from private, political
-              from personal – all to enforce a supposed set of absolute standards.</p>
+              from personal–all to enforce a supposed set of absolute standards. 
+              What is frightening about black art or women’s art or Chicano art–and 
+              so on– is that it calls into question the very idea of objectivity and 
+              absolute standards:</p>
+            <p>This is a good novel.</p>
+            <p>Good <hi rend="italic">for what</hi>?</p>
+            <p>Good <hi rend="italic">for whom</hi>?</p>
+            <p>One side of the nightmare is that the privileged group will not 
+              recognize that <soCalled>other</soCalled> art, will not be able to 
+              judge it, that the superiority of taste and training possessed by the 
+              privileged critic and the privileged artist will suddenly vanish.</p>
+            <p>The other side of the nightmare is not that what is found in the 
+              <soCalled>other</soCalled> art will be incomprehensible, but that it 
+              will be all too familiar. That is:</p>
+            <p>Women’s lives are the buried truth about men’s lives.</p>
+            <p>The lives of people of color are the buried truth about white lives.</p>
+            <p>The buried truth about the rich is who they take their money from and 
+              how.</p>
+            <p>The buried truth about <soCalled>normal</soCalled> sexuality is how 
+              one kind of sexual expression has been made privileged, and what kinds 
+              of unearned virtue and terrors about identity this distinction serves.</p>
           </quote>
           <bibl>
             <author>Joanna Russ</author>,
@@ -923,7 +1003,7 @@
               past,</quote> or Judy Chicago responds to self-portraits of Rosalba Carriera
               and Judith Leyster by being <quote>deeply moved. I felt I was seeing an echo
               of my identity as an artist across the centuries,</quote> neither woman is
-              appealing to a model in order to prove to anyone that
+              appealing to a model in order to prove to anyone that 
               <hi rend="italic">Women can’t create</hi> is false. Their concern is with
               kinship, that is, with each other.</p>
           </quote>
@@ -946,7 +1026,11 @@
         </item>
         <item>
           <quote>
-            <p>...talk about sexism or racism must distinguish between the sins of
+            <p>Conscious, conspiratorial guilt? Hardly. Privileged groups, like 
+              everyone else, want to think well of themselves and to believe that 
+              they are acting generously and justly. <gap extent="1 sentence" reason="omitted"/> 
+              Genuine ignorance? Certainly that is sometimes the case. But talk 
+              about sexism or racism must distinguish between the sins of
               commission of the real, active misogynist or bigot and the vague,
               half-conscious sins of omission of the decent, ordinary, even
               good-hearted people, which sins the context of institutionalized sexism

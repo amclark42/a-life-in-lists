@@ -30,6 +30,7 @@
     <body>
       <listPerson>
         <head>List of Authors and Contributors</head>
+        
         <!--
         <person xml:id="">
           <persName>
@@ -38,6 +39,25 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        <person xml:id="sabo.b">
+          <persName>
+            <forename>B.</forename>
+            <surname>Sabo</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        <person xml:id="scary-t">
+          <persName>
+            <name>Scary-T</name>
+          </persName>
+        </person>
+        <person xml:id="heikkilä.n">
+          <persName>
+            <forename>Noora</forename>
+            <surname>Heikkilä</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
         <person xml:id="blackman.a">
           <persName>
             <forename>Abigail</forename>

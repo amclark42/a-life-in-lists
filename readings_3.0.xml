@@ -29,7 +29,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-02-10">
+        <event from="2017-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#scott.m.dreamingmetal">Dreaming Metal</ref>.</p>
+        </event>
+        <event when="2017-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#tanaka.s.hisfavorite.1">His Favorite Vol. 1</ref>.</p>
+        </event>
+        <event when="2017-02-26">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.ôokuinnerchambers.7">Ôoku: The Inner Chambers Vol. 7</ref>.</p>
+        </event>
+        <event from="2017-02-21" to="2017-02-22">
+          <p>Read <ref target="booksRead_3.0.xml#trotman.cs.mymonsterbf">My Monster Boyfriend</ref>.</p>
+        </event>
+        <event from="2017-02-10" to="2017-02-26">
           <p>Reread <ref target="booksRead_3.0.xml#russ.j.howtosuppresswomenswriting">How to Suppress Women’s Writing</ref>.</p>
         </event>
         <event from="2017-02-04" to="2017-02-19">

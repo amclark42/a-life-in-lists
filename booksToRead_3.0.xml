@@ -39,6 +39,7 @@
     <body>
       <listBibl>
         <head>Books to Read</head>
+        
         <bibl>
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the
@@ -635,10 +636,19 @@
         <bibl>
           <author>Flores, Irene</author> and
           <author>Ashley Raiti</author>.
-          <title>Sci-Fi Fashion Art School: How to Draw Science Fiction Characters, Styles and Action Scenes</title>.
+          <title>Sci-Fi Fashion Art School: How to Draw Science Fiction Characters, 
+            Styles and Action Scenes</title>.
           <series><title>Shojo Fashion Manga</title></series>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-11-21"/>
+        </bibl>
+        <bibl>
+          <author>Forney, Ellen</author>.
+          <title>Marbles: Mania, Depression, Michelangelo, and Me</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-02-21"/>
         </bibl>
         <bibl>
           <author>Forster, E.M.</author>
@@ -755,7 +765,7 @@
         <bibl>
           <author>Harris, Joanne</author>.
           <title>Different Class</title>.
-          <date type="added" when="2017-01-15"></date>
+          <date type="added" when="2017-01-15"/>
         </bibl>
         <bibl>
           <author>Harris, Joanne</author>.
@@ -1449,11 +1459,6 @@
           <title>Ratio: The Simple Codes Behind the Craft of Everyday Cooking</title>.
           <trait ref="#tag.cookbook"/>
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Rucka, Greg</author>.
-          <title>Bravo</title>.
-          <series><title>Jad Bell</title></series>
         </bibl>
         <bibl>
           <author>Rucka, Greg</author>.

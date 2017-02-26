@@ -33,6 +33,45 @@
         <listBibl>
           <head>Books I’ve Read</head>
           
+          <biblStruct xml:id="trotman.cs.mymonsterbf">
+            <monogr>
+              <title>My Monster Boyfriend</title>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <resp relation="contributor"/>
+                <persName ref="a:trotman.cs"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:frier.n"/>
+                <persName ref="a:dechaniq"/>
+                <persName ref="a:weathing.l"/>
+                <persName ref="a:sabo.b"/>
+                <persName ref="a:scary-t"/>
+                <persName ref="a:horrocks.s"/>
+                <persName ref="a:weaver.ek"/>
+                <persName ref="a:fink.j"/>
+                <persName ref="a:hes.s"/>
+                <persName ref="a:simone.g"/>
+                <persName ref="a:cooper.t"/>
+                <persName ref="a:heikkilä.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.kickstart" when="2016-02-24"/>
+                <catRef target="#tag.owned" from="2017-02-21"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Smut Peddler Presents</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="mori.k.bridesstory.3">
             <monogr>
@@ -64,6 +103,7 @@
               <title>A Bride’s Story</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="tanaka.s.hisfavorite.1">
             <monogr>
               <title>His Favorite Vol. 1</title>
@@ -86,7 +126,11 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>His Favorite</title>
+            </series>
           </biblStruct>
+          
           <biblStruct xml:id="yoshinag.f.ôokuinnerchambers.7">
             <monogr>
               <title>Ôoku: The Inner Chambers Vol. 7</title>
@@ -113,6 +157,7 @@
               <title>Ôoku: The Inner Chambers</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="scott.m.dreamingmetal">
             <monogr>
               <title>Dreaming Metal</title>
@@ -131,6 +176,7 @@
               <title>Persephone</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="casey.j.burning">
             <monogr>
               <title>The Burning</title>
@@ -148,6 +194,7 @@
               <title>Maeve Kerrigan</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="fraction.m.sexcrims.2">
             <monogr>
               <title>Sex Criminals Vol. 2: Two Worlds, One Cop</title>
@@ -170,6 +217,7 @@
               <title>Sex Criminals</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="carey.m.lucifer.booktwo">
             <monogr>
               <title>Lucifer Book Two</title>
@@ -210,6 +258,7 @@
               <title>Lucifer</title>
             </series>
           </biblStruct>
+          
           <biblStruct xml:id="kleguin.u.wordsaremymatter">
             <monogr>
               <title>Words Are My Matter: Writings About Life and Books, 2000–2016</title>
@@ -1424,9 +1473,10 @@
                 <persName ref="a:denich.e"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.kickstart" when="2016-02-24"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.erotica"/>
+                <catRef target="#tag.kickstart" when="2016-02-24"/>
+                <catRef target="#tag.owned" from="2017-02-21"/>
                 <date when="2016"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
