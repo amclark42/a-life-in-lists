@@ -19,6 +19,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-04-03">Added <att>evidence</att> to all gender elements.
           Default is "conjecture." There weren't many I was comfortable claiming as
@@ -30,8 +31,8 @@
     <body>
       <listPerson>
         <head>List of Authors and Contributors</head>
-        
         <!--
+        
         <person xml:id="">
           <persName>
             <forename></forename>
@@ -39,6 +40,39 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        
+        <person xml:id="baym.n">
+          <persName>
+            <forename>Nina</forename>
+            <surname>Baym</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ward.c">
+          <persName>
+            <forename>Christian</forename>
+            <surname>Ward</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="eliopoul.c">
+          <persName>
+            <forename>Chris</forename>
+            <surname>Eliopoulos</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hinton.y">
+          <persName>
+            <forename>Yoshito</forename>
+            <surname>Hinton</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+
         <person xml:id="sabo.b">
           <persName>
             <forename>B.</forename>
@@ -46,11 +80,13 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="scary-t">
           <persName>
             <name>Scary-T</name>
           </persName>
         </person>
+
         <person xml:id="heikkilä.n">
           <persName>
             <forename>Noora</forename>
@@ -58,6 +94,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="blackman.a">
           <persName>
             <forename>Abigail</forename>
@@ -65,6 +102,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="flanagan.w">
           <persName>
             <forename>William</forename>
@@ -72,6 +110,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bloom.i">
           <persName>
             <forename>Ivana</forename>
@@ -79,6 +118,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="tanaka.s">
           <persName>
             <forename>Suzuki</forename>
@@ -86,6 +126,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="casey.j">
           <persName>
             <forename>Jane</forename>
@@ -93,6 +134,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="muth.jj">
           <persName>
             <forename>Jon J.</forename>
@@ -100,12 +142,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wegmülle.a">
           <persName>
             <forename>Akemi</forename>
             <surname>Wegmüller</surname>
           </persName>
         </person>
+
         <person xml:id="zdarsky.c">
           <persName>
             <forename>Chip</forename>
@@ -113,6 +157,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fraction.m">
           <persName>
             <forename>Matt</forename>
@@ -120,6 +165,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="prince.l">
           <persName>
             <forename>Liz</forename>
@@ -127,6 +173,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="rhys.j">
           <persName>
             <forename>Jean</forename>
@@ -134,6 +181,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="wyndham.f">
           <persName>
             <forename>Francis</forename>
@@ -141,6 +189,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="slott.d">
           <persName>
             <forename>Dan</forename>
@@ -148,6 +197,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="stevenso.n">
           <persName>
             <forename>Noelle</forename>
@@ -155,6 +205,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="ellis.g">
           <persName>
             <forename>Grace</forename>
@@ -162,6 +213,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="allen.b">
           <persName>
             <forename>Brooke</forename>
@@ -169,6 +221,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="laiho.m">
           <persName>
             <forename>Maarta</forename>
@@ -176,6 +229,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="aiese.a">
           <persName>
             <forename>Aubrey</forename>
@@ -183,6 +237,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="kibuishi.ak">
           <persName>
             <forename>Amy Kim</forename>
@@ -190,6 +245,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="wu.ag">
           <persName>
             <forename>Anthony Go</forename>
@@ -197,6 +253,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="caffoe.j">
           <persName>
             <forename>Jason</forename>
@@ -204,6 +261,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="roman.d">
           <persName>
             <forename>Dave</forename>
@@ -211,6 +269,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="clark.an">
           <persName>
             <forename>Anthony</forename>
@@ -218,6 +277,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="powell.j">
           <persName>
             <forename>Jeff</forename>
@@ -225,12 +285,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="black.l">
           <persName>
             <forename>Lee</forename>
             <surname>Black</surname>
           </persName>
         </person>
+
         <person xml:id="fletcher.b">
           <persName>
             <forename>Brenden</forename>
@@ -238,6 +300,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="chen.mh">
           <persName>
             <forename>Mingjue Helen</forename>
@@ -245,11 +308,13 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="msassyk">
           <persName>
             <name>Msassyk</name>
           </persName>
         </person>
+
         <person xml:id="lapointe.s">
           <persName>
             <forename>Serge</forename>
@@ -257,6 +322,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wands.s">
           <persName>
             <forename>Steve</forename>
@@ -264,6 +330,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="patrizio.m">
           <persName>
             <forename>Marilyn</forename>
@@ -271,6 +338,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="beatty.s">
           <persName>
             <forename>Scott</forename>
@@ -278,6 +346,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pulido.j">
           <persName>
             <forename>Javier</forename>
@@ -285,6 +354,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="martin.m">
           <persName>
             <forename>Marcos</forename>
@@ -292,6 +362,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="campanel.r">
           <persName>
             <forename>Robert</forename>
@@ -299,6 +370,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lopez.a">
           <persName>
             <forename>Alvaro</forename>
@@ -306,6 +378,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="loughrid.l">
           <persName>
             <forename>Lee</forename>
@@ -313,6 +386,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rodrigue.j">
           <persName>
             <forename>Javier</forename>
@@ -320,6 +394,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="konot.s">
           <persName>
             <forename>Sean</forename>
@@ -327,6 +402,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="schubert.w">
           <persName>
             <forename>Willie</forename>
@@ -334,71 +410,83 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wells.k">
           <persName>
             <forename>Kendra</forename>
             <surname>Wells</surname>
           </persName>
         </person>
+
         <person xml:id="petruzzo.l">
           <persName>
             <forename>Liza</forename>
             <surname>Petruzzo</surname>
           </persName>
         </person>
+
         <person xml:id="woodcock.r">
           <persName>
             <forename>Rowan</forename>
             <surname>Woodcock</surname>
           </persName>
         </person>
+
         <person xml:id="broadfoo.l">
           <persName>
             <forename>Lenny</forename>
             <surname>Broadfoot</surname>
           </persName>
         </person>
+
         <person xml:id="searle.sw">
           <persName>
             <forename>S.W.</forename>
             <surname>Searle</surname>
           </persName>
         </person>
+
         <person xml:id="wilcox.ja">
           <persName>
             <forename>John A.</forename>
             <surname>Wilcox</surname>
           </persName>
         </person>
+
         <person xml:id="munroe.a">
           <persName>
             <forename>Arie</forename>
             <surname>Munroe</surname>
           </persName>
         </person>
+
         <person xml:id="leth.k">
           <persName>
             <forename>Kate</forename>
             <surname>Leth</surname>
           </persName>
         </person>
+
         <person xml:id="anderson.jl">
           <persName>
             <forename>Jennifer L.</forename>
             <surname>Anderson</surname>
           </persName>
         </person>
+
         <person xml:id="hathaway.g">
           <persName>
             <forename>Gilly</forename>
             <surname>Hathaway</surname>
           </persName>
         </person>
+
         <person xml:id="ghostgre">
           <persName>
             <name>ghostgreen</name>
           </persName>
         </person>
+
         <person xml:id="gedris.mr">
           <persName>
             <forename>Megan Rose</forename>
@@ -406,375 +494,439 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="scarboro.d">
           <persName>
             <forename>Dean</forename>
             <surname>Scarborough</surname>
           </persName>
         </person>
+
         <person xml:id="jujunghe">
           <persName>
             <name>Jujunghe</name>
           </persName>
         </person>
+
         <person xml:id="om">
           <persName>
             <name>OM</name>
           </persName>
         </person>
+
         <person xml:id="lab">
           <persName>
             <name>LAB</name>
           </persName>
         </person>
+
         <person xml:id="kiely.m">
           <persName>
             <forename>Molly</forename>
             <surname>Kiely</surname>
           </persName>
         </person>
+
         <person xml:id="cooper.t">
           <persName>
             <forename>Trudy</forename>
             <surname>Cooper</surname>
           </persName>
         </person>
+
         <person xml:id="lafrenai.a">
           <persName>
             <forename>Amanda</forename>
             <surname>Lafrenais</surname>
           </persName>
         </person>
+
         <person xml:id="lorenz.t">
           <persName>
             <forename>Theo</forename>
             <surname>Lorenz</surname>
           </persName>
         </person>
+
         <person xml:id="lark.a">
           <persName>
             <forename>Abby</forename>
             <surname>Lark</surname>
           </persName>
         </person>
+
         <person xml:id="blauerso.l">
           <persName>
             <forename>Lee</forename>
             <surname>Blauersouth</surname>
           </persName>
         </person>
+
         <person xml:id="jones.p">
           <persName>
             <forename>Pupcake</forename>
             <surname>Jones</surname>
           </persName>
         </person>
+
         <person xml:id="frier.n">
           <persName>
             <forename>Nechama</forename>
             <surname>Frier</surname>
           </persName>
         </person>
+
         <person xml:id="fink.j">
           <persName>
             <forename>Jess</forename>
             <surname>Fink</surname>
           </persName>
         </person>
+
         <person xml:id="mcdanger.k">
           <persName>
             <forename>Karate</forename>
             <surname>McDanger</surname>
           </persName>
         </person>
+
         <person xml:id="dechanique">
           <persName>
             <name>Dechanique</name>
           </persName>
         </person>
+
         <person xml:id="hunt.a">
           <persName>
             <forename>Alicia</forename>
             <surname>Hunt</surname>
           </persName>
         </person>
+
         <person xml:id="ambrosia">
           <persName>
             <name>Ambrosia</name>
           </persName>
         </person>
+
         <person xml:id="white.b">
           <persName>
             <forename>B.</forename>
             <surname>White</surname>
           </persName>
         </person>
+
         <person xml:id="fox.a">
           <persName>
             <forename>Alicia</forename>
             <surname>Fox</surname>
           </persName>
         </person>
+
         <person xml:id="currey.el">
           <persName>
             <forename>Erica Leigh</forename>
             <surname>Currey</surname>
           </persName>
         </person>
+
         <person xml:id="horton.s">
           <persName>
             <forename>Steve</forename>
             <surname>Horton</surname>
           </persName>
         </person>
+
         <person xml:id="hes.s">
           <persName>
             <forename>Shari</forename>
             <surname>Hes</surname>
           </persName>
         </person>
+
         <person xml:id="porter.m">
           <persName>
             <forename>Magnolia</forename>
             <surname>Porter</surname>
           </persName>
         </person>
+
         <person xml:id="doyle.j">
           <persName>
             <forename>Jennifer</forename>
             <surname>Doyle</surname>
           </persName>
         </person>
+
         <person xml:id="wood.u">
           <persName>
             <forename>Ursula</forename>
             <surname>Wood</surname>
           </persName>
         </person>
+
         <person xml:id="argets">
           <persName>
             <name>Argets</name>
           </persName>
         </person>
+
         <person xml:id="dwam">
           <persName>
             <name>Dwam</name>
           </persName>
         </person>
+
         <person xml:id="algesiras">
           <persName>
             <name>Algesiras</name>
           </persName>
         </person>
+
         <person xml:id="moen.e">
           <persName>
             <forename>Erika</forename>
             <surname>Moen</surname>
           </persName>
         </person>
+
         <person xml:id="kingsley.r">
           <persName>
             <forename>Rennie</forename>
             <surname>Kingsley</surname>
           </persName>
         </person>
+
         <person xml:id="riley.b">
           <persName>
             <forename>Ben</forename>
             <surname>Riley</surname>
           </persName>
         </person>
+
         <person xml:id="doe.bj">
           <persName>
             <forename>Betty Jean</forename>
             <surname>Doe</surname>
           </persName>
         </person>
+
         <person xml:id="mrdarcy">
           <persName>
             <name>Mr. Darcy</name>
           </persName>
         </person>
+
         <person xml:id="magdalen.m">
           <persName>
             <forename>M.</forename>
             <surname>Magdalene</surname>
           </persName>
         </person>
+
         <person xml:id="basie.e">
           <persName>
             <forename>Erin</forename>
             <surname>Basie</surname>
           </persName>
         </person>
+
         <person xml:id="furesz.m">
           <persName>
             <forename>Megan</forename>
             <surname>Furesz</surname>
           </persName>
         </person>
+
         <person xml:id="ruby.r">
           <persName>
             <forename>Rebecca</forename>
             <surname>Ruby</surname>
           </persName>
         </person>
+
         <person xml:id="carlson.jd">
           <persName>
             <forename>Joanna Draper</forename>
             <surname>Carlson</surname>
           </persName>
         </person>
+
         <person xml:id="sebastia.th">
           <persName>
             <forename>Trisha H.</forename>
             <surname>Sebastian</surname>
           </persName>
         </person>
+
         <person xml:id="copeland.k">
           <persName>
             <forename>K.</forename>
             <surname>Copeland</surname>
           </persName>
         </person>
+
         <person xml:id="stiffler.a">
           <persName>
             <forename>A.</forename>
             <surname>Stiffler</surname>
           </persName>
         </person>
+
         <person xml:id="weathing.l">
           <persName>
             <forename>Leia</forename>
             <surname>Weathington</surname>
           </persName>
         </person>
+
         <person xml:id="visel.l">
           <persName>
             <forename>Lin</forename>
             <surname>Visel</surname>
           </persName>
         </person>
+
         <person xml:id="wilgus.a">
           <persName>
             <forename>Alison</forename>
             <surname>Wilgus</surname>
           </persName>
         </person>
+
         <person xml:id="espinosa.a">
           <persName>
             <forename>Anissa</forename>
             <surname>Espinosa</surname>
           </persName>
         </person>
+
         <person xml:id="handwerk.km">
           <persName>
             <forename>Kori Michele</forename>
             <surname>Handwerker</surname>
           </persName>
         </person>
+
         <person xml:id="edwards.d">
           <persName>
             <forename>Dylan</forename>
             <surname>Edwards</surname>
           </persName>
         </person>
+
         <person xml:id="martins.aj">
           <persName>
             <forename>April J.</forename>
             <surname>Martins</surname>
           </persName>
         </person>
+
         <person xml:id="horrocks.s">
           <persName>
             <forename>Savannah</forename>
             <surname>Horrocks</surname>
           </persName>
         </person>
+
         <person xml:id="thomas.b">
           <persName>
             <forename>Bevan</forename>
             <surname>Thomas</surname>
           </persName>
         </person>
+
         <person xml:id="ebenstei.k">
           <persName>
             <forename>Kate</forename>
             <surname>Ebensteiner</surname>
           </persName>
         </person>
+
         <person xml:id="cairns.j">
           <persName>
             <forename>Jon</forename>
             <surname>Cairns</surname>
           </persName>
         </person>
+
         <person xml:id="hughes.k">
           <persName>
             <forename>Kiku</forename>
             <surname>Hughes</surname>
           </persName>
         </person>
+
         <person xml:id="khor.sy">
           <persName>
             <forename>Shing Yin</forename>
             <surname>Khor</surname>
           </persName>
         </person>
+
         <person xml:id="delliqua.b">
           <persName>
             <forename>Blue</forename>
             <surname>Delliquanti</surname>
           </persName>
         </person>
+
         <person xml:id="maclean.wm">
           <persName>
             <forename>Wm Brian</forename>
             <surname>MacLean</surname>
           </persName>
         </person>
+
         <person xml:id="closson.t">
           <persName>
             <forename>Ted</forename>
             <surname>Closson</surname>
           </persName>
         </person>
+
         <person xml:id="goudreau.c">
           <persName>
             <forename>Christianne</forename>
             <surname>Goudreau</surname>
           </persName>
         </person>
+
         <person xml:id="black.r">
           <persName>
             <forename>Reed</forename>
             <surname>Black</surname>
           </persName>
         </person>
+
         <person xml:id="smith.n">
           <persName>
             <forename>Niki</forename>
             <surname>Smith</surname>
           </persName>
         </person>
+
         <person xml:id="dukes.r">
           <persName>
             <forename>Rachel</forename>
             <surname>Dukes</surname>
           </persName>
         </person>
+
         <person xml:id="reed.g">
           <persName>
             <forename>Gabby</forename>
             <surname>Reed</surname>
           </persName>
         </person>
+
         <person xml:id="stotts.t">
           <persName>
             <forename>Taneka</forename>
             <surname>Stotts</surname>
           </persName>
         </person>
+
         <person xml:id="kelly.r">
           <persName>
             <forename>Ryan</forename>
@@ -782,6 +934,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ormston.d">
           <persName>
             <forename>Dean</forename>
@@ -789,6 +942,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hampton.s">
           <persName>
             <forename>Scott</forename>
@@ -796,6 +950,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="weston.c">
           <persName>
             <forename>Chris</forename>
@@ -803,6 +958,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hodgkins.j">
           <persName>
             <forename>James</forename>
@@ -810,6 +966,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pleece.w">
           <persName>
             <forename>Warren</forename>
@@ -817,6 +974,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="deville.e">
           <persName>
             <forename>Ellie</forename>
@@ -824,6 +982,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="stephens.f">
           <persName>
             <forename>Fiona</forename>
@@ -831,6 +990,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="vozzo.d">
           <persName>
             <forename>Daniel</forename>
@@ -838,6 +998,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="vancook.m">
           <persName>
             <forename>Marguerite</forename>
@@ -845,6 +1006,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="duggan.g">
           <persName>
             <forename>Gerry</forename>
@@ -852,6 +1014,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="posehn.b">
           <persName>
             <forename>Brian</forename>
@@ -859,6 +1022,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moore.to">
           <persName>
             <forename>Tony</forename>
@@ -866,6 +1030,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="staples.v">
           <persName>
             <forename>Val</forename>
@@ -873,6 +1038,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nugent.a">
           <persName>
             <forename>Alida</forename>
@@ -880,6 +1046,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="workman.j">
           <persName>
             <forename>John</forename>
@@ -887,6 +1054,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mudron.b">
           <persName>
             <forename>Bill</forename>
@@ -894,6 +1062,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="manleyle.j">
           <persName>
             <forename>Jenn</forename>
@@ -901,6 +1070,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="scott.m">
           <persName>
             <forename>Melissa</forename>
@@ -908,6 +1078,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="robinson.k">
           <persName>
             <forename>Kate</forename>
@@ -915,6 +1086,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="rosewood.m">
           <persName>
             <forename>Maya</forename>
@@ -922,6 +1094,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="watsuki.n">
           <persName>
             <forename>Nobuhiro</forename>
@@ -929,6 +1102,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="campbell.s">
           <persName>
             <forename>Sophie</forename>
@@ -936,12 +1110,14 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="watson.e">
           <persName>
             <forename>Erin</forename>
             <surname>Watson</surname>
           </persName>
         </person>
+
         <person xml:id="stephens.n">
           <persName>
             <forename>Neal</forename>
@@ -949,6 +1125,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="keatinge.j">
           <persName>
             <forename>Joe</forename>
@@ -956,6 +1133,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="duca.ld">
           <persName>
             <forename>Leila Del</forename>
@@ -963,6 +1141,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="gieni.o">
           <persName>
             <forename>Owen</forename>
@@ -970,6 +1149,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brisson.e">
           <persName>
             <forename>Ed</forename>
@@ -977,6 +1157,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="geovani.w">
           <persName>
             <forename>Walter</forename>
@@ -984,6 +1165,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lucas.a">
           <persName>
             <forename>Adriano</forename>
@@ -991,6 +1173,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bowland.s">
           <persName>
             <forename>Simon</forename>
@@ -998,6 +1181,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rybandt.j">
           <persName>
             <forename>Joseph</forename>
@@ -1005,6 +1189,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hicks.fe">
           <persName>
             <forename>Faith Erin</forename>
@@ -1012,6 +1197,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="richards.c">
           <persName>
             <forename>Cliff</forename>
@@ -1019,6 +1205,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lopez.d">
           <persName>
             <forename>David</forename>
@@ -1026,6 +1213,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="randall.r">
           <persName>
             <forename>Ron</forename>
@@ -1033,6 +1221,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="derenick.t">
           <persName>
             <forename>Tom</forename>
@@ -1040,6 +1229,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="jeanty.g">
           <persName>
             <forename>Georges</forename>
@@ -1047,6 +1237,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kerschl.k">
           <persName>
             <forename>Karl</forename>
@@ -1054,6 +1245,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="snyder.r">
           <persName>
             <forename>Ray</forename>
@@ -1061,11 +1253,13 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bit">
           <persName>
             <name>Bit</name>
           </persName>
         </person>
+
         <person xml:id="bair.m">
           <persName>
             <forename>Michael</forename>
@@ -1073,6 +1267,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="propst.m">
           <persName>
             <forename>Mark</forename>
@@ -1080,6 +1275,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="vines.d">
           <persName>
             <forename>Dexter</forename>
@@ -1087,6 +1283,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="petrecca.b">
           <persName>
             <forename>Bob</forename>
@@ -1094,11 +1291,13 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nelson">
           <persName>
             <name>Nelson</name>
           </persName>
         </person>
+
         <person xml:id="horie.r">
           <persName>
             <forename>Richard</forename>
@@ -1106,6 +1305,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="horie.t">
           <persName>
             <forename>Tanya</forename>
@@ -1113,6 +1313,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="heisler.m">
           <persName>
             <forename>Michael</forename>
@@ -1120,17 +1321,20 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gurihiru">
           <persName>
             <name>Gurihiru</name>
           </persName>
         </person>
+
         <person xml:id="horton.c">
           <persName>
             <forename>Chase</forename>
             <surname>Horton</surname>
           </persName>
         </person>
+
         <person xml:id="woods.k">
           <persName>
             <forename>Katherine</forename>
@@ -1138,6 +1342,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="blackbur.p">
           <persName>
             <forename>Paul</forename>
@@ -1145,6 +1350,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="tamaki.j">
           <persName>
             <forename>Jillian</forename>
@@ -1152,6 +1358,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="denich.e">
           <persName>
             <forename>Emilee</forename>
@@ -1159,6 +1366,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="fforde.j">
           <persName>
             <forename>Jasper</forename>
@@ -1166,6 +1374,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kushner.t">
           <persName>
             <forename>Tony</forename>
@@ -1173,6 +1382,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="phillips.s">
           <persName>
             <forename>Sean</forename>
@@ -1180,6 +1390,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="faustost.a">
           <persName>
             <forename>Anne</forename>
@@ -1187,6 +1398,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="bradley.mz">
           <persName>
             <forename>Marion</forename>
@@ -1195,6 +1407,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="brosh.a">
           <persName>
             <forename>Alexandra</forename>
@@ -1203,6 +1416,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="diffenba.v">
           <persName>
             <forename>Vanessa</forename>
@@ -1210,6 +1424,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="thompson.k">
           <persName>
             <forename>Kelly</forename>
@@ -1217,6 +1432,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="mcclaren.m">
           <persName>
             <forename>Meredith</forename>
@@ -1224,6 +1440,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lόpezalt.jk">
           <persName>
             <forename>J. Kenji</forename>
@@ -1231,6 +1448,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="schutz.d">
           <persName>
             <forename>Diana</forename>
@@ -1238,6 +1456,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nguyen.t">
           <persName>
             <forename>Tom</forename>
@@ -1245,6 +1464,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="milligan.p">
           <persName>
             <forename>Peter</forename>
@@ -1252,6 +1472,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="janin.m">
           <persName>
             <forename>Mikel</forename>
@@ -1259,6 +1480,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="arreola.u">
           <persName>
             <forename>Ulises</forename>
@@ -1266,6 +1488,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="leigh.r">
           <persName>
             <forename>Rob</forename>
@@ -1273,6 +1496,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hatke.b">
           <persName>
             <forename>Ben</forename>
@@ -1280,6 +1504,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cunniffe.d">
           <persName>
             <forename>Dee</forename>
@@ -1287,6 +1512,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="william.c">
           <persName>
             <forename>Chrissy</forename>
@@ -1294,6 +1520,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="aaron.j">
           <persName>
             <forename>Jason</forename>
@@ -1301,6 +1528,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="dauterma.r">
           <persName>
             <forename>Russell</forename>
@@ -1308,6 +1536,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="molina.j">
           <persName>
             <forename>Jorge</forename>
@@ -1315,6 +1544,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wilson.m">
           <persName>
             <forename>Matthew</forename>
@@ -1322,6 +1552,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sabino.j">
           <persName>
             <forename>Joe</forename>
@@ -1329,6 +1560,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="martin.f">
           <persName>
             <forename>Frank</forename>
@@ -1336,6 +1568,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moss.w">
           <persName>
             <forename>Wil</forename>
@@ -1343,6 +1576,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bray.l">
           <persName>
             <forename>Libba</forename>
@@ -1350,6 +1584,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="meno.j">
           <persName>
             <forename>Joe</forename>
@@ -1357,6 +1592,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brust.s">
           <persName>
             <forename>Steven</forename>
@@ -1364,6 +1600,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lutes.j">
           <persName>
             <forename>Jason</forename>
@@ -1371,6 +1608,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="busiek.k">
           <persName>
             <forename>Kurt</forename>
@@ -1378,6 +1616,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rucka.g">
           <persName>
             <surname>Rucka</surname>
@@ -1385,6 +1624,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hurtt.b">
           <persName>
             <forename>Brian</forename>
@@ -1392,6 +1632,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kerr.p">
           <persName>
             <forename>Peg</forename>
@@ -1399,6 +1640,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="grossman.a">
           <persName>
             <forename>Austin</forename>
@@ -1406,6 +1648,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cortázar.j">
           <persName>
             <forename>Julio</forename>
@@ -1413,6 +1656,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="silko.lm">
           <persName>
             <forename>Leslie Marmon</forename>
@@ -1420,6 +1664,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="kushner.e">
           <persName>
             <forename>Ellen</forename>
@@ -1427,6 +1672,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jones.t">
           <persName>
             <forename>Terry</forename>
@@ -1434,6 +1680,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="simmons.j">
           <persName>
             <forename>Josh</forename>
@@ -1441,6 +1688,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="morrison.g">
           <persName>
             <forename>Grant</forename>
@@ -1448,6 +1696,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lee.l">
           <persName>
             <forename>Li-Young</forename>
@@ -1455,6 +1704,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moeller.c">
           <persName>
             <forename>Christopher</forename>
@@ -1462,6 +1712,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="obrien.t">
           <persName>
             <forename>Tim</forename>
@@ -1469,6 +1720,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rieber.jn">
           <persName>
             <forename>John Ney</forename>
@@ -1476,6 +1728,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="satrapi.m">
           <persName>
             <forename>Marjane</forename>
@@ -1483,6 +1736,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="bechdel.a">
           <persName>
             <forename>Alison</forename>
@@ -1490,6 +1744,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="grisham.j">
           <persName>
             <forename>John</forename>
@@ -1497,6 +1752,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kostova.e">
           <persName>
             <forename>Elizabeth</forename>
@@ -1504,6 +1760,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="bradbury.r">
           <persName>
             <forename>Ray</forename>
@@ -1511,6 +1768,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="eisner.w">
           <persName>
             <forename>Will</forename>
@@ -1518,6 +1776,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kibuishi.k">
           <persName>
             <forename>Kazu</forename>
@@ -1525,6 +1784,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="alvarez.j">
           <persName>
             <forename>Julia</forename>
@@ -1532,6 +1792,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="tezuka.o">
           <persName>
             <forename>Osamu</forename>
@@ -1539,6 +1800,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pratchet.t">
           <persName>
             <forename>Terry</forename>
@@ -1546,6 +1808,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sanderso.b">
           <persName>
             <forename>Brandon</forename>
@@ -1553,6 +1816,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="farmer.n">
           <persName>
             <forename>Nancy</forename>
@@ -1560,6 +1824,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lightman.a">
           <persName>
             <forename>Alan</forename>
@@ -1567,6 +1832,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="marz.r">
           <persName>
             <forename>Ron</forename>
@@ -1574,6 +1840,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="goyer.d">
           <persName>
             <forename>David</forename>
@@ -1581,6 +1848,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="johns.g">
           <persName>
             <forename>Geoff</forename>
@@ -1588,6 +1856,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moore.c">
           <persName>
             <forename>Christopher</forename>
@@ -1595,6 +1864,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bloor.e">
           <persName>
             <forename>Edward</forename>
@@ -1602,6 +1872,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lengle.m">
           <persName>
             <forename>Madeline</forename>
@@ -1609,6 +1880,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="medley.l">
           <persName>
             <forename>Linda</forename>
@@ -1616,6 +1888,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="black.h">
           <persName>
             <forename>Holly</forename>
@@ -1623,6 +1896,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="velde.vv">
           <persName>
             <forename>Vivian Vande</forename>
@@ -1630,6 +1904,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="stoker.b">
           <persName>
             <forename>Bram</forename>
@@ -1637,6 +1912,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="aspirin.r">
           <persName>
             <forename>Robert</forename>
@@ -1644,6 +1920,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="foglio.p">
           <persName>
             <forename>Phil</forename>
@@ -1651,6 +1928,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="snyder.m">
           <persName>
             <forename>Maria</forename>
@@ -1658,6 +1936,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nightow.y">
           <persName>
             <forename>Yasuhiro</forename>
@@ -1665,6 +1944,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="waid.m">
           <persName>
             <forename>Mark</forename>
@@ -1672,6 +1952,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="giffen.k">
           <persName>
             <forename>Keith</forename>
@@ -1679,6 +1960,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="vaughan.b">
           <persName>
             <forename>Brian</forename>
@@ -1686,6 +1968,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="winterso.j">
           <persName>
             <forename>Jeanette</forename>
@@ -1693,6 +1976,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="edwards.k">
           <persName>
             <forename>Kim</forename>
@@ -1700,6 +1984,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="saintexu.a">
           <persName>
             <forename>Antoine de</forename>
@@ -1707,6 +1992,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="paulsen.g">
           <persName>
             <forename>Gary</forename>
@@ -1714,6 +2000,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="howe.n">
           <persName>
             <forename>Norma</forename>
@@ -1721,6 +2008,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="duane.d">
           <persName>
             <forename>Diane</forename>
@@ -1728,6 +2016,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="alighier.d">
           <persName>
             <forename>Dante</forename>
@@ -1735,6 +2024,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="jones.dw">
           <persName>
             <forename>Diana Wynne</forename>
@@ -1742,6 +2032,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="daly.m">
           <persName>
             <forename>Maureen</forename>
@@ -1749,6 +2040,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="steinbec.j">
           <persName>
             <forename>John</forename>
@@ -1756,6 +2048,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="card.os">
           <persName>
             <forename>Orson Scott</forename>
@@ -1763,6 +2056,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="blume.j">
           <persName>
             <forename>Judy</forename>
@@ -1770,6 +2064,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="alexande.l">
           <persName>
             <forename>Lloyd</forename>
@@ -1777,6 +2072,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="dessen.s">
           <persName>
             <forename>Sarah</forename>
@@ -1784,6 +2080,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="duras.m">
           <persName>
             <forename>Marguerite</forename>
@@ -1791,6 +2088,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="conrad.j">
           <persName>
             <forename>Joseph</forename>
@@ -1798,6 +2096,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="paolini.c">
           <persName>
             <forename>Christopher</forename>
@@ -1805,6 +2104,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="anderson.lh">
           <persName>
             <forename>Laurie Halse</forename>
@@ -1812,6 +2112,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lynch.c">
           <persName>
             <forename>Chris</forename>
@@ -1819,6 +2120,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nelson.b">
           <persName>
             <forename>Blake</forename>
@@ -1826,6 +2128,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="anderson.m">
           <persName>
             <forename>M.T.</forename>
@@ -1833,6 +2136,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brumberg.jj">
           <persName>
             <forename>Joan Jacobs</forename>
@@ -1840,6 +2144,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="porter.cr">
           <persName>
             <forename>Connie Rose</forename>
@@ -1847,6 +2152,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="garden.n">
           <persName>
             <forename>Nancy</forename>
@@ -1854,6 +2160,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="james.h">
           <persName>
             <forename>Henry</forename>
@@ -1861,6 +2168,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="peters.ja">
           <persName>
             <forename>Julie Anne</forename>
@@ -1868,6 +2176,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jacques.b">
           <persName>
             <forename>Brian</forename>
@@ -1875,6 +2184,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="chbosky.s">
           <persName>
             <forename>Steven</forename>
@@ -1882,6 +2192,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="carr.c">
           <persName>
             <forename>Caleb</forename>
@@ -1889,6 +2200,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ellis.w">
           <persName>
             <forename>Warren</forename>
@@ -1896,6 +2208,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="robertso.d">
           <persName>
             <forename>Darick</forename>
@@ -1903,6 +2216,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ramos.r">
           <persName>
             <forename>Rodney</forename>
@@ -1910,6 +2224,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="eyring.n">
           <persName>
             <forename>Nathan</forename>
@@ -1917,6 +2232,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moore.l">
           <persName>
             <forename>Lorrie</forename>
@@ -1924,6 +2240,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="monette.s">
           <persName>
             <forename>Sarah</forename>
@@ -1931,6 +2248,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="gaiman.n">
           <persName>
             <forename>Neil</forename>
@@ -1938,6 +2256,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="heinlein.r">
           <persName>
             <forename>Robert</forename>
@@ -1945,6 +2264,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sebold.a">
           <persName>
             <forename>Alice</forename>
@@ -1952,6 +2272,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jen.g">
           <persName>
             <forename>Gish</forename>
@@ -1959,6 +2280,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="endo.h">
           <persName>
             <forename>Hiroki</forename>
@@ -1966,6 +2288,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sakai.s">
           <persName>
             <forename>Stan</forename>
@@ -1973,6 +2296,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nix.g">
           <persName>
             <forename>Garth</forename>
@@ -1980,6 +2304,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rushdie.s">
           <persName>
             <forename>Salman</forename>
@@ -1987,6 +2312,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hidier.td">
           <persName>
             <forename>Tanuja Desai</forename>
@@ -1994,6 +2320,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="tolkien.jrr">
           <persName>
             <forename>J.R.R.</forename>
@@ -2001,6 +2328,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mosse.k">
           <persName>
             <forename>Kate</forename>
@@ -2008,6 +2336,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nakazawa.k">
           <persName>
             <forename>Keiji</forename>
@@ -2015,6 +2344,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="samura.h">
           <persName>
             <forename>Hiroaki</forename>
@@ -2022,6 +2352,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="miller.k">
           <persName>
             <forename>Karen</forename>
@@ -2029,6 +2360,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="kramer.ef">
           <persName>
             <forename>Edward F.</forename>
@@ -2036,6 +2368,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pierce.t">
           <persName>
             <forename>Tamora</forename>
@@ -2043,6 +2376,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="dunant.s">
           <persName>
             <forename>Sarah</forename>
@@ -2050,6 +2384,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="dezago.t">
           <persName>
             <forename>Todd</forename>
@@ -2057,6 +2392,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ramos.h">
           <persName>
             <forename>Humberto</forename>
@@ -2064,6 +2400,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="myers.wd">
           <persName>
             <forename>Walter Dean</forename>
@@ -2071,6 +2408,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="takaya.n">
           <persName>
             <forename>Natsuki</forename>
@@ -2078,6 +2416,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="koontz.d">
           <persName>
             <forename>Dean</forename>
@@ -2085,6 +2424,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="minekura.k">
           <persName>
             <forename>Kazuya</forename>
@@ -2092,6 +2432,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="arakawa.h">
           <persName>
             <forename>Hiromu</forename>
@@ -2099,6 +2440,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lahiri.j">
           <persName>
             <forename>Jhumpa</forename>
@@ -2106,6 +2448,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="arai.k">
           <persName>
             <forename>Kiyoko</forename>
@@ -2113,6 +2456,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="wagner.m">
           <persName>
             <forename>Matt</forename>
@@ -2120,6 +2464,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="reeder.a">
           <persName>
             <forename>Amy</forename>
@@ -2127,6 +2472,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="yolen.j">
           <persName>
             <forename>Jane</forename>
@@ -2134,6 +2480,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="eggers.d">
           <persName>
             <forename>Dave</forename>
@@ -2141,6 +2488,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="akamatsu.k">
           <persName>
             <forename>Ken</forename>
@@ -2148,6 +2496,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="schell.j">
           <persName>
             <forename>Jesse</forename>
@@ -2155,6 +2504,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pini.w">
           <persName>
             <forename>Wendy</forename>
@@ -2162,6 +2512,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="pini.r">
           <persName>
             <forename>Richard</forename>
@@ -2169,6 +2520,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="whedon.j">
           <persName>
             <forename>Joss</forename>
@@ -2176,6 +2528,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="willingh.b">
           <persName>
             <forename>Bill</forename>
@@ -2183,6 +2536,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="buckingh.m">
           <persName>
             <forename>Mark</forename>
@@ -2190,6 +2544,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="warren.a">
           <persName>
             <forename>Adam</forename>
@@ -2197,6 +2552,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="winick.j">
           <persName>
             <forename>Judd</forename>
@@ -2204,6 +2560,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brooks.m">
           <persName>
             <forename>Max</forename>
@@ -2211,6 +2568,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="espinosa.r">
           <persName>
             <forename>Rod</forename>
@@ -2218,6 +2576,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="tanemura.a">
           <persName>
             <forename>Arina</forename>
@@ -2225,6 +2584,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="zafόn.cr">
           <persName>
             <forename>Carlos Ruiz</forename>
@@ -2232,6 +2592,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="dixon.c">
           <persName>
             <forename>Chuck</forename>
@@ -2239,6 +2600,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="tsutsui.y">
           <persName>
             <forename>Yasutaka</forename>
@@ -2246,6 +2608,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="tsugano.g">
           <persName>
             <forename>Gaku</forename>
@@ -2253,6 +2616,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="flewelli.l">
           <persName>
             <forename>Lynn</forename>
@@ -2260,6 +2624,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="clevinge.b">
           <persName>
             <forename>Brian</forename>
@@ -2267,6 +2632,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wegener.s">
           <persName>
             <forename>Scott</forename>
@@ -2274,6 +2640,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="slater.l">
           <persName>
             <forename>Lauren</forename>
@@ -2281,6 +2648,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mazzucch.d">
           <persName>
             <forename>David</forename>
@@ -2288,6 +2656,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="haley.a">
           <persName>
             <forename>Alex</forename>
@@ -2295,6 +2664,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="x.m">
           <persName>
             <forename>Malcolm</forename>
@@ -2302,6 +2672,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fox.g">
           <persName>
             <forename>Gardner</forename>
@@ -2309,6 +2680,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="talbot.b">
           <persName>
             <forename>Brian</forename>
@@ -2316,6 +2688,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="merback.m">
           <persName>
             <forename>Mitchell</forename>
@@ -2323,6 +2696,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="boyer.ps">
           <persName>
             <forename>Paul S.</forename>
@@ -2330,6 +2704,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nissenba.s">
           <persName>
             <forename>Stephen</forename>
@@ -2337,6 +2712,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kurtz.s">
           <persName>
             <forename>Scott</forename>
@@ -2344,6 +2720,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kellett.d">
           <persName>
             <forename>Dave</forename>
@@ -2351,6 +2728,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="guigar.b">
           <persName>
             <forename>Brad</forename>
@@ -2358,6 +2736,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="straub.k">
           <persName>
             <forename>Kristopher</forename>
@@ -2365,6 +2744,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="spiegalm.a">
           <persName>
             <forename>Art</forename>
@@ -2372,6 +2752,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moore.a">
           <persName>
             <forename>Alan</forename>
@@ -2379,6 +2760,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="arendt.h">
           <persName>
             <forename>Hannah</forename>
@@ -2386,6 +2768,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="harrison.k">
           <persName>
             <forename>Kathryn</forename>
@@ -2393,6 +2776,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="walker.lq">
           <persName>
             <forename>Landry Q.</forename>
@@ -2400,6 +2784,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="jones.e">
           <persName>
             <forename>Eric</forename>
@@ -2407,6 +2792,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="shanower.e">
           <persName>
             <forename>Eric</forename>
@@ -2414,6 +2800,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="young.s">
           <persName>
             <forename>Scottie</forename>
@@ -2421,6 +2808,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="baum.lf">
           <persName>
             <forename>L. Frank</forename>
@@ -2428,6 +2816,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="seagle.st">
           <persName>
             <forename>Steven T.</forename>
@@ -2435,6 +2824,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cinello.m">
           <persName>
             <forename>Marco</forename>
@@ -2442,6 +2832,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fingerma.b">
           <persName>
             <forename>Bob</forename>
@@ -2449,6 +2840,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="agee.j">
           <persName>
             <forename>James</forename>
@@ -2456,6 +2848,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="evans.w">
           <persName>
             <forename>Walker</forename>
@@ -2463,6 +2856,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kelly.j">
           <persName>
             <forename>Joe</forename>
@@ -2470,6 +2864,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="niimura.jmk">
           <persName>
             <forename>J.M. Ken</forename>
@@ -2477,6 +2872,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="groening.m">
           <persName>
             <forename>Matt</forename>
@@ -2484,6 +2880,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lloyd.j">
           <persName>
             <forename>James</forename>
@@ -2491,6 +2888,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="miller.a">
           <persName>
             <forename>Arthur</forename>
@@ -2498,6 +2896,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="omalley.bl">
           <persName>
             <forename>Bryan Lee</forename>
@@ -2505,6 +2904,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rinaldi.a">
           <persName>
             <forename>Ann</forename>
@@ -2512,6 +2912,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jones.j">
           <persName>
             <forename>Jaida</forename>
@@ -2519,6 +2920,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="bennett.d">
           <persName>
             <forename>Danielle</forename>
@@ -2526,6 +2928,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="pullman.p">
           <persName>
             <forename>Philip</forename>
@@ -2533,6 +2936,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="comeau.j">
           <persName>
             <forename>Joey</forename>
@@ -2540,6 +2944,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="martin.grr">
           <persName>
             <forename>George R.R.</forename>
@@ -2547,6 +2952,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="takada.r">
           <persName>
             <forename>Rie</forename>
@@ -2554,6 +2960,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="inoue.k">
           <persName>
             <forename>Kazurou</forename>
@@ -2561,6 +2968,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="neville.k">
           <persName>
             <forename>Katherine</forename>
@@ -2568,6 +2976,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nakajo.h">
           <persName>
             <forename>Hisaya</forename>
@@ -2575,6 +2984,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mckinley.r">
           <persName>
             <forename>Robin</forename>
@@ -2582,6 +2992,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="king.s">
           <persName>
             <forename>Stephen</forename>
@@ -2589,6 +3000,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="whedon.z">
           <persName>
             <forename>Zack</forename>
@@ -2596,6 +3008,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="samnee.c">
           <persName>
             <forename>Chris</forename>
@@ -2603,6 +3016,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="stewart.d">
           <persName>
             <forename>Dave</forename>
@@ -2610,6 +3024,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="morris.s">
           <persName>
             <forename>Steve</forename>
@@ -2617,6 +3032,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="north.r">
           <persName>
             <forename>Ryan</forename>
@@ -2624,6 +3040,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="malki.d">
           <persName>
             <forename>David</forename>
@@ -2631,6 +3048,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bennardo.m">
           <persName>
             <forename>Matthew</forename>
@@ -2638,6 +3056,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bender.a">
           <persName>
             <forename>Aimee</forename>
@@ -2645,6 +3064,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="rothfuss.p">
           <persName>
             <forename>Patrick</forename>
@@ -2652,6 +3072,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="green.m">
           <persName>
             <forename>Michael</forename>
@@ -2659,6 +3080,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="johnson.m">
           <persName>
             <forename>Mike</forename>
@@ -2666,6 +3088,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="morales.r">
           <persName>
             <forename>Rags</forename>
@@ -2673,6 +3096,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="albuquer.r">
           <persName>
             <forename>Rafael</forename>
@@ -2680,6 +3104,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fried.r">
           <persName>
             <forename>Richard</forename>
@@ -2687,6 +3112,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="chiang.t">
           <persName>
             <forename>Ted</forename>
@@ -2694,6 +3120,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="simone.g">
           <persName>
             <forename>Gail</forename>
@@ -2701,6 +3128,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="butler.oe">
           <persName>
             <forename>Octavia</forename>
@@ -2708,6 +3136,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="dahm.e">
           <persName>
             <forename>Evan</forename>
@@ -2715,6 +3144,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="higuchi.t">
           <persName>
             <forename>Tachibana</forename>
@@ -2722,6 +3152,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="loeb.j">
           <persName>
             <forename>Jeph</forename>
@@ -2729,6 +3160,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="millar.m">
           <persName>
             <forename>Mark</forename>
@@ -2736,6 +3168,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="carey.m">
           <persName>
             <forename>Mike</forename>
@@ -2743,6 +3176,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cowell.c">
           <persName>
             <forename>Cressida</forename>
@@ -2750,6 +3184,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="harvey.r">
           <persName>
             <forename>Ross</forename>
@@ -2757,6 +3192,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="potter.j">
           <persName>
             <forename>Jeff</forename>
@@ -2764,6 +3200,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="castellu.c">
           <persName>
             <forename>Cecil</forename>
@@ -2771,6 +3208,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="rugg.j">
           <persName>
             <forename>Jim</forename>
@@ -2778,6 +3216,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kleguin.u">
           <persName>
             <forename>Ursula</forename>
@@ -2785,6 +3224,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="oswalt.p">
           <persName>
             <forename>Patton</forename>
@@ -2792,6 +3232,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mckillip.p">
           <persName>
             <forename>Patricia</forename>
@@ -2799,6 +3240,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="sfar.j">
           <persName>
             <forename>Joann</forename>
@@ -2806,6 +3248,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="robinson.ks">
           <persName>
             <forename>Kim Stanley</forename>
@@ -2813,6 +3256,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="turner.j">
           <persName>
             <forename>James</forename>
@@ -2820,6 +3264,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="canete.e">
           <persName>
             <forename>Eric</forename>
@@ -2827,6 +3272,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="dalrympl.f">
           <persName>
             <forename>Farel</forename>
@@ -2834,6 +3280,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hepburn.s">
           <persName>
             <forename>Scott</forename>
@@ -2841,18 +3288,21 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="takami.k">
           <persName>
             <forename>Koushun</forename>
             <surname>Takami</surname>
           </persName>
         </person>
+
         <person xml:id="taguchi.m">
           <persName>
             <forename>Masayuki</forename>
             <surname>Taguchi</surname>
           </persName>
         </person>
+
         <person xml:id="morrison.t">
           <persName>
             <forename>Toni</forename>
@@ -2860,6 +3310,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="clarke.s">
           <persName>
             <forename>Susanna</forename>
@@ -2867,6 +3318,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="rogers.j">
           <persName>
             <forename>John</forename>
@@ -2874,6 +3326,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="layman.j">
           <persName>
             <forename>John</forename>
@@ -2881,6 +3334,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="guillory.r">
           <persName>
             <forename>Rob</forename>
@@ -2888,6 +3342,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="byrnes.j">
           <persName>
             <forename>John</forename>
@@ -2895,6 +3350,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="avi">
           <persName>
             <addName type="pseudonym">Avi</addName>
@@ -2903,6 +3359,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="floca.b">
           <persName>
             <forename>Brian</forename>
@@ -2910,6 +3367,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hobb.r">
           <persName>
             <forename>Robin</forename>
@@ -2917,6 +3375,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="gibbons.d">
           <persName>
             <forename>Dave</forename>
@@ -2924,6 +3383,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pérez.g">
           <persName>
             <forename>George</forename>
@@ -2931,6 +3391,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="priest.c">
           <persName>
             <forename>Cherie</forename>
@@ -2938,6 +3399,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lee.t">
           <persName>
             <forename>Tony</forename>
@@ -2945,6 +3407,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="collins.s">
           <persName>
             <forename>Suzanne</forename>
@@ -2952,12 +3415,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="nicieza.f">
           <persName>
             <forename>Fabian</forename>
             <surname>Nicieza</surname>
           </persName>
         </person>
+
         <person xml:id="brown.r">
           <persName>
             <forename>Reilly</forename>
@@ -2965,6 +3430,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rawn.m">
           <persName>
             <forename>Melanie</forename>
@@ -2972,6 +3438,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="petersen.d">
           <persName>
             <forename>David</forename>
@@ -2979,6 +3446,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="latham.r">
           <persName>
             <forename>Richard</forename>
@@ -2986,6 +3454,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sturges.m">
           <persName>
             <forename>Matthew</forename>
@@ -2993,6 +3462,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pfeifer.w">
           <persName>
             <forename>Will</forename>
@@ -3000,6 +3470,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cooke.d">
           <persName>
             <forename>Darwyn</forename>
@@ -3007,6 +3478,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="langridg.r">
           <persName>
             <forename>Roger</forename>
@@ -3014,6 +3486,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hines.jc">
           <persName>
             <forename>Jim C.</forename>
@@ -3021,6 +3494,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="garrity.sk">
           <persName>
             <forename>Shaenon K.</forename>
@@ -3028,6 +3502,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="boothby.i">
           <persName>
             <forename>Ian</forename>
@@ -3035,6 +3510,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="raicht.m">
           <persName>
             <forename>Mike</forename>
@@ -3042,6 +3518,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="smith.b">
           <persName>
             <forename>Brian</forename>
@@ -3049,6 +3526,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wilson.cp">
           <persName>
             <forename>Charles Paul</forename>
@@ -3056,12 +3534,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="amano.k">
           <persName>
             <forename>Kozue</forename>
             <surname>Amano</surname>
           </persName>
         </person>
+
         <person xml:id="beaton.k">
           <persName>
             <forename>Kate</forename>
@@ -3069,6 +3549,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="thompson.c">
           <persName>
             <forename>Craig</forename>
@@ -3076,6 +3557,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bedard.t">
           <persName>
             <forename>Tony</forename>
@@ -3083,12 +3565,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kishiro.y">
           <persName>
             <forename>Yukito</forename>
             <surname>Kishiro</surname>
           </persName>
         </person>
+
         <person xml:id="takeuchi.n">
           <persName>
             <forename>Naoko</forename>
@@ -3096,6 +3580,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="russell.md">
           <persName>
             <forename>Mary Doria</forename>
@@ -3103,6 +3588,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="yoshinag.f">
           <persName>
             <forename>Fumi</forename>
@@ -3110,6 +3596,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="parker.j">
           <persName>
             <forename>Jeff</forename>
@@ -3117,6 +3604,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="jemisin.nk">
           <persName>
             <forename>N. K.</forename>
@@ -3124,6 +3612,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="takahash.r">
           <persName>
             <forename>Rumiko</forename>
@@ -3131,6 +3620,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="ostrande.j">
           <persName>
             <forename>John</forename>
@@ -3138,6 +3628,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mcdonald.k">
           <persName>
             <forename>Kel</forename>
@@ -3145,6 +3636,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="milton.j">
           <persName>
             <forename>John</forename>
@@ -3152,6 +3644,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="watterso.b">
           <persName>
             <forename>Bill</forename>
@@ -3159,6 +3652,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="matheson.r">
           <persName>
             <forename>Richard</forename>
@@ -3166,6 +3660,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="novik.n">
           <persName>
             <forename>Naomi</forename>
@@ -3173,6 +3668,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="brennan.sr">
           <persName>
             <forename>Sarah Rees</forename>
@@ -3180,6 +3676,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="holkins.j">
           <persName>
             <forename>Jerry</forename>
@@ -3187,6 +3684,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="krahulik.m">
           <persName>
             <forename>Mike</forename>
@@ -3194,6 +3692,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gilman.cp">
           <persName>
             <forename>Charlotte Perkins</forename>
@@ -3201,6 +3700,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="niffeneg.a">
           <persName>
             <forename>Audrey</forename>
@@ -3208,6 +3708,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="wells.j">
           <persName>
             <forename>Jeffrey C.</forename>
@@ -3215,6 +3716,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="miller.bq">
           <persName>
             <forename>Bryan Q.</forename>
@@ -3222,6 +3724,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gilling.t">
           <persName>
             <forename>Tom</forename>
@@ -3229,6 +3732,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="atwood.m">
           <persName>
             <forename>Margaret</forename>
@@ -3236,6 +3740,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mori.k">
           <persName>
             <forename>Kaoru</forename>
@@ -3243,6 +3748,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="scalzi.j">
           <persName>
             <forename>John</forename>
@@ -3250,6 +3756,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gross.p">
           <persName>
             <forename>Peter</forename>
@@ -3257,6 +3764,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="elliott.k">
           <persName>
             <forename>Kate</forename>
@@ -3264,6 +3772,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="harris.j">
           <persName>
             <forename>Joanne M.</forename>
@@ -3271,6 +3780,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="coelho.p">
           <persName>
             <forename>Paulo</forename>
@@ -3278,6 +3788,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="willis.d">
           <persName>
             <forename>David</forename>
@@ -3285,6 +3796,7 @@
           </persName>
           <gender value="male" evidence="self-identification"/>
         </person>
+
         <person xml:id="walker.b">
           <persName>
             <forename>Brad</forename>
@@ -3292,6 +3804,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moore.t">
           <persName>
             <forename>Terry</forename>
@@ -3299,6 +3812,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="trotman.cs">
           <persName>
             <forename>C. Spike</forename>
@@ -3306,6 +3820,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="thomas.s">
           <persName>
             <forename>Scarlett</forename>
@@ -3313,6 +3828,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="wilson.gw">
           <persName>
             <forename>G. Willow</forename>
@@ -3320,6 +3836,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="cornell.p">
           <persName>
             <forename>Paul</forename>
@@ -3327,6 +3844,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cassaday.j">
           <persName>
             <forename>John</forename>
@@ -3334,6 +3852,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="piercy.m">
           <persName>
             <forename>Marge</forename>
@@ -3341,6 +3860,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mchugh.mf">
           <persName>
             <forename>Maureen F.</forename>
@@ -3348,6 +3868,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mignola.m">
           <persName>
             <forename>Mike</forename>
@@ -3355,6 +3876,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="byrne.j">
           <persName>
             <forename>John</forename>
@@ -3362,6 +3884,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="russ.j">
           <persName>
             <forename>Joanna</forename>
@@ -3369,6 +3892,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="johnson.k">
           <persName>
             <forename>Kij</forename>
@@ -3376,6 +3900,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lackey.m">
           <persName>
             <forename>Mercedes</forename>
@@ -3383,6 +3908,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="goonan.ka">
           <persName>
             <forename>Kathleen Ann</forename>
@@ -3390,6 +3916,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="shaw.a">
           <persName>
             <forename>Ali</forename>
@@ -3397,6 +3924,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="due.t">
           <persName>
             <forename>Tananarive</forename>
@@ -3404,6 +3932,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="woolf.v">
           <persName>
             <forename>Virginia</forename>
@@ -3411,6 +3940,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="auster.p">
           <persName>
             <forename>Paul</forename>
@@ -3418,6 +3948,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sanders.rl">
           <persName>
             <forename>Richard L.</forename>
@@ -3425,6 +3956,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="robinson.a">
           <persName>
             <forename>Alex</forename>
@@ -3432,6 +3964,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="butcher.j">
           <persName>
             <forename>Jim</forename>
@@ -3439,6 +3972,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mcneil.cs">
           <persName>
             <forename>Carla Speed</forename>
@@ -3446,6 +3980,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="hopkinso.n">
           <persName>
             <forename>Nalo</forename>
@@ -3453,6 +3988,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="beagle.ps">
           <persName>
             <forename>Peter S.</forename>
@@ -3460,6 +3996,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gladston.b">
           <persName>
             <forename>Brooke</forename>
@@ -3467,6 +4004,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="neufeld.j">
           <persName>
             <forename>Josh</forename>
@@ -3474,6 +4012,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="knisley.l">
           <persName>
             <forename>Lucy</forename>
@@ -3481,6 +4020,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="calafior.j">
           <persName>
             <forename>J.</forename>
@@ -3488,6 +4028,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="zelazny.r">
           <persName>
             <forename>Roger</forename>
@@ -3495,6 +4036,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="sheckley.r">
           <persName>
             <forename>Robert</forename>
@@ -3502,6 +4044,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="willis.c">
           <persName>
             <forename>Connie</forename>
@@ -3509,12 +4052,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="azuma.k">
           <persName>
             <forename>Kiyohiko</forename>
             <surname>Azuma</surname>
           </persName>
         </person>
+
         <person xml:id="estep.j">
           <persName>
             <forename>Jennifer</forename>
@@ -3522,6 +4067,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="daviskim.j">
           <persName>
             <forename>Jeannine</forename>
@@ -3529,6 +4075,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="behan.m">
           <persName>
             <forename>Mona</forename>
@@ -3536,6 +4083,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="okorafor.n">
           <persName>
             <forename>Nnedi</forename>
@@ -3543,12 +4091,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="masamune.s">
           <persName>
             <forename>Shirow</forename>
             <surname>Masamune</surname>
           </persName>
         </person>
+
         <person xml:id="austen.j">
           <persName>
             <forename>Jane</forename>
@@ -3556,6 +4106,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="vaughn.bk">
           <persName>
             <forename>Brian K.</forename>
@@ -3563,12 +4114,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="henricho.k">
           <persName>
             <forename>Kiko</forename>
             <surname>Henrichon</surname>
           </persName>
         </person>
+
         <person xml:id="lynch.s">
           <persName>
             <forename>Scott</forename>
@@ -3576,6 +4129,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="johnson.ad">
           <persName>
             <forename>Alaya Dawn</forename>
@@ -3583,6 +4137,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="elgin.sh">
           <persName>
             <forename>Suzette Haden</forename>
@@ -3590,6 +4145,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="sedaris.d">
           <persName>
             <forename>David</forename>
@@ -3597,6 +4153,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ross.a">
           <persName>
             <forename>Alex</forename>
@@ -3604,6 +4161,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="angelou.m">
           <persName>
             <forename>Maya</forename>
@@ -3611,6 +4169,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="diamant.a">
           <persName>
             <forename>Anita</forename>
@@ -3618,12 +4177,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="tomine.a">
           <persName>
             <forename>Adrian</forename>
             <surname>Tomine</surname>
           </persName>
         </person>
+
         <person xml:id="bear.e">
           <persName>
             <forename>Elizabeth</forename>
@@ -3631,12 +4192,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="urushiba.y">
           <persName>
             <forename>Yuki</forename>
             <surname>Urushibara</surname>
           </persName>
         </person>
+
         <person xml:id="miéville.c">
           <persName>
             <forename>China</forename>
@@ -3644,12 +4207,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pagliara.g">
           <persName>
             <forename>Gianluca</forename>
             <surname>Pagliarani</surname>
           </persName>
         </person>
+
         <person xml:id="wang.j">
           <persName>
             <forename>Jen</forename>
@@ -3657,6 +4222,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="darrieus.m">
           <persName>
             <forename>Marie</forename>
@@ -3664,6 +4230,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="griffith.n">
           <persName>
             <forename>Nicola</forename>
@@ -3671,6 +4238,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jones.g">
           <persName>
             <forename>Gwyneth</forename>
@@ -3678,6 +4246,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="anaya.r">
           <persName>
             <forename>Rudolfo</forename>
@@ -3685,6 +4254,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mccloud.s">
           <persName>
             <forename>Scott</forename>
@@ -3692,6 +4262,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="yu.c">
           <persName>
             <forename>Charles</forename>
@@ -3699,6 +4270,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="romita.j">
           <persName>
             <forename>John</forename>
@@ -3706,6 +4278,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="obreht.t">
           <persName>
             <forename>Téa</forename>
@@ -3713,6 +4286,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="jimenez.p">
           <persName>
             <forename>Phil</forename>
@@ -3720,6 +4294,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="smith.s">
           <persName>
             <forename>Sherwood</forename>
@@ -3727,6 +4302,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="pringle.h">
           <persName>
             <forename>Heather</forename>
@@ -3734,12 +4310,14 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="taniguch.j">
           <persName>
             <forename>Jiro</forename>
             <surname>Taniguchi</surname>
           </persName>
         </person>
+
         <person xml:id="vess.c">
           <persName>
             <forename>Charles</forename>
@@ -3747,6 +4325,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="yang.gl">
           <persName>
             <forename>Gene Luen</forename>
@@ -3754,6 +4333,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brothwel.d">
           <persName>
             <forename>Don</forename>
@@ -3761,6 +4341,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brothwel.p">
           <persName>
             <forename>Patricia</forename>
@@ -3768,6 +4349,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="westerfe.s">
           <persName>
             <forename>Scott</forename>
@@ -3775,6 +4357,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="clare.c">
           <persName>
             <forename>Cassandra</forename>
@@ -3782,6 +4365,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="abel.j">
           <persName>
             <forename>Jessica</forename>
@@ -3789,6 +4373,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="king.lr">
           <persName>
             <forename>Laurie R.</forename>
@@ -3796,6 +4381,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="piskor.e">
           <persName>
             <forename>Ed</forename>
@@ -3803,6 +4389,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fine.c">
           <persName>
             <forename>Cordelia</forename>
@@ -3810,6 +4397,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="andrews.i">
           <persName>
             <forename>Ilona</forename>
@@ -3817,6 +4405,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mckelvie.j">
           <persName>
             <forename>Jamie</forename>
@@ -3824,18 +4413,21 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="koike.k">
           <persName>
             <forename>Kazuo</forename>
             <surname>Koike</surname>
           </persName>
         </person>
+
         <person xml:id="kojima.g">
           <persName>
             <forename>Goseki</forename>
             <surname>Kojima</surname>
           </persName>
         </person>
+
         <person xml:id="peake.m">
           <persName>
             <forename>Mervyn</forename>
@@ -3843,6 +4435,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="paroline.s">
           <persName>
             <forename>Shelli</forename>
@@ -3850,6 +4443,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lamb.b">
           <persName>
             <forename>Braden</forename>
@@ -3857,6 +4451,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="norton.m">
           <persName>
             <forename>Mike</forename>
@@ -3864,6 +4459,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="barrows.e">
           <persName>
             <forename>Eddy</forename>
@@ -3871,6 +4467,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="saramago.j">
           <persName>
             <forename>José</forename>
@@ -3878,12 +4475,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nakamura.a">
           <persName>
             <forename>Asumiko</forename>
             <surname>Nakamura</surname>
           </persName>
         </person>
+
         <person xml:id="cates.d">
           <persName>
             <forename>Donny</forename>
@@ -3891,6 +4490,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="reznicek.m">
           <persName>
             <forename>Mark</forename>
@@ -3898,6 +4498,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="shaw.g">
           <persName>
             <forename>Geoff</forename>
@@ -3905,6 +4506,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="kidd.sm">
           <persName>
             <forename>Susan Monk</forename>
@@ -3912,6 +4514,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="edginton.i">
           <persName>
             <forename>Ian</forename>
@@ -3919,6 +4522,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="trifogli.f">
           <persName>
             <forename>Francesco</forename>
@@ -3926,6 +4530,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="leyh.k">
           <persName>
             <forename>Kat</forename>
@@ -3933,6 +4538,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="acker.b">
           <persName>
             <forename>Ben</forename>
@@ -3940,6 +4546,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="blacker.b">
           <persName>
             <forename>Ben</forename>
@@ -3947,6 +4554,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wood.b">
           <persName>
             <forename>Brian</forename>
@@ -3954,6 +4562,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="donaldso.k">
           <persName>
             <forename>Kristian</forename>
@@ -3961,6 +4570,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brown.g">
           <persName>
             <forename>Garry</forename>
@@ -3968,6 +4578,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mccranie.s">
           <persName>
             <forename>Stephen</forename>
@@ -3975,6 +4586,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="snyder.s">
           <persName>
             <forename>Scott</forename>
@@ -3982,6 +4594,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="capullo.g">
           <persName>
             <forename>Greg</forename>
@@ -3989,6 +4602,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="glapion.j">
           <persName>
             <forename>Jonathan</forename>
@@ -3996,6 +4610,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="oates.jc">
           <persName>
             <forename>Joyce Carol</forename>
@@ -4003,6 +4618,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="warner.st">
           <persName>
             <forename>Sylvia Townsend</forename>
@@ -4010,6 +4626,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lewis.j">
           <persName>
             <forename>John</forename>
@@ -4017,6 +4634,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="aydin.a">
           <persName>
             <forename>Andrew</forename>
@@ -4024,6 +4642,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="powell.n">
           <persName>
             <forename>Nate</forename>
@@ -4031,6 +4650,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mchugh.m">
           <persName>
             <forename>Maureen</forename>
@@ -4038,6 +4658,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="fawkes.r">
           <persName>
             <forename>Ray</forename>
@@ -4045,6 +4666,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="lieber.s">
           <persName>
             <forename>Steve</forename>
@@ -4052,6 +4674,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="corben.r">
           <persName>
             <forename>Richard</forename>
@@ -4059,6 +4682,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="russell.pc">
           <persName>
             <forename>P. Craig</forename>
@@ -4066,6 +4690,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="stark.sj">
           <persName>
             <forename>Suzanne J.</forename>
@@ -4073,6 +4698,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lark.m">
           <persName>
             <forename>Michael</forename>
@@ -4080,6 +4706,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="arcas.s">
           <persName>
             <forename>Santi</forename>
@@ -4087,6 +4714,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="friend.r">
           <persName>
             <forename>Richard</forename>
@@ -4094,6 +4722,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="carter.a">
           <persName>
             <forename>Angela</forename>
@@ -4101,6 +4730,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="beukes.l">
           <persName>
             <forename>Lauren</forename>
@@ -4108,6 +4738,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="munroe.r">
           <persName>
             <forename>Randall</forename>
@@ -4115,6 +4746,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="mcguire.s">
           <persName>
             <forename>Seanan</forename>
@@ -4122,6 +4754,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="waters.md">
           <persName>
             <forename>M.D.</forename>
@@ -4129,6 +4762,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="vincent.n">
           <persName>
             <forename>Norah</forename>
@@ -4136,6 +4770,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="baxter.s">
           <persName>
             <forename>Stephen</forename>
@@ -4143,6 +4778,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="champagn.k">
           <persName>
             <forename>Keith</forename>
@@ -4150,6 +4786,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gleason.p">
           <persName>
             <forename>Patrick</forename>
@@ -4157,6 +4794,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rollins.p">
           <persName>
             <forename>Prentis</forename>
@@ -4164,6 +4802,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="zulli.m">
           <persName>
             <forename>Michael</forename>
@@ -4171,6 +4810,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="klein.t">
           <persName>
             <forename>Todd</forename>
@@ -4178,6 +4818,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fegredo.d">
           <persName>
             <forename>Duncan</forename>
@@ -4185,6 +4826,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="weatherf.j">
           <persName>
             <forename>Jack</forename>
@@ -4192,6 +4834,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="moon.f">
           <persName>
             <forename>Fábio</forename>
@@ -4199,6 +4842,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bá.g">
           <persName>
             <forename>Gabriel</forename>
@@ -4206,6 +4850,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="bollers.k">
           <persName>
             <forename>Karl</forename>
@@ -4213,6 +4858,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="leonardi.r">
           <persName>
             <forename>Rick</forename>
@@ -4220,6 +4866,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="stroman.l">
           <persName>
             <forename>Larry</forename>
@@ -4227,6 +4874,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="ryan.s">
           <persName>
             <forename>Sara</forename>
@@ -4234,6 +4882,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="tobe.k">
           <persName>
             <forename>Keiko</forename>
@@ -4241,6 +4890,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mcdonoug.w">
           <persName>
             <forename>William</forename>
@@ -4248,6 +4898,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="braungar.m">
           <persName>
             <forename>Michael</forename>
@@ -4255,6 +4906,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="morrissey.p">
           <persName>
             <forename>Paul</forename>
@@ -4262,6 +4914,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="gillen.k">
           <persName>
             <forename>Kieron</forename>
@@ -4269,6 +4922,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="telgemei.r">
           <persName>
             <forename>Raina</forename>
@@ -4276,6 +4930,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="kowal.mr">
           <persName>
             <forename>Mary Robinette</forename>
@@ -4283,6 +4938,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="estrada.r">
           <persName>
             <forename>Ryan</forename>
@@ -4290,6 +4946,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="nock.d">
           <persName>
             <forename>Diana</forename>
@@ -4297,6 +4954,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="crichton.m">
           <persName>
             <forename>Michael</forename>
@@ -4304,6 +4962,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="padua.s">
           <persName>
             <forename>Sydney</forename>
@@ -4311,6 +4970,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="durham.da">
           <persName>
             <forename>David Anthony</forename>
@@ -4318,6 +4978,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fleischm.p">
           <persName>
             <forename>Paul</forename>
@@ -4325,6 +4986,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="stein.g">
           <persName>
             <forename>Garth</forename>
@@ -4332,6 +4994,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="brubaker.e">
           <persName>
             <forename>Ed</forename>
@@ -4339,6 +5002,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="whitley.j">
           <persName>
             <forename>Jeremy</forename>
@@ -4346,6 +5010,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="goodwin.m">
           <persName>
             <forename>M.</forename>
@@ -4353,6 +5018,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="scott.n">
           <persName>
             <forename>Nicola</forename>
@@ -4360,6 +5026,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="dagnino.f">
           <persName>
             <forename>Fernando</forename>
@@ -4367,6 +5034,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="henderso.e">
           <persName>
             <forename>Erica</forename>
@@ -4374,6 +5042,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="renzi.r">
           <persName>
             <forename>Rico</forename>
@@ -4381,6 +5050,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="cowles.c">
           <persName>
             <forename>Clayton</forename>
@@ -4388,6 +5058,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="deconnic.ks">
           <persName>
             <forename>Kelly Sue</forename>
@@ -4395,6 +5066,7 @@
           </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
+
         <person xml:id="delandro.v">
           <persName>
             <forename>Valentine</forename>
@@ -4402,6 +5074,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="wilson.r">
           <persName>
             <forename>Robert</forename>
@@ -4409,6 +5082,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="peter.c">
           <persName>
             <forename>Cristiane</forename>
@@ -4417,6 +5091,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="hughes.r">
           <persName>
             <forename>Rian</forename>
@@ -4424,6 +5099,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="weaver.ek">
           <persName>
             <forename>E.K.</forename>
@@ -4431,6 +5107,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="monster.sr">
           <persName>
             <forename>Sfé R.</forename>
@@ -4438,6 +5115,7 @@
           </persName>
           <gender value="trans genderqueer" evidence="self-identification"/>
         </person>
+
         <person xml:id="ashwin.k">
           <persName>
             <forename>Kate</forename>
@@ -4445,6 +5123,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="olson.p">
           <persName>
             <forename>Priscilla</forename>
@@ -4452,6 +5131,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="robins.c">
           <persName>
             <forename>Clem</forename>
@@ -4459,6 +5139,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="hill.j">
           <persName>
             <forename>Joe</forename>
@@ -4466,6 +5147,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rodrigue.g">
           <persName>
             <forename>Gabriel</forename>
@@ -4473,6 +5155,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fotos.j">
           <persName>
             <forename>Jay</forename>
@@ -4480,6 +5163,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="robbins.r">
           <persName>
             <forename>Robbie</forename>
@@ -4487,6 +5171,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="adams.d">
           <persName>
             <forename>Douglas</forename>
@@ -4494,6 +5179,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rowling.jk">
           <persName>
             <forename>J.K.</forename>
@@ -4501,6 +5187,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="dahl.r">
           <persName>
             <forename>Roald</forename>
@@ -4508,6 +5195,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="schindel.j">
           <persName>
             <forename>Joseph</forename>
@@ -4515,6 +5203,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="blake.q">
           <persName>
             <forename>Quentin</forename>
@@ -4522,6 +5211,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="white.th">
           <persName>
             <forename>T.H.</forename>
@@ -4529,6 +5219,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="pedersen.j">
           <persName>
             <forename>Judy</forename>
@@ -4536,6 +5227,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="stearns.m">
           <persName>
             <forename>Michael</forename>
@@ -4543,6 +5235,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="clarke.ar">
           <persName>
             <forename>Alan R.</forename>
@@ -4550,6 +5243,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="spinelli.j">
           <persName>
             <forename>Jerry</forename>
@@ -4557,12 +5251,14 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="homer">
           <persName>
             <name>Homer</name>
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="fitzgera.r">
           <persName>
             <forename>Robert</forename>
@@ -4570,6 +5266,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rosenber.p">
           <persName>
             <forename>Portia</forename>
@@ -4577,6 +5274,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="mckean.d">
           <persName>
             <forename>Dave</forename>
@@ -4584,6 +5282,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="chalk.g">
           <persName>
             <forename>Gary</forename>
@@ -4591,6 +5290,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="howell.t">
           <persName>
             <forename>Troy</forename>
@@ -4598,6 +5298,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="graves.l">
           <persName>
             <forename>Lucia</forename>
@@ -4605,6 +5306,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="elliot.d">
           <persName>
             <forename>David</forename>
@@ -4612,6 +5314,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="funke.c">
           <persName>
             <forename>Cornelia</forename>
@@ -4619,6 +5322,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="bell.a">
           <persName>
             <forename>Anthea</forename>
@@ -4626,6 +5330,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="lawson.c">
           <persName>
             <forename>Carol</forename>
@@ -4633,6 +5338,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="shakespe.w">
           <persName>
             <forename>William</forename>
@@ -4640,6 +5346,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="garcíamá.g">
           <persName>
             <forename>Gabriel</forename>
@@ -4647,6 +5354,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="rabassa.g">
           <persName>
             <forename>Gregory</forename>
@@ -4654,6 +5362,7 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
         <person xml:id="november.s">
           <persName>
             <forename>Sharyn</forename>
@@ -4661,6 +5370,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="hill.f">
           <persName>
             <forename>Frances</forename>
@@ -4668,6 +5378,7 @@
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>
+
         <person xml:id="obrian.p">
           <persName>
             <forename>Patrick</forename>
@@ -4675,14 +5386,32 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
       </listPerson>
       <listOrg>
+        
         <org xml:id="clamp">
           <orgName>CLAMP</orgName>
         </org>
+        
         <org xml:id="peachpit">
           <orgName>Peach-Pit</orgName>
         </org>
+        
+        <org xml:id="theoatmeal">
+          <orgName>The Oatmeal</orgName>
+          
+          <listPerson>
+            <person xml:id="inman.m">
+              <persName>
+                <forename>Matthew</forename>
+                <surname>Inman</surname>
+              </persName>
+              <gender value="male" evidence="conjecture"/>
+            </person>
+          </listPerson>
+        </org>
+        
       </listOrg>
     </body>
   </text>

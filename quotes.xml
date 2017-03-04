@@ -17,6 +17,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-11-12">Replaced double quotation marks with <gi>said</gi>, <gi>soCalled</gi>, and <gi>quote</gi>.</change>
         <change when="2016-03-29">Completed re-encoding after OxGarage’s conversion from DOCX.</change>
@@ -41,6 +42,7 @@
             <title></title>
           </bibl>
         </item>-->
+        
         <item>
           <quote>
             <p><said>A . . . diplomat?</said> Arthur blinked at me as our carriage 
@@ -53,9 +55,13 @@
           </quote>
           <bibl>
             <author>Seanan McGuire</author>,
-            <title rend="quoted">Lady Antheia’s Guide to Horticultural Warfare</title>
+            <title rend="quoted">
+              <ref target="https://www.lightspeedmagazine.com/fiction/lady-antheias-guide-horticultural-warfare/">
+                Lady Antheia’s Guide to Horticultural Warfare</ref>
+            </title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>My friend said, <said>Women always write in the vernacular.</said></p>
@@ -78,6 +84,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>If you are a woman and wish to become pre-eminent in a field, it’s a 
@@ -90,6 +97,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The trick in the double standard of content is to label one set of 
@@ -100,6 +108,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Grown-ups don’t look like grown-ups on the inside either. Outside, 
@@ -113,6 +122,7 @@
             <title>The Ocean at the End of the Lane</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <said>
@@ -129,6 +139,7 @@
             <biblScope unit="issue">15</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To speak for those who have been silenced is one thing; to co-opt 
@@ -142,6 +153,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Subversion through terror, shock, pain is easy—instant 
@@ -159,6 +171,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I want to talk here about the difference between imagination and 
@@ -187,6 +200,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>But centrality is the last thing accorded to a woman by the canoneers. 
@@ -205,6 +219,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There has been throughout human history a pretty strong feeling 
@@ -222,6 +237,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No matter how humble the spirit it’s in, a sermon is an act of 
@@ -233,6 +249,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Fiction offers the best means of understanding people different from 
@@ -250,6 +267,7 @@
             <title>Words are My Matter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No, the world of next worlds, afterlives and purgatorial destinations 
@@ -262,6 +280,7 @@
             <title>Snuff</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A copper should always be willing to learn, and Vimes had learned from 
@@ -275,6 +294,7 @@
             <title>Snuff</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To a bachelor this would have appeared to be gentle advice; to an 
@@ -286,6 +306,7 @@
             <title>Snuff</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is well known that any drive to reduce paperwork only results in extra 
@@ -296,6 +317,7 @@
             <title>Snuff</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Eichmann’s inability to speak coherently in court was connected with his 
@@ -321,6 +343,7 @@
             <title rend="italic">Eichmann in Jerusalem: A Report on the Banality of Evil</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is quite gratifying to feel guilty if you haven’t done anything wrong: 
@@ -332,6 +355,7 @@
             <title rend="italic">Eichmann in Jerusalem: A Report on the Banality of Evil</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The dead have a claim on us even heavier than that of the living, for 
@@ -342,6 +366,7 @@
             <title>A Letter of Mary</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>They’re marching together,</said> said Alif, half to himself. 
@@ -361,6 +386,7 @@
             <title>Alif the Unseen</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>I’m impressed you’re willing to admit as much. Most people who 
@@ -372,6 +398,7 @@
             <title>Alif the Unseen</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Who knew demons were such cowards?</said> <gap reason="omitted"/></p>
@@ -385,6 +412,7 @@
             <title>Alif the Unseen</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Historians speak of social pressures as if they were physical laws,
@@ -402,6 +430,7 @@
             <title>The Killing of Worlds</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><hi rend="italic">Wanting</hi> to be anything is the whole point of 
@@ -414,6 +443,7 @@
               Essays on Growing Up, Speaking Out, and Finding Feminism</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To be a good friend, you have to keep in touch. You have to send your 
@@ -446,6 +476,7 @@
               Essays on Growing Up, Speaking Out, and Finding Feminism</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Here’s the revolution: I want you to feel beautiful, and not so 
@@ -469,6 +500,7 @@
               Essays on Growing Up, Speaking Out, and Finding Feminism</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -481,6 +513,7 @@
             <title>Variety: a Poem</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I don’t mind being silly as much as I mind being deeply problematic.</p>
@@ -490,6 +523,7 @@
             <date when="2016-08-03"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Hild looked deeper, letting her mind sink into the glimmer and shadow,
@@ -503,6 +537,7 @@
             <title>Hild</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><hi rend="italic">All</hi> legislation is symbolic—rhetoric and
@@ -513,6 +548,7 @@
             <title>The Risen Empire</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She ran her fingers along the line of his jaw.</p>
@@ -543,6 +579,7 @@
             <title>The Risen Empire</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The world howls without; it is at this moment a very terrible
@@ -562,6 +599,7 @@
             <title>Angels in America Part Two: Perestroika</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You have a good heart and you think the good thing is to be guilty
@@ -574,6 +612,7 @@
             <title>Angels in America Part Two: Perestroika</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Sorry. It is hard to use words, I drop them all and gather up the
@@ -585,6 +624,7 @@
             <title>New World: An Anthology of Sci-Fi and Fantasy</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All at once I liked her. She was a flat, sure, and she was spoiled,
@@ -598,6 +638,7 @@
             <title>Mélusine</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is likely that, politically or otherwise, marginal people always
@@ -609,6 +650,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>But the social models of gender both fed and emerged from two sources
@@ -628,6 +670,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I find the Russian nesting doll useful for envisioning the various
@@ -646,6 +689,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The long-standing notion that femaleness represented a bodily absence,
@@ -662,6 +706,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Most people assume that, because they are highly mathematical and
@@ -678,6 +723,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The sociologist Bruno Latour argues that once a scientific finding
@@ -694,6 +740,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Of course, nature has not changed since the 1950s. Rather, we have
@@ -705,6 +752,7 @@
             <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
           </bibl>
         </item>
+
         <item>
           <sp>
             <speaker>Louis</speaker>
@@ -761,6 +809,7 @@
             <title>Angels in America Part One: Millennium Approaches</title>
           </bibl>
         </item>
+
         <item>
           <sp>
             <speaker>Prior</speaker>
@@ -771,6 +820,7 @@
             <title>Angels in America Part One: Millennium Approaches</title>
           </bibl>
         </item>
+
         <item>
           <p>The moments of magic—the appearance and disappearance of Mr. Lies and
             the ghosts, the Book hallucination, and the ending—are to be fully
@@ -783,6 +833,7 @@
             <title>Angels in America Part One: Millennium Approaches</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She put her head down in her arms and cried, and her cheeks were salt 
@@ -799,6 +850,7 @@
             <title>The Tombs of Atuan</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We notice the silence of men. We depend upon the silence of women.</p>
@@ -808,6 +860,7 @@
             <title>Every Heart a Doorway</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The fundamental objective of fanfic, especially when it is written
@@ -825,6 +878,7 @@
             <date when="2016-04-14"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Past events exist, after all, only in memory, which is a form of
@@ -838,6 +892,7 @@
             <title>Tales from Earthsea</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s a rare gift, to know where you need to be, before you’ve
@@ -850,6 +905,7 @@
             <title>Tales from Earthsea</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>If a word can heal, a word can wound,</said> the witch said. <said>If a
@@ -862,6 +918,7 @@
             <title>Tales from Earthsea</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I think the right thing to do is help people. Going out of your
@@ -874,6 +931,7 @@
             <date when="2016-03-27"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I guess off the map is still <hi rend="italic">someone’s</hi> map.</p>
@@ -883,6 +941,7 @@
             <title key="hidier.td.bombayblues" rend="italic">Bombay Blues</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Home was certainly not a place. That’s why there was no place like
@@ -896,6 +955,7 @@
             <title key="hidier.td.bombayblues" rend="italic">Bombay Blues</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Nothing lasts forever, but nothing ever goes away.</p>
@@ -905,6 +965,7 @@
             <title key="hidier.td.bombayblues" rend="italic">Bombay Blues</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>They went on like that, trading small pieces of each other back and
@@ -919,6 +980,7 @@
             <title key="kerr.p.wildswans" rend="italic">The Wild Swans</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She was an old woman who gave nothing but evil advice, and such was their
@@ -930,6 +992,7 @@
             <title key="yolen.j.onceupontime" rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -943,6 +1006,7 @@
             <title key="yolen.j.onceupontime" rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...for what salve it gives me, every man’s a fool. Which means you got
@@ -956,6 +1020,7 @@
             <title key="bradbury.r.somethingwicked" rend="italic">Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The techniques for mystifying women’s lives and belittling women’s
@@ -989,6 +1054,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>And yet there is beginning to be a response that goes beyond anger.
@@ -1012,6 +1078,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When the memory of one’s predecessors is buried, the assumption
@@ -1024,6 +1091,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Conscious, conspiratorial guilt? Hardly. Privileged groups, like 
@@ -1055,6 +1123,7 @@
             <title rend="italic">How to Suppress Women’s Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In my experience, and according to my perceptions, I say to you: hope
@@ -1064,6 +1133,7 @@
             <author>Suzette Haden Elgin</author>, <title rend="italic">The Judas Rose</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The older you get the more times you’ve rehearsed dying. So you aren’t
@@ -1075,6 +1145,7 @@
             <title rend="italic">Foxfire: Confessions of a Girl Gang</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Whenever you want to achieve something, keep your eyes open,
@@ -1085,6 +1156,7 @@
             <author>Paulo Coelho</author>, <title rend="italic">The Devil and Miss Prym</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Those people who say that words have no power know nothing of the
@@ -1097,6 +1169,7 @@
             <title rend="italic">Peaches for Father Francis</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All good children’s stories are the same: young creature breaks the
@@ -1111,6 +1184,7 @@
             <series rend="quoted">Saga</series>
             <biblScope>Chapter 16</biblScope></bibl>
         </item>
+
         <item>
           <quote>
             <p>But Proportion has a sister, less smiling, more formidable, a Goddess
@@ -1129,6 +1203,7 @@
             <author>Virginia Woolf</author>, <title rend="italic">Mrs. Dalloway</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When your fight has purpose – to free you from something, to interfere
@@ -1143,6 +1218,7 @@
             <author>Téa Obreht</author>, <title rend="italic">The Tiger’s Wife</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Character assassination. What a wonderful idea. Ordinary assassination
@@ -1152,6 +1228,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">The Truth</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>People like to be told what they already know... They get uncomfortable
@@ -1166,6 +1243,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">The Truth</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We’ve always looked beyond the walls for invaders... We always thought
@@ -1177,6 +1255,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">The Truth</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She knows herself to be at the mercy of events, and she knows by now
@@ -1186,6 +1265,7 @@
             <author>Margaret Atwood</author>, <title rend="italic">The Blind Assassin</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What fabrications they are, mothers. Scarecrows, wax dolls for us to
@@ -1197,6 +1277,7 @@
             <author>Margaret Atwood</author>, <title rend="italic">The Blind Assassin</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>That is the other side of selflessness: its tyranny.</p>
@@ -1205,6 +1286,7 @@
             <author>Margaret Atwood</author>, <title rend="italic">The Blind Assassin</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...any life is a rubbish dump even while it’s being lived, and more so
@@ -1214,6 +1296,7 @@
             <author>Margaret Atwood</author>, <title rend="italic">The Blind Assassin</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The act of creation is <hi rend="bold">really</hi> that split second
@@ -1228,6 +1311,7 @@
             <title rend="italic">Finder: Sin-Eater</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...the most dangerous of times was not during an attack, but after,
@@ -1241,6 +1325,7 @@
             <author>Sherwood Smith</author>, <title rend="italic">Inda</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No one likes change unless he makes it himself. Then it’s
@@ -1250,6 +1335,7 @@
             <author>Sherwood Smith</author>, <title rend="italic">Inda</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Women have served all these centuries as looking-glasses possessing the
@@ -1278,6 +1364,7 @@
             <author>Virginia Woolf</author>, <title rend="italic">A Room of One’s Own</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Yet it seemed absurd, I thought, turning over the evening paper, that a
@@ -1307,6 +1394,7 @@
             <author>Virginia Woolf</author>, <title rend="italic">A Room of One’s Own</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You don’t have to believe in Hell. All you need is to hear someone who
@@ -1320,6 +1408,7 @@
             <author>Peter S. Beagle</author>,<title rend="italic">Tamsin</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Magical Girl stories are stories about growing up and becoming a woman,
@@ -1336,6 +1425,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Do you <hi rend="italic">believe</hi> that shit or do you just peddle
@@ -1349,6 +1439,7 @@
             <title rend="italic">The Unwritten Vol. 2: Inside Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life is a balance. We tend to forget that as we go blithely from day to
@@ -1366,6 +1457,7 @@
             <author>Robin Hobb</author>, <title rend="italic">Fool’s Errand</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Cruelty is a skill taught not only by example but by experience of it.</p>
@@ -1374,6 +1466,7 @@
             <author>Robin Hobb</author>, <title rend="italic">Fool’s Errand</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In fairy tales it’s always the children who have the fine adventures.
@@ -1385,6 +1478,7 @@
             <title rend="italic">The Time Traveler’s Wife</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life’s short, you gotta stop and smell the first-edition Melvilles
@@ -1396,6 +1490,7 @@
             comic <ref target="http://www.questionablecontent.net/view.php?comic=2207">2207</ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Poets have the right to vanity and pride; they steal the power of
@@ -1407,6 +1502,7 @@
             <title rend="italic">The Invisibles: Say You Want a Revolution</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>
@@ -1424,6 +1520,7 @@
             <title rend="italic">The Invisibles: Say You Want a Revolution</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>THIS is how a glass ceiling works – invisible and inescapable. This is
@@ -1439,6 +1536,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We can never be gods, after all – but we can become something less than
@@ -1449,6 +1547,7 @@
             <title rend="italic">The Hundred Thousand Kingdoms</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>You follow baseball, John?</said> Emilio asked after awhile, his voice
@@ -1461,6 +1560,7 @@
             <author>Mary Doria Russell</author>, <title rend="italic">The Sparrow</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I know this will sound glib, but don’t pretend you aren’t feeling what
@@ -1474,6 +1574,7 @@
             <author>Mary Doria Russell</author>, <title rend="italic">The Sparrow</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The very first rule of <title rend="italic">Scooby-Doo</title>, the single premise that
@@ -1493,6 +1594,7 @@
             <series>Comics Alliance</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You were born together, and together you shall be forevermore. You
@@ -1510,6 +1612,7 @@
             <author>Kahlil Gibran</author>, <title rend="italic">The Prophet</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Knowledge might make a good weapon, but it’s lousy armor.</p>
@@ -1518,6 +1621,7 @@
             <author>Jim C. Hines</author>, <title rend="italic">The Stepsister Scheme</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Someone feeling wronged is like someone feeling thirsty. Don’t tell
@@ -1531,6 +1635,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Nobody tells people who are beginners, and I really wish someone had
@@ -1571,6 +1676,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Now, I’ve had boys of my own, and I know boys aren’t that way. They
@@ -1583,6 +1689,7 @@
             <title rend="italic">The Farseer: Assassin’s Apprentice</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Sometimes it only takes a moment for everything to change... More
@@ -1593,6 +1700,7 @@
             <author>Robin McKinley</author>, <title rend="italic">Pegasus</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There is nothing in the world so easy to explain as failure – it is,
@@ -1603,6 +1711,7 @@
             <title rend="italic">Jonathan Strange and Mr. Norrell</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Such tales by Bachmann work precisely because there are a great many
@@ -1624,6 +1733,7 @@
             <biblScope>issue 1134/1135</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She is a friend of my mind. She gather me, man. The pieces I am, she
@@ -1634,6 +1744,7 @@
             <author>Toni Morrison</author>, <title rend="italic">Beloved</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Paul D did not answer because she didn’t expect or want him to, but he
@@ -1660,6 +1771,7 @@
             <author>Toni Morrison</author>, <title rend="italic">Beloved</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A man ain’t a goddamn ax. Chopping, hacking, busting every goddamn
@@ -1670,6 +1782,7 @@
             <author>Toni Morrison</author>, <title rend="italic">Beloved</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Anything divine must come to us in worldly clothing, and so it comes to
@@ -1685,6 +1798,7 @@
             <title rend="italic">The Years of Rice and Salt</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is always thus at the moment of change, when we rise up out of the
@@ -1697,6 +1811,7 @@
             <title rend="italic">The Years of Rice and Salt</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...she would often make the passage, helped perhaps by her shifts from
@@ -1713,6 +1828,7 @@
             <title rend="italic">The Years of Rice and Salt</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>There’s a grosser irony about Politically Correct English. This is that
@@ -1732,7 +1848,8 @@
           <bibl>David Foster Wallace, <hi rend="italic">Consider the Lobster: And
           Other Essays</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Optimism through stalwart skepticism is a defect not everyone is lucky
@@ -1746,6 +1863,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I certainly wasn’t happy. Happiness has to do with reason, and only
@@ -1757,6 +1875,7 @@
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>How does one hate a country, or love one? Tibe talks about it; I lack
@@ -1771,6 +1890,7 @@
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is hard, I found, to be called traitor. Strange how hard it is, for
@@ -1782,6 +1902,7 @@
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Tell me, Genry, what is known? What is sure, predictable, inevitable –
@@ -1796,6 +1917,7 @@
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>If it were proven that there is no God there would be no religion. No
@@ -1807,6 +1929,7 @@
             <title rend="italic">The Left Hand of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A man with conviction is a hard man to change. Tell him you disagree
@@ -1815,6 +1938,7 @@
           </quote>
           <bibl><author>Leon Festinger</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>I learned that the story has no beginning, and no story has an end.
@@ -1827,6 +1951,7 @@
             <title rend="italic">The Birthday of the World and Other Stories</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Some people have criticized me for not letting my suspension of
@@ -1845,6 +1970,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>...What do we believe that will be proven wrong in the future? I envy
@@ -1859,6 +1985,7 @@
               Queen’s Window</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I CONJURE THIS INTREPID FANTASYSCAPE WITH TEARS BLED FROM THE
@@ -1878,6 +2005,7 @@
             <ref target="http://www.mspaintadventures.com/?s=6&amp;p=003578">page 3578</ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The Four Horsemen don’t <hi rend="italic">cause</hi> the Apocalypse.
@@ -1892,6 +2020,7 @@
             <author>Alan Moore</author>, <title rend="italic">Promethea Book 1</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Maybe <hi rend="italic">because</hi> I had no knowledge of those
@@ -1912,6 +2041,7 @@
             <title rend="italic">Once Upon a Time (She Said)</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -1921,6 +2051,7 @@
           </quote>
           <bibl><author>Tim Minchin</author>, <title rend="quoted">Storm</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>That’s what I call an activist click moment: find the other people like
@@ -1935,6 +2066,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s not <hi rend="italic">shame</hi> that makes a man a failure...
@@ -1945,6 +2077,7 @@
             <title rend="italic">Astro City: The Tarnished Angel</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The thing about sexism, and all the various -isms that are out there,
@@ -1960,6 +2093,7 @@
             </ref>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All those who thought that the Princess was going to select the tin box
@@ -1973,6 +2107,7 @@
             <title rend="quoted">The Princess and the Tin Box</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Call a jack a jack. Call a spade a spade. But always call a whore a
@@ -1982,6 +2117,7 @@
             <author>Patrick Rothfuss</author>, <title rend="italic">The Name of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The essential American freedoms appear with grandeur in the Bill of
@@ -1993,6 +2129,7 @@
             <title rend="italic">Nightmare in Red: The McCarthy Era in Perspective</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Critics who treat ‘adult’ as a term of approval, instead of as a merely
@@ -2013,6 +2150,7 @@
             <title rend="quoted">On Three Ways of Writing for Children</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We must not confuse dissent with disloyalty. When the loyal opposition
@@ -2020,6 +2158,7 @@
           </quote>
           <bibl><author>Edward R. Murrow</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Most truths are so naked that people feel sorry for them and cover them
@@ -2027,12 +2166,14 @@
           </quote>
           <bibl><author>Edward R. Murrow</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Be kind, for everyone you meet is fighting a hard battle.</p>
           </quote>
           <bibl><author>Ian MacLaren</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Never doubt that a small group of thoughtful citizens can change the
@@ -2040,6 +2181,7 @@
           </quote>
           <bibl><author>Margaret Mead</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Only a fool humbles himself when the world is so full of men eager to
@@ -2050,6 +2192,7 @@
             <title rend="italic">A Clash of Kings</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Why should death make a man truthful, or even clever? The dead are
@@ -2062,6 +2205,7 @@
             <title rend="italic">A Clash of Kings</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When someone actually solves a problem that he merely has had ideas
@@ -2072,6 +2216,7 @@
             <title rend="italic">An Introduction to Information Theory: Symbols, Signals and Noise</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We all long for what we can’t have, at least from time to time. But the
@@ -2083,6 +2228,7 @@
             <title rend="italic">Midori Days Vol. 1</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There was a silly damn bird called a phoenix back before Christ, every
@@ -2100,6 +2246,7 @@
             <author>Ray Bradbury</author>, <title rend="italic">Fahrenheit 451</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Everyone must leave something behind when he dies, my grandfather said.
@@ -2115,6 +2262,7 @@
             <author>Ray Bradbury</author>, <title rend="italic">Fahrenheit 451</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...When the war’s over, someday, some year, the books can be written
@@ -2129,6 +2277,7 @@
             <author>Ray Bradbury</author>, <title rend="italic">Fahrenheit 451</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The faces of those enameled creatures meant nothing to him, though he
@@ -2145,6 +2294,7 @@
             <author>Ray Bradbury</author>, <title rend="italic">Fahrenheit 451</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>With the fall of dusk, things simultaneously expand and contract.
@@ -2160,6 +2310,7 @@
             <title rend="italic">Machine of Death</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...that is the way childhoods are constructed, long afterward: you
@@ -2174,6 +2325,7 @@
             <title rend="italic">Machine of Death</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I tell people I don’t, but the truth is, I do think about it sometimes.
@@ -2192,6 +2344,7 @@
             <title rend="italic">Machine of Death</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The most important things to remember about back story are that (a)
@@ -2201,6 +2354,7 @@
             <author>Stephen King</author>, <title rend="italic">On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When I’m asked why I decided to write the sort of thing I do write, I
@@ -2216,6 +2370,7 @@
             <author>Stephen King</author>, <title rend="italic">On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life isn’t a support system for art. It’s the other way around.</p>
@@ -2224,6 +2379,7 @@
             <author>Stephen King</author>, <title rend="italic">On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When you write a story, you’re telling yourself the story... When you
@@ -2234,6 +2390,7 @@
             <author>Stephen King</author>, <title rend="italic">On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>He let you down, Mister Trev. He wasn’t the small boy’s god. It turned
@@ -2253,6 +2410,7 @@
             <title rend="italic">Unseen Academicals</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Documents are, quite simply, talking things. They are bits of the
@@ -2261,6 +2419,7 @@
           </quote>
           <bibl><author>David Levy</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Telling someone you’ve no interest in their god of choice is like
@@ -2269,6 +2428,7 @@
           </quote>
           <bibl><author>Randall Milholland</author></bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Can a man still be brave if he’s afraid?</said></p>
@@ -2279,6 +2439,7 @@
             <title rend="italic">A Game of Thrones</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She thought of sex as the <title rend="italic">Star Trek</title> transport.
@@ -2290,6 +2451,7 @@
             <title rend="italic">The Lovely Bones</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Even me with no heart to speak of knew it plain as day that people
@@ -2301,12 +2463,14 @@
             <title rend="italic">Havemercy</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>History is often more instructive than inspirational.</p>
           </quote>
           <bibl><series>Mythbusters</series>: <title rend="quoted">MacGyver Myths</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>It is true that totalitarian domination tried to establish these holes of 
@@ -2336,6 +2500,7 @@
             <title rend="italic">Eichmann in Jerusalem: A Report on the Banality of Evil</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Small wonder how pitiably we love our home, cling in her skirts at
@@ -2347,6 +2512,7 @@
             <title rend="italic">Let Us Now Praise Famous Men</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Wiser and more capable men than I shall ever be have put their findings
@@ -2362,6 +2528,7 @@
             <title rend="italic">Let Us Now Praise Famous Men</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>As a matter of fact, nothing I write could make any difference
@@ -2381,6 +2548,7 @@
             <title rend="italic">Let Us Now Praise Famous Men</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -2390,6 +2558,7 @@
           </quote>
           <bibl><author>Robert Browning</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>The sorrow of all mankind is that we can never complete what is between
@@ -2399,6 +2568,7 @@
             <author>Ann Rinaldi</author>, <title rend="italic">A Break With Charity</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No man has believed perfectly until he wishes for his brother what he
@@ -2409,6 +2579,7 @@
             <title rend="italic">The Autobiography of Malcolm X as told to Alex Hadley</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All of our experiences fuse into our personality. Everything that ever
@@ -2419,12 +2590,14 @@
             <title rend="italic">The Autobiography of Malcolm X as told to Alex Hadley</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Every word is like an unnecessary stain on silence and nothingness.</p>
           </quote>
           <bibl><author>Samuel Beckett</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>No one ever said on their deathbed, <said>Gee, I wish I had spent more time
@@ -2432,6 +2605,7 @@
           </quote>
           <bibl><author>Dani Bunten Berry</author></bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -2443,6 +2617,7 @@
           </quote>
           <bibl><author>Emily Dickinson</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Ideas are not like fine china, ideas are like paper cups – they are
@@ -2453,6 +2628,7 @@
             <author>Jesse Schell</author>, <title rend="italic">The Art of Game Design</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Play is manipulation that indulges curiosity.</p>
@@ -2461,6 +2637,7 @@
             <author>Jesse Schell</author>, <title rend="italic">The Art of Game Design</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>At least half of all writing involves just sitting and staring into
@@ -2473,6 +2650,7 @@
             <date when="2009-11-06"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Published in the United States by Vintage Books, a division of Random
@@ -2493,6 +2671,7 @@
             <title rend="italic">A Heartbreaking Work of Staggering Genius</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The cure for boredom is curiosity.</p>
@@ -2501,6 +2680,7 @@
             <author>Rob Balder</author> and <author>Jamie Noguchi</author>,
             <title rend="quoted">Erfworld</title> summer update 38, 10/1/09</bibl>
         </item>
+
         <item>
           <quote>
             <p>Nothing gives us courage more readily than the desire to avoid looking
@@ -2510,6 +2690,7 @@
             <author>Dean Koontz</author>, <title rend="italic">Seize the Night</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Human beings can always be counted on to assert, with vigor, their
@@ -2519,6 +2700,7 @@
             <author>Dean Koontz</author>, <title rend="italic">Seize the Night</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s too late for the government to train me to be a weapon. For
@@ -2541,6 +2723,7 @@
             <date when="2009-09-22"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I believe what I’ve done is come to the conclusion that you don’t
@@ -2556,6 +2739,7 @@
             <date when="2009-09-16"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s dangerous business... going out of your door... You step into the
@@ -2568,6 +2752,7 @@
             <title rend="italic">The Fellowship of the Ring</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -2587,6 +2772,7 @@
             <title rend="italic">The Fellowship of the Ring</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Sorry, I’m used to working with people who are on the same page as me,
@@ -2599,6 +2785,7 @@
             <date when="2009-05-15"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Tumbleweeds exist everywhere that something isn’t.</p>
@@ -2609,6 +2796,7 @@
             <date when="2009-04-01"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There are moments when the zippy narrative of your life lets up, and
@@ -2625,6 +2813,7 @@
             <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To wit: He does not even care who really suffered and who didn’t. To
@@ -2637,6 +2826,7 @@
             <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In short, this was a man with qualities, which was the first
@@ -2647,6 +2837,7 @@
             <title rend="italic">The Enchantress of Florence</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The curse of the human race is not that we are so different from one
@@ -2657,6 +2848,7 @@
             <title rend="italic">The Enchantress of Florence</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The past was a light that if properly directed could illumine the
@@ -2667,6 +2859,7 @@
             <title rend="italic">The Enchantress of Florence</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Believe it or not... I am just a regular person who has decided to be
@@ -2681,6 +2874,7 @@
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>History wasn’t that easy to learn, seemed to be what I was learning. It
@@ -2693,6 +2887,7 @@
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It isn’t only food that goes through the umbilical cord... Memory and
@@ -2704,6 +2899,7 @@
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>-Karsh, I said. –Do you believe in destiny?</p>
@@ -2717,6 +2913,7 @@
             <title rend="italic">Born Confused</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Perhaps it is true that all that happens is in accordance with Your
@@ -2729,6 +2926,7 @@
             <title rend="italic">Smoke and Mirrors</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Even the better protected files corrupt, and the best protected corrupt
@@ -2740,6 +2938,7 @@
             <title rend="italic">Smoke and Mirrors</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It looks like religious mania, and he will soon think that he himself
@@ -2752,6 +2951,7 @@
             <author>Bram Stoker</author>, <title rend="italic">Dracula</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I can’t tell you how many times I’ve heard the old <soCalled>it’s not you, it’s
@@ -2762,6 +2962,7 @@
             <title rend="italic">Candorville</title>
             <date when="2009-03-18"/> comments</bibl>
         </item>
+
         <item>
           <quote>
             <p>You reach a point... where you cannot cry anymore, and you look around
@@ -2775,6 +2976,7 @@
             <title rend="italic">Self-Help</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Unfortunately, you have lost the respect of all but one of your
@@ -2788,6 +2990,7 @@
             <title rend="italic">Self-Help</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Nobody ever stops talking after they say <said>I don’t know what to tell
@@ -2800,6 +3003,7 @@
             <biblScope>page 21</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>God never burdens us with more depleted uranium than we can carry.</p>
@@ -2810,6 +3014,7 @@
             <title rend="quoted">Kitchen Floor</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Now, for being quiet. This is by far the more difficult of the two, but
@@ -2839,6 +3044,7 @@
             <date when="2007-11"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You may not love Scott McCloud, but he loves you, McCloud loves
@@ -2856,6 +3062,7 @@
             <date when="2005-03-04"/> blog post comments
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You draw an innocent little comic strip, you try to bring a dash of joy
@@ -2869,6 +3076,7 @@
             <date from="2009-01-12" to="2009-01-17"/> comments
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Any place could be a prison... if your head wasn’t right.</p>
@@ -2877,6 +3085,7 @@
             <author>Blake Nelson</author>, <title rend="italic">Paranoid Park</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Maybe that’s exactly the thing that <hi rend="italic">made</hi> you a
@@ -2887,6 +3096,7 @@
             <author>Blake Nelson</author>, <title rend="italic">Paranoid Park</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There is a taint of death, a flavour of mortality in lies.</p>
@@ -2895,6 +3105,7 @@
             <author>Joseph Conrad</author>, <title rend="italic">Heart of Darkness</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is the nature of the hero to be a fool.</p>
@@ -2904,6 +3115,7 @@
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Then Arthur learned, as all leaders are astonished to learn, that
@@ -2916,6 +3128,7 @@
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In the combat between wisdom and feeling, wisdom never wins.</p>
@@ -2925,6 +3138,7 @@
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Misfortune is not fair, fate is not just, but they exist just the
@@ -2935,6 +3149,7 @@
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Arthur looked upward and he said, <said>It’s a black day, a troubled
@@ -2947,6 +3162,7 @@
             <title rend="italic">The Acts of King Arthur and His Noble Knights</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Growing up is like taking down the sides of your house and letting
@@ -2956,6 +3172,7 @@
             <author>Maureen Daly</author>, <title rend="italic">Seventeenth Summer</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Religion is too personal a thing to share promiscuously.</p>
@@ -2964,6 +3181,7 @@
             <author>Maureen Daly</author>, <title rend="italic">Seventeenth Summer</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I can’t go to church. I’m not of the generation who simply believe. I
@@ -2979,6 +3197,7 @@
             <title rend="italic">The World and Other Places</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Like leaves. Just like leaves. Don’t you like them just a little where
@@ -2995,6 +3214,7 @@
             <title rend="italic">The World and Other Places</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Into the clockwork universe the quantum child. Why doesn’t every mother
@@ -3012,6 +3232,7 @@
             <title rend="italic">The World and Other Places</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Heaven or Hell in the hereafter will be luggage or the lack of it. The
@@ -3028,6 +3249,7 @@
             <title rend="italic">The World and Other Places</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Home was not a place for the faint-hearted; only the very brave could
@@ -3039,6 +3261,7 @@
             <title rend="italic">The World and Other Places</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is such a secret place, the land of tears.</p>
@@ -3048,6 +3271,7 @@
             <title rend="italic">The Little Prince</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In the course of this life I have had a great many people who have been
@@ -3060,6 +3284,7 @@
             <title rend="italic">The Little Prince</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I don’t believe in magic. But I do believe in interpreting coincidence
@@ -3072,6 +3297,7 @@
             <date when="2008-06-29"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>One of the most basic rules for survival on any planet is never to
@@ -3085,6 +3311,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">The Last Continent</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is very easy to get ridiculously confused about the tenses of time
@@ -3094,6 +3321,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">The Last Continent</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There are some things that can’t die, but there is nothing that can’t
@@ -3103,6 +3331,7 @@
             <author>Madeline L’Engle</author>, <title rend="italic">The Small Rain</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Winter denial: therein lay the key to California Schadenfreude – the
@@ -3115,6 +3344,7 @@
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The bar was full of singles in their twenties and thirties and you
@@ -3127,6 +3357,7 @@
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Men: a wink, a thrill, a damp squish, and before you knew it it was
@@ -3137,6 +3368,7 @@
             <title rend="italic">The Stupidest Angel: A Heartwarming Tale of Christmas Terror</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Not everyone who reaches back into history can survive it. And it is
@@ -3148,6 +3380,7 @@
             <title rend="italic">The Historian</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Criminals are a superstitious and <hi rend="italic">cowardly</hi> lot,
@@ -3162,6 +3395,7 @@
             <date when="2008-07-01"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The fighting gradually stopped. The fighters tried to look as if they’d
@@ -3174,6 +3408,7 @@
             <title rend="italic">Feet of Clay</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When your dawn theater sounds to clear your sinuses: don’t delay. Jump.
@@ -3191,6 +3426,7 @@
             <title rend="italic">Quicker Than the Eye</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Beauty is in the eye of the beholder and it may be necessary from time
@@ -3198,6 +3434,7 @@
           </quote>
           <bibl><author>Miss Piggy</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>If you have built castles in the air, your work need not be lost; that
@@ -3205,6 +3442,7 @@
           </quote>
           <bibl><author>Henry David Thoreau</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>History doesn’t always repeat itself... sometimes it just screams ‘Why
@@ -3212,6 +3450,7 @@
           </quote>
           <bibl><author>John W. Campbell, Jr.</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Accomplishing the impossible means only that the boss will add it to
@@ -3219,18 +3458,21 @@
           </quote>
           <bibl><author>Doug Larson</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>God is real unless declared integer.</p>
           </quote>
           <bibl>David (Squeak wiki Quote of the Day)</bibl>
           </item>
+
           <item>
           <quote>
           <p>Programming is debugging a blank sheet of paper.</p>
           </quote>
           <bibl>Gerald Sussman</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>I think spooning is the safest place on Earth.</p>
@@ -3241,6 +3483,7 @@
             <date when="2008-04-30"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s an idea that many people seem to latch on to that if we were
@@ -3257,6 +3500,7 @@
             <series rend="quoted">Zero Punctuation</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Obligation is more than a claim imposed on us; it is a personal sense
@@ -3268,6 +3512,7 @@
             <title rend="italic">Going After Cacciato</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>For just as happiness is more than the absence of sadness, so is peace
@@ -3282,6 +3527,7 @@
             <title rend="italic">Going After Cacciato</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Fortune-telling is for lunatics and old women. History is the stronger
@@ -3293,6 +3539,7 @@
             <title rend="italic">Going After Cacciato</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When you were grown up you only feared, well, logical things. Poverty.
@@ -3305,6 +3552,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>One should always be wary of people who talk unashamedly of <soCalled>fellowship
@@ -3315,6 +3563,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s not better to receive, in my opinion, it’s just less
@@ -3324,6 +3573,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The path to wisdom does, in fact, begin with a single step.</p>
@@ -3339,6 +3589,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Getting an education was a bit like a communicable sexual disease. It
@@ -3349,6 +3600,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...People have always been dimly aware of the problem with the start of
@@ -3363,6 +3615,7 @@
             <author>Terry Pratchett</author>, <title rend="italic">Hogfather</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -3376,6 +3629,7 @@
             <author>William Shakespeare</author>, <title rend="title">Macbeth</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Love is hard to believe, ask any lover. Life is hard to believe, ask
@@ -3385,6 +3639,7 @@
           <bibl><author>Yann Martel</author>, <title rend="italic">Life of Pi</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>For evil in the open is but evil from within that has been let out.</p>
@@ -3392,6 +3647,7 @@
           <bibl><author>Yann Martel</author>, <title rend="italic">Life of Pi</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The reason death sticks so closely to life isn’t biological necessity -
@@ -3404,18 +3660,21 @@
             <author>Yann Martel</author>, <title rend="italic">Life of Pi</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To love is to place our happiness in the happiness of another.</p>
           </quote>
           <bibl><author>Gottfried von Leibnitz</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Reality is merely an illusion, albeit a very persistent one.</p>
           </quote>
           <bibl><author>Albert Einstein</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>People assume that time is a strict progression of cause to effect...
@@ -3427,6 +3686,7 @@
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>One may tolerate a world of demons for the sake of an angel.</p>
@@ -3436,6 +3696,7 @@
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Some things are worth getting your heart broken for.</p>
@@ -3445,6 +3706,7 @@
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Time travel is like visiting Paris. You can’t just read the guidebook,
@@ -3457,6 +3719,7 @@
             <series rend="quoted">Doctor Who</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Science-fiction is the law-abiding citizen of imaginative literature,
@@ -3477,6 +3740,7 @@
             <title rend="italic">The Circus of Dr. Lao</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>From now on I hope always to educate myself as best I can. But lacking
@@ -3488,6 +3752,7 @@
           </quote>
           <bibl><author>Ray Bradbury</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>People inside a parked car have a tendency to disappear, they get lost
@@ -3500,6 +3765,7 @@
             <title rend="italic">Blow-Up and Other Stories</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>They think it’s wisdom because they’ve piled up a lot of books and
@@ -3513,6 +3779,7 @@
             <title rend="italic">Blow-Up and Other Stories</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We’ve all heard that a million monkeys banging on a million typewriters
@@ -3521,6 +3788,7 @@
           </quote>
           <bibl><author>Robert Wilensky</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>To speak behind others’ backs is the ventilator of the heart.</p>
@@ -3530,6 +3798,7 @@
             <title rend="italic">Embroideries</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Typos will lurk and creep and scuttle on the edges of the text and,
@@ -3542,6 +3811,7 @@
             <date when="2008-04-28"/>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Voilà! In view, a humble vaudevillian veteran, cast vicariously as both
@@ -3558,12 +3828,14 @@
           </quote>
           <bibl>“V for Vendetta”</bibl>
           </item>
+
           <item>
           <quote>
           <p>The act of leaving home is the act of knowing home.</p>
           </quote>
           <bibl>Dr. Jeff Goldstein, astronomer</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>We would really like to think that you were holding hands with somebody
@@ -3577,6 +3849,7 @@
             <title rend="italic">The Boy Detective Fails</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Where do you go when you die? Ha ha. Go on and tell her, Billy.</said></p>
@@ -3588,6 +3861,7 @@
             <title rend="italic">The Boy Detective Fails</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Why do people do evil things?</said></p>
@@ -3608,6 +3882,7 @@
             <title rend="italic">The Boy Detective Fails</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>An act of evil is the death of wonder.</p>
@@ -3617,6 +3892,7 @@
             <title rend="italic">The Boy Detective Fails</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>My father, for those who came in late, is a (now retired) professor of
@@ -3637,6 +3913,7 @@
             <series>Websnark</series>
             <date when="2008-02-18"/></bibl>
         </item>
+
         <item>
           <quote>
             <p>I’m a professor of English and if I split an infinitive, it goddamn
@@ -3644,6 +3921,7 @@
           </quote>
           <bibl><author>Raymond Chandler</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Why love the woman who is your wife? Her nose breathes in the air of a
@@ -3657,6 +3935,7 @@
             <title rend="italic">Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>That’s friendship, each playing the potter to see what shapes we can
@@ -3667,6 +3946,7 @@
             <title rend="italic">Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Million-to-one chances... crop up nine times out of ten.</p>
@@ -3676,6 +3956,7 @@
             <title rend="italic">Equal Rites</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>They both savored the strange warm glow of being much more ignorant
@@ -3686,6 +3967,7 @@
             <title rend="italic">Equal Rites</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It was, in fact, one of those places that exist merely so that people
@@ -3702,6 +3984,7 @@
             <title rend="italic">Equal Rites</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No one is finally dead until the ripples they cause in the world die
@@ -3715,6 +3998,7 @@
             <title rend="italic">Reaper Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Everyday took an age to go by, which was odd, because days
@@ -3725,6 +4009,7 @@
             <title rend="italic">Reaper Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It goes like this. I spent <hi rend="bold">years</hi>. And I mean
@@ -3746,6 +4031,7 @@
             <date when="2007-01-15"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Wars have no memory, and nobody has the courage to understand them
@@ -3758,6 +4044,7 @@
             <title rend="italic">The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Books are mirrors: you only see in them what you already have inside
@@ -3768,6 +4055,7 @@
             <title rend="italic">The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>One of the pitfalls of childhood is that one doesn’t have to understand
@@ -3779,6 +4067,7 @@
             <title rend="italic">The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Chaos it is then. We’ll need coffee.</p>
@@ -3788,6 +4077,7 @@
             <title rend="italic">Full Color</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Being hung over is like winning the lottery, except they pay you in
@@ -3799,6 +4089,7 @@
             <date when="2007-08-20"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s the same old story... whatever it turns into on the way, whatever
@@ -3811,6 +4102,7 @@
             <title rend="italic">The Kindly Ones</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>When a true genius appears in the world you may know him by this sign:
@@ -3818,12 +4110,14 @@
           </quote>
           <bibl>Jonathan Swift</bibl>
           </item>
+
           <item>
           <quote>
           <p>I respect faith, but doubt is what gets you an education.</p>
           </quote>
           <bibl>William Mizner</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Now our generation did soup kitchens. We did clothing drives, food
@@ -3837,6 +4131,7 @@
             <title rend="italic">The Love Wife</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -3853,6 +4148,7 @@
             <title rend="quoted">The Tempest</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You are you, playing chess with yourself, and again you have checkmated
@@ -3865,6 +4161,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Do not confuse <soCalled>duty</soCalled> with what other people expect of you; they are
@@ -3884,6 +4181,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To be <soCalled>matter of fact</soCalled> about the world is to 
@@ -3895,6 +4193,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To stay young requires unceasing cultivation of the ability to unlearn
@@ -3905,6 +4204,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Delusions are often functional. A mother’s opinions about her
@@ -3916,6 +4216,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Always listen to experts. They’ll tell you what can’t be done, and why.
@@ -3926,6 +4227,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Give the future enough thought to be ready for it – but don’t worry
@@ -3938,6 +4240,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Age does not bring wisdom. Often it merely changes simple stupidity
@@ -3955,6 +4258,7 @@
             <title rend="italic">Time Enough for Love</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Nobody is perfect... You just have to close your eyes and breathe out
@@ -3965,6 +4269,7 @@
             <title rend="italic">The Secret Life of Bees</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Once you know the truth, you can’t ever go back and pick up your
@@ -3975,6 +4280,7 @@
             <title rend="italic">The Secret Life of Bees</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Probably one or two moments in your whole life you will hear a dark
@@ -3987,6 +4293,7 @@
             <title rend="italic">The Secret Life of Bees</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The problem with people is... they <hi rend="italic">know</hi> what
@@ -3998,6 +4305,7 @@
             <title rend="italic">The Secret Life of Bees</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The idea of escape was fiction, I realized. You could travel to the
@@ -4014,6 +4322,7 @@
             <title rend="italic">Somebody’s Daughter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>As long as we can love each other, and remember the feeling of love we
@@ -4027,6 +4336,7 @@
             <title rend="italic">Tuesdays With Morrie</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>If you’ve found meaning in your life, you don’t want to go back. You
@@ -4037,6 +4347,7 @@
             <title rend="italic">Tuesdays With Morrie</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life is a series of pulls back and forth. You want to do something, but
@@ -4049,6 +4360,7 @@
             <title rend="italic">Tuesdays With Morrie</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No matter what, expect the unexpected. And whenever possible BE the
@@ -4059,6 +4371,7 @@
             <title rend="italic">Cruddy</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Once in the sagging bed Mondrosch plummeted into a dark well and
@@ -4070,6 +4383,7 @@
             <title>Firebirds</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The first step towards recovery is to turn your personal tragedy into a
@@ -4079,6 +4393,7 @@
             <author>Jeph Jacques</author>, <series rend="quoted">Questionable Content</series>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Weeds are flowers too, once you get to know them.</p>
@@ -4087,6 +4402,7 @@
             <author>A. A. Milne</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A man of God is called by God. A man of the people calls the people.
@@ -4102,6 +4418,7 @@
             <title>Getting Mother’s Body</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Because I’m telling you this story I will believe your existence. I
@@ -4112,6 +4429,7 @@
             <title>The Handmaid’s Tale</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>How easy it is to invent a humanity, for anyone at all.</p>
@@ -4121,6 +4439,7 @@
             <title>The Handmaid’s Tale</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I could not see that true mathematics, rather than keeping track of
@@ -4133,6 +4452,7 @@
             <title>Hunger</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The things we admire in men, kindness and generosity, openness,
@@ -4147,6 +4467,7 @@
             <title>Cannery Row</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>How can the poem and the stink and the grating noise – the quality of
@@ -4163,6 +4484,7 @@
             <title>Cannery Row</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Up to the middle of the 20th century, there was no puberty. People were
@@ -4182,6 +4504,7 @@
             <date when="2007-02-12"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Deep within, someone waits for us in the garden. She is an angel,
@@ -4195,6 +4518,7 @@
             <title rend="quoted">Homebody/Kabul</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...If you’re thinking how awful these sentiments are, you are perfectly
@@ -4213,6 +4537,7 @@
             <title rend="quoted">Homebody/Kabul</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I used to think truth was eternal, that once I <hi rend="italic">knew</hi>,
@@ -4227,6 +4552,7 @@
             <title>Autobiography of a Face</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I felt keenly the great expanses, the chasmal spaces between each of
@@ -4241,6 +4567,7 @@
             <title>Autobiography of a Face</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Language supplies us with ways to express ever subtler levels of
@@ -4252,6 +4579,7 @@
             <title>Autobiography of a Face</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Gatsby believed in the green light, the orgastic future that year by
@@ -4266,6 +4594,7 @@
             <title>The Great Gatsby</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The destruction of and damage to archaeological evidence is, again in a
@@ -4281,6 +4610,7 @@
           </quote>
           <bibl>Unknown archeology book</bibl>
         </item>
+
         <item>
           <quote>
             <p>Man is a curious animal, and much of what now differentiates him from
@@ -4294,6 +4624,7 @@
           </quote>
           <bibl>Unknown archeology book</bibl>
         </item>
+
         <item>
           <quote>
             <p>Lies have a thousand faces, even the demon’s. Truth has only one, and
@@ -4301,6 +4632,7 @@
           </quote>
           <bibl><title rend="quoted">The Return of Martin Guerre</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>They’ll say, <said>Oh my God, that’s horrible,</said> and then go on eating their
@@ -4308,6 +4640,7 @@
           </quote>
           <bibl><title rend="quoted">Hotel Rwanda</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>The most beautiful thing we can experience is the mysterious. It is the
@@ -4315,6 +4648,7 @@
           </quote>
           <bibl><author>Albert Einstein</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Memory is part of the present. It builds us up inside; it knits our
@@ -4327,6 +4661,7 @@
             <title>Son of a Witch</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A capacity for interiority in the growing adult is threatened by the
@@ -4340,6 +4675,7 @@
             <title>Son of a Witch</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Among the human kind, thought even the most jaded and bitter of
@@ -4353,6 +4689,7 @@
             <title>Son of a Witch</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><soCalled>1/0</soCalled> is a paradox; in a way that <soCalled>0/1</soCalled> is not. Nothing can be divided
@@ -4375,6 +4712,7 @@
             <author>Tailsteak (aka Mason Williams)</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I figure if the world were really right, humans would live life
@@ -4388,6 +4726,7 @@
             <title>The First Part Last</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I am not yet so lost in lexicography as to forget that words are the
@@ -4395,6 +4734,7 @@
           </quote>
           <bibl><author>Samuel Johnson</author>, preface to his dictionary</bibl>
         </item>
+
         <item>
           <quote>
             <p>He knew what he knew: that the real world was full of magic, so magical
@@ -4405,12 +4745,14 @@
             <title>Haroun and the Sea of Stories</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Only God has all the answers. All your friends can do is talk back.</p>
           </quote>
           <bibl><author>Joe England</author>, <series rend="quoted">Zebra Girl</series> <date>1/9/04</date></bibl>
         </item>
+
         <item>
           <quote>
             <p>Sometimes you have to jump off cliffs and build your wings on the way
@@ -4418,6 +4760,7 @@
           </quote>
           <bibl><author>Ray Bradbury</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Things need not have happened to be true. Tales and dreams are the
@@ -4429,6 +4772,7 @@
             <title>Dream Country</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Step outside the narrow borders of what men call reality and you step
@@ -4439,6 +4783,7 @@
             <title>Invisible Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>My world has become one of infinite possibilities.</p>
@@ -4448,6 +4793,7 @@
             <title>Invisible Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>For history records the patterns of men’s lives, they say: Who slept
@@ -4462,6 +4808,7 @@
             <title>Invisible Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I had floundered into a state of hyperreceptivity; a desperate
@@ -4477,6 +4824,7 @@
             <title>Invisible Man</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Tragic heroes are so much the highest points in their human landscape
@@ -4487,6 +4835,7 @@
           </quote>
           <bibl><author>Northrop Frye</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>There are two ways of spreading light: be the candle or the mirror that
@@ -4494,6 +4843,7 @@
           </quote>
           <bibl><author>Edith Wharton</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Writing is easy. You only need to stare at a piece of blank paper until
@@ -4501,6 +4851,7 @@
           </quote>
           <bibl><author>Douglas Adams</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>The secret of a good old age is simply an honorable pact with
@@ -4511,6 +4862,7 @@
             <title>One Hundred Years of Solitude</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Children inherit their parents’ madness.</p>
@@ -4520,6 +4872,7 @@
             <title>One Hundred Years of Solitude</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You always struggle frantically to keep yourself from drowning... when
@@ -4531,6 +4884,7 @@
             <biblScope>vol. 12</biblScope>, <biblScope>chapter 70</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Everyone is considered innocent until he can no longer afford to hire
@@ -4538,6 +4892,7 @@
           </quote>
           <bibl><author>Roman Wunderlich</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Once you’ve written something it’s not yours any longer: it belongs to
@@ -4547,6 +4902,7 @@
           </quote>
           <bibl><author>Neil Gaiman</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>The best reaction to a rejection slip is a sort of wild-eyed madness,
@@ -4558,6 +4914,7 @@
           </quote>
           <bibl><author>Neil Gaiman</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>I hate being in the final stages of a story. It’s like trying to run
@@ -4572,6 +4929,7 @@
           </quote>
           <bibl><author>Neil Gaiman</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Too many problems in this world are caused by men with mere
@@ -4582,6 +4940,7 @@
             <title>Eldest</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Everyone dies alone, Eragon. Whether you are a king on a battlefield or
@@ -4593,6 +4952,7 @@
             <title>Eldest</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -4614,6 +4974,7 @@
             <biblScope>Ode II</biblScope>, <biblScope>lines 21-8</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -4628,6 +4989,7 @@
             <author>Aeschylus</author>, <title rend="quoted">Agamemnon</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Stories are webs, interconnected strand to strand, and you follow each
@@ -4639,6 +5001,7 @@
             <title>Anansi Boys</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Impossible things happen. When they do happen, most people just deal
@@ -4653,6 +5016,7 @@
             <title>Anansi Boys</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Stories are like spiders, with all they long legs, and stories are like
@@ -4665,6 +5029,7 @@
             <title>Anansi Boys</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Of course, everyone’s parents are embarrassing. It goes with the
@@ -4678,6 +5043,7 @@
             <title>Anansi Boys</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In the end, we will remember not the words of our enemies, but the
@@ -4687,6 +5053,7 @@
             <author>Martin Luther King, Jr.</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The Virgin looks as holy as ever, but I have never noticed the sadness
@@ -4698,6 +5065,7 @@
             <title>Little Altars Everywhere</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Men have had every advantage of us in telling their own story.
@@ -4709,6 +5077,7 @@
             <title>Persuasion</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The thing about a story is that you dream it as you tell it, hoping
@@ -4720,6 +5089,7 @@
             <title>The Things They Carried</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Courage, I seemed to think, comes to us in finite quantities, like an
@@ -4735,6 +5105,7 @@
             <title>The Things They Carried</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Stories are for joining the past to the future. Stories are for those
@@ -4747,6 +5118,7 @@
             <title>The Things They Carried</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What is a country? A country is a piece of land surrounded on all sides
@@ -4757,6 +5129,7 @@
             <title>Catch-22</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The enemy... is anybody who’s going to get you killed, no matter
@@ -4767,6 +5140,7 @@
             <title>Catch-22</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It doesn’t make a damned bit of difference <hi rend="italic">who</hi>
@@ -4777,6 +5151,7 @@
             <title>Catch-22</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is a rare mind indeed that can render the hitherto nonexistent
@@ -4787,6 +5162,7 @@
             <title>Dirk Gently’s Holistic Detective Agency</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In Islington you can hardly hurl a brick without hitting three antique
@@ -4797,6 +5173,7 @@
             <title>Dirk Gently’s Holistic Detective Agency</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She just knew that there were certain things that happened continually
@@ -4807,6 +5184,7 @@
             <title>Witches Abroad</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The wages of sin is death but so is the salary of virtue, and at least
@@ -4817,6 +5195,7 @@
             <title>Witches Abroad</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Men should die for lies. But truth is too precious to die for.</p>
@@ -4826,6 +5205,7 @@
             <title>Small Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Belief <hi rend="italic">shifts</hi>. People start out believing in the
@@ -4836,6 +5216,7 @@
             <title>Small Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We get that in here some nights, when someone’s had a few. Cosmic
@@ -4849,6 +5230,7 @@
             <title>Small Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>That’s why it’s always worth having a few philosophers around the
@@ -4864,6 +5246,7 @@
             <title>Small Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Winners never talk about glorious victories. That’s because they’re the
@@ -4875,6 +5258,7 @@
             <title>Small Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life was, he had heard, like a bird which flies out of the darkness and
@@ -4887,6 +5271,7 @@
             <title>Interesting Times</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Luck is my middle name,</said> said Rincewind, indistinctly. 
@@ -4897,6 +5282,7 @@
             <title>Interesting Times</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>... these men can wage wars, but run wild and fast from the smallest
@@ -4907,6 +5293,7 @@
             <title>Ain’t No Mountain</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is the unknown we fear when we look upon death and darkness, nothing
@@ -4917,6 +5304,7 @@
             <title>Harry Potter and the Half-Blood Prince</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There are a hundred pathways to Om. Unfortunately, I sometimes think
@@ -4927,6 +5315,7 @@
             <title>Carpe Jugulum</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Between the light and the dark... well, sometimes that’s where you had
@@ -4937,6 +5326,7 @@
             <title>Carpe Jugulum</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When people were in serious trouble they went to a witch.<note n="*" place="bottom" anchored="true">
@@ -4948,6 +5338,7 @@
             <title>Carpe Jugulum</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She sang in harmony. Not, of course, with her reflection in the glass,
@@ -4960,6 +5351,7 @@
             <title>Carpe Jugulum</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She liked the idea of <soCalled>cordially.</soCalled> It had a rich, a thick and above all
@@ -4970,6 +5362,7 @@
             <title>Carpe Jugulum</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>...<hi rend="italic">Life</hi> is no play. We meet people once, and
@@ -4984,6 +5377,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I would have thought that all one needs to understand people is to be a
@@ -4994,6 +5388,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I have no liking for prisons, Master Li. Sometimes I suspect that we
@@ -5006,6 +5401,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Death’s a <hi rend="italic">funny</hi> thing. I used to think it was a
@@ -5022,6 +5418,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Entropy and optimism: the twin forces that make the universe go
@@ -5032,6 +5429,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I regret the conversations we never had, the time we did not spend
@@ -5044,6 +5442,7 @@
             <title>The Sandman: The Wake</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Animals can’t murder. Only us superior races can murder. That’s one of
@@ -5054,6 +5453,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The shortest unit of <hi rend="italic">time</hi> in the multiverse is
@@ -5065,6 +5465,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Personal’s not the same as important. People just think it is.</p>
@@ -5074,6 +5475,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The thing about words is that meanings can twist just like a snake, and
@@ -5085,6 +5487,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When you’re a cork in someone else’s stream of consciousness, all you
@@ -5095,6 +5498,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Now read on...</p>
@@ -5113,6 +5517,7 @@
             <title>Lords and Ladies</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Nature abhors dimensional abnormalities, and seals them neatly away so
@@ -5125,6 +5530,7 @@
             <title>Pyramids</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In fact, no gods anywhere play chess. They prefer simple, vicious
@@ -5137,6 +5543,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The vermine is a small black and white relative of the lemming, found
@@ -5149,6 +5556,7 @@
             <title>Sourcery</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Let’s just say that if complete and utter chaos was lightning, he’d be
@@ -5160,6 +5568,7 @@
             <title>The Color of Magic</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When we are really honest with ourselves we must admit that our lives
@@ -5171,6 +5580,7 @@
             <author>Cesar Chavez</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Students must have initiative; they should not be mere imitators. They
@@ -5180,6 +5590,7 @@
             <author>Cesar Chavez</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You are never strong enough that you don’t need help.</p>
@@ -5188,6 +5599,7 @@
             <author>Cesar Chavez</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Violence just hurts those who are already hurt... Instead of exposing
@@ -5197,6 +5609,7 @@
             <author>Cesar Chavez</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Success is the ability to go from failure to failure without losing
@@ -5206,6 +5619,7 @@
             <author>Winston Churchill</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>This is not actually true. The road to Hell is paved with frozen
@@ -5217,6 +5631,7 @@
             <title>Good Omens</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Along with the standard computer warranty agreement which said that if
@@ -5235,6 +5650,7 @@
             <title>Good Omens</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It is said that the Devil has all the best tunes.</p>
@@ -5245,6 +5661,7 @@
             <title>Good Omens</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It may help to understand human affairs to be clear that most of the
@@ -5257,6 +5674,7 @@
             <title>Good Omens</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Human beings mostly aren’t<add resp="amclark42"> [evil]</add>. They just get carried away by new
@@ -5270,6 +5688,7 @@
             <title>Good Omens</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A free soul ought not to pursue any study slavishly... for nothing that
@@ -5281,6 +5700,7 @@
             <biblScope>VII</biblScope> <biblScope>536e</biblScope> [?]
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I haven’t failed, I’ve found 10,000 ways that don’t work.</p>
@@ -5289,6 +5709,7 @@
             <author>Ben Franklin</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Everything that was magical was just a way of describing the world in
@@ -5299,6 +5720,7 @@
             <title>Pyramids</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Ptraci didn’t just derail the train of thought, she ripped up the
@@ -5309,6 +5731,7 @@
             <title>Pyramids</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>No one is more worried by the actual physical manifestation of a god
@@ -5320,6 +5743,7 @@
             <title>Pyramids</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The fact is that camels are far more intelligent than dolphins. They
@@ -5335,6 +5759,7 @@
             <title>Pyramids</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><add resp="amclark42">[God]</add> made the stars also. God set them in the firmament of the heavens
@@ -5345,6 +5770,7 @@
             <title>The Bible</title>, Genesis 1:16-18
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5360,6 +5786,7 @@
             <title rend="quoted">Macbeth</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When all the choices but one have been taken away, what do you do? You
@@ -5371,6 +5798,7 @@
             <title>The Stand</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5384,6 +5812,7 @@
             <author>Alan Shapiro</author>, <title rend="quoted">Fossils</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5398,6 +5827,7 @@
             <biblScope>4.1.173-5</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <l>...what’s past is prologue...</l>
@@ -5408,6 +5838,7 @@
             <biblScope>2.1.289</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5421,6 +5852,7 @@
             <title>The Prophet</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>People who keep a stiff upper lip find that it’s damn hard to smile.</p>
@@ -5430,6 +5862,7 @@
             <title>Ordinary People</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Somehow it is not such a personal failure if you are on something
@@ -5441,6 +5874,7 @@
             <title>Ordinary People</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Genuine anger was one of the world’s great creative forces. But you had
@@ -5455,6 +5889,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Destiny was funny stuff, he knew. You couldn’t trust it. Often you
@@ -5468,6 +5903,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Ninety percent of true love is acute, ear-burning embarrassment.</p>
@@ -5477,6 +5913,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Particles of raw inspiration sleet through the universe all the time.
@@ -5489,6 +5926,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>She thoroughly approved of such sentiments so long as there was, of
@@ -5499,6 +5937,7 @@
             <title>Wyrd Sisters</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The characters in my novels are my own unrealized possibilities.</p>
@@ -5508,6 +5947,7 @@
             <title>The Unbearable Lightness of Being</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>As I have pointed out before, characters are not born like people, of
@@ -5520,6 +5960,7 @@
             <title>The Unbearable Lightness of Being</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I don’t mean one of those
@@ -5531,6 +5972,7 @@
             <title>Dracula</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Some men are born bespoken; a certain path has been assigned to them,
@@ -5544,6 +5986,7 @@
             <biblScope>A. 1</biblScope>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>People believe... it’s what people do. They believe. And then they will
@@ -5558,6 +6001,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Religions are places to stand and look and act, vantage points from
@@ -5568,6 +6012,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>None of this can actually be happening. If it make you more
@@ -5584,6 +6029,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Not only are there no happy endings... there aren’t even any endings.</p>
@@ -5593,6 +6039,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There was only one guy in the whole Bible Jesus ever personally
@@ -5604,6 +6051,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There’s never been a true war that wasn’t fought between two sets of
@@ -5616,6 +6064,7 @@
             <title>American Gods</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In those days I learned that nothing is more frightening than a hero
@@ -5627,6 +6076,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><add resp="amclark42">[He]</add> lived within himself, for his books and inside them – a
@@ -5637,6 +6087,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Evil presupposes a moral decision, intention, and some forethought. A
@@ -5653,6 +6104,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Television... is the Antichrist, and I can assure you that after only
@@ -5668,6 +6120,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Presents are made for the pleasure of who gives them, not for the
@@ -5678,6 +6131,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I couldn’t help thinking that if I, by pure chance, had found a whole
@@ -5693,6 +6147,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Every book, every volume you see here, has a soul. The soul of the
@@ -5705,6 +6160,7 @@
             <title>The Shadow of the Wind</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What caste is grief?</p>
@@ -5714,6 +6170,7 @@
             <title>The Iron Ring</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Rules. Absolutely necessary when disemboweling your enemies. Otherwise,
@@ -5724,6 +6181,7 @@
             <title>The Iron Ring</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Astonishing how you can vex so many people all at once by simply being
@@ -5734,6 +6192,7 @@
             <title>The Iron Ring</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When someone is seeking... it happens quite easily that he only sees the
@@ -5748,6 +6207,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Which father, which teacher, could prevent him from living his own
@@ -5759,6 +6219,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Yes, his destiny was strange! He was going backwards, and now he again
@@ -5769,6 +6230,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>One can beg, buy, be presented with and find love in the streets, but
@@ -5779,6 +6241,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What is it that you wanted to learn from teachings and teachers, and
@@ -5789,6 +6252,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We trod the steps appointed for us: and he whose steps are appointed
@@ -5802,6 +6266,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5818,6 +6283,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>For in the world there is no stability; it is but as a spider’s web to
@@ -5831,6 +6297,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -5846,6 +6313,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>O thou who comest to this place, take warning by that which thou seest
@@ -5859,6 +6327,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Have been unavoidably detained by the world. Expect us when you see
@@ -5869,6 +6338,7 @@
             <title>Stardust</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There is a proverbial saying chiefly concerned with warning against too
@@ -5879,6 +6349,7 @@
             <title>Stardust</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Every lover is in his heart a madman, and in his head a minstrel.</p>
@@ -5888,6 +6359,7 @@
             <title>Stardust</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Trials never end, of course. Unhappiness and misfortune are bound to
@@ -5901,6 +6373,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Technology is blamed for a lot of this loneliness, since the loneliness
@@ -5914,6 +6387,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The place to improve the world is first in one’s own heart and head and
@@ -5924,6 +6398,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The past exists only in our memories, the future only in our plan. The
@@ -5938,6 +6413,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Little children were trained not to do <said>just what they liked</said> but... but
@@ -5952,6 +6428,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Mountains like these and travelers in the mountains and events that
@@ -5966,6 +6443,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The trouble is that essays always have to sound like God talking for
@@ -5979,6 +6457,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>When people are fanatically dedicated to political or religious faiths
@@ -5990,6 +6469,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I want to begin to fulfill a certain obligation by stating that there
@@ -6001,6 +6481,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The truth knocks on the door and you say, <said>Go away, I’m looking 
@@ -6011,6 +6492,7 @@
             <title>Zen and the Art of Motorcycle Maintenance</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Oh world! Oh Fate! withhold thy hand and cease thy hurt and harm.</p>
@@ -6023,6 +6505,7 @@
             </respStmt>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I always think that the chances of finding out what is really going on
@@ -6034,6 +6517,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>OK, well for starters I’ll have Who, What, When and Where, and then
@@ -6045,6 +6529,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In the beginning I was made. I didn’t ask to be made, no one consulted
@@ -6059,6 +6544,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>And since this is of course an immensely frustrating and nervewracking
@@ -6070,6 +6556,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The Universe, as has been observed before, is an unsettlingly big
@@ -6081,6 +6568,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I always find that the prospect of death contracts the mind
@@ -6091,6 +6579,7 @@
             <title>The Original Hitchhiker Radio Scripts</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>That black hatred – I began to know why it stayed with me; it was my
@@ -6106,6 +6595,7 @@
             <title>I Am Mordred</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>The fulfillment of the age-old prophecies was about to take place,
@@ -6117,7 +6607,8 @@
           <author>Tim LaHaye &amp; Jerry B. Jenkins, </author>
           <title>Glorious Appearing</title>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <lg>
@@ -6131,6 +6622,7 @@
             <title>Jinx</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I’ve always known</p>
@@ -6147,6 +6639,7 @@
             <title>Jinx</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>This book is dedicated with affection for but no patience with those
@@ -6158,6 +6651,7 @@
             <title>Heir Apparent</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>To go wrong in one’s own way is better than to go right in someone
@@ -6168,6 +6662,7 @@
             <title>Crime and Punishment</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I do enjoy walking at night. The world’s more to my liking then, not so
@@ -6178,6 +6673,7 @@
             <title>Inkheart</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Books are like flypaper – memories cling to the printed page better
@@ -6188,6 +6684,7 @@
             <title>Inkheart</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Parents who are inflexible force their children to sneak around.</p>
@@ -6198,6 +6695,7 @@
             <date when="2004-06-19"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>And what is word knowledge but a shadow of wordless knowledge?</p>
@@ -6207,6 +6705,7 @@
             <title>The Prophet</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What is evil but good tortured by its own hunger and thirst?</p>
@@ -6218,6 +6717,7 @@
             <title>The Prophet</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>It’s good to have friends, but it’s better to have friends with
@@ -6228,6 +6728,7 @@
             <title>The Car</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Suppressed curiosity, I bet, has killed more cats than exercised
@@ -6238,6 +6739,7 @@
             <title>Finity</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>If there are multiple pasts, and if there are going to continue to be
@@ -6249,6 +6751,7 @@
             <title>Finity</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>You got a God. Don’t make no difference if you don’ know what he looks
@@ -6259,6 +6762,7 @@
             <title>The Grapes of Wrath</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Goodness alone is <hi rend="italic">never</hi> enough. A hard, cold
@@ -6270,6 +6774,7 @@
             <title>Stranger in a Strange Land</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Daughters can spend ten percent more than a man can make in any usual
@@ -6280,7 +6785,8 @@
           <author>Robert A. Heinlein</author>,
           <title>Stranger in a Strange Land</title>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>If you got yourself all figured out at the age of sixteen, what the
@@ -6291,6 +6797,7 @@
             <title>Lives of Our Own</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Perhaps the facts most astounding and most real are never communicated
@@ -6301,6 +6808,7 @@
             <title>Walden</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>If the day and the night are such that you greet them with joy, and
@@ -6314,6 +6822,7 @@
             <title>Walden</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Morning air! If men will not drink of this at the fountain-head of the
@@ -6328,6 +6837,7 @@
             <title>Walden</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A truth can only be expressed in words if it is one-sided. Everything
@@ -6339,6 +6849,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Wisdom is not communicable. The wisdom which a wise man tries to
@@ -6351,6 +6862,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>They all belonged to each other: the lament of those who yearn, the
@@ -6365,6 +6877,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Opinions mean nothing; they may be beautiful or ugly, clever or
@@ -6375,6 +6888,7 @@
             <title>Siddhartha</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>If God is a DJ</p>
@@ -6389,7 +6903,8 @@
           <bibl>
           <hi rend="bold">Pink, “God is a DJ”</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>The measure of a man’s character is what he would do if he knew he
@@ -6399,6 +6914,7 @@
             <author>Thomas Babington Macaulay</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All leaders must face a crisis where their own strength of character is
@@ -6408,6 +6924,7 @@
             <author>Richard Reeves</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I vaguely remember my school days. They were what was going on in the
@@ -6419,6 +6936,7 @@
             <title rend="quoted">The Voices of All Our Yesterdays</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Social correctness has traditionally had nothing whatever to do with
@@ -6431,6 +6949,7 @@
             <title rend="quoted">Tea</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The point is not knowing another person, or learning to love another
@@ -6443,6 +6962,7 @@
             <title>Divine Secrets of the Ya-Ya Sisterhood</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There is the truth of history, and there is the truth of what a person
@@ -6453,6 +6973,7 @@
             <title>Divine Secrets of the Ya-Ya Sisterhood</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>
@@ -6464,6 +6985,7 @@
             <title>Divine Secrets of the Ya-Ya Sisterhood</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>What are the critics? They do their best to cheapen me, to make me of
@@ -6474,6 +6996,7 @@
             <title>The Dante Club</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Ideas must work through the bones and arms of good men or they are no
@@ -6484,6 +7007,7 @@
             <title>The Dante Club</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6497,6 +7021,7 @@
             <title>Purgatory</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6510,6 +7035,7 @@
             <title>Purgatory</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6523,6 +7049,7 @@
             <title>Purgatory</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6539,6 +7066,7 @@
             <title rend="quoted">On a Distant Prospect of Eton College</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6553,6 +7081,7 @@
             <title>Alcestis</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Men are not prisoners of fate, but only prisoners of their own
@@ -6562,6 +7091,7 @@
             <author>Franklin D. Roosevelt</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Why, most men jump at the chance to give up everything for
@@ -6573,6 +7103,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Death doesn’t exist. It never did, it never will. But we’ve drawn so
@@ -6588,6 +7119,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>We love what we know, we love what we are.</p>
@@ -6597,6 +7129,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>So, in sum, what are we? We are the creatures that know and know too
@@ -6609,6 +7142,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>So minute by minute, hour by hour, a lifetime, it never ends, never
@@ -6621,6 +7155,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Sometimes the man who looks happiest in town, with the biggest smile,
@@ -6646,6 +7181,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>First of all, it was October, a rare month for boys. Not that all
@@ -6661,6 +7197,7 @@
             <title>Something Wicked This Way Comes</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Girls can be <hi rend="underline">anything</hi> they want to be!
@@ -6672,12 +7209,14 @@
             <title>Death: At Death’s Door</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Writers should be read, but neither seen nor heard.</p>
           </quote>
           <bibl>Daphne du Maurier</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Please write again soon. Though my own life is full with activity,
@@ -6686,6 +7225,7 @@
           </quote>
           <bibl><author>Elizabeth Forsythe Hailey</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>If you substitute <soCalled>Oh sugar!</soCalled> for <soCalled>Oh 
@@ -6698,6 +7238,7 @@
             <author>Stephen King</author>, <title>On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There are lots of would-be censors out there, and although they may
@@ -6709,6 +7250,7 @@
             <author>Stephen King</author>, <title>On Writing</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Reading at meals is considered rude in polite society, but if you
@@ -6721,12 +7263,14 @@
             <author>Stephen King</author>, <title>On Writing</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Writing is the heart and soul of my being.</p>
           </quote>
           <bibl>Christopher Paolini</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Three simple things: Write about what excites and moves you the most,
@@ -6737,36 +7281,42 @@
           </quote>
           <bibl><author>Christopher Paolini</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>The insane live in reality while the sane live in fantasy.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
           </item>
+
           <item>
           <quote>
           <p>Describing words with words I can’t describe.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
           </item>
+
           <item>
           <quote>
           <p>A balanced diet is a cookie in each hand.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Comfort the disturbed, disturb the comfortable.</p>
           </quote>
           <bibl>Writer’s Club quotes board</bibl>
         </item>
+
         <item>
           <quote>
             <p>Wherever you are, it is your friends who make your world.</p>
           </quote>
           <bibl><author>Henry James</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Be true! Be true! Be true! Show freely to the world, if not your worst,
@@ -6776,6 +7326,7 @@
             <author>Nathaniel Hawthorne</author>, <title>The Scarlet Letter</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The supreme irony of life is that hardly anyone gets out of it
@@ -6785,6 +7336,7 @@
             <author>Robert Heinlein</author>, <title>Job</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I happen to feel that the degree of a person’s intelligence is directly
@@ -6793,6 +7345,7 @@
           </quote>
           <bibl><author>Lisa Alther</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>A positive attitude may not solve all your problems, but it will annoy
@@ -6800,6 +7353,7 @@
           </quote>
           <bibl><author>Herm Albright</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Write something to suit yourself and many people will like it; write
@@ -6807,6 +7361,7 @@
           </quote>
           <bibl><author>Jesse Stuart</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>It is not a bad idea to get in the habit of writing down one’s
@@ -6814,6 +7369,7 @@
           </quote>
           <bibl><author>Isabel Colegate</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>The skill of writing is to create a context in which other people can
@@ -6821,6 +7377,7 @@
           </quote>
           <bibl><author>Edwin Schlossberg</author></bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -6830,13 +7387,15 @@
           </quote>
           <bibl><author>Edward Bulwer-Lytton</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Better to write for yourself and have no public, than to write for the
           public and have no self.</p>
           </quote>
           <bibl>Cyril Connolly</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Many books require no thought from those who read them, and for a very
@@ -6844,6 +7403,7 @@
           </quote>
           <bibl>Charles Caleb Colton</bibl>
         </item>
+
         <item>
           <quote>
             <p>The best way to become acquainted with a subject is to write a book
@@ -6851,6 +7411,7 @@
           </quote>
           <bibl><author>Benjamin Disraeli</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Fantasy is a natural human activity. It certainly does not destroy or
@@ -6862,6 +7423,7 @@
             <author>J.R.R. Tolkien</author>, <title>On Fairy-Stories</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The old question is repeated: Where do you get your ideas? Or rather,
@@ -6873,6 +7435,7 @@
             <title rend="quoted">Afterword: Metaphors, the Breakfast of Champions</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Until men know <hi rend="underline">two</hi> things, the world will go
@@ -6887,6 +7450,7 @@
             <title rend="quoted">Beasts</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Human beings, by changing the inner attitudes of their minds, can
@@ -6894,13 +7458,15 @@
           </quote>
           <bibl>William James</bibl>
           </item>
+
           <item>
           <quote>
           <p>A strong positive mental attitude will create more miracles than any
           wonder drug.</p>
           </quote>
           <bibl>Patricia Neal</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>I am still determined to be cheerful and happy, in whatever situation I
@@ -6910,6 +7476,7 @@
           </quote>
           <bibl><author>Martha Washington</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Complaining is good for you as long as you’re not complaining to the
@@ -6920,6 +7487,7 @@
             <series>For Better or For Worse</series>
             <date when="2003-11-06"/></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>The only really good place to buy lumber is at a store where the lumber
@@ -6929,6 +7497,7 @@
           <bibl>Dave Barry, <hi rend="italic">The Taming of the Screw</hi>
           </bibl>
           </item>
+
           <item>
           <quote>
           <p>Electricity is actually made up of extremely tiny particles called
@@ -6937,19 +7506,22 @@
           </quote>
           <bibl>Dave Barry, <hi rend="italic">The Taming of the Screw</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>You can only be young once. But you can always be immature.</p>
           </quote>
           <bibl><author>Dave Barry</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>What I look forward to is continued immaturity followed by death.</p>
           </quote>
           <bibl><author>Dave Barry</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Thus the metric system did not really catch on in the States, unless
@@ -6957,12 +7529,14 @@
           </quote>
           <bibl><author>Dave Barry</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Skiing combines outdoor fun with knocking down trees with your face.</p>
           </quote>
           <bibl><author>Dave Barry</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>It is the spectator, not life, that art really mirrors.</p>
@@ -6973,6 +7547,7 @@
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The nineteenth century dislike of Romanticism is the rage of Caliban
@@ -6984,6 +7559,7 @@
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The nineteenth century dislike of Realism is the rage of Caliban seeing
@@ -6995,6 +7571,7 @@
             <title rend="quoted">The Preface</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>This agglomeration which was called and which still calls itself the
@@ -7002,6 +7579,7 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>I may disagree with what you have to say, but I shall defend to the
@@ -7009,6 +7587,7 @@
           </quote>
           <bibl><author cert="low">Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Those who can make you believe absurdities can make you commit
@@ -7016,6 +7595,7 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>There is a wide difference between speaking to deceive, and being
@@ -7023,12 +7603,14 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Love truth, and pardon error.</p>
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Indeed, history is nothing more than a tableau of crimes and
@@ -7036,24 +7618,28 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>If God did not exist, it would be necessary to invent him.</p>
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Every man is guilty of all the good he didn’t do.</p>
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Doubt is not a pleasant condition, but certainty is an absurd one.</p>
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Appreciation is a wonderful thing: It makes what is excellent in others
@@ -7061,12 +7647,14 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>A witty saying proves nothing.</p>
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>...the safest course is to do nothing against one’s conscience. With
@@ -7074,6 +7662,7 @@
           </quote>
           <bibl><author>Voltaire</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>We are an impossibility in an impossible universe.</p>
@@ -7082,6 +7671,7 @@
             <author>Ray Bradbury</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>A teacher (a good teacher) is composed of molecules of education and
@@ -7092,6 +7682,7 @@
             <title>Catalyst</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Some days you’re the dog, some days you’re the fire hydrant.</p>
@@ -7099,7 +7690,8 @@
           <bibl>
           <hi rend="bold">T-shirt wisdom</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>The ships hung in the sky in much the same way that bricks don’t.</p>
@@ -7108,6 +7700,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Life... is like a grapefruit. It’s orange and squishy, and has a few
@@ -7117,6 +7710,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In those days spirits were brave, the stakes were high, men were real
@@ -7127,6 +7721,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>In the beginning the Universe was created. This has made a lot of
@@ -7136,6 +7731,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I may not have gone where I intended to go, but I think I have ended up
@@ -7145,6 +7741,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>I love deadlines. I like the whooshing sound they make as they fly
@@ -7154,6 +7751,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Humans are not proud of their ancestors, and rarely invite them round
@@ -7163,6 +7761,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>He hoped and prayed there wasn’t an afterlife. Then he realized there
@@ -7173,6 +7772,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Anyone who is capable of getting themselves into a position of power
@@ -7182,6 +7782,7 @@
             <author>Douglas Adams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The world itself was a whirligig, its myriad parts invisibly linked,
@@ -7193,6 +7794,7 @@
             <title>Whirligig</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The darkness swallows up most of us.</p>
@@ -7202,6 +7804,7 @@
             <title>Whirligig</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>All that is needed for evil to triumph is for good men to do
@@ -7209,6 +7812,7 @@
           </quote>
           <bibl><author>Edmund Burke</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>When you understand one thing through and through, you understand
@@ -7216,30 +7820,35 @@
           </quote>
           <bibl>Shunryu Suzuki</bibl>
           </item>
+
           <item>
           <quote>
           <p>Water which is too pure has no fish.</p>
           </quote>
           <bibl>Ts’ai Ken T’an</bibl>
           </item>
+
           <item>
           <quote>
           <p>Faith in often strengthened right at the place of disappointment.</p>
           </quote>
           <bibl>Rodney McBride</bibl>
           </item>
+
           <item>
           <quote>
           <p>Teachers open the door, but you must enter by yourself.</p>
           </quote>
           <bibl>Chinese proverb</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>I never let my schooling interfere with my education.</p>
           </quote>
           <bibl><author>Mark Twain</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Do not seek to follow in the footsteps of the men of old; seek what
@@ -7247,6 +7856,7 @@
           </quote>
           <bibl>Basho</bibl>
           </item>
+
           <item>
           <quote>
           <p>All souls are one. Each is a spark of the original soul and this soul
@@ -7254,13 +7864,15 @@
           </quote>
           <bibl>Hasidic saying</bibl>
           </item>
+
           <item>
           <quote>
           <p>Doubt is part of all religion. All religious thinkers were
           doubters.</p>
           </quote>
           <bibl>Isaac Bashevis Singer</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>One day you’re going to turn around and there I’ll be – the stereotypes
@@ -7269,6 +7881,7 @@
           </quote>
           <bibl><author>Valerie Seimas</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>These are all the things I wish for, but a wise teen knows that when
@@ -7278,6 +7891,7 @@
           </quote>
           <bibl><author>Christine Quon</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>If you aren’t narrow-minded, you might find that they’re quite
@@ -7286,12 +7900,14 @@
           </quote>
           <bibl><author>Kevin E. Haight</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>De donde nace el peligro nace salvación tambien.</p>
           </quote>
           <bibl>Hölderlin</bibl>
-          </item>-->
+          </item>
+-->
         <item xml:lang="es">
           <quote>
             <p>La luz es tiempo, los colores son relojes, nosotros somos pequeños
@@ -7301,6 +7917,7 @@
             <author>Rafael Acevedo</author>, <title>Exquisito cadáver</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>People call me a feminist when my sentiments differentiate me from a
@@ -7310,6 +7927,7 @@
             <author>Rebecca West</author>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Grab the world by the lapels. Life’s a bitch. You’ve got to go out and
@@ -7318,7 +7936,8 @@
           <bibl>
           <hi rend="bold">Maya Angelou</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Women’s place is in the House – and in the Senate.</p>
@@ -7327,6 +7946,7 @@
             <author>Gloria Schaffer</author>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Well-behaved women rarely make history.</p>
@@ -7335,6 +7955,7 @@
           <hi rend="bold">Laurel Thatcher Urlich</hi>
           </bibl>
           </item>
+
           <item>
           <quote>
           <p>I’ve had the same goal since I was a girl. I want to rule the
@@ -7343,13 +7964,15 @@
           <bibl>
           <author>Madonna</author>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Girls got balls. They’re just higher up, that’s all.</p>
           </quote>
           <bibl><author>Joan Jett</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Our greatest glory is not in never failing, but in rising each time we
@@ -7357,6 +7980,7 @@
           </quote>
           <bibl><author>Oliver Goldsmith</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>There are no foolish questions and no man becomes a fool until he has
@@ -7364,6 +7988,7 @@
           </quote>
           <bibl><author>Charles P. Steinmetz</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>Writers are students of human nature. That’s why they prefer to work
@@ -7371,12 +7996,14 @@
           </quote>
           <bibl><author>Tim Liebe</author></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Everybody is somebody’s weirdo.</p>
           </quote>
           <bibl>Dykstra’s Law</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>They that can give up essential liberty to obtain a little temporary
@@ -7384,6 +8011,7 @@
           </quote>
           <bibl><author>Benjamin Franklin</author></bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Now if that happens to you, and you want to see someone you’re
@@ -7398,6 +8026,7 @@
             <author>Paul Fleischman</author>, <title>Seek</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p><said>Sure there’s hardship out there, and suffering, but you don’t have to
@@ -7412,12 +8041,14 @@
             <author>Paul Fleischman</author>, <title>Seek</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Everybody is somebody’s weirdo.</p>
           </quote>
           <bibl>Dykstra’s Law</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <lg>
             <l>Oh body swayed to music, O brightening glance,</l>
@@ -7425,6 +8056,7 @@
           </lg>
           <bibl><author>W.B. Yeats</author>, <title rend="quoted">Among School Children</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>That which has always been accepted by everyone, everywhere, is almost
@@ -7432,6 +8064,7 @@
           </quote>
           <bibl><author>Paul Valery</author></bibl>
         </item>
+
         <item>
           <quote>
             <p>In a real dark night of the soul it is always three o’clock in the
@@ -7441,6 +8074,7 @@
             <author>F. Scott Fitzgerald</author>, <title>The Crack-Up</title>
           </bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>When we are unable to find tranquility within ourselves, it is useless
@@ -7448,18 +8082,21 @@
           </quote>
           <bibl>Francois de La Rochefoucauld</bibl>
           </item>
+
           <item>
           <quote>
           <p>Many would be cowards if they had courage enough.</p>
           </quote>
           <bibl>Thomas Fuller</bibl>
           </item>
+
           <item>
           <quote>
           <p>There are 350 varieties of shark, not counting loan and pool.</p>
           </quote>
           <bibl>L.M. Boyd</bibl>
           </item>
+
           <item>
           <quote>
           <p>You can take all the sincerity in Hollywood, place it in the navel of a
@@ -7467,7 +8104,8 @@
           producer’s heart.</p>
           </quote>
           <bibl>Fred Allen</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>It is absurd to divide people into good and bad. People are either
@@ -7475,6 +8113,7 @@
           </quote>
           <bibl>Oscar Wilde, “Lady Windermere’s Fan”</bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>Everyone rises to their level of incompetence.</p>
@@ -7482,7 +8121,8 @@
           <bibl>Laurence J. Peter, <hi rend="italic">The Peter Principle: Why Things
           Always Go Wrong</hi>
           </bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>It could probably be shown by facts and figures that there is no
@@ -7490,6 +8130,7 @@
           </quote>
           <bibl><author>Mark Twain</author></bibl>
         </item>
+
         <item>
           <quote>
             <lg>
@@ -7503,18 +8144,21 @@
           </quote>
           <bibl><author>Robert Frost</author>, <title rend="quoted">The Black Cottage</title></bibl>
         </item>
+
         <!--<item>
           <quote>
           <p>You must first have a lot of patience to learn to have patience.</p>
           </quote>
           <bibl>Stanislaw J. Lec, “Unkempt Thoughts”</bibl>
           </item>
+
           <item>
           <quote>
           <p>We might have seen the end of the beginning.</p>
           </quote>
           <bibl>Dr. Anton Koekenoer (on observations by the Hubble Telescope)</bibl>
-          </item>-->
+          </item>
+-->
         <item>
           <quote>
             <p>Seek justice, encourage the oppressed. Defend the cause of the
@@ -7522,6 +8166,7 @@
           </quote>
           <bibl>Isaiah 1:17</bibl>
         </item>
+
         <item>
           <quote>
             <p>It must seem a strange world, indeed. But if you’re going to survive in
@@ -7533,6 +8178,7 @@
             <author>Paul Fleischman</author>, <title rend="italic">Mind’s Eye</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Organization helps avoid frustration.</p>
@@ -7541,6 +8187,7 @@
             <author>Dr. A.L. Williams</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>He who trips the teacher fails the class.</p>
@@ -7549,6 +8196,7 @@
             <author>Mrs. Biel</author>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>Then thoughtfully: <said>It hasn’t been so easy, getting used to this
@@ -7564,6 +8212,7 @@
             <author>Gish Jen</author>, <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>On the way, there is a golden, leafy extravagance of a nonimmigrant
@@ -7577,6 +8226,7 @@
             <author>Gish Jen</author>, <title rend="italic">Mona in the Promised Land</title>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>There are two kinds of truth, Amok. This memorial celebrated that fact
@@ -7591,6 +8241,7 @@
             <date when="2003-03"/>
           </bibl>
         </item>
+
         <item>
           <quote>
             <p>The constitution of the human mind is such, that if it once disregards
@@ -7600,6 +8251,7 @@
           <bibl>
             <author>Frederick Douglas</author>, <title rend="quoted">What the Black Man Wants</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>Men are so constituted that they derive their conviction of their own
@@ -7608,6 +8260,7 @@
           <bibl>
             <author>Frederick Douglas</author>, <title rend="quoted">What the Black Man Wants</title></bibl>
         </item>
+
         <item>
           <quote>
             <p>You take your material where you find it, which is in your life, at the
@@ -7623,6 +8276,7 @@
             <title key="obrien.t.thingstheycarried" rend="italic">The Things They Carried</title>
           </bibl>
         </item>
+
       </list>
     </body>
   </text>

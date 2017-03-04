@@ -29,7 +29,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-02-26">
+        <event from="2017-03-04">
+          <p>Read <ref target="booksRead_3.0.xml#baym.n.novelsreadersreviewers">Novels, Readers, and Reviewers: 
+            Responses to Fiction in Antebellum America</ref>.</p>
+        </event>
+        <event when="2017-03-04">
+          <p>Read <ref target="booksRead_3.0.xml#yoshinag.f.whatdidyoueat.5">What Did You Eat Yesterday? Vol. 5</ref>.</p>
+        </event>
+        <event from="2017-02-26" to="2017-03-04">
           <p>Read <ref target="booksRead_3.0.xml#scott.m.dreamingmetal">Dreaming Metal</ref>.</p>
         </event>
         <event when="2017-02-26">
