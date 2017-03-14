@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng"
+  type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Personal Timeline and Place List</title>
+        <editor><persName>Ashley M. Clark</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Just me, Ashley.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Created from scratch on <date when="2017-03-11">March 11th, 2017</date>.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listEvent>
+        <head>Personal Timeline</head>
+        
+        <event xml:id="developer" from="2014"
+          where="#ma.greaterboston">
+          <label>Developer</label>
+        </event>
+        
+        <event xml:id="freelancer" from="2012" to="2014"
+          where="#il.chicago">
+          <label>Freelancer</label>
+        </event>
+        
+        <event xml:id="master" from="2010" to="2012" 
+          where="#il.urbanachampaign">
+          <label>Master</label>
+        </event>
+        
+        <event xml:id="bachelor" from="2006" to="2010" 
+          where="#ia.desmoines">
+          <label>Bachelor</label>
+        </event>
+        
+        <event xml:id="youngadult" from="2001" to="2006" 
+          where="#il.chicago">
+          <label>Young Adult</label>
+        </event>
+        
+        <event xml:id="child" to="2001"
+          where="#il.chicago">
+          <label>Child</label>
+        </event>
+      </listEvent>
+      
+      <listPlace>
+        <head>Homes</head>
+        
+        <place xml:id="il">
+          <placeName>Illinois</placeName>
+          <country>United States of America</country>
+          
+          <place xml:id="il.chicago">
+            <placeName>Chicago</placeName>
+          </place>
+          <place xml:id="il.urbanachampaign">
+            <placeName>Urbana-Champaign</placeName>
+            
+            <place xml:id="il.champaign">
+              <placeName>Champaign</placeName>
+            </place>
+            <place xml:id="il.urbana">
+              <placeName>Urbana</placeName>
+            </place>
+          </place>
+        </place>
+        
+        <place xml:id="ia">
+          <placeName>Iowa</placeName>
+          <country>United States of America</country>
+          
+          <place xml:id="ia.desmoines">
+            <placeName>Des Moines</placeName>
+          </place>
+        </place>
+        
+        <place xml:id="ma">
+          <placeName>Massachusetts</placeName>
+          <country>United States of America</country>
+          
+          <place xml:id="ma.greaterboston">
+            <placeName>Greater Boston Area</placeName>
+            
+            <place xml:id="ma.boston">
+              <placeName>Boston</placeName>
+            </place>
+            <place xml:id="ma.somerville">
+              <placeName>Somerville</placeName>
+            </place>
+          </place>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>

@@ -353,6 +353,11 @@
           <title>The Devil You Know</title>.
         </bibl>
         <bibl>
+          <author>Carey, M.R.</author>.
+          <title>The Girl With All the Gifts</title>.
+          <date type="added" when="2017-03-10"/>
+        </bibl>
+        <bibl>
           <author>Carr, Caleb</author>.
           <title>Angel of Darkness</title>.
         </bibl>
@@ -1170,11 +1175,6 @@
           <series><title>Wayward Children</title></series>
         </bibl>
         <bibl>
-          <author>McGuire, Seanan</author>.
-          <title>Dusk or Dark or Dawn or Day</title>.
-          <date type="added" when="2017-01-08"/>
-        </bibl>
-        <bibl>
           <author>McHugh, Maureen</author>.
           <title>Mission Child</title>.
         </bibl>
@@ -1342,6 +1342,11 @@
           <author>Otsuka, Julie</author>.
           <title>The Buddha in the Attic</title>.
           <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Palmer, Dexter</author>.
+          <title>Version Control</title>.
+          <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
           <author>Parker, Jeff</author>.
@@ -1518,11 +1523,6 @@
           <author>Amy Griswold</author>
           <title>Death by Silver</title>.
           <series><title>Julian Lynes and Ned Mathey</title></series>
-          <date type="added" when="2016-10-07"/>
-        </bibl>
-        <bibl>
-          <author>Scott, Melissa</author>.
-          <title>Dreaming Metal</title>.
           <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>

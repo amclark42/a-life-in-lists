@@ -29,9 +29,9 @@
   </teiHeader>
   <text>
     <body>
-      <listPerson>
-        <head>List of Authors and Contributors</head>
-        <!--
+      <head>List of Authors and Contributors</head>
+      
+      <listPerson><!--
         
         <person xml:id="">
           <persName>
@@ -40,6 +40,35 @@
           </persName>
           <gender value="" evidence="conjecture"/>
         </person>-->
+        
+        <person xml:id="engel.l">
+          <persName>
+            <forename>Laura</forename>
+            <surname>Engel</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="brontë.c">
+          <persName>
+            <forename>Charlotte</forename>
+            <surname>Brontë</surname>
+          </persName>
+          <persName type="pseudonym">
+            <forename>Currer</forename>
+            <surname>Bell</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="theoatmeal">
+          <persName>
+            <forename>Matthew</forename>
+            <surname>Inman</surname>
+          </persName>
+          <persName type="pseudonym">The Oatmeal</persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="baym.n">
           <persName>
@@ -3174,6 +3203,10 @@
             <forename>Mike</forename>
             <surname>Carey</surname>
           </persName>
+          <persName type="alternate">
+            <forename>M.R.</forename>
+            <surname>Carey</surname>
+          </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
 
@@ -4752,6 +4785,10 @@
             <forename>Seanan</forename>
             <surname>McGuire</surname>
           </persName>
+          <persName type="psuedonym">
+            <forename>Mira</forename>
+            <surname>Grant</surname>
+          </persName>
           <gender value="female" evidence="self-identification"/>
         </person>
 
@@ -5396,20 +5433,6 @@
         
         <org xml:id="peachpit">
           <orgName>Peach-Pit</orgName>
-        </org>
-        
-        <org xml:id="theoatmeal">
-          <orgName>The Oatmeal</orgName>
-          
-          <listPerson>
-            <person xml:id="inman.m">
-              <persName>
-                <forename>Matthew</forename>
-                <surname>Inman</surname>
-              </persName>
-              <gender value="male" evidence="conjecture"/>
-            </person>
-          </listPerson>
         </org>
         
       </listOrg>

@@ -21,6 +21,10 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-03-11">Started adding <att>from-custom</att> on "owned" 
+          tags, using the roughly-defined time periods in timeline.xml. Also started 
+          adding <gi>date</gi>s with a type of "first-read" for cases where a book 
+          was owned much later or earlier than it was first read.</change>
         <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-10-08">Added "memoir" tag.</change>
@@ -54,6 +58,56 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="mcguire.s.duskdarkdawnday">
+            <monogr>
+              <title>Dusk or Dark or Dawn or Day</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-03-10"/>
+                <date type="copyright" when="2017"/>
+                <date type="added" when="2017-01-08"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="brontë.c.villette">
+            <monogr>
+              <title>Villette</title>
+              <author>
+                <persName ref="a:brontë.c"/>
+              </author>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:engel.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-03-10"/>
+                <date type="first-publication" when="1853"/>
+                <date type="publication" when="2005"/>
+                <publisher>
+                  <orgName>Barnes &amp; Noble Classics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="brontë.c.janeeyre">
+            <monogr>
+              <title>Jane Eyre</title>
+              <author>
+                <persName ref="a:brontë.c"/>
+              </author>
+              <imprint>
+                <date type="first-publication" when="1847"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="baym.n.novelsreadersreviewers">
             <monogr>
               <title>Novels, Readers, and Reviewers: Responses to Fiction in 
@@ -76,7 +130,7 @@
             <monogr>
               <title>The Terrible and Wonderful Reasons Why I Run Long Distances</title>
               <author>
-                <persName ref="a:theoatmeal"/>
+                <persName ref="a:theoatmeal">The Oatmeal</persName>
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -282,7 +336,7 @@
                 <persName ref="a:scott.m"/>
               </author>
               <imprint>
-                <date when="1997"/>
+                <date type="copyright" when="1997"/>
                 <date type="added" when="2016-10-07"/>
                 <publisher>
                   <orgName>Tor</orgName>
@@ -1519,7 +1573,7 @@
                 <persName ref="a:beagle.ps"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1965"/>
                 <publisher>
                   <orgName>Ballantine Books</orgName>
@@ -1541,7 +1595,7 @@
                 <persName ref="a:jacques.b"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1999"/>
                 <publisher>
                   <orgName>Philomel Books</orgName>
@@ -1785,7 +1839,7 @@
                 <persName ref="a:bradley.mz"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
                 <date when="1987"/>
                 <publisher>
                   <orgName>Roc</orgName>
@@ -1872,7 +1926,7 @@
                 <persName ref="a:kleguin.u"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
                 <publisher>
                   <orgName>Ace Books</orgName>
                 </publisher>
@@ -1906,8 +1960,8 @@
                 <persName ref="a:obrien.t"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
-                <catRef target="#tag.class"/>
+                <catRef target="#tag.owned"  from-custom="ash:youngadult"/>
+                <catRef target="#tag.class" datingPoint="ash:youngadult"/>
                 <date when="1990"/>
                 <publisher>
                   <orgName>Broadway Books</orgName>
@@ -1923,7 +1977,7 @@
                 <persName ref="a:hidier.td"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="2014"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
@@ -1947,7 +2001,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="2015"/>
                 <publisher>
                   <orgName>Dark Horse</orgName>
@@ -1963,7 +2017,7 @@
                 <persName ref="a:elliott.k"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="1992"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
@@ -1982,7 +2036,7 @@
                 <persName ref="a:novik.n"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="2006"/>
                 <publisher>
                   <orgName>Del Rey Books</orgName>
@@ -2127,7 +2181,7 @@
                 <persName ref="a:meno.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="2006"/>
                 <publisher>
                   <orgName>Punk Planet Books</orgName>
@@ -2206,7 +2260,8 @@
                 <persName ref="a:kerr.p"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2236,8 +2291,8 @@
                 <persName ref="blackbur.p"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.class"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class" datingPoint="ash:youngadult ash:bachelor"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1967"/>
                 <publisher>
                   <orgName>Pantheon Books</orgName>
@@ -2311,7 +2366,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -2378,7 +2433,7 @@
                 <persName ref="a:obrien.t"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1978"/>
                 <publisher>
                   <orgName>Broadway Books</orgName>
@@ -2395,7 +2450,8 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher>
                   <orgName>Vertigo Comics</orgName>
                 </publisher>
@@ -2414,7 +2470,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <publisher>
                   <orgName>Vertigo Comics</orgName>
                 </publisher>
@@ -2464,7 +2520,7 @@
                 <persName ref="a:grisham.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1995"/>
                 <publisher>
                   <orgName>Dell Publishing</orgName>
@@ -2481,7 +2537,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <publisher>
                   <orgName>Vertigo Comics</orgName>
                 </publisher>
@@ -2500,7 +2556,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <publisher>
                   <orgName>Vertigo Comics</orgName>
                 </publisher>
@@ -2518,7 +2574,7 @@
                 <persName ref="a:kostova.e"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2005"/>
                 <publisher>
                   <orgName>Back Bay Books</orgName>
@@ -2562,7 +2618,7 @@
               </editor>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2007"/>
                 <publisher>
                   <orgName>Villard Books</orgName>
@@ -2641,8 +2697,9 @@
                 <persName ref="a:farmer.n"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1995"/>
+                <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
                   <orgName>Puffin Books</orgName>
                 </publisher>
@@ -2657,7 +2714,7 @@
                 <persName ref="a:lightman.a"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1993"/>
                 <publisher>
                   <orgName>Warner Books</orgName>
@@ -2674,7 +2731,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -2693,7 +2750,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -2809,7 +2866,7 @@
                 <persName ref="a:velde.vv"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2822,7 +2879,7 @@
                 <persName ref="a:stoker.b"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1897"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
@@ -2890,7 +2947,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2915,7 +2972,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -2964,7 +3021,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -2980,8 +3037,8 @@
                 <persName ref="a:winterso.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
-                <catRef target="#tag.class"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.class" datingPoint="ash:bachelor"/>
                 <date when="1998"/>
                 <publisher>
                   <orgName>Vintage International</orgName>
@@ -3015,7 +3072,7 @@
                 <persName ref="a:woods.k"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1943"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
@@ -3031,8 +3088,9 @@
                 <persName ref="a:paulsen.g"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1988"/>
+                <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
                   <orgName>Bantam Doubleday Dell Publishing Group</orgName>
                 </publisher>
@@ -3047,7 +3105,7 @@
                 <persName ref="a:howe.n"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3063,8 +3121,9 @@
                 <persName ref="a:duane.d"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1983"/>
+                <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
                   <orgName>Harcourt, Inc.</orgName>
                 </publisher>
@@ -3097,7 +3156,7 @@
                 <persName ref="a:jones.dw"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3139,7 +3198,7 @@
                 <persName ref="a:card.os"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1977"/>
                 <publisher>
                   <orgName>Tor</orgName>
@@ -3173,7 +3232,7 @@
                 <persName ref="a:horton.c"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1976"/>
                 <publisher>
                   <orgName>Ballantine Books</orgName>
@@ -3189,7 +3248,7 @@
                 <persName ref="a:alexande.l"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1997"/>
                 <publisher>
                   <orgName>Puffin Books</orgName>
@@ -3245,7 +3304,7 @@
                 <persName ref="a:paolini.c"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2007"/>
                 <publisher>
                   <orgName>Alfred A. Knopf</orgName>
@@ -3369,7 +3428,7 @@
                 <persName ref="a:lengle.m"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1962"/>
                 <publisher>
                   <orgName>Bantam Doubleday Dell Publishing Group</orgName>
@@ -3400,7 +3459,7 @@
                 <persName ref="a:jacques.b"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3416,8 +3475,10 @@
                 <persName ref="a:chbosky.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.class" datingPoint="ash:bachelor"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1999"/>
+                <date type="first-read" datingPoint="ash:youngadult"></date>
                 <publisher>
                   <orgName>Simon &amp; Schuster Inc.</orgName>
                 </publisher>
@@ -3609,7 +3670,7 @@
                 <persName ref="a:monette.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2005"/>
                 <publisher>
                   <orgName>Ace Books</orgName>
@@ -3628,7 +3689,7 @@
                 <persName ref="a:gaiman.n"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1998"/>
                 <publisher>
                   <orgName>Avon Books</orgName>
@@ -3644,7 +3705,7 @@
                 <persName ref="a:heinlein.r"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1957"/>
                 <publisher>
                   <orgName>Ballantine Books</orgName>
@@ -3687,8 +3748,9 @@
                 <persName ref="a:jen.g"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1996"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher>
                   <orgName>Vintage Books</orgName>
                 </publisher>
@@ -3739,7 +3801,7 @@
                 <persName ref="a:nix.g"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult" to-custom="ash:bachelor"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3755,7 +3817,7 @@
                 <persName ref="a:gaiman.n"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2006"/>
                 <publisher>
                   <orgName>HarperCollins</orgName>
@@ -3815,7 +3877,8 @@
                 <persName ref="a:pratchet.t"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3831,7 +3894,7 @@
                 <persName ref="a:rushdie.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2008"/>
                 <publisher>
                   <orgName>Random House</orgName>
@@ -3879,7 +3942,7 @@
                 <persName ref="a:hidier.td"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="2002"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
@@ -3904,7 +3967,7 @@
                 <persName ref="a:beagle.ps"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1966"/>
                 <publisher>
                   <orgName>Ballantine Books</orgName>
@@ -3923,7 +3986,7 @@
                 <persName ref="a:mosse.k"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" when-custom="ash:bachelor"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4210,7 +4273,7 @@
                 <persName ref="a:dunant.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" when-custom="ash:bachelor"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4227,7 +4290,7 @@
                 <persName ref="a:ramos.h"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
                 <publisher/>
               </imprint>
@@ -4262,8 +4325,9 @@
                 <persName ref="a:beagle.ps"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1965"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher>
                   <orgName>Ballantine Books</orgName>
                 </publisher>
@@ -4284,8 +4348,9 @@
                 <persName ref="a:myers.wd"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1981"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
                 </publisher>
@@ -4302,8 +4367,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4321,8 +4387,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4340,8 +4407,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4359,8 +4427,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4378,8 +4447,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4397,8 +4467,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4431,8 +4502,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4450,8 +4522,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4469,8 +4542,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4488,8 +4562,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4507,8 +4582,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4526,8 +4602,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4543,7 +4620,7 @@
                 <persName ref="a:sanderso.b"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2007"/>
                 <publisher>
                   <orgName>Tor</orgName>
@@ -4566,7 +4643,7 @@
                 <persName ref="a:chalk.g"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
                 <date when="1993"/>
                 <publisher>
                   <orgName>Philomel Books</orgName>
@@ -4587,8 +4664,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4606,8 +4684,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4625,8 +4704,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4642,7 +4722,7 @@
                 <persName ref="a:pratchet.t"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="1992"/>
                 <publisher>
                   <orgName>HarperCollins</orgName>
@@ -4663,8 +4743,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4682,8 +4763,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4701,7 +4783,7 @@
                 <persName ref="a:minekura.k"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
                 <publisher/>
               </imprint>
@@ -4715,10 +4797,10 @@
             <monogr>
               <title>XxxHolic Vol. 5</title>
               <author>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
                 <publisher/>
               </imprint>
@@ -4737,8 +4819,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4756,8 +4839,9 @@
                 <persName ref="a:takaya.n"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -4845,7 +4929,7 @@
                 <persName ref="a:lahiri.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor" to-custom="ash:master"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -5042,7 +5126,7 @@
                 <persName ref="a:reeder.a"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
                 <publisher/>
               </imprint>
@@ -5163,8 +5247,9 @@
                 <persName ref="a:yolen.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="1996"/>
+                <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
                   <orgName>Harcourt, Inc.</orgName>
                 </publisher>
@@ -5182,7 +5267,7 @@
                 <persName ref="a:pratchet.t"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <date when="2002"/>
                 <publisher>
                   <orgName>HarperCollins</orgName>
@@ -5201,7 +5286,7 @@
                 <persName ref="a:eggers.d"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.memoir"/>
                 <date when="2000"/>
                 <publisher>
@@ -10050,7 +10135,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -10710,7 +10795,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -10748,7 +10833,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -10767,7 +10852,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -10951,7 +11036,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -11111,7 +11196,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -11854,7 +11939,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -11899,7 +11984,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -15763,7 +15848,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -15859,7 +15944,7 @@
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
-                <orgName ref="authors_3.0#clamp"/>
+                <orgName ref="a:clamp"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>

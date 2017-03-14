@@ -34,4 +34,15 @@
       </category>
     </taxonomy>
   </classDecl>
+  <listPrefixDef>
+    <prefixDef ident="ash" matchPattern="([\w\.]+)" replacementPattern="timeline.xml#$1">
+      <p></p>
+    </prefixDef>
+    <prefixDef ident="a" matchPattern="([\w\.]+)" replacementPattern="authors_3.0.xml#$1">
+      <p></p>
+    </prefixDef>
+    <prefixDef ident="b" matchPattern="([\w\.]+)" replacementPattern="booksRead_3.0.xml#$1">
+      <p></p>
+    </prefixDef>
+  </listPrefixDef>
 </encodingDesc>
