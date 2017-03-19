@@ -29,6 +29,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-03-16">
+          <p>Reread <ref target="b:meno.j.boydetectivefails">The Boy Detective Fails</ref>.</p>
+        </event>
+        <event when="2017-03-13">
+          <p>Read <ref target="b:mori.k.bridesstory.3">A Bride’s Story Vol. 4</ref>.</p>
+        </event>
         <event from="2017-03-10" to="2017-03-11">
           <p>Read <ref target="b:mcguire.s.duskdarkdawnday">Dusk or Dark or Dawn or Day</ref>.</p>
         </event>
