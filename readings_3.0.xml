@@ -29,7 +29,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-03-16">
+        <event from="2017-03-23">
+          <p>Read <ref target="b:kiernan.cr.daughterhounds">Daughter of Hounds</ref></p>
+        </event>
+        <event when="2017-03-22">
+          <p>Reread <ref target="b:delliqua.b.ohumanstar.2">O Human Star Vol. 2</ref>.</p>
+        </event>
+        <event when="2017-03-21">
+          <p>Reread <ref target="b:delliqua.b.ohumanstar.1">O Human Star Vol. 1</ref>.</p>
+        </event>
+        <event from="2017-03-16" to="2017-03-20">
           <p>Reread <ref target="b:meno.j.boydetectivefails">The Boy Detective Fails</ref>.</p>
         </event>
         <event when="2017-03-13">

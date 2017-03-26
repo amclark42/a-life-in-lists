@@ -41,6 +41,62 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="valentin.g">
+          <persName>
+            <forename>Genevieve</forename>
+            <surname>Valentine</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="kiernan.cr">
+          <persName>
+            <forename>Caitlín R.</forename>
+            <surname>Kiernan</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="mcpherso.t">
+          <persName>
+            <forename>Tara</forename>
+            <surname>McPherson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hamilton.c">
+          <persName>
+            <forename>Craig</forename>
+            <surname>Hamilton</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lopez.k">
+          <persName>
+            <forename>Ken</forename>
+            <surname>Lopez</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="naifeh.t">
+          <persName>
+            <forename>Ted</forename>
+            <surname>Neifeh</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hahn.d">
+          <persName>
+            <forename>David</forename>
+            <surname>Hahn</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="engel.l">
           <persName>
             <forename>Laura</forename>
@@ -74,6 +130,10 @@
           <persName>
             <forename>Nina</forename>
             <surname>Baym</surname>
+          </persName>
+          <persName type="alternate">
+            <foreName>Nina</foreName>
+            <surname>B. Stillinger</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>

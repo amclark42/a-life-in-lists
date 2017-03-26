@@ -31,8 +31,8 @@
     <body>
       <list>
         <head>Quotes</head>
-        
         <!--
+        
         <item>
           <quote>
             <p></p>
@@ -42,6 +42,115 @@
             <title></title>
           </bibl>
         </item>-->
+        
+        <item>
+          <quote>
+            <p>In gratifying the self, novels foster self-love and a tendency to 
+              self-assertion that would make the mind ungovernable and thus 
+              jeopardize the agencies of social and psychological control. That most 
+              readers of novels (and virtually all those who read novels only) were 
+              thought to be women and youth made particularly ominous the 
+              implications of a novel reading based on self-gratification as opposed 
+              to social feelings.</p>
+          </quote>
+          <bibl>
+            <author>Nina Baym</author>,
+            <title>Novels, Readers, and Reviewers: 
+              Responses to Fiction in Antebellum America</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <sp>
+              <speaker>The Janitor</speaker>
+              <l>In my experience the big things don’t teach you anything</l>
+              <l>But they make you something</l>
+              <l>And sometimes you gotta wait a while and see what come of it.</l>
+            </sp>
+          </quote>
+          <bibl>
+            <author>Bethany Hockenberry</author> and <author>Scott Benson</author>,
+            <title>Night in the Woods</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <sp>
+              <speaker>Mae</speaker>
+              <l>Do you believe in anything at all?</l>
+            </sp>
+            <sp>
+              <speaker>Angus</speaker>
+              <l>Um, well so like the constellations</l>
+              <l>I don’t believe there’s a whale out there</l>
+              <l>But I believe that the stars exist</l>
+              <l>And that people put the whale there</l>
+              <l>Like I dunno</l>
+              <l>We’re good at drawing lines through the spaces between stars</l>
+              <l>Like we’re pattern-finders, and we’ll find patterns</l>
+              <l>And we like really put our hearts and minds into it</l>
+              <l>And even if we don’t mean to.</l>
+              <l>So I believe in a universe that doesn’t care</l>
+              <l>And people who do.</l>
+            </sp>
+          </quote>
+          <bibl>
+            <author>Bethany Hockenberry</author> and <author>Scott Benson</author>,
+            <title>Night in the Woods</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <p>He tells the story over and over and over again when he is feeling 
+              unsure of himself. Why? Because there is a beginning, a middle, and an 
+              end. He is comforted by it—the structure—knowing there is an answer 
+              to the strange question being asked.</p>
+          </quote>
+          <bibl>
+            <author>Joe Meno</author>,
+            <title>The Boy Dectective Fails</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <p>This is what happens every time a group of feminists gets 
+              together—things blow up, people’s feelings get hurt, and then you 
+              piece it all back together.</p>
+          </quote>
+          <bibl>
+            <author>Jacqueline Wernimont</author>,
+            <title rend="quoted">Building Digital Feminist Communities</title> workshop,
+            <date when="2017-03-15">March 15, 2017</date>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <l>Territorialism is mad efficient...</l>
+            <l>But it will be the death of us.</l>
+          </quote>
+          <bibl>
+            <author>Christina Harlow</author>,
+            <title rend="quoted">Resistance is Fertile: Building a Manualfesto for Lib Tech</title>,
+            Code4Lib 2017
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <l>Tools are not <hi rend="bold">solutions.</hi></l>
+            <l>Tech, alone is not <soCalled>the solution</soCalled>.</l>
+          </quote>
+          <bibl>
+            <author>Christina Harlow</author>,
+            <title rend="quoted">Resistance is Fertile: Building a Manualfesto for Lib Tech</title>,
+            Code4Lib 2017
+          </bibl>
+        </item>
         
         <item>
           <quote>

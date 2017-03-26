@@ -47,7 +47,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
-                <date when=""/>
+                <date type="copyright" when=""/>
                 <publisher>
                   <orgName></orgName>
                 </publisher>
@@ -57,6 +57,176 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="valentin.g.persona">
+            <monogr>
+              <title>Persona</title>
+              <author>
+                <persName ref="a:valentin.g"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2015"/>
+                <date type="added" when="2016-12-11"/>
+                <publisher>
+                  <orgName>Saga Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kiernan.cr.daughterhounds">
+            <monogr>
+              <title>Daughter of Hounds</title>
+              <author>
+                <persName ref="a:kiernan.cr"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2007"/>
+                <date type="added" when="2016-07-09"/>
+                <publisher>
+                  <orgName>Roc</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <!--<series>
+              <title></title>
+            </series>-->
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.ôokuinnerchambers.8">
+            <monogr>
+              <title>Ôoku: The Inner Chambers Vol. 8</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:wegmülle.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2012"/>
+                <date type="first-publication" when="2012"/>
+                <date type="printing" when="2013-09"/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ôoku: The Inner Chambers</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="carey.m.lucifer.bookthree">
+            <monogr>
+              <title>Lucifer Book Three</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:carey.m"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:gross.p"/>
+                <persName ref="a:kelly.r"/>
+                <persName ref="a:ormston.d"/>
+                <persName ref="a:hamilton.c"/>
+                <persName ref="a:hahn.d"/>
+                <persName ref="a:naifeh.t"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:vozzo.d"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:lopez.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="cover designer"/>
+                <persName ref="a:moeller.c"/>
+                <persName ref="a:mcpherso.t"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2014"/>
+                <date type="first-publication" from="2002" to="2004"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Lucifer</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="fraction.m.sexcrims.3">
+            <monogr>
+              <title>Sex Criminals Vol. 3: Three the Hard Way</title>
+              <author>
+                <persName ref="a:fraction.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:zdarsky.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Sex Criminals</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="delliqua.b.ohumanstar.2">
+            <monogr>
+              <title>O Human Star Vol. 2</title>
+              <author>
+                <persName ref="a:delliqua.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2016-11-03"/>
+                <catRef target="#tag.owned" from="2017-03-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <persName ref="a:delliqua.b"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>O Human Star</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="delliqua.b.ohumanstar.1">
+            <monogr>
+              <title>O Human Star Vol. 1</title>
+              <author>
+                <persName ref="a:delliqua.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-03-20"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <persName ref="a:delliqua.b"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>O Human Star</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="mcguire.s.duskdarkdawnday">
             <monogr>
