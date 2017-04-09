@@ -29,10 +29,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-04-09">
+          <p>Read <ref target="b:brontë.c.villette">Villette</ref>.</p>
+        </event>
+        <event from="2017-04-07" to="2017-04-09">
+          <p>Read <ref target="b:carey.m.lucifer.bookthree">Lucifer Book Three</ref>.</p>
+        </event>
         <event when="2017-04-02">
           <p>Read <ref target="b:fraction.m.sexcrims.3">Sex Criminals Vol. 3: Three the Hard Way</ref>.</p>
         </event>
-        <event from="2017-03-30">
+        <event from="2017-03-30" to="2017-04-06">
           <p>Read <ref target="b:valentin.g.persona">Persona</ref>.</p>
         </event>
         <event from="2017-03-23" to="2017-03-30">
