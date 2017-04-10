@@ -18,6 +18,7 @@
         </p>
       </sourceDesc>
     </fileDesc>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
         <change when="2017-02-04">Added list heading.</change>
@@ -2697,13 +2698,13 @@
           <p>Read <ref target="b:blume.j.forever">Forever...</ref> for English 135 (Adolescent Lit).</p>
         </event>
         <event from="2008-09-05" to="2008-09-06">
-          <p>Read <ref target="b:stein.j.actskingarthurhisnobleknights">The Acts of King Arthur and His Noble Knights</ref>.</p>
+          <p>Read <ref target="b:steinbec.j.actskingarthurhisnobleknights">The Acts of King Arthur and His Noble Knights</ref>.</p>
         </event>
         <event from="2008-09-02" to="2008-09-05">
           <p>Reread <ref target="b:card.os.endersgame">Ender’s Game</ref>.</p>
         </event>
         <event when="2008-09-01">
-          <p>Reread <ref target="b:stein.j.ofmicemen">Of Mice and Men</ref> for English 116 (Novella).</p>
+          <p>Reread <ref target="b:steinbec.j.ofmicemen">Of Mice and Men</ref> for English 116 (Novella).</p>
         </event>
         <event from="2008-08-26" to="2008-08-31">
           <p>Read <ref target="b:daly.m.seventeenthsummer">Seventeenth Summer</ref> for English 135 (Adolescent
