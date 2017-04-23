@@ -58,6 +58,158 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="helmer.d.meek.1">
+            <monogr>
+              <title>The Meek Vol. 1</title>
+              <author>
+                <persName ref="a:helmer.d"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-04-23"/>
+                <date type="copyright" when="2017"/>
+                <date type="first-publication" from="2008-12" to="2011-10"/>
+                <publisher>
+                <persName ref="a:helmer.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Meek</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="leyh.k.supercakes">
+            <monogr>
+              <title>SuperCakes</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:leyh.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-04-19"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Yeti Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>SuperCakes</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="north.r.squirrelgirlbeatsupmarvel">
+            <monogr>
+              <title>The Unbeatable Squirrel Girl Beats Up the Marvel Universe!</title>
+              <author>
+                <persName ref="a:north.r"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <resp relation="inker"/>
+                <resp relation="cover designer"/>
+                <persName ref="a:henderso.e"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="inker"/>
+                <persName ref="a:fowler.t"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:lanham.t"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-04-19"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Marvel Comic</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Unbeatable Squirrel Girl</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="zdarsky.c.jughead.1">
+            <monogr>
+              <title>Jughead Vol. 1</title>
+              <author>
+                <persName ref="a:zdarsky.c"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <persName ref="a:henderso.e"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:szymanow.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:morelli.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-04-19"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Archie Comic Publications</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Jughead</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="cliff.t.delilahdirk.turkishlieutenant">
+            <monogr>
+              <title>Delilah Dirk and the Turkish Lieutenant</title>
+              <author>
+                <persName ref="a:cliff.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-04-16"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Delilah Dirk</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="flores.i.scififashion">
+            <monogr>
+              <title>Sci-Fi Fashion Art School</title>
+              <author>
+                <persName ref="a:flores.i"/>
+                <persName ref="a:raiti.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2017-04-16"/>
+                <date type="first-publication" when="2016-12"/>
+                <publisher>
+                  <orgName>IMPACT</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Shojo Fashion Manga</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="valentin.g.persona">
             <monogr>
               <title>Persona</title>

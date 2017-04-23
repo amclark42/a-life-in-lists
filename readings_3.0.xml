@@ -30,6 +30,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-04-20">
+          <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish 
+            Lieutenant</ref>.</p>
+        </event>
         <event from="2017-04-09">
           <p>Read <ref target="b:brontë.c.villette">Villette</ref>.</p>
         </event>

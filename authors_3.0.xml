@@ -41,6 +41,70 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="flores.i">
+          <persName>
+            <forename>Irene</forename>
+            <surname>Flores</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="raiti.a">
+          <persName>
+            <forename>Ashly</forename>
+            <surname>Raiti</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="helmer.d">
+          <persName>
+            <forename>Der-shing</forename>
+            <surname>Helmer</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="cliff.t">
+          <persName>
+            <forename>Tony</forename>
+            <surname>Cliff</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="fowler.t">
+          <persName>
+            <forename>Tom</forename>
+            <surname>Fowler</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lanham.t">
+          <persName>
+            <forename>Travis</forename>
+            <surname>Lanham</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="szymanow.a">
+          <persName>
+            <forename>Andre</forename>
+            <surname>Szymanowicz</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="morelli.j">
+          <persName>
+            <forename>Jack</forename>
+            <surname>Morelli</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="valentin.g">
           <persName>
             <forename>Genevieve</forename>

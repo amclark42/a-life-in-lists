@@ -1077,6 +1077,15 @@
           <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
+          <author>Liu, Majorie</author> and 
+          <respStmt>
+            <resp relation="artist"/>
+            <persName>Sana Takeda</persName>
+          </respStmt>.
+          <title>Monstress Vol. 1</title>
+          <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
           <author>Long, Mark</author>,
           <author>Jim Demonakos</author> and
           <author>Nate Powell</author>.
