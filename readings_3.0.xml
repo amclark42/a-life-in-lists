@@ -30,7 +30,11 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-04-20">
+        <event when="2017-04-28">
+          <p>Read <ref target="b:north.r.squirrelgirlbeatsupmarvel">The Unbeatable Squirrel Girl 
+            Beats Up the Marvel Universe!</ref>.</p>
+        </event>
+        <event from="2017-04-20" to="2017-04-23">
           <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish 
             Lieutenant</ref>.</p>
         </event>
