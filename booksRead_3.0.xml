@@ -39,7 +39,7 @@
           <head>Books I’ve Read</head>
           <!--
           
-          <biblStruct>
+          <biblStruct xml:id="">
             <monogr>
               <title></title>
               <author>
@@ -57,6 +57,150 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="lynch.s.redseas">
+            <monogr>
+              <title>Red Seas Under Red Skies</title>
+              <author>
+                <persName ref="a:lynch.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2007"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Gentleman Bastard</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="ogawa.y.housekeeperprofessor">
+            <monogr>
+              <title>The Housekeeper and the Professor</title>
+              <title xml:lang="ja">Hakase no Aishita Sūshiki</title>
+              <author>
+                <persName ref="a:ogawa.y"/>
+              </author>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:snyder.st"/>
+              </respStmt>
+              <imprint>
+                <date type="copyright" when="2003"/>
+                <date type="translation-copyright" when="2009"/>
+                <publisher>
+                  <orgName>Picador</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="gaiman.n.norsemythology">
+            <monogr>
+              <title>Norse Mythology</title>
+              <author>
+                <persName ref="a:gaiman.n"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>W. W. Norton &amp; Company</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+          <biblStruct xml:id="rucka.g.lazarus.2.lift">
+            <monogr>
+              <title>Lazarus Vol. 2: Lift</title>
+              <author>
+                <persName ref="a:rucka.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:lark.m"/>
+                <persName ref="a:level.b"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:lark.m"/>
+                <persName ref="a:wynne.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:arcas.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Lazarus</title>
+            </series>
+          </biblStruct>
+
+          <biblStruct xml:id="agi.t.dropsofgod.3">
+            <monogr>
+              <title>The Drops of God Vol. 3</title>
+              <title type="alt" xml:lang="ja">Kami no Shizuku 5, 6</title>
+              <author>
+                <persName ref="a:agi.t"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:okimoto.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:robinson.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2012"/>
+                <date type="first-publication" when="2006"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Drops of God</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.6">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 6</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:hinton.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <date type="copyright" when="2015"/>
+                <date type="first-publication" when="2012"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="helmer.d.meek.1">
             <monogr>
@@ -200,6 +344,7 @@
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2017-04-16"/>
                 <date type="first-publication" when="2016-12"/>
+                <date type="added" when="2016-11-21"/>
                 <publisher>
                   <orgName>IMPACT</orgName>
                 </publisher>

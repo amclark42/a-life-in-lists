@@ -41,6 +41,38 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="ogawa.y">
+          <persName>
+            <forename>Yoko</forename>
+            <surname>Ogawa</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="snyder.st">
+          <persName>
+            <forename>Stephen</forename>
+            <surname>Snyder</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="level.b">
+          <persName>
+            <forename>Brian</forename>
+            <surname>Level</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="wynne.j">
+          <persName>
+            <forename>Jodi</forename>
+            <surname>Wynne</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="flores.i">
           <persName>
             <forename>Irene</forename>
@@ -196,7 +228,7 @@
             <surname>Baym</surname>
           </persName>
           <persName type="alternate">
-            <foreName>Nina</foreName>
+            <forename>Nina</forename>
             <surname>B. Stillinger</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>

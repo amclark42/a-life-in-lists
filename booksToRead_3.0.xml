@@ -52,6 +52,13 @@
           <title>The Goblin Emperor</title>.
         </bibl>
         <bibl>
+          <author>Akihito, Tomi</author>.
+          <title xml:lang="ja">Reiroukan Kenzai Nariya</title>
+          <title xml:lang="en">Is Reiroukan Still Alive?</title>
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2017-05-07"/>
+        </bibl>
+        <bibl>
           <author>Alexander, Christopher</author>.
           <title>A Pattern Language: Towns, Buildings, Constructions</title>.
           <trait ref="#tag.nonfiction"/>
@@ -211,13 +218,6 @@
           <title>Joy for Beginners</title>.
         </bibl>
         <bibl>
-          <author>Baym, Nina</author>.
-          <title>Novels, Readers, and Reviewers: Responses to Fiction in Antebellum 
-            America</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2017-02-19"/>
-        </bibl>
-        <bibl>
           <author>Beagle, Peter S.</author>
           <title>Summerlong</title>.
           <date type="added" when="2017-01-07"/>
@@ -298,10 +298,6 @@
           <author>Briggs, Patricia</author>.
           <title>Moon Called</title>.
           <series><title>Mercy Thompson</title></series>
-        </bibl>
-        <bibl>
-          <author>Bronte, Charlotte</author>.
-          <title>Villette</title>.
         </bibl>
         <bibl>
           <author>Brookner, Anita</author>.
@@ -637,15 +633,6 @@
           <author>Flewelling, Lynn</author>.
           <title>The White Road</title>.
           <series><title>Nightrunner</title></series>
-        </bibl>
-        <bibl>
-          <author>Flores, Irene</author> and
-          <author>Ashley Raiti</author>.
-          <title>Sci-Fi Fashion Art School: How to Draw Science Fiction Characters, 
-            Styles and Action Scenes</title>.
-          <series><title>Shojo Fashion Manga</title></series>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-11-21"/>
         </bibl>
         <bibl>
           <author>Forney, Ellen</author>.

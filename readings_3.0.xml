@@ -30,6 +30,18 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-05-13">
+          <p>Read <ref target="b:gaiman.n.norsemythology">Norse Mythology</ref>.</p>
+        </event>
+        <event from="2017-05-09" to="2017-05-13">
+          <p>Reread <ref target="b:pratchet.t.smallgods">Small Gods</ref>.</p>
+        </event>
+        <event from="2017-05-07" to="2017-05-13">
+          <p>Read <ref target="b:flores.i.scififashion">Sci-Fi Fashion Art School</ref>.</p>
+        </event>
+        <event from="2017-05-06" to="2017-05-07">
+          <p>Read <ref target="b:zdarsky.c.jughead.1">Jughead Vol. 1</ref>.</p>
+        </event>
         <event when="2017-04-28">
           <p>Read <ref target="b:north.r.squirrelgirlbeatsupmarvel">The Unbeatable Squirrel Girl 
             Beats Up the Marvel Universe!</ref>.</p>
@@ -38,7 +50,7 @@
           <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish 
             Lieutenant</ref>.</p>
         </event>
-        <event from="2017-04-09">
+        <event from="2017-04-09" to="2017-05-05">
           <p>Read <ref target="b:brontë.c.villette">Villette</ref>.</p>
         </event>
         <event from="2017-04-07" to="2017-04-09">
@@ -75,7 +87,7 @@
         <event when="2017-03-05">
           <p>Read <ref target="b:fraction.m.ody-c.1.farithicaa">ODY-C Vol. 1: Off to Far Ithicaa</ref>.</p>
         </event>
-        <event from="2017-03-04">
+        <event from="2017-03-04" to="2017-05-06">
           <p>Read <ref target="b:baym.n.novelsreadersreviewers">Novels, Readers, and Reviewers: 
             Responses to Fiction in Antebellum America</ref>.</p>
         </event>
