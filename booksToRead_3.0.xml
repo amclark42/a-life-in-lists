@@ -358,6 +358,12 @@
           <title>Angel of Darkness</title>.
         </bibl>
         <bibl>
+          <author>Carriger, Gail</author>.
+          <title>Soulless</title>.
+          <series><title>The Parasol Protectorate</title></series>
+          <date type="added" when="2017-05-19"/>
+        </bibl>
+        <bibl>
           <author>Carter, Angela</author>.
           <title>Nights at the Circus</title>.
         </bibl>
@@ -402,6 +408,16 @@
         <bibl>
           <author>Chiang, Ted</author>.
           <title>Stories of Your Life and Others</title>.
+        </bibl>
+        <bibl>
+          <author>Cixin, Liu</author>.
+          <respStmt>
+            <resp relation="translator"/>
+            <persName>Ken Liu</persName>
+          </respStmt>.
+          <title>The Three-Body Problem</title>.
+          <series><title>Remembrance of Earth's Past</title></series>
+          <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
           <author>Clare, Cassandra</author>.
@@ -801,6 +817,12 @@
           <series><title>Dune Chronicles</title></series>
         </bibl>
         <bibl>
+          <author>Higgins, C. A.</author>.
+          <title>Lightless</title>.
+          <series><title>Lightless</title></series>
+          <date type="added" when="2017-05-19"/>
+        </bibl>
+        <bibl>
           <author>Hill, Stuart</author>.
           <title>The Cry of the Icemark</title>.
         </bibl>
@@ -1071,6 +1093,7 @@
           </respStmt>.
           <title>Monstress Vol. 1</title>
           <trait ref="#tag.comics"/>
+          <date type="added" when="2017-04-19"/>
         </bibl>
         <bibl>
           <author>Long, Mark</author>,
@@ -1268,6 +1291,13 @@
         <bibl>
           <author>Myers, Walter Dean</author>.
           <title>Shooter</title>.
+        </bibl>
+        <bibl>
+          <author>Nagata, Kabi</author>.
+          <title>My Lesbian Experience with Loneliness</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <date type="added" when="2017-05-14"/>
         </bibl>
         <bibl>
           <author>Nagpal, Saraswati</author>.
@@ -1494,6 +1524,12 @@
         <bibl>
           <author>Rushdie, Salman</author>.
           <title>Fury</title>.
+        </bibl>
+        <bibl>
+          <author>Ryan, Carrie</author>.
+          <title>The Forest of Hands and Teeth</title>.
+          <series><title>The Forest of Hands and Teeth</title></series>
+          <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
           <author>Sagan, Carl</author>.

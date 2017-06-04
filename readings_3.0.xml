@@ -30,7 +30,25 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-05-13">
+        <event>
+          <p>Read <ref target="b:helmer.d.meek.1">The Meek Vol. 1</ref>.</p>
+        </event>
+        <event from="2017-05-22">
+          <p>Read <ref target="b:lynch.s.redseas">Red Seas Under Red Skies</ref>.</p>
+        </event>
+        <event from="2017-05-20" to="2017-05-21">
+          <p>Read <ref target="b:agi.t.dropsofgod.3">The Drops of God Vol. 3</ref>.</p>
+        </event>
+        <event when="2017-05-19">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.6">What Did You Eat Yesterday? Vol. 6</ref>.</p>
+        </event>
+        <event when="2017-05-19">
+          <p>Reread <ref target="b:leyh.k.supercakes">SuperCakes</ref>.</p>
+        </event>
+        <event from="2017-05-17" to="2017-05-19">
+          <p>Read <ref target="b:ogawa.y.housekeeperprofessor">The Housekeeper and the Professor</ref>.</p>
+        </event>
+        <event from="2017-05-13" to="2017-05-17">
           <p>Read <ref target="b:gaiman.n.norsemythology">Norse Mythology</ref>.</p>
         </event>
         <event from="2017-05-09" to="2017-05-13">
@@ -49,6 +67,9 @@
         <event from="2017-04-20" to="2017-04-23">
           <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish 
             Lieutenant</ref>.</p>
+        </event>
+        <event when="2017-04-19">
+          <p>Read <ref target="b:leyh.k.supercakes">SuperCakes</ref>.</p>
         </event>
         <event from="2017-04-09" to="2017-05-05">
           <p>Read <ref target="b:brontë.c.villette">Villette</ref>.</p>
