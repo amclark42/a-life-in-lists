@@ -30,10 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event>
+        <event from="2017-06-10">
+          <p>Reread <ref target="b:vonnegut.k.breakfastchampions">Breakfast of Champions</ref>.</p>
+        </event>
+        <event when="2017-06-10">
+          <p>Reread <ref target="b:simone.g.ww.circle">Wonder Woman: The Circle</ref>.</p>
+        </event>
+        <event when="2017-06-10">
+          <p>Reread <ref target="b:rucka.g.lazarus.1family">Lazarus Vol. 1: Family</ref>.</p>
+        </event>
+        <event when="2017-06-04">
           <p>Read <ref target="b:helmer.d.meek.1">The Meek Vol. 1</ref>.</p>
         </event>
-        <event from="2017-05-22">
+        <event from="2017-05-22" to="2017-06-10">
           <p>Read <ref target="b:lynch.s.redseas">Red Seas Under Red Skies</ref>.</p>
         </event>
         <event from="2017-05-20" to="2017-05-21">

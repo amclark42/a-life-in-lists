@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Open Office Document
-          <title type="filename">Books I’ve Read 2.0 (start Mar. 2008).odt</title>.
+          <title type="filename">Books I’ve Read 2.0 (start lMar. 2008).odt</title>.
         </p>
       </sourceDesc>
     </fileDesc>
@@ -57,6 +57,37 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="mori.k.bridesstory.4">
+            <monogr>
+              <title>A Bride’s Story Vol. 4</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:mori.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-05-29"/>
+                <date type="first-published" when="2012"/>
+                <date type="first-american-edition" when="2013-01"/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>A Bride’s Story</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="lynch.s.redseas">
             <monogr>
@@ -9506,9 +9537,40 @@
               <author>
                 <persName ref="a:simone.g"/>
               </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:dodson.t"/>
+                <persName ref="a:chang.b"/>
+                <persName ref="a:randall.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="inker"/>
+                <persName ref="a:dodson.r"/>
+                <persName ref="a:chang.b"/>
+                <persName ref="a:randall.r"/>
+                <persName ref="a:holdridg.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:sinclair.a"/>
+                <name>I.L.L.</name>
+                <persName ref="a:loughrid.l"/>
+                <persName ref="a:pantazis.p"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:leigh.r"/>
+                <persName ref="a:lanham.t"/>
+                <persName ref="a:hill.jj"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:lackey.m"/>
+              </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
                 <catRef target="#tag.comics"/>
+                <date type="copyright" when="2008"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -15159,14 +15221,17 @@
                 <resp relation="artist"/>
                 <resp relation="letterer"/>
                 <persName ref="a:lark.m"/>
+                <persName ref="a:level.b"/>
+                <persName ref="a:guadiano.s"/>
               </respStmt>
               <respStmt>
                 <resp relation="colorist"/>
                 <persName ref="a:arcas.s"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <catRef target="#tag.comics"/>
+                <date type="copyright" when="2013"/>
                 <publisher>
                   <orgName>Image Comics</orgName>
                 </publisher>
@@ -17500,9 +17565,9 @@
                 <persName ref="a:vonnegut.k"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.class"/>
-                <date when="1973"/>
+                <date type="copyright" when="1973"/>
                 <publisher>
                   <orgName>Random House, Inc.</orgName>
                 </publisher>

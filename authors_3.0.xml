@@ -41,6 +41,70 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="dodson.t">
+          <persName>
+            <forename>Terry</forename>
+            <surname>Dodson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="dodson.r">
+          <persName>
+            <forename>Rachel</forename>
+            <surname>Dodson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="chang.b">
+          <persName>
+            <forename>Bernard</forename>
+            <surname>Chang</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="holdridg.j">
+          <persName>
+            <forename>Jon</forename>
+            <surname>Holdridge</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="sinclair.a">
+          <persName>
+            <forename>Alex</forename>
+            <surname>Sinclair</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="pantazis.p">
+          <persName>
+            <forename>Pete</forename>
+            <surname>Pantazis</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hill.jj">
+          <persName>
+            <forename>John J.</forename>
+            <surname>Hill</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="guadiano.s">
+          <persName>
+            <forename>Stefano</forename>
+            <surname>Guadiano</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="ogawa.y">
           <persName>
             <forename>Yoko</forename>
