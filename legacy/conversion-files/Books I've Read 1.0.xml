@@ -28,10 +28,10 @@
   </teiHeader>
   <text>
     <body>
-      <p rend="center smallcaps">Books I’ve Read 1.0</p>
-      <p rend="center">(before late February 2008)</p>
-      <p rend="center">* : Indicates a graphic novel</p>
-      <p rend="center">Notes in <hi rend="italic">italics</hi></p>
+      <head rend="center smallcaps">Books I’ve Read 1.0</head>
+      <head rend="center">(before late February 2008)</head>
+      <head rend="center">* : Indicates a graphic novel</head>
+      <head rend="center">Notes in <hi rend="italic">italics</hi></head>
       <p>Abrahams, Peter. <hi rend="underline">Down the Rabbit Hole</hi>.</p>
       <p>Adams, Douglas. <hi rend="underline">Dirk Gently’s Holistic Detective
           Agency</hi>. <hi rend="italic">See Gaiman, Neil</hi>.</p>
@@ -859,62 +859,62 @@
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">Bartholomew and the
           Oobleck</hi>
         <hi rend="background-color(#ffff00)">. </hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">The Cat in the Hat</hi>
         <hi rend="background-color(#ffff00)">. </hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">Green Eggs and Ham</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">Horton Hears a Who!</hi>
         <hi rend="background-color(#ffff00)">. </hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">Horton Hatches the
           Egg</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">How the Grinch Stole
           Christmas!</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">I Can Lick 30 Tigers
           Today! and Other Stories</hi>
         <hi rend="background-color(#ffff00)">. </hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">The Lorax</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">My Book About ME</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">Oh, the Places You’ll
           Go!</hi>
         <hi rend="background-color(#ffff00)">.</hi>
       </p>
       <p>
-        <hi rend="background-color(#ffff00)">---. </hi>
+        ---. 
         <hi rend="background-color(#ffff00)underline">One Fish Two Fish Red Fish
           Blue Fish</hi>
         <hi rend="background-color(#ffff00)">.</hi>
