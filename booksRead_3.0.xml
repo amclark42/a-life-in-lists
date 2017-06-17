@@ -14,16 +14,16 @@
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Open Office Document
-          <title type="filename">Books I’ve Read 2.0 (start lMar. 2008).odt</title>.
+          <title type="filename">Books I’ve Read 2.0 (start Mar. 2008).odt</title>.
         </p>
       </sourceDesc>
     </fileDesc>
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change when="2017-03-11">Started adding <att>from-custom</att> on "owned" 
-          tags, using the roughly-defined time periods in timeline.xml. Also started 
-          adding <gi>date</gi>s with a type of "first-read" for cases where a book 
+        <change when="2017-03-11">Started adding <att>from-custom</att> on "owned"
+          tags, using the roughly-defined time periods in timeline.xml. Also started
+          adding <gi>date</gi>s with a type of "first-read" for cases where a book
           was owned much later or earlier than it was first read.</change>
         <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
@@ -57,6 +57,58 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="walton.j.booksogreat">
+            <monogr>
+              <title>What Makes This Book So Great</title>
+              <author>
+                <persName ref="a:walton.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2016-10-08"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="bacigalu.p.waterknife">
+            <monogr>
+              <title>The Water Knife</title>
+              <author>
+                <persName ref="a:bacigalu.p"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:developer"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="cliff.t.delilahdirk.kingsshilling">
+            <monogr>
+              <title>Delilah Dirk and the King’s Shilling</title>
+              <author>
+                <persName ref="a:cliff.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Delilah Dirk</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="mori.k.bridesstory.4">
             <monogr>
@@ -96,6 +148,7 @@
                 <persName ref="a:lynch.s"/>
               </author>
               <imprint>
+                <date type="added" when-custom="ash:freelancer"/>
                 <date type="copyright" when="2007"/>
                 <publisher>
                   <orgName>Bantam Books</orgName>
@@ -611,7 +664,7 @@
           
           <biblStruct xml:id="baym.n.novelsreadersreviewers">
             <monogr>
-              <title>Novels, Readers, and Reviewers: Responses to Fiction in 
+              <title>Novels, Readers, and Reviewers: Responses to Fiction in
                 Antebellum America</title>
               <author>
                 <persName ref="a:baym.n"/>
@@ -1158,7 +1211,7 @@
 
           <biblStruct xml:id="north.r.squirrelgirl.2.squirreltrue">
             <monogr>
-              <title>The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It’s 
+              <title>The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It’s
                 True</title>
               <author>
                 <persName ref="a:north.r"/>
@@ -1471,7 +1524,7 @@
 
           <biblStruct xml:id="nugent.a.donthavetolikeme">
             <monogr>
-              <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out, 
+              <title>You Don’t Have to Like Me: Essays on Growing Up, Speaking Out,
                 and Finding Feminism</title>
               <author>
                 <persName ref="a:nugent.a"/>
@@ -3723,7 +3776,7 @@
 
           <biblStruct xml:id="steinbec.j.actskingarthurhisnobleknights">
             <monogr>
-              <title>The Acts of King Arthur and His Noble Knights From the Winchester 
+              <title>The Acts of King Arthur and His Noble Knights From the Winchester
                 Manuscripts of Thomas Malory and Other Sources</title>
               <author>
                 <persName ref="a:steinbec.j"/>
@@ -3799,7 +3852,7 @@
 
           <biblStruct xml:id="paolini.c.brisingr">
             <monogr>
-              <title>Brisingr, or, The Seven Promises of Eragon Shadeslayer and Saphira 
+              <title>Brisingr, or, The Seven Promises of Eragon Shadeslayer and Saphira
                 Bjartskular</title>
               <author>
                 <persName ref="a:paolini.c"/>
@@ -17594,7 +17647,7 @@
 
           <biblStruct xml:id="goldman.w.princessbride">
             <monogr>
-              <title>The Princess Bride: S. Morgenstern’s Classic Tale of True Love 
+              <title>The Princess Bride: S. Morgenstern’s Classic Tale of True Love
                 and High Adventure</title>
               <author>
                 <persName ref="a:goldman.w"/>
@@ -17633,7 +17686,7 @@
 
           <biblStruct xml:id="gaiman.n.goodomens">
             <monogr>
-              <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, 
+              <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter,
                 Witch</title>
               <author>
                 <persName ref="a:gaiman.n"/>
@@ -17890,7 +17943,7 @@
           <biblStruct xml:id="soustell.j.dailylifeaztecs">
             <monogr>
               <title>Daily Life of the Aztecs On the Eve of the Spanish Conquest</title>
-              <title type="alt" xml:lang="fr">La Vie Quotidienne des Aztèques à la 
+              <title type="alt" xml:lang="fr">La Vie Quotidienne des Aztèques à la
                 Veille de la Conquête Espagnole</title>
               <author>
                 <persName ref="a:soustell.j"/>

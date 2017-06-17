@@ -30,6 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-06-17">
+          <p>Read <ref target="b:walton.j.booksogreat">What Makes This Book So Great</ref>.</p>
+        </event>
+        <event when="2017-06-15">
+          <p>Read <ref target="b:cliff.t.delilahdirk.kingsshilling">Delilah Dirk and the King’s
+            Shilling</ref>.</p>
+        </event>
+        <event from="2017-06-11" to="2017-06-12">
+          <p>Read <ref target="b:rucka.g.lazarus.2.lift">Lazarus Vol. 2: Lift</ref>.</p>
+        </event>
         <event from="2017-06-10">
           <p>Reread <ref target="b:vonnegut.k.breakfastchampions">Breakfast of Champions</ref>.</p>
         </event>
@@ -70,11 +80,11 @@
           <p>Read <ref target="b:zdarsky.c.jughead.1">Jughead Vol. 1</ref>.</p>
         </event>
         <event when="2017-04-28">
-          <p>Read <ref target="b:north.r.squirrelgirlbeatsupmarvel">The Unbeatable Squirrel Girl 
+          <p>Read <ref target="b:north.r.squirrelgirlbeatsupmarvel">The Unbeatable Squirrel Girl
             Beats Up the Marvel Universe!</ref>.</p>
         </event>
         <event from="2017-04-20" to="2017-04-23">
-          <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish 
+          <p>Read <ref target="b:cliff.t.delilahdirk.turkishlieutenant">Delilah and the Turkish
             Lieutenant</ref>.</p>
         </event>
         <event when="2017-04-19">
@@ -111,14 +121,14 @@
           <p>Read <ref target="b:mcguire.s.duskdarkdawnday">Dusk or Dark or Dawn or Day</ref>.</p>
         </event>
         <event when="2017-03-07">
-          <p>Read <ref target="b:theoatmeal.terriblewonderfulreasons">The Terrible and Wonderful 
+          <p>Read <ref target="b:theoatmeal.terriblewonderfulreasons">The Terrible and Wonderful
             Reasons Why I Run Long Distances</ref>.</p>
         </event>
         <event when="2017-03-05">
           <p>Read <ref target="b:fraction.m.ody-c.1.farithicaa">ODY-C Vol. 1: Off to Far Ithicaa</ref>.</p>
         </event>
         <event from="2017-03-04" to="2017-05-06">
-          <p>Read <ref target="b:baym.n.novelsreadersreviewers">Novels, Readers, and Reviewers: 
+          <p>Read <ref target="b:baym.n.novelsreadersreviewers">Novels, Readers, and Reviewers:
             Responses to Fiction in Antebellum America</ref>.</p>
         </event>
         <event when="2017-03-04">
@@ -146,7 +156,7 @@
           <p>Read <ref target="b:cloonan.b.gothamacademy.2.calamity">Gotham Academy Vol. 2: Calamity</ref>.</p>
         </event>
         <event from="2017-01-31" to="2017-02-02">
-          <p>Read <ref target="b:north.r.squirrelgirl.2.squirreltrue">The Unbeatable Squirrel Girl 
+          <p>Read <ref target="b:north.r.squirrelgirl.2.squirreltrue">The Unbeatable Squirrel Girl
             Vol. 2: Squirrel You Know It’s True</ref>.</p>
         </event>
         <event from="2017-01-29" to="2017-01-31">
@@ -159,7 +169,7 @@
           <p>Read <ref target="b:fraction.m.sexcrims.2">Sex Criminals Vol. 2: Two Worlds, One Cop</ref>.</p>
         </event>
         <event from="2017-01-17" to="2017-01-28">
-          <p>Read <ref target="b:kleguin.u.wordsaremymatter">Words are My Matter: Writings About 
+          <p>Read <ref target="b:kleguin.u.wordsaremymatter">Words are My Matter: Writings About
             Life and Books, 2000–2016</ref>.</p>
         </event>
         <event when="2017-01-15">
@@ -223,7 +233,7 @@
           <p>Read <ref target="b:agi.t.dropsofgod.2">The Drops of God Vol. 2</ref>.</p>
         </event>
         <event from="2016-10-15" to="2016-10-19">
-          <p>Read <ref target="b:nugent.a.donthavetolikeme">You Don’t Have to Like Me: Essays on Growing Up, 
+          <p>Read <ref target="b:nugent.a.donthavetolikeme">You Don’t Have to Like Me: Essays on Growing Up,
             Speaking Out, and Finding Feminism</ref>.</p>
         </event>
         <event from="2016-10-08" to="2016-10-15">
