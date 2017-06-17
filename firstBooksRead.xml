@@ -1,0 +1,4844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model file:/media/removable/SD%20Card/perspectography/schema/perspectography.rng application/xml http://relaxng.org/ns/structure/1.0?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My First Books Read</title>
+            <title type="sub">List of Bibliographic Entries</title>
+            <editor>
+               <persName>Ashley M. Clark</persName>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Just me, Ashley.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated from the Microsoft Word Document
+               <title type="filename">Books I've Read 1.0.xml</title>.
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
+      <revisionDesc>
+         <listChange>
+            <change when="2017-06-17T12:34:27.207-04:00">Created this TEI version of the list 
+               using <title type="filename">firstBooks2bibl.xsl</title>.</change>
+            <change when="2008-08-17T05:36:00">Last known revision of the Word document.</change>
+            <change when="2008-03-03T16:24:00">Created first version of this list in Microsoft Word.</change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <head rend="smallcaps">Books I’ve Read</head>
+            <head type="sub">(before late February 2008)</head>
+            <bibl>
+               <author>
+                  <persName>Abrahams, Peter.</persName>
+               </author> 
+               <title>Down the Rabbit Hole</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>
+               </author> 
+               <title>Dirk Gently’s Holistic Detective
+                  Agency</title>. <note>See Gaiman, Neil</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Long, Dark Tea-Time of the Soul</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Hitchhiker’s Guide to the
+                  Galaxy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Restaurant at the End of the
+                  Universe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>Life, the Universe and Everything</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>So Long, and Thanks for All the
+                  Fish</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>Mostly Harmless</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Original Hitchhiker’s Guide Radio
+                  Scripts</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Ultimate Hitchhiker’s Guide</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Douglas.</persName>.</author> 
+               <title>The Salmon of Doubt</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adams, Richard.</persName>
+               </author> 
+               <title>Watership Down</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Adlington, L.J.</persName>
+               </author> 
+               <title>The Diary of Pelly D</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alexander, Lloyd.</persName>
+               </author> 
+               <title>The Gawgon and the Boy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alexander, Lloyd.</persName>.</author> 
+               <title>The Iron Ring</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alexander, Lloyd.</persName>.</author> 
+               <title>The Rope Trick</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Albom, Mitch.</persName>
+               </author> 
+               <title>Five People You Meet in
+                  Heaven</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Albom, Mitch.</persName>.</author> 
+               <title>Tuesdays with Morrie</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alcott, Louisa.</persName>
+               </author> 
+               <title>Little Women</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alcott, Louisa.</persName>.</author> 
+               <title>Jo’s Boys</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alighieri, Dante.</persName>
+               </author> 
+               <title>Inferno</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alighieri, Dante.</persName>.</author> 
+               <title>Purgatory</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Allende, Isabel.</persName>
+               </author> 
+               <title>City of the Beasts</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Allende, Isabel.</persName>.</author> 
+               <title>Kingdom of the Golden Dragon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Alvarez, Julia.</persName>
+               </author> 
+               <title>In the Time of the
+                  Butterflies</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Anderson, Laurie Halse.</persName>
+               </author> 
+               <title>Catalyst</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Anderson, Laurie Halse.</persName>.</author> 
+               <title>Fever 1793</title>. <note>Never
+                  finished</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Anderson, Laurie Halse.</persName>.</author> 
+               <title>Speak</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Anderson, M.T.</persName>
+               </author> 
+               <title>Feed</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Andrews, V.C.</persName>
+               </author> 
+               <title>Flowers in the Attic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Applegate, K.A.</persName>
+               </author> 
+               <title>The Animorphs Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Armstrong, William.</persName>
+               </author> 
+               <title>Sounder</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Arnold, Nick.</persName>
+               </author> 
+               <title>Horrible Science: Chemical
+                  Chaos</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Asprin, Robert and Phil Foglio.</persName>
+               </author> 
+               <title>Myth
+                  Adventures</title>. Vol. 1-2.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Atwater-Rhodes, Amelia.</persName>
+               </author> 
+               <title>Demon in My View</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Atwater-Rhodes, Amelia.</persName>.</author> 
+               <title>In the Forests of the Night</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Atwater-Rhodes, Amelia.</persName>.</author> 
+               <title>Snakecharm</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Atwood, Margaret.</persName>
+               </author> 
+               <title>The Handmaid’s Tale</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Austen, Jane.</persName>
+               </author> 
+               <title>Persuasion</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>
+               </author> 
+               <title>City of Light, City of Dark</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>.</author> 
+               <title>The Man Who Was Poe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>.</author> 
+               <title>Midnight Magic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>.</author> 
+               <title>Nothing But the Truth: A Documentary
+                  Novel</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>.</author> 
+               <title>Poppy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Avi.</persName>.</author> 
+               <title>The True Confessions of Charlotte
+                  Doyle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Baker, Kyle.</persName>
+               </author> 
+               <title>Plastic Man: On the Lam</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Banks, Lynne Reid.</persName>
+               </author> 
+               <title>Angela and Diabola</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Banks, Lynne Reid.</persName>.</author> 
+               <title>Indian in the Cupboard</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Barker, Clive.</persName>
+               </author> 
+               <title>Abarat</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Barker, Clive.</persName>.</author> 
+               <title>Thief of Always</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Barnes, John.</persName>
+               </author> 
+               <title>Finity</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Barry, Dave and Ridley Pearson.</persName>
+               </author> 
+               <title>Peter and the
+                  Starcatchers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Barry, Lynda.</persName>
+               </author> 
+               <title>Cruddy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bass, L.G.</persName>
+               </author> 
+               <title>Outlaws of Moonshadow Marsh: The Sign
+                  of the Qin</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bauer, Joan.</persName>
+               </author> 
+               <title>Rules of the Road</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bauer, Joan.</persName>.</author> 
+               <title>Squashed</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bauer, Joan.</persName>.</author> 
+               <title>Thwonk</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Beagle, Peter S.</persName>
+               </author> 
+               <title>The Last Unicorn</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>
+               </author> 
+               <title>The Curse of the Blue
+                  Figurine</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>.</author> 
+               <title>The Mummy, the Will, and the Crypt</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>.</author> 
+               <title>The Eyes of the Killer Robot</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>.</author> 
+               <title>The House with a Clock in Its Walls</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>.</author> 
+               <title>The Figure in the Shadows</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName>.</author> 
+               <title>The Letter, the Witch, and the Ring</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bellairs, John.</persName> and Brad Strickland.</author> 
+               <title>The Ghost in the
+                  Mirror</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bennett, Cherie.</persName>
+               </author> 
+               <title>Life in the Fat Lane</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Berry, Liz.</persName>
+               </author> 
+               <title>The China Garden</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Black, Holly.</persName>
+               </author> 
+               <title>Tithe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Black, Holly.</persName>.</author> 
+               <title>Valiant</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Blackman, Malorie.</persName>
+               </author> 
+               <title>Noughts and Crosses</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Blanco, Jodee.</persName>
+               </author> 
+               <title>Please Stop Laughing At
+                  Me</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Block, Francesca Lia.</persName>
+               </author> 
+               <title>I Was a Teenage
+                  Fairy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bloor, Edward.</persName>
+               </author> 
+               <title>Crusader</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bloor, Edward.</persName>.</author> 
+               <title>Tangerine</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Blume, Judy, ed.</persName>
+               </author> 
+               <title>Places I Never Meant to Be:
+                  Original Stories by Censored Writers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>
+               </author> 
+               <title>The Cat’s Pajamas</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Dandelion Wine</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Death is a Lonely Business</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Driving Blind</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Fahrenheit 451</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Green Shadows, White Whale</title>. <note>Never finished</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>A Graveyard for Lunatics</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Let’s All Kill Constance</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>From the Dust Returned</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>The Illustrated Man</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>I Sing the Body Electric!</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>The Martian Chronicles</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>A Medicine for Melancholy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>The October Country</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>One More for the Road</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Quicker Than the Eye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Something Wicked This Way Comes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Twice 22</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bradbury, Ray.</persName>.</author> 
+               <title>Zen in the Art of Writing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brashares, Ann.</persName>
+               </author> 
+               <title>Sisterhood of the Traveling
+                  Pants</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brashares, Ann.</persName>.</author> 
+               <title>The Second Summer of the Sisterhood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brashares, Ann.</persName>.</author> 
+               <title>Girls in Pants</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bray, Libba.</persName>
+               </author> 
+               <title>A Great and Terrible Beauty</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Briggs, Raymond.</persName>
+               </author> 
+               <title>The Snowman</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Britt, Mark Haven.</persName>
+               </author> 
+               <title>Full Color</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Bronte, Charlotte.</persName>
+               </author> 
+               <title>Jane Eyre</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brooks, Bruce.</persName>
+               </author> 
+               <title>Asylum for Nightface</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brooks, Terry.</persName>
+               </author> 
+               <title>Magic Kingdom for Sale –
+                  Sold</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brown, Dan.</persName>
+               </author> 
+               <title>The Da Vinci Code</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brown, Margaret Wise and Clement Hurd.</persName>
+               </author> 
+               <title>Goodnight
+                  Moon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Brust, Steven.</persName>
+               </author> 
+               <title>Taltos</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Burgess, Anthony.</persName>
+               </author> 
+               <title>A Clockwork Orange</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Burnett, Frances.</persName>
+               </author> 
+               <title>A Little Princess</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Burnett, Frances.</persName>.</author> 
+               <title>The Secret Garden</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Busiek, Kurt.</persName>
+               </author> 
+               <title>Astro City: Life in the Big
+                  City</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Busiek, Kurt.</persName>.</author> 
+               <title>Astro City: Local Heroes</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Byars, Betsy.</persName>
+               </author> 
+               <title>The Summer of the Swans</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Byars, Betsy.</persName>.</author> 
+               <title>Tarot Says Beware</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Byng, Georgia.</persName>
+               </author> 
+               <title>Molly Moon’s Incredible Book of
+                  Hypnotism</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cabot, .</persName>
+               </author> 
+               <title>All-American Girl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Campbell, Joseph.</persName>
+               </author> 
+               <title>The Hero with the Thousand
+                  Faces</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Camus, Albert.</persName>
+               </author> 
+               <title>The Stranger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Card, Orson Scott.</persName>
+               </author> 
+               <title>Ender’s Game</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Card, Orson Scott.</persName>.</author> 
+               <title>Ender’s Shadow</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Carroll, Lewis.</persName>
+               </author> 
+               <title>Alice’s Adventures in
+                  Wonderland</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Carroll, Lewis.</persName>.</author> 
+               <title>Alice Through the Looking Glass</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Carter, Ally.</persName>
+               </author> 
+               <title>I’d Tell You I Love You, but Then
+                  I’d Have to Kill You</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cather, Willa.</persName>
+               </author> 
+               <title>My Antonia</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Chabon, Michael.</persName>
+               </author> 
+               <title>The Amazing Adventures of the
+                  Escapist: Vol. 1</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Chabon, Michael.</persName>.</author> 
+               <title>Summerland</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Chadwick, Paul.</persName>
+               </author> 
+               <title>Concrete: Think Like a
+                  Mountain</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Chang, Lan Samantha.</persName>
+               </author> 
+               <title>Hunger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Chrisman, Arthur Bowie.</persName>
+               </author> 
+               <title>Shen of the Sea</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Christie, Agatha.</persName>
+               </author> 
+               <title>Murder on the Orient
+                  Express</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cisneros, Sandra.</persName>
+               </author> 
+               <title>The House on Mango
+                  Street</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clancy, Tom.</persName>
+               </author> 
+               <title>Net Force Explorers: The Ultimate
+                  Escape</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clancy, Tom.</persName> with Bill McCay.</author> 
+               <title>Net Force Explorers: The
+                  Great Race</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clancy, Tom.</persName> with Bill McCay.</author> 
+               <title>Net Force Explorers: Duel
+                  Identity</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clancy, Tom.</persName> with Diane Duane.</author> 
+               <title>Net Force Explorers:
+                  Deathworld</title>. <note>See Duane, Diane</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clarke, Arthur C.</persName>
+               </author> 
+               <title>Childhood’s End</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cleary, Beverly.</persName>
+               </author> 
+               <title>Henry and Ribsy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cleary, Beverly.</persName>.</author> 
+               <title>Runaway Ralph</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clement-Davies, David.</persName>
+               </author> 
+               <title>The Sight</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Clowes, Daniel.</persName>
+               </author> 
+               <title>Ghost World</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Coelho, Paulo.</persName>
+               </author> 
+               <title>The Alchemist</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>
+               </author> 
+               <title>Artemis Fowl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>.</author> 
+               <title>Artemis Fowl: The Arctic Incident</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>.</author> 
+               <title>Artemis Fowl: The Eternity Code</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>.</author> 
+               <title>Artemis Fowl: The Opal Deception</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>.</author> 
+               <title>Artemis Fowl: The Lost Colony</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Colfer, Eoin.</persName>.</author> 
+               <title>The Supernaturalist</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Collier, James Lincoln and Christopher Collier.</persName>
+               </author> 
+               <title>My
+                  Brother Sam is Dead</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooney, Caroline B.</persName>
+               </author> 
+               <title>Driver’s Ed</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooney, Caroline B.</persName>.</author> 
+               <title>The Face on the Milk Carton</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooney, Caroline B.</persName>.</author> 
+               <title>Flight 116 is Down!</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooney, Caroline B.</persName>.</author> 
+               <title>Goddess of Yesterday</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooney, Caroline B.</persName>.</author> 
+               <title>The Vampire’s Promise: Deadly Offer</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cooper, Susan.</persName>
+               </author> 
+               <title>Dark is Rising: Over Sea, Under
+                  Stone</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>
+               </author> 
+               <title>After the First Death</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>.</author> 
+               <title>The Chocolate War</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>.</author> 
+               <title>Beyond the Chocolate War</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>.</author> 
+               <title>Heroes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>.</author> 
+               <title>I Am the Cheese</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cormier, Robert.</persName>.</author> 
+               <title>The Rag and Bone Shop</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Coville, Bruce.</persName>
+               </author> 
+               <title>Aliens Stole My Body</title>. <note>See Yolen, Jane</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Coville, Bruce.</persName>.</author> 
+               <title>Into the Land of the Unicorns</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Coville, Bruce.</persName>.</author> 
+               <title>My Teacher is an Alien</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crane, Stephen.</persName>
+               </author> 
+               <title>The Red Badge of Courage</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Creech, Sharon.</persName>
+               </author> 
+               <title>Absolutely Normal Chaos</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Creech, Sharon.</persName>.</author> 
+               <title>Bloomability</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Creech, Sharon.</persName>.</author> 
+               <title>Chasing Redbird</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Creech, Sharon.</persName>.</author> 
+               <title>Walk Two Moons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crichton, Michael.</persName>
+               </author> 
+               <title>The Andromeda Strain</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crichton, Michael.</persName>.</author> 
+               <title>Jurassic Park</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crichton, Michael.</persName>.</author> 
+               <title>The Lost World</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>
+               </author> 
+               <title>Athletic Shorts</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>Chinese Handcuffs</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>The Crazy Horse Electric Game</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>Ironman</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>Staying Fat for Sarah Byrnes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>Stotan!</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Crutcher, Chris.</persName>.</author> 
+               <title>Whale Talk</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Cunningham, Michael.</persName>
+               </author> 
+               <title>The Hours</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Curtis, Christopher Paul.</persName>
+               </author> 
+               <title>Bud, Not Buddy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Curtis-Klause, Annette.</persName>
+               </author> 
+               <title>Blood and
+                  Chocolate</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Curtis-Klause, Annette.</persName>.</author> 
+               <title>The Silver Kiss</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>
+               </author> 
+               <title>The BFG</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>Boy: Tales of Childhood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>The Complete Adventures of Charlie and Willy
+                  Wonka</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>Esio Trot</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>George’s Marvellous Medicine</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>James and the Giant Peach</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>Matilda</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>Skin and Other Stories</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>The Twits</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>The Umbrella Man And Other Stories</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dahl, Roald.</persName>.</author> 
+               <title>The Witches</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dalkey, Kara.</persName>
+               </author> 
+               <title>Little Sister</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dalkey, Kara.</persName>.</author> 
+               <title>The Heavenward Path</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deary, Terry.</persName>
+               </author> 
+               <title>Horrible Histories: The Angry
+                  Aztecs</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deary, Terry.</persName>.</author> 
+               <title>Horrible Histories: The Awful
+                  Egyptians</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deary, Terry.</persName>.</author> 
+               <title>Horrible Histories: The Groovy
+                  Greeks</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deary, Terry.</persName>.</author> 
+               <title>Horrible Histories: The Measly Middle
+                  Ages</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deary, Terry.</persName>.</author> 
+               <title>Horrible Histories: The Vicious
+                  Vikings</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>DeHaven, Tom.</persName>
+               </author> 
+               <title>Green Candles</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dell, John.</persName>
+               </author> 
+               <title>JLA: Rock of Ages</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>DeMatteis, J.M.</persName>
+               </author> 
+               <title>Brooklyn Dreams</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Deveraux, Jude.</persName>
+               </author> 
+               <title>Remembrance</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dezago, Todd.</persName>
+               </author> 
+               <title>JLA: World Without
+                  Grownups</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dickens, Charles.</persName>
+               </author> 
+               <title>Great Expectations</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dickinson, Peter.</persName>
+               </author> 
+               <title>The Ropemaker</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Dostoevsky, Fyodor.</persName>
+               </author> 
+               <title>Crime and Punishment</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Doyle, Arthur Conan.</persName>
+               </author> 
+               <title>The Adventures of Sherlock
+                  Holmes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Draper, Sharon M.</persName>
+               </author> 
+               <title>The Battle of Jericho</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Draper, Sharon M.</persName>.</author> 
+               <title>Double Dutch</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Draper, Sharon M.</persName>.</author> 
+               <title>Tears of a Tiger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duane, Diane.</persName>
+               </author> 
+               <title>So You Want to Be a Wizard</title>. <note>See Clancy, Tom</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duane, Diane.</persName>.</author> 
+               <title>Deep Wizardry</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duane, Diane.</persName>.</author> 
+               <title>High Wizardry</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duane, Diane.</persName>.</author> 
+               <title>A Wizard Abroad</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duane, Diane.</persName>.</author> 
+               <title>The Wizard’s Dilemma</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duncan, Lois.</persName>
+               </author> 
+               <title>I Know What You Did Last
+                  Summer</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Duncan, Lois.</persName>, ed.</author> 
+               <title>Trapped: Cages of Mind and Body</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Edwards, Julie Andrews.</persName>
+               </author> 
+               <title>The Last of the Really
+                  Great Whangdoodles</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Eggers, Dave.</persName>
+               </author> 
+               <title>A Heartbreaking Work of Staggering
+                  Genius</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Ellison, Ralph.</persName>
+               </author> 
+               <title>The Invisible Man</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Esquivel, Laura.</persName>
+               </author> 
+               <title>Like Water for
+                  Chocolate</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Estes, Eleanor.</persName>
+               </author> 
+               <title>Ginger Pye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Estes, Eleanor.</persName>.</author> 
+               <title>The Hundred Dresses</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Etters, Scott.</persName>
+               </author> 
+               <title>The Dröpas: Breaking Down the
+                  Wall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Evans, Nicholas.</persName>
+               </author> 
+               <title>The Horse Whisperer</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Farmer, Nancy.</persName>
+               </author> 
+               <title>The Ear, the Eye, and the
+                  Arm</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Farmer, Nancy.</persName>.</author> 
+               <title>A Girl Named Disaster</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Farmer, Nancy.</persName>.</author> 
+               <title>The House of the Scorpion</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Farmer, Nancy.</persName>.</author> 
+               <title>The Warm Place</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fleischman, Paul.</persName>
+               </author> 
+               <title>Mind’s Eye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fleischman, Paul.</persName>.</author> 
+               <title>Seedfolks</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fleischman, Paul.</persName>.</author> 
+               <title>Seek</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fleischman, Paul.</persName>.</author> 
+               <title>Whirligig</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fleischman, Paul.</persName>.</author> 
+               <title>Zap</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fletcher, Susan.</persName>
+               </author> 
+               <title>The Dragon Chronicles: Flight of
+                  the Dragon Kyn</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Fletcher, Susan.</persName>.</author> 
+               <title>Shadow Spinner</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Foster, Sharon Ewell.</persName>
+               </author> 
+               <title>Ain’t No Mountain</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Foster, Thomas C.</persName>
+               </author> 
+               <title>How to Read Literature Like a
+                  Professor</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Frank, Anne.</persName>
+               </author> 
+               <title>Diary of a Young Girl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Funke, Cornelia.</persName>
+               </author> 
+               <title>Inkheart</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Funke, Cornelia.</persName>.</author> 
+               <title>Inkspell</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>
+               </author> 
+               <title>American Gods</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Anansi Boys</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Black Orchid</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Books of Magic</title>
+               <trait ref="#tag.comics"/>. <note>See Rieber, John Ney</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Coraline</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Don’t Panic: The Official Hitchhiker’s Guide
+                  to the Galaxy Companion</title>. <note>See Adams,
+                     Douglas.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Fragile Things</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Marvel 1602</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Neverwhere</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: Preludes and
+                  Nocturnes</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: The Doll’s House</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: Dream Country</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: Season of Mists</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: A Game of You</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: Fables and
+                  Reflections</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: Brief Lives</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: World’s End</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: The Kindly Ones</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: The Wake</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>The Sandman: The Dream Hunters</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Smoke and Mirrors</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaiman, Neil.</persName>.</author> 
+               <title>Stardust</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gaines, Ernest.</persName>
+               </author> 
+               <title>A Lesson Before Dying</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gallagher, Diana G.</persName>
+               </author> 
+               <title>The Secret World of Alex Mack
+                  Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Galloway, Priscilla.</persName>
+               </author> 
+               <title>Truly Grim Tales</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Garden, Nancy.</persName>
+               </author> 
+               <title>The Year They Burned the
+                  Books</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gardner, John.</persName>
+               </author> 
+               <title>Grendel</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Garfield, Henry.</persName>
+               </author> 
+               <title>Tartabull’s Throw</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>
+               </author> 
+               <title>People
+                  of the Wolf</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>People of the Fire</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>People of the River</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>People of the Lakes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>People of the Mist</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>People of the Masks</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gear, Kathleen O’Neal and W Michael Gear.</persName>.</author> 
+               <title>The Visitant</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>George, Jean Craighead.</persName>
+               </author> 
+               <title>Julie of the
+                  Wolves</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>George, Jean Craighead.</persName>.</author> 
+               <title>My Side of the Mountain</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Gibran, Kahlil.</persName>
+               </author> 
+               <title>The Prophet</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Glenn, Mel.</persName>
+               </author> 
+               <title>Foreign Exchange</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Glenn, Mel.</persName>.</author> 
+               <title>Jump Ball</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Glenn, Mel.</persName>.</author> 
+               <title>Split Image</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Glenn, Mel.</persName>.</author> 
+               <title>The Taking of Room 114</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Glenn, Mel.</persName>.</author> 
+               <title>Who Killed Mr. Chippendale?</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Golden, Christopher.</persName>
+               </author> 
+               <title>Soul Survivor</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Golden, Christopher.</persName>.</author> 
+               <title>Meets the Eye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Golden, Christopher.</persName>.</author> 
+               <title>Skin Deep</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Golding, William.</persName>
+               </author> 
+               <title>Lord of the Flies</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Goldman, E.M.</persName>
+               </author> 
+               <title>The Night Room</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Goldman, William.</persName>
+               </author> 
+               <title>The Princess Bride</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grahame, Kenneth.</persName>
+               </author> 
+               <title>The Wind in the
+                  Willows</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grant, Alan.</persName>
+               </author> 
+               <title>Batman: The Stone King</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grant, Alan.</persName>.</author> 
+               <title>JLA: Riddle of the Beast</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grealy, Lucy.</persName>
+               </author> 
+               <title>Autobiography of a Face</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Green, Timothy.</persName>
+               </author> 
+               <title>Twilight Boy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>
+               </author> 
+               <title>The Brethren</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Chamber</title>. <note>First
+                  “adult” book read</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Client</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Firm</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Pelican Brief</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Rainmaker</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>The Runaway Jury</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Grisham, John.</persName>.</author> 
+               <title>A Time to Kill</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Guest, Judith.</persName>
+               </author> 
+               <title>Ordinary People</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Haddix, Margaret Peterson.</persName>
+               </author> 
+               <title>Just Ella</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Haddix, Margaret Peterson.</persName>.</author> 
+               <title>Leaving Fishers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Haddix, Margaret Peterson.</persName>.</author> 
+               <title>Running Out of Time</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Haddon, Mark.</persName>
+               </author> 
+               <title>The Curious Incident of the Dog in
+                  the Night-Time</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Halpin, Brendan.</persName>
+               </author> 
+               <title>Donorboy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hamilton, Edith.</persName>
+               </author> 
+               <title>Mythology</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hansberry, Lorraine.</persName>
+               </author> 
+               <title>Raisin in the Sun</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Harrison, Kim.</persName>
+               </author> 
+               <title>Dead Witch Walking</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Harrison, Kim.</persName>.</author> 
+               <title>The Good, the Bad, and the Undead</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Harrison, Kim.</persName>.</author> 
+               <title>Every Which Way But Dead</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Harrison, Kim.</persName>.</author> 
+               <title>A Fistful of Charms</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hawthorne, Nathaniel.</persName>
+               </author> 
+               <title>The Scarlet Letter</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Heinlein, Robert.</persName>
+               </author> 
+               <title>The Citizen of the
+                  Galaxy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Heinlein, Robert.</persName>.</author> 
+               <title>Stranger in a Strange Land</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Heinlein, Robert.</persName>.</author> 
+               <title>Time Enough for Love</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Heller, Joseph.</persName>
+               </author> 
+               <title>Catch-22</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hemingway, Ernest.</persName>
+               </author> 
+               <title>The Old Man and the
+                  Sea</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Henry, Marguerite.</persName>
+               </author> 
+               <title>Brighty of the Grand
+                  Canyon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Henry, Marguerite.</persName>.</author> 
+               <title>Misty of Chincoteague</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Henry, Marguerite.</persName>.</author> 
+               <title>Stormy: Misty’s Foal</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hesse, Hermann.</persName>
+               </author> 
+               <title>Siddhartha</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hewett, Lorri.</persName>
+               </author> 
+               <title>Lives of Our Own</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hiaasen, Carl.</persName>
+               </author> 
+               <title>Hoot</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hiaasen, Carl.</persName>.</author> 
+               <title>Sick Puppy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hickman, Troy.</persName>
+               </author> 
+               <title>Common Grounds</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hidier, Tanuja Desai.</persName>
+               </author> 
+               <title>Born Confused</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hillenbrand, Laura.</persName>
+               </author> 
+               <title>Seabiscuit: An American
+                  Legend</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hillerman, Tony.</persName>
+               </author> 
+               <title>Skinwalkers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hinton, S.E.</persName>
+               </author> 
+               <title>The Outsiders</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hirsch, Karen, ed.</persName>
+               </author> 
+               <title>Mind Riot: Coming of Age in
+                  Comix</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hobbs, Will.</persName>
+               </author> 
+               <title>Downriver</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hobbs, Will.</persName>.</author> 
+               <title>River Thunder</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hobbs, Will.</persName>.</author> 
+               <title>Kokopelli’s Flute</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hobbs, Will.</persName>.</author> 
+               <title>The Maze</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hoeye, Michael.</persName>
+               </author> 
+               <title>Time Stops for No Mouse</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hoeye, Michael.</persName>.</author> 
+               <title>The Sands of Time</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hoeye, Michael.</persName>.</author> 
+               <title>No Time Like Show Time</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hoff, Benjamin.</persName>
+               </author> 
+               <title>The Tao of Pooh</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Homer.</persName>
+               </author> 
+               <title>The Odyssey</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hopkins, Ellen.</persName>
+               </author> 
+               <title>Crank</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Horrocks, Dylan.</persName>
+               </author> 
+               <title>Hicksville</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hosseini, Khaled.</persName>
+               </author> 
+               <title>The Kite Runner</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Howe, James.</persName>
+               </author> 
+               <title>The Misfits</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Howe, James.</persName>.</author> 
+               <title>The Watcher</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Howe, Norma.</persName>
+               </author> 
+               <title>The Adventures of Blue
+                  Avenger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Howe, Norma.</persName>.</author> 
+               <title>Blue Avenger Cracks the Code</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Howe, Norma.</persName>.</author> 
+               <title>Blue Avenger and the Theory of
+                  Everything</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hughes, Monica.</persName>
+               </author> 
+               <title>The Keeper of the Isis
+                  Light</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hunt, Irene.</persName>
+               </author> 
+               <title>Across Five Aprils</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hurston, Zora Neale.</persName>
+               </author> 
+               <title>Their Eyes Were Watching
+                  God</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Huxley, Aldous.</persName>
+               </author> 
+               <title>Brave New World</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Hwang, David Henry.</persName>
+               </author> 
+               <title>M. Butterfly</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacobus, Tim.</persName>
+               </author> 
+               <title>It Came from New Jersey!: My Life as
+                  an Artist</title>. <note>See Stine, R.L.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>
+               </author> 
+               <title>Redwall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Mossflower</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Mattimeo</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Martin the Warrior</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Legend of Luke</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Lord Brocktree</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Salamandastron</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Triss</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Marlfox</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Bellmaker</title>.<note> </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Mariel of Redwall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Pearls of Lutra</title>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Outcast of Redwall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Taggerung</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Long Patrol</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>Castaways of the Flying Dutchman</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jacques, Brian.</persName>.</author> 
+               <title>The Angel’s Command</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jarvis, Robin.</persName>
+               </author> 
+               <title>The Dark Portal</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jen, Gish.</persName>
+               </author> 
+               <title>The Love Wife</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jen, Gish.</persName>.</author> 
+               <title>Mona and the Promised Land</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jimenez, Phil.</persName>
+               </author> 
+               <title>JLA/Titans: The Technis
+                  Imperative</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Johns, Geoff.</persName>
+               </author> 
+               <title>JLA/JSA: Virtue and Vice</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Johnson, Angela.</persName>
+               </author> 
+               <title>The First Part Last</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Diana Wynne.</persName>
+               </author> 
+               <title>Dark Lord of
+                  Derkholm</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Diana Wynne.</persName>.</author> 
+               <title>Deep Secret</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Diana Wynne.</persName>.</author> 
+               <title>Howl’s Moving Castle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Diana Wynne.</persName>.</author> 
+               <title>Castle in the Air</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Diana Wynne.</persName>.</author> 
+               <title>The Merlin Conspiracy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jones, Gerard.</persName>
+               </author> 
+               <title>GL: The Road Back</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Jukes, Mavis.</persName>
+               </author> 
+               <title>Cinderella 2000</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Juster, Norton.</persName>
+               </author> 
+               <title>The Phantom Tollbooth</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kafka, Franz.</persName>
+               </author> 
+               <title>The Metamorphosis</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Keene, Carolyn.</persName>
+               </author> 
+               <title>The Nancy Drew Mysteries</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Keller, Beverly.</persName>
+               </author> 
+               <title>The Amazon Papers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kelly, Joe.</persName>
+               </author> 
+               <title>JLA: Golden Perfect</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kelly, Joe.</persName>.</author> 
+               <title>JLA: The Obsidian Age, Book 2</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kelly, Joe.</persName>.</author> 
+               <title>JLA: Rules of Engagement</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Keneally, Thomas.</persName>
+               </author> 
+               <title>Schindler’s List</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kerr, Peg.</persName>
+               </author> 
+               <title>The Wild Swans</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kesel, Barbara.</persName>
+               </author> 
+               <title>Meridan: Flying Solo</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Keyes, Daniel.</persName>
+               </author> 
+               <title>Flowers for Algernon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kibuishi, Kazu.</persName>
+               </author> 
+               <title>Daisy Kutter: The Last
+                  Train</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kibuishi, Kazu.</persName>, ed.</author> 
+               <title>Flight Vol. 1</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kibuishi, Kazu.</persName>, ed.</author> 
+               <title>Flight Vol. 2</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kidd, Sue Monk.</persName>
+               </author> 
+               <title>The Secret Life of Bees</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>
+               </author> 
+               <title>The Dark Tower 1: The
+                  Gunslinger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>The Eyes of the Dragon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>The Girl Who Loved Tom Gordon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>Misery</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>Needful Things</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>On Writing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>Salem’s Lot</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>King, Stephen.</persName>.</author> 
+               <title>The Stand</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Klass, David.</persName>
+               </author> 
+               <title>California Blue</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Klass, David.</persName>.</author> 
+               <title>You Don’t Know Me</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Klause, Annette Curtis.</persName>
+               </author> 
+               <title>The Silver Kiss</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Klein, T.E.D.</persName>
+               </author> 
+               <title>The Ceremonies</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koja, Kathe.</persName>
+               </author> 
+               <title>Buddha Boy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Konigsburg, E.L.</persName>
+               </author> 
+               <title>From the Mixed-Up Files of Mrs.
+                  Basil E. Frankweiler</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Konigsburg, E.L.</persName>.</author> 
+               <title>A Proud Taste for Scarlet and Miniver</title>.
+               <note>Never finished</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>
+               </author> 
+               <title>Dean Koontz’s Frankenstein, Vol. 1:
+                  Prodigal Son</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>The Door to December</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>False Memory</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>Fear Nothing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>Seize the Night</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>Strangers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Koontz, Dean.</persName>.</author> 
+               <title>Watchers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kundera, Milan.</persName>
+               </author> 
+               <title>The Unbearable Lightness of
+                  Being</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Kushner, Tony.</persName>
+               </author> 
+               <title>Homebody/Kabul</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaBan, Terry and Rebecca Guay.</persName>
+               </author> 
+               <title>Green Lantern: 1001
+                  Emerald Nights</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>
+               </author> 
+               <title>Left
+                  Behind</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Tribulation Force</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Nicolae</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Soul Harvest</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Apollyon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Assassins</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>The Indwelling</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>The Mark</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Desecration</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>The Remnant</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Armageddon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>LaHaye, Tim and Jerry B. Jenkins.</persName>.</author> 
+               <title>Glorious Appearing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lassiter, Rhiannon.</persName>
+               </author> 
+               <title>Hex</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lawrence, Iain.</persName>
+               </author> 
+               <title>The Wreckers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lawrence, Louise.</persName>
+               </author> 
+               <title>Dream-Weaver</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lee, Harper.</persName>
+               </author> 
+               <title>To Kill a Mockingbird</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lee, Marie Myung-OK.</persName>
+               </author> 
+               <title>Somebody’s Daughter</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>L’Engle, Madeline.</persName>
+               </author> 
+               <title>A Ring of Endless
+                  Light</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>L’Engle, Madeline.</persName>.</author> 
+               <title>A Wrinkle in Time</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>L’Engle, Madeline.</persName>.</author> 
+               <title>A Swiftly Tilting Planet</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>L’Engle, Madeline.</persName>.</author> 
+               <title>A Wind at the Door</title>.<note> </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>L’Engle, Madeline.</persName>.</author> 
+               <title>Many Waters</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Levine, Gail Carson.</persName>
+               </author> 
+               <title>Ella Enchanted</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Levine, Gail Carson.</persName>.</author> 
+               <title>For Biddle’s Sake</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Levithan, David.</persName>
+               </author> 
+               <title>The Realm of
+                  Possibility</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lewis, C.S.</persName>
+               </author> 
+               <title>The Lion, the Witch and the
+                  Wardrobe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lewis, C.S.</persName>.</author> 
+               <title>Prince Caspian</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lewis, C.S.</persName>.</author> 
+               <title>The Silver Chair</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lewis, C.S.</persName>.</author> 
+               <title>The Last Battle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lightman, Alan.</persName>
+               </author> 
+               <title>Einstein’s Dreams</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Loeb, Jeph and Tim Sale.</persName>
+               </author> 
+               <title>Batman: The Long
+                  Halloween</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lowry, Lois.</persName>
+               </author> 
+               <title>Gathering Blue</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lowry, Lois.</persName>.</author> 
+               <title>The Giver</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Lowry, Lois.</persName>.</author> 
+               <title>Messenger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>MacDonald, Betty.</persName>
+               </author> 
+               <title>Hello, Mrs.
+                  Piggle-Wiggle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>MacDonald, Betty.</persName>.</author> 
+               <title>Mrs. Piggle-Wiggle’s Magic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Mahnke, Doug.</persName>
+               </author> 
+               <title>JLA: The Obsidian Age, Book
+                  1</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Maguire, Gregory.</persName>
+               </author> 
+               <title>Confessions of an Ugly
+                  Stepsister</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Maguire, Gregory.</persName>.</author> 
+               <title>Wicked</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Maguire, Gregory.</persName>.</author> 
+               <title>Son of a Witch</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Márquez, Gabriel García.</persName>
+               </author> 
+               <title>Chronicle of a Death
+                  Foretold</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Márquez, Gabriel García.</persName>.</author> 
+               <title>One Hundred Years of Solitude</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Marsden, John.</persName>
+               </author> 
+               <title>Tomorrow, When The War
+                  Began</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Marsden, John.</persName>.</author> 
+               <title>The Dead of the Night</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Marsden, John.</persName>.</author> 
+               <title>A Killing Frost</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Martel, Yann.</persName>
+               </author> 
+               <title>Life of Pi</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Martin, Ann M.</persName>
+               </author> 
+               <title>The Babysitters Club Series</title>.
+               <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Martin, Ann M.</persName> and Paula Danziger.</author> 
+               <title>P.S. Longer Letter
+                  Later</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Martinez, Victor.</persName>
+               </author> 
+               <title>Parrot in the Oven: mi
+                  vida</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Matas, Carol &amp; Perry Nodelman.</persName>
+               </author> 
+               <title>Of Two
+                  Minds</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Matas, Carol &amp; Perry Nodelman.</persName>.</author> 
+               <title>More Minds</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Matheson, Richard.</persName>
+               </author> 
+               <title>I Am Legend</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McBay, Bruce and James Heneghan.</persName>
+               </author> 
+               <title>Waiting for
+                  Sarah</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McCants, William.</persName>
+               </author> 
+               <title>Much Ado About Prom
+                  Night</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McCloud, Scott.</persName>
+               </author> 
+               <title>Understanding Comics</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McCloud, Scott.</persName>.</author> 
+               <title>Reinventing Comics</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McCloud, Scott.</persName>.</author> 
+               <title>Making Comics</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McGraw, Eloise.</persName>
+               </author> 
+               <title>The Moorchild</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McKinley, Robin.</persName>
+               </author> 
+               <title>The Blue Sword</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McKinley, Robin.</persName>.</author> 
+               <title>The Hero and the Crown</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McKinley, Robin.</persName>.</author> 
+               <title>Rose Daughter</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McKinley, Robin.</persName>.</author> 
+               <title>Spindle’s End</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>McLaren, Clemence.</persName>
+               </author> 
+               <title>Inside the Walls of
+                  Troy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Meltzer, Brad.</persName>
+               </author> 
+               <title>Identity Crisis</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Meyer, L.A.</persName>
+               </author> 
+               <title>Bloody Jack</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Mikaelsen, Ben.</persName>
+               </author> 
+               <title>Petey</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Miller, Arthur.</persName>
+               </author> 
+               <title>The Crucible</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Miller, Frank.</persName>
+               </author> 
+               <title>Sin City: Booze, Broads and
+                  Bullets</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Miller, Frank.</persName> and Lynn Varley.</author> 
+               <title>Batman: The Dark Knight
+                  Returns</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Miller, Frank.</persName> and Lynn Varley.</author> 
+               <title>Batman: The Dark Knight
+                  Strikes Again</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Mills, Lauren.</persName>
+               </author> 
+               <title>The Book of Little Folk</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Mills, Scott.</persName>
+               </author> 
+               <title>Big Clay Pot</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Moeller, Christopher.</persName>
+               </author> 
+               <title>JLA: A League of
+                  One</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Montgomery, Sy.</persName>
+               </author> 
+               <title>The Good Good Pig</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Moore, Alan.</persName>
+               </author> 
+               <title>From Hell</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Moore, Alan.</persName>.</author> 
+               <title>The League of Extraordinary Gentlemen Vol.
+                  1-2</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Moore, Alan.</persName>.</author> 
+               <title>V for Vendetta</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Moore, Alan.</persName>.</author> 
+               <title>Watchmen</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morris, Gilbert.</persName>
+               </author> 
+               <title>The Time Navigators: Vanishing
+                  Clues</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>
+               </author> 
+               <title>JLA: New World Order</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: American Dreams</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: Strength in Numbers</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: Justice for All</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: World War III</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: Earth 2</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Grant.</persName>.</author> 
+               <title>JLA: One Million</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Morrison, Toni.</persName>
+               </author> 
+               <title>Song of Solomon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myers, Bill.</persName>
+               </author> 
+               <title>Forbidden Doors: The
+                  Society</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myers, Bill.</persName>.</author> 
+               <title>Forbidden Doors: The Deceived</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myers, Walter Dean.</persName>
+               </author> 
+               <title>Fallen Angels</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myers, Walter Dean.</persName>.</author> 
+               <title>The Glory Field</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myers, Walter Dean.</persName>.</author> 
+               <title>The Legend of Tarik</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Myracle, Lauren.</persName>
+               </author> 
+               <title>ttfn</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Napoli, Donna Jo.</persName>
+               </author> 
+               <title>Sirena</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Napoli, Donna Jo.</persName>.</author> 
+               <title>Zel</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nesbit, Edith.</persName>
+               </author> 
+               <title>The Book of Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nesbit, Edith.</persName>.</author> 
+               <title>The Enchanted Castle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Niffenegger, Audrey.</persName>
+               </author> 
+               <title>The Time Traveler’s
+                  Wife</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>
+               </author> 
+               <title>Sabriel</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Lirael</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Abhorsen</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Across the Wall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Keys to the Kingdom: Mister Monday</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>The Ragwitch</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Seventh Tower: The Fall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nix, Garth.</persName>.</author> 
+               <title>Shade’s Children</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nolan, Han.</persName>
+               </author> 
+               <title>Born Blue</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Nolan, Han.</persName>.</author> 
+               <title>Dancing on the Edge</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>November, Sharyn, ed.</persName>
+               </author> 
+               <title>Firebirds</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>November, Sharyn, ed.</persName>.</author> 
+               <title>Firebirds Rising</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Noyes, Deborah, ed.</persName>
+               </author> 
+               <title>Gothic!: Ten Original
+                  Tales</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>O’Brien, Tim.</persName>
+               </author> 
+               <title>The Things They Carried</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>O’Dell, Scott.</persName>
+               </author> 
+               <title>Island of the Blue
+                  Dolphins</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>O’Dell, Scott.</persName>.</author> 
+               <title>Zia</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>O’Dell, Scott.</persName>.</author> 
+               <title>The Black Pearl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Oppel, Kenneth.</persName>
+               </author> 
+               <title>Silverwing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Oppel, Kenneth.</persName>.</author> 
+               <title>Sunwing</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Orwell, George.</persName>
+               </author> 
+               <title>1984</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Orwell, George.</persName>.</author> 
+               <title>Animal Farm</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paolini, Christopher.</persName>
+               </author> 
+               <title>Eragon</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paolini, Christopher.</persName>.</author> 
+               <title>Eldest</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Parks, Suzan-Lori.</persName>
+               </author> 
+               <title>Getting Mother’s Body</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pascal, Francine.</persName>
+               </author> 
+               <title>Sweet Valley High Series</title>.
+               <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paterson, Katherine.</persName>
+               </author> 
+               <title>Bridge to
+                  Terabithia</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pattou, Edith.</persName>
+               </author> 
+               <title>East</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pattou, Edith.</persName>.</author> 
+               <title>Hero’s Song</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pattou, Edith.</persName>.</author> 
+               <title>Fire Arrow</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paulsen, Gary.</persName>
+               </author> 
+               <title>The Car</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paulsen, Gary.</persName>.</author> 
+               <title>Hatchet</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paulsen, Gary.</persName>.</author> 
+               <title>The Island</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Paulsen, Gary.</persName>.</author> 
+               <title>The White Fox Chronicles</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pearl, Matthew.</persName>
+               </author> 
+               <title>The Dante Club</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Peck, Richard.</persName>
+               </author> 
+               <title>Blossom Culp and the Sleep of
+                  Death</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Peck, Richard.</persName>.</author> 
+               <title>Ghosts I Have Been</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Peck, Richard.</persName>.</author> 
+               <title>The Last Safe Place on Earth</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Philbrick, Rodman.</persName>
+               </author> 
+               <title>The Last Book in the
+                  Universe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Philbrick, Rodman.</persName>.</author> 
+               <title>Max the Mighty</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>
+               </author> 
+               <title>Circle of Magic: Sandry’s
+                  Book</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Circle of Magic: Tris’s Book</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>The Circle Opens: Magic Steps</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Song of the Lioness: Alanna: the First
+                  Adventure</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Song of the Lioness: In the Hand of the
+                  Goddess</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Song of the Lioness: The Woman Who Rides Like
+                  a Man</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Song of the Lioness: Lioness
+                  Rampant</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Immortals: Wild Magic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Immortals: Wolf Speaker</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Immortals: The Emperor Mage</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Immortals: The Realms of the Gods</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Protector of the Small: First Test</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Protector of the Small: Page</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Protector of the Small: Squire</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Protector of the Small: Lady Knight</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pierce, Tamora.</persName>.</author> 
+               <title>Daughter of the Lioness: Trickster’s
+                  Choice</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>
+               </author> 
+               <title>The Immortal</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>.</author> 
+               <title>Master of Murder</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>.</author> 
+               <title>Spooksville Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>.</author> 
+               <title>The Starlight Crystal</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>.</author> 
+               <title>The Star Group</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pike, Christopher.</persName>.</author> 
+               <title>Tales of Terror</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pilkey, Dav.</persName>
+               </author> 
+               <title>The Adventures of Captain
+                  Underpants</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pilkey, Dav.</persName>.</author> 
+               <title>Captain Underpants and the Attack of the
+                  Talking Toilets</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pilkey, Dav.</persName>.</author> 
+               <title>Captain Underpants and the Invasion of the
+                  Incredibly Naughty Cafeteria Ladies</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pilkey, Dav.</persName>.</author> 
+               <title>Captain Underpants and the Perilous Plot of
+                  Professor Poopypants</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>
+               </author> 
+               <title>Elfquest: Fire and
+                  Flight</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: The Forbidden Grove</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: Captives of Blue
+                  Mountain</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: Quest’s End</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: Siege at Blue Mountain</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: Secret of Two-Edge</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: Wolfrider!</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pini, Wendy &amp; Richard.</persName>.</author> 
+               <title>Elfquest: The Rebels</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pirsig, Robert M.</persName>
+               </author> 
+               <title>Zen and the Art of Motorcycle
+                  Maintenance</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Plummer, Louise.</persName>
+               </author> 
+               <title>The Unlikely Romance of Kate
+                  Bjorkman</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Poe, Edgar Allan.</persName>
+               </author> 
+               <title>Complete Stories and Poems of
+                  Edgar Allan Poe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>
+               </author> 
+               <title>The Color of Magic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Equal Rites</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Mort</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Sourcery</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Wyrd Sisters</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Pyramids</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Moving Pictures</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Reaper Man</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Witches Abroad</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Small Gods</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Lords and Ladies</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Interesting Times</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Maskerade</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Hogfather</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>Carpe Jugulum</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName>.</author> 
+               <title>The Last Hero</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pratchett, Terry.</persName> and Neil Gaiman.</author> 
+               <title>Good Omens</title>. <note>See Gaiman, Neil</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>
+               </author> 
+               <title>Clockwork</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>.</author> 
+               <title>Count Karlstein</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>.</author> 
+               <title>The Golden Compass</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>.</author> 
+               <title>The Subtle Knife</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>.</author> 
+               <title>The Amber Spyglass</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Pullman, Philip.</persName>.</author> 
+               <title>The Tiger in the Well</title>. <note>Never finished</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rand, Ayn.</persName>
+               </author> 
+               <title>Anthem</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Raskin, Ellen.</persName>
+               </author> 
+               <title>The Westing Game</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rawls, Wilson.</persName>
+               </author> 
+               <title>Where the Red Fern Grows</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rees, Celia.</persName>
+               </author> 
+               <title>Witch Child</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Reeve, Philip.</persName>
+               </author> 
+               <title>Mortal Engines</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Regan, Dian Curtis.</persName>
+               </author> 
+               <title>Princess Nevermore</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Reid, Christopher &amp; John Kantz.</persName>
+               </author> 
+               <title>Legends from
+                  Darkwood Vol. 1: The Unicorn Hunters</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Remarque, Erich Maria.</persName>
+               </author> 
+               <title>All Quiet on the Western
+                  Front</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rice, Anne.</persName>
+               </author> 
+               <title>Interview with the Vampire</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rieber, John Ney.</persName>
+               </author> 
+               <title>Books of Magic:
+                  Summonings</title>
+               <trait ref="#tag.comics"/>. <note>See Gaiman, Neil</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rieber, John Ney.</persName>.</author> 
+               <title>Books of Magic: Reckonings</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rieber, John Ney.</persName>.</author> 
+               <title>Books of Magic: Transformations</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Robinson, Alex.</persName>
+               </author> 
+               <title>Box Office Poison</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Robinson, Marilynne.</persName>
+               </author> 
+               <title>Gilead</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rostkowski, Margaret.</persName>
+               </author> 
+               <title>Moon Dancer</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>
+               </author> 
+               <title>Harry Potter and the Sorcerer’s
+                  Stone</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Chamber of
+                  Secrets</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Prisoner of
+                  Azkaban</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Goblet of Fire</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Order of the
+                  Phoenix</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Half-Blood
+                  Prince</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rowling, J.K.</persName>.</author> 
+               <title>Harry Potter and the Deathly
+                  Hollows</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Rushdie, Salman.</persName>
+               </author> 
+               <title>Haroun and the Sea of
+                  Stories</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Ryrie Brink, Carol.</persName>
+               </author> 
+               <title>Caddie Woodlawn</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sachar, Louis.</persName>
+               </author> 
+               <title>Holes</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sachar, Louis.</persName>.</author> 
+               <title>Sideways Stories from Wayside
+                  School</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sachar, Louis.</persName>.</author> 
+               <title>Wayside School is Falling Down</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sachar, Louis.</persName>.</author> 
+               <title>Wayside School Gets a Little
+                  Stranger</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Saint Exupéry, Antoine de.</persName>
+               </author> 
+               <title>The Little
+                  Prince</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Salinger, J.D.</persName>
+               </author> 
+               <title>The Catcher in the Rye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sanchez, Alex.</persName>
+               </author> 
+               <title>Rainbow Boys</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Satrapi, Marjane.</persName>
+               </author> 
+               <title>Persepolis 1: The Story of a
+                  Childhood</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Satrapi, Marjane.</persName>.</author> 
+               <title>Persepolis 2: The Story of a
+                  Return</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sartre, Jean Paul.</persName>
+               </author> 
+               <title>No Exit</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Scott, Jerry &amp; Jim Borgman.</persName>
+               </author> 
+               <title>Zits: Growth
+                  Spurt</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sebold, Alice.</persName>
+               </author> 
+               <title>The Lovely Bones</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Selden, George.</persName>
+               </author> 
+               <title>The Cricket in Times
+                  Square</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>
+               </author> 
+               <title>Seuss, Dr. </title>
+               <note>And to Think That I Saw It
+                  on Mulberry Street</note>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>Bartholomew and the
+                  Oobleck</title>
+               <note>. </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>The Cat in the Hat</title>
+               <note>. </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>Green Eggs and Ham</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>Horton Hears a Who!</title>
+               <note>. </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>Horton Hatches the
+                  Egg</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>How the Grinch Stole
+                  Christmas!</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>I Can Lick 30 Tigers
+                  Today! and Other Stories</title>
+               <note>. </note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>The Lorax</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>My Book About ME</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>Oh, the Places You’ll
+                  Go!</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName/>.</author> 
+               <title>One Fish Two Fish Red Fish
+                  Blue Fish</title>
+               <note>.</note>
+               
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shakespeare, William.</persName>
+               </author> 
+               <title>Henry IV Part 1</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shakespeare, William.</persName>.</author> 
+               <title>Macbeth</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shakespeare, William.</persName>.</author> 
+               <title>Romeo and Juliet</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shakespeare, William.</persName>.</author> 
+               <title>The Tempest</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sheldon, Dyan.</persName>
+               </author> 
+               <title>Confessions of a Teenage Drama
+                  Queen</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shelley, Mary.</persName>
+               </author> 
+               <title>Frankenstein</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shusterman, Neal.</persName>
+               </author> 
+               <title>The Dark Side of
+                  Nowhere</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shusterman, Neal.</persName>.</author> 
+               <title>Mindbenders: Stories to Warp Your
+                  Brain</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shusterman, Neal.</persName>.</author> 
+               <title>Mindquakes: Stories to Shatter Your
+                  Brain</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Shusterman, Neal.</persName>.</author> 
+               <title>Mindtwisters: Stories to Shred Your
+                  Head</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Silverstein, Shel.</persName>
+               </author> 
+               <title>Falling Up</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Silverstein, Shel.</persName>.</author> 
+               <title>The Giving Tree</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Silverstein, Shel.</persName>.</author> 
+               <title>A Light in the Attic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Silverstein, Shel.</persName>.</author> 
+               <title>The Missing Piece</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Silverstein, Shel.</persName>.</author> 
+               <title>Where the Sidewalk Ends</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sinclair, Upton.</persName>
+               </author> 
+               <title>The Jungle</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Smith, Betty.</persName>
+               </author> 
+               <title>A Tree Grows in Brooklyn</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Smith, Jeff.</persName>
+               </author> 
+               <title>Bone</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snicket, Lemony.</persName>
+               </author> 
+               <title>A Series of Unfortunate Events:
+                  The Bad Beginning</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snicket, Lemony.</persName>.</author> 
+               <title>A Series of Unfortunate Events: The Reptile
+                  Room</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snicket, Lemony.</persName>.</author> 
+               <title>A Series of Unfortunate Events: The Wide
+                  Window</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snicket, Lemony.</persName>.</author> 
+               <title>A Series of Unfortunate Events: The Miserable
+                  Mill</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snyder, Midori.</persName>
+               </author> 
+               <title>Hannah’s Garden</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snyder, Zilpha Keatley.</persName>
+               </author> 
+               <title>The Egypt Game</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snyder, Zilpha Keatley.</persName>.</author> 
+               <title>The Gypsy Game</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snyder, Zilpha Keatley.</persName>.</author> 
+               <title>The Headless Cupid</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Snyder, Zilpha Keatley.</persName>.</author> 
+               <title>The Trespassers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sobol, Donald J.</persName>
+               </author> 
+               <title>The Encyclopedia Brown
+                  Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Solzhenitsyn, Aleksandr.</persName>
+               </author> 
+               <title>One Day in the Life of
+                  Ivan Denisovich</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sones, Sonya.</persName>
+               </author> 
+               <title>Stop Pretending</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sparks, Nicholas.</persName>
+               </author> 
+               <title>A Walk to Remember</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Speare, Elizabeth George.</persName>
+               </author> 
+               <title>Calico Captive</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Speare, Elizabeth George.</persName>.</author> 
+               <title>The Witch of Blackbird Pond</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spiegelman, Art.</persName>
+               </author> 
+               <title>In the Shadow of No
+                  Towers</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spiegelman, Art.</persName>.</author> 
+               <title>Maus</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spiegelman, Art.</persName>.</author> 
+               <title>Maus II</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spinelli, Jerry.</persName>
+               </author> 
+               <title>Maniac Magee</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spinelli, Jerry.</persName>.</author> 
+               <title>Milkweed</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Spinelli, Jerry.</persName>.</author> 
+               <title>Stargirl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Springer, Nancy.</persName>
+               </author> 
+               <title>I Am Mordred</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stearns, Michael, ed.</persName>
+               </author> 
+               <title>The Wizard’s Dozen</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Steinbeck, John.</persName>
+               </author> 
+               <title>Cannery Row</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Steinbeck, John.</persName>.</author> 
+               <title>The Grapes of Wrath</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Steinbeck, John.</persName>.</author> 
+               <title>Of Mice and Men</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Steinbeck, John.</persName>.</author> 
+               <title>The Pearl</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stine, R.L.</persName>
+               </author> 
+               <title>The Fear Street Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stine, R.L.</persName>.</author> 
+               <title>The Goosebumps Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stine, R.L.</persName>.</author> 
+               <title>It Came from Ohio!: My Life as a Writer</title>.
+               <note>See Jacobus, Tim</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stoker, Bram.</persName>
+               </author> 
+               <title>Dracula</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stowe, Harriet Beecher.</persName>
+               </author> 
+               <title>Uncle Tom’s
+                  Cabin</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Strasser, Todd.</persName>
+               </author> 
+               <title>The Diving Bell</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Strasser, Todd.</persName>.</author> 
+               <title>The Wave</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stroud, Johnathan.</persName>
+               </author> 
+               <title>The Bartimaeus Trilogy: The
+                  Amulet of Samarkand</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Stroud, Johnathan.</persName>.</author> 
+               <title>The Bartimaeus Trilogy: The Golem’s
+                  Eye</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Sweeney, Joyce.</persName>
+               </author> 
+               <title>Free Fall</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Talbot, Bryan.</persName>
+               </author> 
+               <title>The Tale of One Bad Rat</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tan, Amy.</persName>
+               </author> 
+               <title>The Joy Luck Club</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tan, Amy.</persName>.</author> 
+               <title>The Kitchen God’s Wife</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tashjian, Janet.</persName>
+               </author> 
+               <title>The Gospel According to
+                  Larry</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tashjian, Janet.</persName>.</author> 
+               <title>Vote for Larry</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Taylor, Mildred D.</persName>
+               </author> 
+               <title>Roll of Thunder, Hear My
+                  Cry</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tennapel, Doug.</persName>
+               </author> 
+               <title>Creature Tech</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tezuka, Osamu.</persName>
+               </author> 
+               <title>Buddha, Vol. 1:
+                  Kapilavastu</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thomas, Rob.</persName>
+               </author> 
+               <title>Doing Time: Notes from the
+                  Undergrad</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thomas, Rob.</persName>.</author> 
+               <title>Rats Saw God</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thomas, Rob.</persName>.</author> 
+               <title>Satellite Down</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thompson, Craig.</persName>
+               </author> 
+               <title>Blankets</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thompson, Julian.</persName>
+               </author> 
+               <title>The Grounding of Group
+                  Six</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thompson, Kate.</persName>
+               </author> 
+               <title>Switchers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thompson, Kate.</persName>.</author> 
+               <title>Midnight’s Choice</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thompson, Kate.</persName>.</author> 
+               <title>Wild Blood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Thoreau, Henry David.</persName>
+               </author> 
+               <title>Walden</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolan, Stephanie S.</persName>
+               </author> 
+               <title>Plague Year</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolan, Stephanie S.</persName>.</author> 
+               <title>Welcome to the Ark</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolkien, J.R.R.</persName>
+               </author> 
+               <title>The Hobbit</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolkien, J.R.R.</persName>.</author> 
+               <title>The Fellowship of the Ring</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolkien, J.R.R.</persName>.</author> 
+               <title>The Two Towers</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolkien, J.R.R.</persName>.</author> 
+               <title>The Return of the King</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Tolkien, J.R.R.</persName> &amp; Charles Dixon.</author> 
+               <title>The Hobbit: Or There and
+                  Back Again</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Travers, Pamela.</persName>
+               </author> 
+               <title>Mary Poppins</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Trembath, Don.</persName>
+               </author> 
+               <title>The Tuesday Cafe</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Trueman, Terry.</persName>
+               </author> 
+               <title>Inside Out</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Trueman, Terry.</persName>.</author> 
+               <title>Stuck in Neutral</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Trueman, Terry.</persName>.</author> 
+               <title>Cruise Control</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Unknown.</persName>
+               </author> 
+               <title>The Arabian Nights: Tales from a Thousand
+                  and One Nights</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Unknown.</persName>.</author> 
+               <title>Beowulf</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Unknown.</persName>.</author> 
+               <title>Sir Gawain and the Green Knight</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vande Velde, Vivian.</persName>
+               </author> 
+               <title>Curses, Inc. and Other
+                  Stories</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vande Velde, Vivian.</persName>.</author> 
+               <title>Heir Apparent</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vande Velde, Vivian.</persName>.</author> 
+               <title>User Unfriendly</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Various.</persName>
+               </author> 
+               <title>Big Book of Grimm</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Various.</persName>.</author> 
+               <title>Big Book of the Unexplained</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Various.</persName>.</author> 
+               <title>Bizarro Comics</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Various.</persName>.</author> 
+               <title>Sabrina the Teenage Witch Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vaughan, Brian.</persName>
+               </author> 
+               <title>GL: Circle of Fire</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vaughan, Brian.</persName>.</author> 
+               <title>Runaways Vol. 1: Pride and Joy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vizzini, Nick.</persName>
+               </author> 
+               <title>Teen Angst? Naaah...</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vogler, Christopher.</persName>
+               </author> 
+               <title>The Writer’s Journey</title>.
+               2<note>nd</note> ed.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Voigt, Cynthia.</persName>
+               </author> 
+               <title>Homecoming</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Voigt, Cynthia.</persName>.</author> 
+               <title>Dicey’s Song</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Voltaire.</persName>
+               </author> 
+               <title>Candide</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Vonnegut, Kurt.</persName>
+               </author> 
+               <title>Breakfast of Champions</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wagner, Matt.</persName>
+               </author> 
+               <title>Trinity</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Waid, Mark.</persName>
+               </author> 
+               <title>JLA: Tower of Babel</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Waid, Mark.</persName>.</author> 
+               <title>JLA: Divided We Fall</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Waid, Mark.</persName>.</author> 
+               <title>JLA: Terror Incognita</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Waid, Mark.</persName>.</author> 
+               <title>JLA: Heaven’s Ladder</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Waid, Mark.</persName>.</author> 
+               <title>JLA: Year One</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Warner, Gertrude Chandler.</persName>
+               </author> 
+               <title>The Boxcar Children
+                  Series</title>. <note>Selected titles</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wells, Rebecca.</persName>
+               </author> 
+               <title>Divine Secrets of the Ya-Ya
+                  Sisterhood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wells, Rebecca.</persName>.</author> 
+               <title>Little Altars Everywhere</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Whelan, Gloria.</persName>
+               </author> 
+               <title>Homeless Bird</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>White, E.B.</persName>
+               </author> 
+               <title>Charlotte’s Web</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>White, E.B.</persName>.</author> 
+               <title>Stuart Little</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>White, T.H.</persName>
+               </author> 
+               <title>The Sword in the Stone</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>White, T.H.</persName>.</author> 
+               <title>The Once and Future King</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wiesel, Elie.</persName>
+               </author> 
+               <title>Night</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wild, Margaret.</persName>
+               </author> 
+               <title>Jinx</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wilde, Oscar.</persName>
+               </author> 
+               <title>The Picture of Dorian Gray</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wilder, Laura Ingalls.</persName>
+               </author> 
+               <title>Little House in the Big
+                  Woods</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wilder, Laura Ingalls.</persName>.</author> 
+               <title>On the Banks of Plum Creek</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wilder, Laura Ingalls.</persName>.</author> 
+               <title>Little House on the Prairie</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wilder, Thornton.</persName>
+               </author> 
+               <title>The Bridge of San Luis
+                  Rey</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Willingham, Bill.</persName>
+               </author> 
+               <title>Fables: Legends in
+                  Exile</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Winchester, Simon.</persName>
+               </author> 
+               <title>The Professor and the
+                  Madman</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Winick, Judd.</persName>
+               </author> 
+               <title>GL: New Journey, Old Path</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Winick, Judd.</persName>.</author> 
+               <title>Pedro and Me</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wolff, Virginia Euwer.</persName>
+               </author> 
+               <title>True Believer</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wooding, Chris.</persName>
+               </author> 
+               <title>Poison</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wooding, Chris.</persName>.</author> 
+               <title>Storm Thief</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName>
+               </author> 
+               <title>Book of Enchantments</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName>.</author> 
+               <title>Dealing With Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName>.</author> 
+               <title>Searching for Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName>.</author> 
+               <title>Calling on Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName>.</author> 
+               <title>Talking to Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wrede, Patricia.</persName> and Caroline Stevermer.</author> 
+               <title>Sorcery and Cecelia:
+                  or The Enchanted Chocolate Pot</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Wright, Richard.</persName>
+               </author> 
+               <title>Black Boy</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yang, Gene Luen.</persName>
+               </author> 
+               <title>American Born Chinese</title>
+               <trait ref="#tag.comics"/>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName>
+               </author> 
+               <title>Briar Rose</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName>.</author> 
+               <title>The Devil’s Arithmetic</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName>.</author> 
+               <title>Pit Dragon: Dragon’s Blood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName>.</author> 
+               <title>Pit Dragon: Heart’s Blood</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName>.</author> 
+               <title>Pit Dragon: A Sending of Dragons</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Yolen, Jane.</persName> with Bruce Coville.</author> 
+               <title>Armageddon Summer</title>.
+               <note>See Coville, Bruce</note>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Zafón, Carlos Ruiz.</persName>
+               </author> 
+               <title>The Shadow of the
+                  Wind</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Zindel, Paul.</persName>
+               </author> 
+               <title>P.C. Hawke: The Scream
+                  Museum</title>.
+            </bibl>
+            <bibl>
+               <author>
+                  <persName>Zindel, Paul.</persName>.</author> 
+               <title>Reef of Death</title>.
+            </bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>
