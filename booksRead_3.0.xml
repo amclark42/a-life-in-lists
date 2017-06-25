@@ -58,6 +58,129 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="melick.a.wastedtalent.weengineers">
+            <monogr>
+              <title>Wasted Talent: We Are The Engineers</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:melick.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2016-06-20"/>
+                <date type="copyright" from="2010" to="2017"/>
+                <date type="first-publication" when="2010-08"/>
+                <publisher>
+                  <persName ref="a:melick.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wasted Talent</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="melick.a.wastedtalent.realworld">
+            <monogr>
+              <title>Wasted Talent: Welcome to the Real World</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:melick.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2016-06-20"/>
+                <date type="copyright" when="2012-03"/>
+                <publisher>
+                  <persName ref="a:melick.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wasted Talent</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="melick.a.wastedtalent.cubiclewarrior">
+            <monogr>
+              <title>Wasted Talent: Cubicle Warrior</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:melick.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2016-06-20"/>
+                <date type="copyright" when="2014-03"/>
+                <publisher>
+                  <persName ref="a:melick.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wasted Talent</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="melick.a.wastedtalent.professionallyawesome">
+            <monogr>
+              <title>Wasted Talent: Professionally Awesome</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:melick.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2016-12-06"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2016-06-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <persName ref="a:melick.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wasted Talent</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="melick.a.wastedtalent.redesigned">
+            <monogr>
+              <title>Wasted Talent: Redesigned</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:melick.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2016-12-06"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2016-06-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <persName ref="a:melick.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wasted Talent</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="walton.j.booksogreat">
             <monogr>
               <title>What Makes This Book So Great</title>

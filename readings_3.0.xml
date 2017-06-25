@@ -30,8 +30,23 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-06-23" to="2017-06-24">
+          <p>Read <ref target="b:melick.a.wastedtalent.realworld">Wasted Talent: Welcome to the 
+            Real World</ref>.</p>
+        </event>
+        <event from="2017-06-21" to="2017-06-22">
+          <p>Read <ref target="b:melick.a.wastedtalent.weengineers">Wasted Talent: We Are the 
+            Engineers</ref>.</p>
+        </event>
+        <event when="2017-06-18">
+          <p>Read <ref target="b:mori.k.bridesstory.4">A Bride’s Story Vol. 4</ref>.</p>
+        </event>
         <event from="2017-06-17">
           <p>Read <ref target="b:walton.j.booksogreat">What Makes This Book So Great</ref>.</p>
+        </event>
+        <event from="2017-06-16" to="2017-06-20">
+          <p>Reread <ref target="b:padua.s.thrillingadventureslovelacebabbage">The Thrilling
+            Adventures of Lovelace and Babbage</ref>.</p>
         </event>
         <event when="2017-06-15">
           <p>Read <ref target="b:cliff.t.delilahdirk.kingsshilling">Delilah Dirk and the King’s
@@ -40,7 +55,7 @@
         <event from="2017-06-11" to="2017-06-12">
           <p>Read <ref target="b:rucka.g.lazarus.2.lift">Lazarus Vol. 2: Lift</ref>.</p>
         </event>
-        <event from="2017-06-10">
+        <event from="2017-06-10" to="2017-06-17">
           <p>Reread <ref target="b:vonnegut.k.breakfastchampions">Breakfast of Champions</ref>.</p>
         </event>
         <event when="2017-06-10">
