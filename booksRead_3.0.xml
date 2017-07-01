@@ -9347,11 +9347,11 @@
             </series>
           </biblStruct>
 
-          <biblStruct xml:id="mckillip.p.odmagic">
+          <biblStruct xml:id="mckillip.pa.odmagic">
             <monogr>
               <title>Od Magic</title>
               <author>
-                <persName ref="a:mckillip.p"/>
+                <persName ref="a:mckillip.pa"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
@@ -18033,9 +18033,29 @@
                 <resp relation="author of introduction, etc."/>
                 <persName ref="a:november.s"/>
               </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:alexande.l"/>
+                <persName ref="a:bull.e"/>
+                <persName ref="a:vess.c"/>
+                <persName ref="a:cadnum.m"/>
+                <persName ref="a:dalkey.k"/>
+                <persName ref="a:farmer.n"/>
+                <persName ref="a:hoffman.nk"/>
+                <persName ref="a:jones.dw"/>
+                <persName ref="a:mckillip.pa"/>
+                <persName ref="a:nix.g"/>
+                <persName ref="a:pierce.ma"/>
+                <persName ref="a:sherman.d"/>
+                <persName ref="a:smith.s"/>
+                <persName ref="a:springer.n"/>
+                <persName ref="a:turner.mw"/>
+                <persName ref="a:wein.ee"/>
+                <persName ref="a:winter.l"/>
+              </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.anthology"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <date when="2003"/>
                 <publisher>
                   <orgName>Firebird</orgName>

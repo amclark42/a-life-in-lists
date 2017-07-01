@@ -48,6 +48,14 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Abraham, Daniel</author>.
+          <title>A Shadow in Summer</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Long Price</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Addison, Katherine</author>.
           <title>The Goblin Emperor</title>.
         </bibl>
@@ -170,10 +178,6 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <author>Bacigalupi, Paolo</author>.
-          <title>The Water Knife</title>.
-        </bibl>
-        <bibl>
           <author>Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <trait ref="#tag.comics"/>
@@ -206,6 +210,11 @@
           <trait ref="#tag.comics"/>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-11-29"/>
+        </bibl>
+        <bibl>
+          <author>Barnes, John</author>.
+          <title>Orbital Resonance</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Bartlett, Allison Hoover</author>.
@@ -259,6 +268,17 @@
           <title>Moxyland</title>.
         </bibl>
         <bibl>
+          <author>Bisson, Terry</author>.
+          <title>Fire on the Mountain</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Blake, Katherine</author>.
+          <title>The Interior Life</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print? -->
+        </bibl>
+        <bibl>
           <author>Borges, Jorge Luis</author>.
           <title>The Book of Imaginary Beings</title>.
         </bibl>
@@ -274,6 +294,11 @@
           <author>Bornstein, Kate</author>.
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Butler, Octavia</author>.
+          <title>Kindred</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Bradbury, Ray</author>.
@@ -314,12 +339,21 @@
         </bibl>
         <bibl>
           <author>Brust, Steven</author>.
-          <title>Dragon</title>.
+          <title>Jhereg</title>.
           <series><title>Vlad Taltos</title></series>
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Budrys, Algis</author>.
           <title>Rogue Moon</title>.
+        </bibl>
+        <bibl>
+          <author>Bujold, Lois McMaster</author>.
+          <title>The Warrior’s Apprentice</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Vorkosigan</title>
+          </series>
         </bibl>
         <bibl>
           <author>Butler, Octavia</author>.
@@ -368,6 +402,12 @@
           <title>Nights at the Circus</title>.
         </bibl>
         <bibl>
+          <author>Carter, Raphael</author>.
+          <title>The Fortunate Fall</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print -->
+        </bibl>
+        <bibl>
           <author>Casey, Jane</author>.
           <title>The Reckoning</title>.
           <series><title>Maeve Kerrigan</title></series>
@@ -400,6 +440,14 @@
           <title>Journey to the West</title>.
         </bibl>
         <bibl>
+          <author>Cherryh, C.J.</author>.
+          <title>Merchanter’s Luck</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Alliance-Union</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Chesnoff, Richard Z.</author>
           <title>Pack of Thieves: How Hitler and Europe Plundered the Jews and
             Committed the Greatest Theft in History</title>.
@@ -416,7 +464,7 @@
             <persName>Ken Liu</persName>
           </respStmt>.
           <title>The Three-Body Problem</title>.
-          <series><title>Remembrance of Earth's Past</title></series>
+          <series><title>Remembrance of Earth’s Past</title></series>
           <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
@@ -495,6 +543,11 @@
           <series><title>Obsidian and Blood</title></series>
         </bibl>
         <bibl>
+          <author>Dean, Pamela</author>.
+          <title>Tam Lin</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Delany, Samuel R.</author>
           <title>Babel-17</title>.
         </bibl>
@@ -523,6 +576,12 @@
           <title>Little Brother</title>.
         </bibl>
         <bibl>
+          <author>Dorsey, Candas Jane</author>.
+          <title>Black Wine</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print -->
+        </bibl>
+        <bibl>
           <author>Dorst, Doug</author>.
           <title>Alive in Necropolis</title>.
         </bibl>
@@ -530,6 +589,11 @@
           <author>Due, Tananarive</author>.
           <title>The Living Blood</title>.
           <series><title>African Immortals</title></series>
+        </bibl>
+        <bibl>
+          <author>Dunsany, Lord</author>.
+          <title>The King of Elfland’s Daughter</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Durham, David Anthony</author>.
@@ -551,6 +615,14 @@
           <series><title>Crown Service</title></series>
         </bibl>
         <bibl>
+          <author>Effinger, George Alec</author>.
+          <title>When Gravity Fails</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Marîd Audran</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Eggers, Dave</author>.
           <title>You Shall Know Our Velocity: or, Sacrament</title>.
         </bibl>
@@ -564,6 +636,11 @@
           <author>Eichenwald, Kurt</author>.
           <title>500 Days: Secrets and Lies in the Terror Wars</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Eliot, George</author>.
+          <title>Middlemarch</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -651,6 +728,16 @@
           <series><title>Nightrunner</title></series>
         </bibl>
         <bibl>
+          <author>Ford, John M.</author>
+          <title>The Dragon Waiting</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Ford, John M.</author>
+          <title>Growing Up Weightless</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Forney, Ellen</author>.
           <title>Marbles: Mania, Depression, Michelangelo, and Me</title>.
           <trait ref="#tag.comics"/>
@@ -720,9 +807,22 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Gladman, Renee</author>.
+          <title>Event Factory</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Ravicka</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Gleick, James</author>.
           <title>Chaos: Making a New Science</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Gloss, Molly</author>.
+          <title>The Dazzle of Day</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Grant, Michael</author>.
@@ -744,6 +844,15 @@
         <bibl>
           <author>Goodman, Alison</author>.
           <title>Singing the Dogstar Blues</title>.
+        </bibl>
+        <bibl>
+          <author>Gorodischer, Angelica</author>.
+          <respStmt>
+            <resp relation="translator"/>
+            <persName>Ursula K. Le Guin</persName>
+          </respStmt>
+          <title>Kalpa Imperial</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <editor>Guay, Rebecca</editor>.
@@ -873,6 +982,11 @@
           <title>Les Miserables</title>.
         </bibl>
         <bibl>
+          <author>Hulme, Keri</author>.
+          <title>The Bone People</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Hurley, Kameron</author>.
           <title>We Have Always Fought: Essays on Craft, Fiction and Fandom</title>.
           <trait ref="#tag.nonfiction"/>
@@ -880,6 +994,11 @@
         <bibl>
           <author>Hyde, Lewis</author>.
           <title>Trickster Makes This World</title>.
+        </bibl>
+        <bibl>
+          <author>Ireland, Justina</author>.
+          <title>Dread Nation</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Irvine, Alexander</author>.
@@ -943,6 +1062,11 @@
           <author>Kiernan, Caitlín R.</author>
           <title>The Red Tree</title>.
           <date type="added" when="2016-04-01"/>
+        </bibl>
+        <bibl>
+          <author>Killjoy, Margaret</author>.
+          <title>A Country of Ghosts</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Kincaid, Jamaica</author>.
@@ -1065,6 +1189,11 @@
           <title>The Winged Seed: A Remembrance</title>.
         </bibl>
         <bibl>
+          <author>Lee, Tanith</author>.
+          <title>Biting the Sun</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Lem, Stanislaw</author>.
           <title>Solaris</title>.
           <date type="added" when="2017-01-29"/>
@@ -1086,7 +1215,7 @@
           <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
-          <author>Liu, Majorie</author> and 
+          <author>Liu, Majorie</author> and
           <respStmt>
             <resp relation="artist"/>
             <persName>Sana Takeda</persName>
@@ -1122,7 +1251,7 @@
         </bibl>
         <bibl>
           <author>Lowery, Wesley</author>.
-          <title>They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in 
+          <title>They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in
             Americas’s Racial Justice Movement</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
@@ -1137,6 +1266,14 @@
           <author>Mack, David</author>.
           <title>Kabuki: Circle of Blood</title>.
           <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>MacLeod, Ken</author>.
+          <title>The Sky Road</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Fall Revolution</title>
+          </series>
         </bibl>
         <bibl>
           <author>Maguire, Gregory</author>.
@@ -1381,6 +1518,11 @@
           <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
+          <author>Palwick, Susan</author>.
+          <title>Shelter</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Parker, Jeff</author>.
           <title>Mysterius the Unfathomable</title>.
           <trait ref="#tag.comics"/>
@@ -1430,6 +1572,11 @@
         <bibl>
           <author>Pinto, Ricardo</author>.
           <title>The Chosen</title>.
+        </bibl>
+        <bibl>
+          <author>Robinson, Kim Stanley</author>.
+          <title>Icehenge</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Potok, Chaim</author>.
@@ -1513,6 +1660,11 @@
           <title>East, West: stories</title>.
         </bibl>
         <bibl>
+          <author>Rushdie, Salman</author>.
+          <title>Midnight’s Children</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Russ, Joanna</author>.
           <title>The Adventures of Alyx</title>.
           <date type="added" when="2016-06-04"/>
@@ -1537,6 +1689,14 @@
           <title>Cosmos</title>.
         </bibl>
         <bibl>
+          <author>Samatar, Sofia</author>.
+          <title>A Stranger in Olondria</title>.
+          <date type="added" when="2017-06-29"/>
+          <series>
+            <title>Olondria</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Sanderson, Brandon</author>.
           <title>Steelheart</title>.
           <series><title>Reckoners</title></series>
@@ -1552,9 +1712,19 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
+          <author>Sayers, Dorothy</author>.
+          <title>Gaudy Night</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Schickel, Katie</author>.
           <title>Housewitch</title>.
           <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Schroeder, Karl</author>.
+          <title>Lady of Mazes</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Scott, Melissa</author> and
@@ -1629,6 +1799,12 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Somtow, S.P.</author>
+          <title>Jasmine Nights</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print -->
+        </bibl>
+        <bibl>
           <author>Spangler, K.B.</author>
           <title>Digital Divide</title>.
         </bibl>
@@ -1648,6 +1824,11 @@
         <bibl>
           <author>Stephenson, Neal</author>.
           <title>Snow Crash</title>.
+        </bibl>
+        <bibl>
+          <author>Stewart, Sean</author>.
+          <title>Perfect Circle</title>.
+          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Stoppard, Tom</author>.
@@ -1690,6 +1871,11 @@
           <title>The End of Mr. Y</title>.
         </bibl>
         <bibl>
+          <author>Tiptree, James, Jr.</author>.
+          <title>Her Smoke Rose Up Forever</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Trivers, Robert</author>.
           <title>The Folly of Fools: The Logic of Deceit and Self-Deception in Human
             Life</title>.
@@ -1701,8 +1887,8 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Tyson, Neil deGrasse</author>, 
-          <author>Michael A. Strauss</author>, and 
+          <author>Tyson, Neil deGrasse</author>,
+          <author>Michael A. Strauss</author>, and
           <author>J. Richard Gott</author>.
           <title>Welcome to the Universe: An Astrophysical Tour</title>
           <trait ref="#tag.nonfiction"/>
@@ -1746,6 +1932,12 @@
           <title>Slaughterhouse Five</title>.
         </bibl>
         <bibl>
+          <author>Waldrop, Howard</author>.
+          <title>Them Bones</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print -->
+        </bibl>
+        <bibl>
           <author>Walton, Jo</author>.
           <title>Among Others</title>.
           <date type="added" when="2017-01-29"/>
@@ -1755,12 +1947,6 @@
           <title>The Just City</title>.
           <series><title>Thessaly</title></series>
           <date type="added" when="2016-10-01"/>
-        </bibl>
-        <bibl>
-          <author>Walton, Jo</author>.
-          <title>What Makes This Book So Great</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-10-08"/>
         </bibl>
         <bibl>
           <author>Way, Gerard</author>.
@@ -1794,6 +1980,17 @@
           <author>Wilson, Kai Ashante</author>.
           <title>The Sorcerer of the Wildeeps</title>.
           <date type="added" when="2016-10-29"/>
+        </bibl>
+        <bibl>
+          <author>Windling, Terri</author>.
+          <title>The Wood Wife</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Womack, Jack</author>.
+          <title>Random Acts of Senseless Violence</title>.
+          <date type="added" when="2017-06-29"/>
+          <!-- out of print -->
         </bibl>
         <bibl>
           <author>Woolf, Virginia</author>.

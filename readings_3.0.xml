@@ -30,18 +30,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-07-01">
+          <p>Reread <ref target="b:november.s.firebirds">Firebirds: An Anthology of Original
+            Fantasy and Science Fiction</ref>.</p>
+        </event>
+        <event from="2017-06-29" to="2017-07-01">
+          <p>Read <ref target="b:bacigalu.p.waterknife">The Water Knife</ref>.</p>
+        </event>
+        <event when="2017-06-29">
+          <p>Read <ref target="b:melick.a.wastedtalent.cubiclewarrior">Wasted Talent: Cubicle
+            Warrior</ref>.</p>
+        </event>
         <event from="2017-06-23" to="2017-06-24">
-          <p>Read <ref target="b:melick.a.wastedtalent.realworld">Wasted Talent: Welcome to the 
+          <p>Read <ref target="b:melick.a.wastedtalent.realworld">Wasted Talent: Welcome to the
             Real World</ref>.</p>
         </event>
         <event from="2017-06-21" to="2017-06-22">
-          <p>Read <ref target="b:melick.a.wastedtalent.weengineers">Wasted Talent: We Are the 
+          <p>Read <ref target="b:melick.a.wastedtalent.weengineers">Wasted Talent: We Are the
             Engineers</ref>.</p>
         </event>
         <event when="2017-06-18">
           <p>Read <ref target="b:mori.k.bridesstory.4">A Bride’s Story Vol. 4</ref>.</p>
         </event>
-        <event from="2017-06-17">
+        <event from="2017-06-17" to="2017-06-29">
           <p>Read <ref target="b:walton.j.booksogreat">What Makes This Book So Great</ref>.</p>
         </event>
         <event from="2017-06-16" to="2017-06-20">
