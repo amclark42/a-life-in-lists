@@ -30,7 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-07-01">
+        <event from="2017-07-09">
+          <p>Reread <ref target="b:kowal.mr.shadesmilkhoney">Shades of Milk and Honey</ref>.</p>
+        </event>
+        <event from="2017-07-08" to="2017-07-09">
+          <p>Read <ref target="b:melick.a.wastedtalent.redesigned">Wasted Talent: Redesigned</ref>.</p>
+        </event>
+        <event when="2017-07-01">
+          <p>Read <ref target="b:melick.a.wastedtalent.professionallyawesome">Wasted Talent:
+            Professionally Awesome</ref>.</p>
+        </event>
+        <event from="2017-07-01" to="2017-07-08">
           <p>Reread <ref target="b:november.s.firebirds">Firebirds: An Anthology of Original
             Fantasy and Science Fiction</ref>.</p>
         </event>

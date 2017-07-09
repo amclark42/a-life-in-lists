@@ -16375,7 +16375,7 @@
                 <persName ref="a:kowal.mr"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
                 <date when="2010"/>
                 <publisher>
                   <orgName>Tor</orgName>

@@ -352,7 +352,7 @@
           <title>The Warrior’s Apprentice</title>.
           <date type="added" when="2017-06-29"/>
           <series>
-            <title>Vorkosigan</title>
+            <title>Vorkosigan Saga</title>
           </series>
         </bibl>
         <bibl>
@@ -558,7 +558,7 @@
         <bibl>
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
-          <title>Initimate Matters: A History of Sexuality in America</title>.
+          <title>Intimate Matters: A History of Sexuality in America</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
@@ -1493,10 +1493,6 @@
         <bibl>
           <author>Oates, Joyce Carol</author>.
           <title>Beasts</title>.
-        </bibl>
-        <bibl>
-          <author>Ogawa, Yoko</author>.
-          <title>The Housekeeper and the Professor</title>.
         </bibl>
         <bibl>
           <author>Okorafor, Nnedi</author>.
