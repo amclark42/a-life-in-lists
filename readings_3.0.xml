@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-07-09">
+        <event when="2017-07-15">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.4">What Did You Eat Yesterday? Vol. 4</ref>.</p>
+        </event>
+        <event from="2017-07-14">
+          <p>Read <ref target="b:schickel.k.housewitch">Housewitch</ref>.</p>
+        </event>
+        <event when="2017-07-13">
+          <p>Reread <ref target="b:moeller.c.jla.leagueone">JLA: A League of One</ref>.</p>
+        </event>
+        <event from="2017-07-09" to="2017-07-11">
           <p>Reread <ref target="b:kowal.mr.shadesmilkhoney">Shades of Milk and Honey</ref>.</p>
         </event>
         <event from="2017-07-08" to="2017-07-09">

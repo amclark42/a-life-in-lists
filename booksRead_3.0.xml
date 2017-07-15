@@ -58,6 +58,142 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="hulme.k.bonepeople">
+            <monogr>
+              <title>The Bone People</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:hulme.k"/>
+              </respStmt>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="1983"/>
+                <date type="updated-us-edition" when="2005"/>
+                <publisher>
+                  <orgName>Louisiana State University Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="cadwallad.r.anchoress">
+            <monogr>
+              <title>The Anchoress</title>
+              <author>
+                <persName ref="a:cadwallad.r"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-11-06"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Sarah Crichton Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="schickel.k.housewitch">
+            <monogr>
+              <title>Housewitch</title>
+              <author>
+                <persName ref="a:schickel.k"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-10-01"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Forge</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="lewis.j.march.bookthree">
+            <monogr>
+              <title>March: Book Three</title>
+              <author>
+                <persName ref="a:lewis.j"/>
+              </author>
+              <author>
+                <persName ref="a:aydin.a"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:powell.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2016-10-07"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Top Shelf Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>March</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.7">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 7</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:hinton.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <date type="copyright" when="2015"/>
+                <date type="first-publication" when="2012"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.4">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 4</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:hinton.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <date type="copyright" when="2014"/>
+                <date type="first-publication" when="2010"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="melick.a.wastedtalent.weengineers">
             <monogr>
               <title>Wasted Talent: We Are The Engineers</title>
@@ -3070,11 +3206,19 @@
           <biblStruct xml:id="moeller.c.jla.leagueone">
             <monogr>
               <title>JLA: A League of One</title>
-              <author>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
                 <persName ref="a:moeller.c"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:oakley.b"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <date type="copyright" when="2000"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
