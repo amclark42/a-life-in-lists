@@ -41,6 +41,46 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="alder.a">
+          <persName>
+            <forename>Avery</forename>
+            <surname>Alder</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>-->
+        </person>
+        
+        <person xml:id="reis.c">
+          <persName>
+            <forename>Cecília</forename>
+            <surname>Reis</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="saintemar.c">
+          <persName>
+            <forename>Ciel</forename>
+            <surname>Sainte-Marie</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="mendezhod.j">
+          <persName>
+            <forename>James</forename>
+            <surname>Mendez Hodes</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="shim.j">
+          <persName>
+            <forename>Jeeyon</forename>
+            <surname>Shim</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="schickel.k">
           <persName>
             <forename>Kate</forename>

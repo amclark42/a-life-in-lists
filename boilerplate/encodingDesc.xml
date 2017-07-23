@@ -24,13 +24,22 @@
         <catDesc>Kickstarted</catDesc>
       </category>
       <category xml:id="tag.memoir">
-        <catDesc>biography and memoir</catDesc>
+        <catDesc>autobiography, biography, and memoir</catDesc>
       </category>
       <category xml:id="tag.nonfiction">
         <catDesc>nonfiction</catDesc>
       </category>
+      <category xml:id="tag.outofprint">
+        <catDesc>out of print</catDesc>
+      </category>
       <category xml:id="tag.owned">
         <catDesc>owned</catDesc>
+      </category>
+      <category xml:id="tag.queer">
+        <catDesc>queer</catDesc>
+      </category>
+      <category xml:id="tag.rpg">
+        <catDesc>role-playing game rulebook</catDesc>
       </category>
     </taxonomy>
   </classDecl>

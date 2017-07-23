@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-12-11">Added <gi>series</gi> to most books that needed them.</change>
         <change when="2016-05-15">
@@ -209,6 +210,7 @@
           <title>Queer: A Graphic History</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
           <date type="added" when="2016-11-29"/>
         </bibl>
         <bibl>
@@ -258,6 +260,7 @@
           <title>Coming Out Under Fire: The History of Gay Men and Women in
             World War Two</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
         </bibl>
         <bibl>
           <author>Bester, Alfred</author>.
@@ -294,6 +297,7 @@
           <author>Bornstein, Kate</author>.
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
         </bibl>
         <bibl>
           <author>Butler, Octavia</author>.
@@ -372,6 +376,7 @@
         <bibl>
           <author>Cadigan, Pat</author>.
           <title>Tea from an Empty Cup</title>.
+          <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Cadwallader, Robyn</author>.
@@ -405,7 +410,7 @@
           <author>Carter, Raphael</author>.
           <title>The Fortunate Fall</title>.
           <date type="added" when="2017-06-29"/>
-          <!-- out of print -->
+          <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Casey, Jane</author>.
@@ -433,6 +438,7 @@
           <title>Gay New York: Gender, Urban Culture and the Making of the Gay
             Male World</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
@@ -578,8 +584,8 @@
         <bibl>
           <author>Dorsey, Candas Jane</author>.
           <title>Black Wine</title>.
+          <trait ref="#tag.outofprint"/>
           <date type="added" when="2017-06-29"/>
-          <!-- out of print -->
         </bibl>
         <bibl>
           <author>Dorst, Doug</author>.
@@ -956,6 +962,7 @@
           <title>The Feminist Bookstore Movement: Lesbian Antiracism and Feminist
             Accountability</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
           <date type="added" when="2016-10-29"/>
         </bibl>
         <bibl>
@@ -1053,6 +1060,13 @@
         <bibl>
           <author>Kay, Elizabeth</author>.
           <title>The Divide</title>.
+        </bibl>
+        <bibl>
+          <author>Kendrick, Anna</author>.
+          <title>Scrappy Little Nobody</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-07-18"/>
         </bibl>
         <bibl>
           <author>Kesey, Ken</author>.
@@ -1379,6 +1393,7 @@
           <author>Elizabeth Bear</author>.
           <title>An Apprentice to Elves</title>.
           <series><title>Iskryne World</title></series>
+          <trait ref="#tag.queer"/>
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
@@ -1435,6 +1450,7 @@
           <title>My Lesbian Experience with Loneliness</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
+          <trait ref="#tag.queer"/>
           <date type="added" when="2017-05-14"/>
         </bibl>
         <bibl>
@@ -1792,8 +1808,8 @@
         <bibl>
           <author>Somtow, S.P.</author>
           <title>Jasmine Nights</title>.
+          <trait ref="#tag.outofprint"/>
           <date type="added" when="2017-06-29"/>
-          <!-- out of print -->
         </bibl>
         <bibl>
           <author>Spangler, K.B.</author>
@@ -1926,7 +1942,7 @@
           <author>Waldrop, Howard</author>.
           <title>Them Bones</title>.
           <date type="added" when="2017-06-29"/>
-          <!-- out of print -->
+          <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Walton, Jo</author>.
@@ -1981,7 +1997,7 @@
           <author>Womack, Jack</author>.
           <title>Random Acts of Senseless Violence</title>.
           <date type="added" when="2017-06-29"/>
-          <!-- out of print -->
+          <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Woolf, Virginia</author>.

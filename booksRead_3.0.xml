@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-03-11">Started adding <att>from-custom</att> on "owned"
           tags, using the roughly-defined time periods in timeline.xml. Also started
           adding <gi>date</gi>s with a type of "first-read" for cases where a book
@@ -57,6 +58,41 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="alder.a.monsterhearts2">
+            <monogr>
+              <title>Monsterhearts 2</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="illustrator"/>
+                <persName ref="a:alder.a"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:saintemar.c"/>
+                <persName ref="a:mendezhod.j"/>
+                <persName ref="a:shim.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="cover designer"/>
+                <persName ref="a:reis.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstarted" when="2016-12-01"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2017-07-21"/>
+                <catRef target="#tag.queer"/>
+                <catRef target="#tag.rpg"/>
+                <date type="publication" when="2017"/>
+                <publisher>
+                  <persName ref="a:alder.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Monsterhearts</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="hulme.k.bonepeople">
             <monogr>
@@ -154,6 +190,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2015"/>
                 <date type="first-publication" when="2012"/>
                 <publisher>
@@ -182,6 +219,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2010"/>
                 <publisher>
@@ -533,6 +571,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2015"/>
                 <date type="first-publication" when="2012"/>
                 <publisher>
@@ -577,6 +616,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2017-04-19"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
                   <orgName>Yeti Press</orgName>
@@ -645,6 +685,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2017-04-19"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
                   <orgName>Archie Comic Publications</orgName>
@@ -840,6 +881,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstarted" when="2016-11-03"/>
                 <catRef target="#tag.owned" from="2017-03-20"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
                   <persName ref="a:delliqua.b"/>
@@ -860,6 +902,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2017-03-20"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
                   <persName ref="a:delliqua.b"/>
@@ -1018,6 +1061,7 @@
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.kickstart" when="2016-02-24"/>
                 <catRef target="#tag.owned" from="2017-02-21"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -1076,6 +1120,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2011"/>
                 <publisher>
@@ -1103,6 +1148,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2008"/>
                 <date type="printing" when="2012-09"/>
                 <publisher>
@@ -1149,6 +1195,7 @@
                 <persName ref="a:scott.m"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="1997"/>
                 <date type="added" when="2016-10-07"/>
                 <publisher>
@@ -1376,6 +1423,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2009"/>
                 <publisher>
@@ -1715,6 +1763,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2008"/>
                 <publisher>
@@ -2016,6 +2065,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2014"/>
                 <date type="first-publication" when="2007"/>
                 <publisher>
@@ -2086,9 +2136,10 @@
                 <persName ref="a:watson.e"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstart" when="2015-11-27"/>
                 <catRef target="#tag.owned" from="2016-08-18"/>
-                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <date when="2016"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -2282,6 +2333,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2016-07-29"/>
+                <catRef target="#tag.queer"/>
                 <date when="2013"/>
                 <publisher>
                   <orgName>Picador</orgName>
@@ -2428,6 +2480,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.drama"/>
+                <catRef target="#tag.queer"/>
                 <date when="1992"/>
                 <publisher>
                   <orgName>Theatre Communications Group</orgName>
@@ -2449,6 +2502,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <date when="2015-04"/>
                 <publisher>
                   <orgName>Drawn &amp; Quarterly</orgName>
@@ -2488,6 +2542,7 @@
               <imprint>
                 <catRef target="#tag.kickstart" when="2015-06-16"/>
                 <catRef target="#tag.owned" from="2016-06-15"/>
+                <catRef target="#tag.queer"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.anthology"/>
                 <date when="2016"/>
@@ -2513,6 +2568,7 @@
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.kickstart" when="2016-02-24"/>
                 <catRef target="#tag.owned" from="2017-02-21"/>
+                <catRef target="#tag.queer"/>
                 <date when="2016"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -2565,6 +2621,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.drama"/>
+                <catRef target="#tag.queer"/>
                 <date when="1992"/>
                 <publisher>
                   <orgName>Theatre Communications Group</orgName>
@@ -2637,6 +2694,7 @@
               <title>Sexing the Body: Gender Politics and the Construction of Sexuality</title>
               <imprint>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
                 <date when="2000"/>
                 <publisher>
                   <orgName>Basic Books</orgName>
@@ -2687,6 +2745,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2016-04-09"/>
+                <catRef target="#tag.queer"/>
                 <date when="2016-04"/>
                 <publisher>
                   <orgName>Tor</orgName>
@@ -3073,7 +3132,9 @@
                 <persName ref="a:kerr.p"/>
               </author>
               <imprint>
+                <catRef target="#tag.outofprint"/>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.queer"/>
                 <date type="first-read" datingPoint="ash:youngadult"/>
                 <publisher/>
               </imprint>
@@ -3134,6 +3195,7 @@
                 <persName ref="a:kushner.e"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3329,6 +3391,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -3860,6 +3923,7 @@
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.class" datingPoint="ash:bachelor"/>
+                <catRef target="#tag.queer"/>
                 <date when="1998"/>
                 <publisher>
                   <orgName>Vintage International</orgName>
@@ -4298,6 +4362,7 @@
               <imprint>
                 <catRef target="#tag.class" datingPoint="ash:bachelor"/>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.queer"/>
                 <date when="1999"/>
                 <date type="first-read" datingPoint="ash:youngadult"></date>
                 <publisher>
@@ -4554,6 +4619,7 @@
                 <persName ref="a:monette.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -5606,6 +5672,7 @@
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6849,6 +6916,7 @@
                 <persName ref="a:flewelli.l"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -6921,6 +6989,7 @@
                 <persName ref="a:flewelli.l"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -7243,7 +7312,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -8330,6 +8401,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -8745,6 +8817,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -9348,6 +9421,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -9922,6 +9996,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -10748,6 +10823,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11031,6 +11107,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11266,6 +11343,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11286,6 +11364,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -11757,6 +11836,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.queer"/>
                 <date when="2000-06"/>
                 <publisher>
                   <orgName>Hachette Book Group</orgName>
@@ -11775,7 +11855,7 @@
                 <persName ref="a:brennan.sr"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor" to-custom="ash:master"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12262,6 +12342,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -12343,6 +12424,7 @@
                 <catRef target="#tag.kickstart" when="2012-05-28"/>
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.anthology"/>
+                <catRef target="#tag.queer"/>
                 <date when="2012-09"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -12391,6 +12473,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -12491,6 +12574,7 @@
                 <persName ref="a:mchugh.mf"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12559,6 +12643,7 @@
                 <persName ref="a:monette.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12575,6 +12660,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -12860,6 +12946,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -13350,6 +13437,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -13981,6 +14069,7 @@
                 <persName ref="a:bear.e"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14131,6 +14220,7 @@
                 <persName ref="a:griffith.n"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14337,6 +14427,7 @@
                 <persName ref="a:smith.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14585,6 +14676,7 @@
                 <persName ref="a:flewelli.l"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14794,6 +14886,7 @@
                 <persName ref="a:smith.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -15087,6 +15180,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -15601,6 +15695,7 @@
                 <persName ref="a:smith.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -15893,7 +15988,8 @@
 
           <biblStruct xml:id="weath.j.mongolqueens">
             <monogr>
-              <title>The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire</title>
+              <title>The Secret History of the Mongol Queens: How the Daughters of 
+                Genghis Khan Rescued His Empire</title>
               <author>
                 <persName ref="a:weatherf.j"/>
               </author>
@@ -15931,6 +16027,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -16088,6 +16185,7 @@
                 <persName ref="a:smith.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -16378,6 +16476,7 @@
                 <catRef target="#tag.erotica"/>
                 <catRef target="#tag.kickstart" when="2014-05-05"/>
                 <catRef target="#tag.anthology"/>
+                <catRef target="#tag.queer"/>
                 <date when="2014-09"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
@@ -16832,6 +16931,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned"/>
+                <catRef target="#tag.queer"/>
                 <date when="2012"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
@@ -17085,6 +17185,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2015-10-11"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>Image Comics</orgName>
                 </publisher>
@@ -17107,6 +17208,7 @@
                 <catRef target="#tag.kickstart" when="2015-02-24"/>
                 <catRef target="#tag.owned" from="2015-10-15"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <orgName>Iron Circus</orgName>
                 </publisher>
@@ -17174,6 +17276,7 @@
                 <catRef target="#tag.owned" from="2015-10-20"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.anthology"/>
+                <catRef target="#tag.queer"/>
                 <publisher>
                   <persName ref="a:monster.sr"/>
                   <persName ref="a:stotts.t"/>
