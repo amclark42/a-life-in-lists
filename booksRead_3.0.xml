@@ -59,6 +59,227 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="rucka.g.ww.yearone">
+            <monogr>
+              <title>Wonder Woman Vol. 2: Year One</title>
+              <author>
+                <persName ref="a:rucka.g"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:scott.n"/>
+                <persName ref="a:evely.b"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:fajardo.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:wynne.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-07-29"/>
+                <date type="copyright" from="2016" to="2017"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wonder Woman</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="brubaker.e.velvet.1.livingend">
+            <monogr>
+              <title>Velvet Vol. 1: Before the Living End</title>
+              <author>
+                <persName ref="a:brubaker.e"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:epting.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:breitweis.e"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:eliopoul.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Velvet</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="liu.m.monstress.1.awakening">
+            <monogr>
+              <title>Monstress Vol. 1: Awakening</title>
+              <author>
+                <persName ref="a:liu.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:takeda.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:wooton.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="added" when="2017-04-19"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Monstress</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="fraction.m.ody-c.2.sonswolf">
+            <monogr>
+              <title>ODY-C Vol. 2: Sons of the Wolf</title>
+              <author>
+                <persName ref="a:fraction.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <resp relation="colorist"/>
+                <persName ref="a:ward.c"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="colorist"/>
+                <persName ref="a:cunniffe.d"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="letterer"/>
+                <persName ref="a:eliopoul.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>ODY-C</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="harris.j.jigsreels">
+            <monogr>
+              <title>Jigs &amp; Reels</title>
+              <title type="sub">Stories</title>
+              <author>
+                <persName ref="a:harris.j"/>
+              </author>
+              <imprint>
+                <date type="copyright" from="2000" to="2004"/>
+                <publisher>
+                  <orgName>William Morrow</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="tiptree.j.hersmokeroseupforever">
+            <monogr>
+              <title>Her Smoke Rose Up Forever</title>
+              <author>
+                <persName ref="a:tiptree.j"/>
+              </author>
+              <respStmt>
+                <resp relation="editor of compilation"/>
+                <persName ref="a:smith.jd"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="swanwick.m"/>
+              </respStmt>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="2004"/>
+                <publisher>
+                  <orgName>Tachyon Publications</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kingfisher.t.seventhbride">
+            <monogr>
+              <title>The Seventh Bride</title>
+              <author>
+                <persName ref="a:kingfisher.t"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-06-04"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>47North</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.chimesmidnight">
+            <monogr>
+              <title>Chimes at Midnight</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-07-29"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="hopkinso.n.reportplanetmidnight">
+            <monogr>
+              <title>Report from Planet Midnight</title>
+              <title type="sub">Plus <title rend="quoted">Message in a Bottle</title> 
+                and <title rend="quoted">Shift</title> 
+                and <title rend="quoted">Correcting the Balance</title> Outspoken Interview</title>
+              <author>
+                <persName ref="a:hopkinso.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>PM Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>PM Press Outspoken Authors</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="alder.a.monsterhearts2">
             <monogr>
               <title>Monsterhearts 2</title>
@@ -12252,7 +12473,9 @@
                 <persName ref="a:harris.j"/>
               </author>
               <imprint>
-                <publisher/>
+                <catRef target="#tag.owned" from="2017-07-29"/>
+                <date type="copyright" when="1999"/>
+                <publisher>Penguin Books</publisher>
               </imprint>
             </monogr>
             <series>

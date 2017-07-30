@@ -235,6 +235,11 @@
         </bibl>
         <bibl>
           <author>Bear, Elizabeth</author>.
+          <title>All the Windwracked Stars</title>.
+          <date type="added" when="2017-07-29"/>
+        </bibl>
+        <bibl>
+          <author>Bear, Elizabeth</author>.
           <title>Karen Memory</title>.
           <date type="added" when="2016-10-01"/>
         </bibl>
@@ -377,11 +382,6 @@
           <author>Cadigan, Pat</author>.
           <title>Tea from an Empty Cup</title>.
           <trait ref="#tag.outofprint"/>
-        </bibl>
-        <bibl>
-          <author>Cadwallader, Robyn</author>.
-          <title>The Anchoress</title>.
-          <date type="added" when="2016-11-06"/>
         </bibl>
         <bibl>
           <author>Carey, Mike</author>.
@@ -845,6 +845,11 @@
         </bibl>
         <bibl>
           <author>Griffith, Nicola</author>.
+          <title>Always</title>.
+          <date type="added" when="2017-07-29"/>
+        </bibl>
+        <bibl>
+          <author>Griffith, Nicola</author>.
           <title>Ammonite</title>.
         </bibl>
         <bibl>
@@ -987,11 +992,6 @@
         <bibl>
           <author>Hugo, Victor</author>.
           <title>Les Miserables</title>.
-        </bibl>
-        <bibl>
-          <author>Hulme, Keri</author>.
-          <title>The Bone People</title>.
-          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author>Hurley, Kameron</author>.
@@ -1216,17 +1216,6 @@
           <author>Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Lewis, John</author>,
-          <author>Andrew Aydin</author>, and
-          <author>Nate Powell</author>.
-          <title>March: Book Three</title>.
-          <series><title>March</title></series>
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-10-07"/>
         </bibl>
         <bibl>
           <author>Liu, Majorie</author> and
@@ -1649,6 +1638,11 @@
           <author>Rubinstein, Gillian</author>.
           <title>Tales of the Otori: Across the Nightingale Floor</title>.
           <series><title>Tales of the Otori</title></series>
+        </bibl>
+        <bibl>
+          <author>Ruff, Mark</author>.
+          <title>Lovecraft Country</title>.
+          <date type="added" when="2017-07-30"/>
         </bibl>
         <bibl>
           <author>Ruhlman, Michael</author>.

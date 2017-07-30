@@ -30,13 +30,22 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-07-21">
+        <event from="2017-07-30">
+          <p>Read <ref target="b:tiptree.j.hersmokeroseupforever">Her Smoke Rose Up Forever</ref>.</p>
+        </event>
+        <event from="2017-07-29" to="2017-07-30">
+          <p>Read <ref target="b:hopkinso.n.reportplanetmidnight">Report from Planet Midnight</ref>.</p>
+        </event>
+        <event from="2017-07-26" to="2017-07-29">
+          <p>Read <ref target="b:cadwallad.r.anchoress">The Anchoress</ref>.</p>
+        </event>
+        <event from="2017-07-21" to="2017-07-23">
           <p>Read <ref target="b:alder.a.monsterhearts2">Monsterhearts 2</ref>.</p>
         </event>
         <event from="2017-07-21" to="2017-07-22">
           <p>Read <ref target="b:lewis.j.march.bookthree">March: Book 3</ref>.</p>
         </event>
-        <event from="2017-07-17">
+        <event from="2017-07-17" to="2017-07-25">
           <p>Read <ref target="b:hulme.k.bonepeople">The Bone People</ref>.</p>
         </event>
         <event when="2017-07-15">
