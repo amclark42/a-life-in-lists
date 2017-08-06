@@ -8930,7 +8930,7 @@
                 <persName ref="a:green.m"/>
               </author>
               <author>
-                <persName ref="a:johnson..m"/>
+                <persName ref="a:johnson.m"/>
               </author>
               <respStmt>
                 <resp relation="artist"/>
@@ -12609,7 +12609,7 @@
                 <persName ref="a:blauerso.l"/>
                 <persName ref="a:currey.el"/>
                 <persName ref="a:dechanique"/>
-                <persName ref="a:delliquan.b"/>
+                <persName ref="a:delliqua.b"/>
                 <persName ref="a:doe.bj"/>
                 <persName ref="a:doyle.j"/>
                 <persName ref="a:dwam"/>
@@ -14105,7 +14105,7 @@
               </author>
               <respStmt>
                 <resp relation="artist"/>
-                <persName ref="a:o'neill.k"/>
+                <persName ref="a:oneill.k"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -16664,7 +16664,7 @@
                 <persName ref="a:broadfoo.l"/>
                 <persName ref="a:cooper.t"/>
                 <persName ref="a:copeland.k"/>
-                <persName ref="a:delliquan.b"/>
+                <persName ref="a:delliqua.b"/>
                 <persName ref="a:estep.j"/>
                 <persName ref="a:fink.j"/>
                 <persName ref="a:gedris.mr"/>
@@ -18591,6 +18591,93 @@
                 </publisher>
               </imprint>
             </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="evilhat.fate.coresystem">
+            <monogr>
+              <title>Fate Core System</title>
+              <respStmt>
+                <resp relation="lead"/>
+                <resp relation="author"/>
+                <persName ref="a:balsera.l"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author"/>
+                <persName ref="a:engard.b"/>
+                <persName ref="a:olson.m"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="editor"/>
+                <persName ref="a:macklin.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="editor"/>
+                <resp relation="book designer"/>
+                <persName ref="a:keller.j"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="cover designer"/>
+                <resp relation="creator"/>
+                <persName ref="a:hicks.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:komoda.k"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="creator"/>
+                <persName ref="a:donoghue.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
+                <catRef target="#tag.rpg"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Evil Hat Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Fate</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bellingha.r.fate.secretscats">
+            <monogr>
+              <title>Fate Core System</title>
+              <respStmt>
+                <resp relation="lead"/>
+                <resp relation="author"/>
+                <persName ref="a:bellingha.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="contributor"/>
+                <persName ref="a:balsera.l"/>
+                <persName ref="a:donoghue.r"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="book designer"/>
+                <persName ref="a:hicks.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:frasier.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
+                <catRef target="#tag.rpg"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Evil Hat Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Fate</title>
+            </series>
           </biblStruct>
           
         </listBibl>

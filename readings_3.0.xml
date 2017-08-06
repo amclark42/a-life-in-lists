@@ -30,6 +30,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2017-08-05">
+          <p>Read <ref target="b:brubaker.e.velvet.1.livingend">Velvet Vol. 1: Before the Living End</ref>.</p>
+        </event>
+        <event when="2017-08-04">
+          <p>Read <ref target="b:fraction.m.ody-c.2.sonswolf">ODY-C Vol. 2: Sons of the Wolf</ref>.</p>
+        </event>
         <event from="2017-07-30">
           <p>Read <ref target="b:tiptree.j.hersmokeroseupforever">Her Smoke Rose Up Forever</ref>.</p>
         </event>
