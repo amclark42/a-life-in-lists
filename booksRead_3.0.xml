@@ -59,6 +59,25 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="valente.cm.refrigeratormonologues">
+            <monogr>
+              <title>The Refrigerator Monologues</title>
+              <author>
+                <persName ref="a:valente.cm"/>
+              </author>
+              <respStmt>
+                <resp relation="illustrator"/>
+                <persName ref="a:wu.a"/>
+              </respStmt>
+              <imprint>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Saga Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="rucka.g.ww.yearone">
             <monogr>
               <title>Wonder Woman Vol. 2: Year One</title>
@@ -261,8 +280,8 @@
           <biblStruct xml:id="hopkinso.n.reportplanetmidnight">
             <monogr>
               <title>Report from Planet Midnight</title>
-              <title type="sub">Plus <title rend="quoted">Message in a Bottle</title> 
-                and <title rend="quoted">Shift</title> 
+              <title type="sub">Plus <title rend="quoted">Message in a Bottle</title>
+                and <title rend="quoted">Shift</title>
                 and <title rend="quoted">Correcting the Balance</title> Outspoken Interview</title>
               <author>
                 <persName ref="a:hopkinso.n"/>
@@ -16211,7 +16230,7 @@
 
           <biblStruct xml:id="weath.j.mongolqueens">
             <monogr>
-              <title>The Secret History of the Mongol Queens: How the Daughters of 
+              <title>The Secret History of the Mongol Queens: How the Daughters of
                 Genghis Khan Rescued His Empire</title>
               <author>
                 <persName ref="a:weatherf.j"/>

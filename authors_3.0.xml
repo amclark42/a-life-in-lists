@@ -41,6 +41,22 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="valente.cm">
+          <persName>
+            <forename>Catherynne M.</forename>
+            <surname>Valente</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="wu.a">
+          <persName>
+            <forename>Annie</forename>
+            <surname>Wu</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="vonnegut.k">
           <persName>
             <forename>Kurt</forename>

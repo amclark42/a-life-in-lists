@@ -30,13 +30,26 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-08-12">
+          <p>Read <ref target="b:kingfisher.t.seventhbride">The Seventh Bride</ref>.</p>
+        </event>
+        <event when="2017-08-12">
+          <p>Read <ref target="b:liu.m.monstress.1.awakening">Monstress Vol. 1: Awakening</ref>.</p>
+        </event>
+        <event from="2017-08-11" to="2017-08-12">
+          <p>Read <ref target="b:valente.cm.refrigeratormonologues">The Refrigerator Monologues</ref>.</p>
+        </event>
+        <event from="2017-08-07" to="2017-08-08">
+          <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.11">Pretty Guardian Sailor Moon
+            Vol. 11</ref>.</p>
+        </event>
         <event when="2017-08-05">
           <p>Read <ref target="b:brubaker.e.velvet.1.livingend">Velvet Vol. 1: Before the Living End</ref>.</p>
         </event>
         <event when="2017-08-04">
           <p>Read <ref target="b:fraction.m.ody-c.2.sonswolf">ODY-C Vol. 2: Sons of the Wolf</ref>.</p>
         </event>
-        <event from="2017-07-30">
+        <event from="2017-07-30" to="2017-08-11">
           <p>Read <ref target="b:tiptree.j.hersmokeroseupforever">Her Smoke Rose Up Forever</ref>.</p>
         </event>
         <event from="2017-07-29" to="2017-07-30">
