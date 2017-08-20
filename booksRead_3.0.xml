@@ -8742,7 +8742,7 @@
               </respStmt>
               <respStmt>
                 <resp relation="editor of compilation"/>
-                <persName ref="a:malki!.d"/>
+                <persName ref="a:malki.d"/>
               </respStmt>
               <respStmt>
                 <resp relation="editor of compilation"/>
@@ -16953,7 +16953,7 @@
               </respStmt>
               <respStmt>
                 <resp relation="editor of compilation"/>
-                <persName ref="a:malki!.d"/>
+                <persName ref="a:malki.d"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>

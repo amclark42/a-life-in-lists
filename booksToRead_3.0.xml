@@ -101,6 +101,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Anders, Charlie Jane</author>.
+          <title>All the Birds in the Sky</title>.
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Andrews, Ilona</author>.
           <title>Magic Mourns</title>.
           <series><title>Kate Daniels</title></series>
@@ -336,6 +341,11 @@
         <bibl>
           <author>Brookner, Anita</author>.
           <title>Hotel du Lac</title>.
+        </bibl>
+        <bibl>
+          <author>Brooks, Geraldine</author>.
+          <title>People of the Book</title>.
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Brooks, Jayde</author>.
@@ -630,6 +640,11 @@
         </bibl>
         <bibl>
           <author>Eggers, Dave</author>.
+          <title>Heroes of the Frontier</title>.
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
+          <author>Eggers, Dave</author>.
           <title>You Shall Know Our Velocity: or, Sacrament</title>.
         </bibl>
         <bibl>
@@ -732,6 +747,14 @@
           <author>Flewelling, Lynn</author>.
           <title>The White Road</title>.
           <series><title>Nightrunner</title></series>
+        </bibl>
+        <bibl>
+          <author>Foer, Joshua</author>,
+          <author>Dylan Thuras</author>, and
+          <author>Ella Morton</author>.
+          <title>Atlas Obscura: An Explorer’s Guide to the World’s Hidden Wonders</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Ford, John M.</author>
@@ -1150,6 +1173,13 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Koul, Scaachi</author>.
+          <title>One Day We’ll All Be Dead and None of This Will Matter</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Kowal, Mary Robinette</author>.
           <title>Glamour and Glass</title>.
           <series><title>Glamour in Glass</title></series>
@@ -1292,6 +1322,12 @@
           <title>The Maquisarde</title>.
         </bibl>
         <bibl>
+          <author>Marshall, Megan</author>.
+          <title>Margaret Fuller: A New American Life</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Marz, Ron</author> and
           <author>Karl Kesel</author>.
           <title>The Final Night</title>.
@@ -1347,6 +1383,11 @@
           <author>McKay, Ami</author>.
           <title>The Witches of New York</title>.
           <date type="added" when="2017-03-19"/>
+        </bibl>
+        <bibl>
+          <author>McKinley, Robin</author>.
+          <title>Shadows</title>.
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>McMahon, Jennifer</author>.
@@ -1496,6 +1537,13 @@
           <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
+          <author>Nye, Bill</author>.
+          <title>Everything All at Once: How to Unleash Your Inner Nerd, Tap Into
+            Radical Curiosity and Solve Any Problem </title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2016-08-20"/>
+        </bibl>
+        <bibl>
           <author>Oates, Joyce Carol</author>.
           <title>Beasts</title>.
         </bibl>
@@ -1625,6 +1673,11 @@
           <title>The Crying of Lot 49</title>.
         </bibl>
         <bibl>
+          <author>Quinn, Kate</author>.
+          <title>The Alice Network</title>.
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Roach, Mary</author>.
           <title>Grunt: The Curious Science of Humans at War</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1633,6 +1686,11 @@
         <bibl>
           <author>Rodi, Robert</author>.
           <title>What They Did to Princess Paragon</title>.
+        </bibl>
+        <bibl>
+          <author>Roy, Arundhati</author>.
+          <title>The Ministry of Utmost Happiness</title>.
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Rubinstein, Gillian</author>.
@@ -1766,6 +1824,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Shattuck, Jessica</author>.
+          <title>The Women in the Castle</title>.
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Sheehan, Aurelie</author>.
           <title>The Anxiety of Everyday Objects</title>.
         </bibl>
@@ -1781,6 +1844,11 @@
         <bibl>
           <author>Shinn, Sharon</author>.
           <title>The Shape-Changer’s Wife</title>.
+        </bibl>
+        <bibl>
+          <author>Sindu, S.J.</author>
+          <title>Marriage of a Thousand Lies</title>.
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Slonczewski, Joan</author>.
@@ -1868,6 +1936,11 @@
           <title>The Man Who Fell to Earth</title>.
         </bibl>
         <bibl>
+          <author>Thomas, Angie</author>.
+          <title>The Hate U Give</title>.
+          <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
           <author>Thomas, Scarlett</author>.
           <title>The End of Mr. Y</title>.
         </bibl>
@@ -1886,6 +1959,12 @@
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Tyson, Niel deGrasse</author>.
+          <title>Astrophysics for People in a Hurry</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Tyson, Neil deGrasse</author>,

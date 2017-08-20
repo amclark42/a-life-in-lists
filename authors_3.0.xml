@@ -247,12 +247,16 @@
             <forename>Alice</forename>
             <surname>Bradley</surname>
           </persName>
-          <persName type="pseudonym">
-            <forename>James</forename>
-            <surname>Tiptree</surname>
-            <genName>Jr.</genName>
-          </persName>
           <gender value="female" evidence="conjecture"/>
+          
+          <persona>
+            <persName>
+              <forename>James</forename>
+              <surname>Tiptree</surname>
+              <genName>Jr.</genName>
+            </persName>
+            <gender value="male" evidence="conjecture"/>
+          </persona>
         </person>
         
         <person xml:id="vernon.u">
@@ -260,10 +264,12 @@
             <forename>Ursula</forename>
             <surname>Vernon</surname>
           </persName>
-          <persName xml:id="kingfisher.t" type="pseudonym">
-            <forename>T.</forename>
-            <surname>Kingfisher</surname>
-          </persName>
+          <persona xml:id="kingfisher.t">
+            <persName>
+              <forename>T.</forename>
+              <surname>Kingfisher</surname>
+            </persName>
+          </persona>
           <gender value="female" evidence="conjecture"/>
         </person>
         
@@ -648,11 +654,15 @@
             <forename>Charlotte</forename>
             <surname>Brontë</surname>
           </persName>
-          <persName type="pseudonym">
-            <forename>Currer</forename>
-            <surname>Bell</surname>
-          </persName>
           <gender value="female" evidence="conjecture"/>
+          
+          <persona>
+            <persName type="pseudonym">
+              <forename>Currer</forename>
+              <surname>Bell</surname>
+            </persName>
+            <gender value="male" evidence="conjecture"/>
+          </persona>
         </person>
         
         <person xml:id="theoatmeal">
@@ -5383,11 +5393,15 @@
             <forename>Seanan</forename>
             <surname>McGuire</surname>
           </persName>
-          <persName type="psuedonym">
-            <forename>Mira</forename>
-            <surname>Grant</surname>
-          </persName>
           <gender value="female" evidence="self-identification"/>
+          
+          <persona xml:id="grant.m">
+            <persName type="psuedonym">
+              <forename>Mira</forename>
+              <surname>Grant</surname>
+            </persName>
+            <gender value="female" evidence="self-identification"/>
+          </persona>
         </person>
 
         <person xml:id="waters.md">
@@ -6023,6 +6037,8 @@
         </person>
 
       </listPerson>
+      
+      
       <listOrg>
         
         <org xml:id="clamp">

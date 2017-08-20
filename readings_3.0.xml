@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-08-12">
+        <event from="2017-08-19">
+          <p>Read <ref target="b:mcguire.s.chimesmidnight">Chimes at Midnight</ref>.</p>
+        </event>
+        <event from="2017-08-15" to="2017-08-17">
+          <p>Read <ref target="b:harris.j.jigsreels">Jigs &amp; Reels</ref>.</p>
+        </event>
+        <event when="2017-08-13">
+          <p>Read <ref target="b:rucka.g.ww.yearone">Wonder Woman Vol. 2: Year One</ref>.</p>
+        </event>
+        <event from="2017-08-12" to="2017-08-14">
           <p>Read <ref target="b:kingfisher.t.seventhbride">The Seventh Bride</ref>.</p>
         </event>
         <event when="2017-08-12">
