@@ -21,6 +21,9 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2017-08-26">Added "omnibus" tag. Split some titles so they 
+          have subtitles; mostly this happens when part of the title is a genre 
+          label, rather than something necessary for disambiguation or for context.</change>
         <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-03-11">Started adding <att>from-custom</att> on "owned"
           tags, using the roughly-defined time periods in timeline.xml. Also started
@@ -58,6 +61,166 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="ríos.e.id">
+            <monogr>
+              <title>I.D.</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:ríos.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="demson.m.masksanarchy">
+            <monogr>
+              <title>Marks of Anarchy</title>
+              <title type="sub">The History of a Radical Poem,
+                from Percy Shelley to the Triangle Factory Fire</title>
+              <author>
+                <persName ref="a:demson.m"/>
+              </author>
+              <respStmt>
+                <resp relation="artist"/>
+                <persName ref="a:mcclinton.s"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="author of introduction, etc."/>
+                <persName ref="a:buhle.p"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Verso</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="constanti.s.wraeththu">
+            <analytic>
+              <title>The Enchantments of Flesh and Spirit</title>
+              <date type="copyright" when="1987"/>
+            </analytic>
+            <analytic>
+              <title>The Bewitchments of Love and Hate</title>
+              <date type="copyright" when="1988"/>
+            </analytic>
+            <analytic>
+              <title>The Fulfilments of Fate and Desire</title>
+              <date type="copyright" when="1988"/>
+            </analytic>
+            <monogr>
+              <title>Wraeththu</title>
+              <author>
+                <persName ref="a:constanti.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.omnibus"/>
+                <date type="added" when-custom="ash:bachelor"/>
+                <date type="first-edition" when="1993-11"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wraeththu</title>
+            </series>
+          </biblStruct>
+
+          <biblStruct xml:id="pratchet.t.longmars">
+            <monogr>
+              <title>The Long Mars</title>
+              <author>
+                <persName ref="a:pratchet.t"/>
+              </author>
+              <author>
+                <persName ref="a:baxter.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2014"/>
+                <publisher>HarperCollins</publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Long Earth</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="slonczews.j.doorocean">
+            <monogr>
+              <title>A Door into Ocean</title>
+              <author>
+                <persName ref="a:slonczews.j"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-10-08"/>
+                <date type="copyright" when="1986"/>
+                <publisher>
+                  <orgName>Arbor House</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Elysium Cycle</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bear.e.windwrackedstars">
+            <monogr>
+              <title>All the Windwracked Stars</title>
+              <author>
+                <persName ref="a:bear.e"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-07-29"/>
+                <date type="copyright" when="2008"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.8">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 8</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp relation="author"/>
+                <resp relation="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp relation="translator"/>
+                <persName ref="a:hinton.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2015"/>
+                <date type="first-publication" when="2013"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="valente.cm.refrigeratormonologues">
             <monogr>
@@ -1576,7 +1739,8 @@
 
           <biblStruct xml:id="prince.l.tomboy">
             <monogr>
-              <title>Tomboy: A Graphic Memoir</title>
+              <title>Tomboy</title>
+              <title type="sub">A Graphic Memoir</title>
               <author>
                 <persName ref="a:prince.l"/>
               </author>
@@ -2567,7 +2731,8 @@
 
           <biblStruct xml:id="griffith.n.hild">
             <monogr>
-              <title>Hild: A Novel</title>
+              <title>Hild</title>
+              <title type="sub">A Novel</title>
               <author>
                 <persName ref="a:griffith.n"/>
               </author>
@@ -2753,7 +2918,8 @@
 
           <biblStruct xml:id="trotman.cs.sleepofreason">
             <monogr>
-              <title>The Sleep of Reason: An Anthology of Horror</title>
+              <title>The Sleep of Reason</title>
+              <title type="sub">An Anthology of Horror</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <resp relation="contributor"/>
@@ -2773,7 +2939,8 @@
 
           <biblStruct xml:id="trotman.cs.newworld">
             <monogr>
-              <title>New World: An Anthology of Sci-Fi and Fantasy</title>
+              <title>New World</title>
+              <title type="sub">An Anthology of Sci-Fi and Fantasy</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <resp relation="contributor"/>
@@ -3162,7 +3329,8 @@
 
           <biblStruct xml:id="lόpezalt.jk.foodlab">
             <monogr>
-              <title>The Food Lab: Better Home Cooking Through Science</title>
+              <title>The Food Lab</title>
+              <title type="sub">Better Home Cooking Through Science</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="photographer"/>
@@ -3903,8 +4071,8 @@
           <biblStruct
             xml:id="moore.c.stupidestangel">
             <monogr>
-              <title>The Stupidest Angel: A Heartwarming Tale of Christmas
-                Terror</title>
+              <title>The Stupidest Angel</title>
+              <title type="sub">A Heartwarming Tale of Christmas Terror</title>
               <author>
                 <persName ref="a:moore.c"/>
               </author>
@@ -4810,7 +4978,8 @@
 
           <biblStruct xml:id="gaiman.n.smokemirrors">
             <monogr>
-              <title>Smoke and Mirrors: Short Fictions and Illusions</title>
+              <title>Smoke and Mirrors</title>
+              <title type="sub">Short Fictions and Illusions</title>
               <author>
                 <persName ref="a:gaiman.n"/>
               </author>
@@ -6445,7 +6614,8 @@
 
           <biblStruct xml:id="schell.j.artgamedesignbooklenses">
             <monogr>
-              <title>The Art of Game Design: A Book of Lenses</title>
+              <title>The Art of Game Design</title>
+              <title type="sub">A Book of Lenses</title>
               <author>
                 <persName ref="a:schell.j"/>
               </author>
@@ -9529,7 +9699,8 @@
           <biblStruct
             xml:id="potter.j.cookingforgeeks">
             <monogr>
-              <title>Cooking for Geeks: Real Science, Great Hacks and Good Food</title>
+              <title>Cooking for Geeks</title>
+              <title type="sub">Real Science, Great Hacks and Good Food</title>
               <author>
                 <persName ref="a:potter.j"/>
               </author>
@@ -13075,7 +13246,8 @@
 
           <biblStruct xml:id="lackey.m.gwenhyfarwhitespirit">
             <monogr>
-              <title>Gwenhyfar: The White Spirit</title>
+              <title>Gwenhyfar</title>
+              <title type="sub">The White Spirit</title>
               <author>
                 <persName ref="a:lackey.m"/>
               </author>
@@ -13178,7 +13350,8 @@
 
           <biblStruct xml:id="bechdel.a.areyoumymother">
             <monogr>
-              <title>Are You My Mother?: A Comic Drama</title>
+              <title>Are You My Mother?</title>
+              <title type="sub">A Comic Drama</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -13452,8 +13625,9 @@
                 <persName ref="a:mcneil.cs"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -13552,7 +13726,8 @@
 
           <biblStruct xml:id="knisley.l.relish">
             <monogr>
-              <title>Relish: My Life in the Kitchen</title>
+              <title>Relish</title>
+              <title type="sub">My Life in the Kitchen</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -13858,8 +14033,9 @@
                 <persName ref="a:mcneil.cs"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14445,7 +14621,8 @@
 
           <biblStruct xml:id="darrieus.m.pigtales">
             <monogr>
-              <title>Pig Tales: A Novel of Lust and Transformation</title>
+              <title>Pig Tales</title>
+              <title type="sub">A Novel of Lust and Transformation</title>
               <author>
                 <persName ref="a:darrieus.m"/>
               </author>
@@ -14770,10 +14947,10 @@
             </monogr>
           </biblStruct>
 
-          <biblStruct
-            xml:id="pringle.h.mummycongress">
+          <biblStruct xml:id="pringle.h.mummycongress">
             <monogr>
-              <title>The Mummy Congress: Science, Obsession and the Everlasting Dead</title>
+              <title>The Mummy Congress</title>
+              <title type="sub">Science, Obsession and the Everlasting Dead</title>
               <author>
                 <persName ref="a:pringle.h"/>
               </author>
@@ -14870,7 +15047,8 @@
 
           <biblStruct xml:id="brothwel.d.foodinantiquity">
             <monogr>
-              <title>Food in Antiquity: A Survey of the Diet of Early Peoples</title>
+              <title>Food in Antiquity</title>
+              <title type="sub">A Survey of the Diet of Early Peoples</title>
               <author>
                 <persName ref="a:brothwel.d"/>
               </author>
@@ -15060,7 +15238,8 @@
 
           <biblStruct xml:id="piskor.e.wizzywig">
             <monogr>
-              <title>Wizzywig: Portrait of a Serial Hacker</title>
+              <title>Wizzywig</title>
+              <title type="sub">Portrait of a Serial Hacker</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -15076,7 +15255,8 @@
           <biblStruct
             xml:id="fine.c.delusionsgender">
             <monogr>
-              <title>Delusions of Gender: How Our Minds, Society and Neurosexism Create Difference</title>
+              <title>Delusions of Gender</title>
+              <title type="sub">How Our Minds, Society and Neurosexism Create Difference</title>
               <author>
                 <persName ref="a:fine.c"/>
               </author>
@@ -15273,7 +15453,8 @@
 
           <biblStruct xml:id="nakamura.a.utsubora">
             <monogr>
-              <title>Utsubora: The Story of a Novelist</title>
+              <title>Utsubora</title>
+              <title type="sub">The Story of a Novelist</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -15533,7 +15714,8 @@
           <biblStruct
             xml:id="mccranie.s.brickbybrick">
             <monogr>
-              <title>Brick by Brick: Principles for Achieving Artistic Mastery</title>
+              <title>Brick by Brick</title>
+              <title type="sub">Principles for Achieving Artistic Mastery</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -15856,7 +16038,8 @@
 
           <biblStruct xml:id="stark.s.femaletars">
             <monogr>
-              <title>Female Tars: Women Aboard Ship in the Age of Sail</title>
+              <title>Female Tars</title>
+              <title type="sub">Women Aboard Ship in the Age of Sail</title>
               <author>
                 <persName ref="a:stark.sj"/>
               </author>
@@ -16042,7 +16225,8 @@
           <biblStruct
             xml:id="vincent.n.selfmademan">
             <monogr>
-              <title>Self-Made Man: One Woman’s Journey into Manhood and Back Again</title>
+              <title>Self-Made Man</title>
+              <title type="sub">One Woman’s Journey into Manhood and Back Again</title>
               <author>
                 <persName ref="a:vincent.n"/>
               </author>
@@ -16230,8 +16414,8 @@
 
           <biblStruct xml:id="weath.j.mongolqueens">
             <monogr>
-              <title>The Secret History of the Mongol Queens: How the Daughters of
-                Genghis Khan Rescued His Empire</title>
+              <title>The Secret History of the Mongol Queens</title>
+              <title type="sub">How the Daughters of Genghis Khan Rescued His Empire</title>
               <author>
                 <persName ref="a:weatherf.j"/>
               </author>
@@ -16941,8 +17125,9 @@
           <biblStruct
             xml:id="north.r.thisishowyoudie">
             <monogr>
-              <title>This is How You Die: Stories of the Inscrutable,
-                Infallible, Inescapable Machine of Death</title>
+              <title>This is How You Die</title>
+              <title type="sub">Stories of the Inscrutable, Infallible, Inescapable 
+                Machine of Death</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <persName ref="a:north.r"/>
@@ -17264,7 +17449,8 @@
 
           <biblStruct xml:id="beaton.k.harkavagrant.stepasidepops">
             <monogr>
-              <title>Step Aside, Pops: A Hark A Vagrant! Collection</title>
+              <title>Step Aside, Pops</title>
+              <title type="sub">A Hark A Vagrant! Collection</title>
               <respStmt>
                 <resp relation="author"/>
                 <resp relation="artist"/>
@@ -17853,6 +18039,7 @@
                 <persName ref="a:pullman.p"/>
               </author>
               <imprint>
+                <catRef target="#tag.omnibus"/>
                 <catRef target="#tag.owned"/>
                 <date when="2007-04"/>
                 <publisher>
@@ -18207,7 +18394,8 @@
 
           <biblStruct xml:id="adams.d.salmondoubt">
             <monogr>
-              <title>The Salmon of Doubt: Hitchhiking the Galaxy One Last Time</title>
+              <title>The Salmon of Doubt</title>
+              <title type="sub">Hitchhiking the Galaxy One Last Time</title>
               <author>
                 <persName ref="a:adams.d"/>
               </author>
@@ -18259,8 +18447,9 @@
 
           <biblStruct xml:id="goldman.w.princessbride">
             <monogr>
-              <title>The Princess Bride: S. Morgenstern’s Classic Tale of True Love
-                and High Adventure</title>
+              <title>The Princess Bride</title>
+              <title type="sub">S. Morgenstern’s Classic Tale of True Love and High 
+                Adventure</title>
               <author>
                 <persName ref="a:goldman.w"/>
               </author>
@@ -18298,8 +18487,8 @@
 
           <biblStruct xml:id="gaiman.n.goodomens">
             <monogr>
-              <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter,
-                Witch</title>
+              <title>Good Omens</title>
+              <title type="sub">The Nice and Accurate Prophecies of Agnes Nutter, Witch</title>
               <author>
                 <persName ref="a:gaiman.n"/>
                 <persName ref="a:pratchet.t"/>
@@ -18434,7 +18623,8 @@
 
           <biblStruct xml:id="north.r.tobeornottobe">
             <monogr>
-              <title>To Be or Not To Be: A Chooseable-Path Adventure</title>
+              <title>To Be or Not To Be</title>
+              <title type="sub">A Chooseable-Path Adventure</title>
               <author>
                 <persName ref="a:north.r"/>
               </author>
@@ -18516,7 +18706,8 @@
 
           <biblStruct xml:id="november.s.firebirds">
             <monogr>
-              <title>Firebirds: An Anthology of Original Fantasy and Science Fiction</title>
+              <title>Firebirds</title>
+              <title type="sub">An Anthology of Original Fantasy and Science Fiction</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
                 <resp relation="author of introduction, etc."/>

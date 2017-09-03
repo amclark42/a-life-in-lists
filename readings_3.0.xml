@@ -30,7 +30,20 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-08-19">
+        <event from="2017-09-02">
+          <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.12">Pretty Guardian Sailor Moon
+            Vol. 11</ref>.</p>
+        </event>
+        <event from="2017-08-31">
+          <p>Read <ref target="b:pratchet.t.longmars">The Long Mars</ref>.</p>
+        </event>
+        <event when="2017-08-26">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.8">What Did You Eat Yesterday? Vol. 8</ref>.</p>
+        </event>
+        <event from="2017-08-22" to="2017-08-30">
+          <p>Read <ref target="b:slonczews.j.doorocean">A Door Into Ocean</ref>.</p>
+        </event>
+        <event from="2017-08-19" to="2017-08-22">
           <p>Read <ref target="b:mcguire.s.chimesmidnight">Chimes at Midnight</ref>.</p>
         </event>
         <event from="2017-08-15" to="2017-08-17">

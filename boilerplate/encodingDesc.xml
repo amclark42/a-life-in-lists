@@ -29,6 +29,9 @@
       <category xml:id="tag.nonfiction">
         <catDesc>nonfiction</catDesc>
       </category>
+      <category xml:id="tag.omnibus">
+        <catDesc>omnibus, collection of clearly-delineated works</catDesc>
+      </category>
       <category xml:id="tag.outofprint">
         <catDesc>out of print</catDesc>
       </category>
