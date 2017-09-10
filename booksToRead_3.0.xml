@@ -20,7 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change when="2017-09-03">Added personography references to the authors already represented in 
+        <change when="2017-09-03">Added personography references to the authors already represented in
           <ptr target="authors_3.0.xml"/>.</change>
         <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-02-04">Added list heading.</change>
@@ -242,11 +242,6 @@
         </bibl>
         <bibl>
           <author ref="a:bear.e">Bear, Elizabeth</author>.
-          <title>All the Windwracked Stars</title>.
-          <date type="added" when="2017-07-29"/>
-        </bibl>
-        <bibl>
-          <author ref="a:bear.e">Bear, Elizabeth</author>.
           <title>Karen Memory</title>.
           <date type="added" when="2016-10-01"/>
         </bibl>
@@ -400,7 +395,7 @@
           <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
-          <author ref="carr.c">Carr, Caleb</author>.
+          <author ref="a:carr.c">Carr, Caleb</author>.
           <title>Angel of Darkness</title>.
         </bibl>
         <bibl>
@@ -410,7 +405,7 @@
           <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
-          <author ref="carter.a">Carter, Angela</author>.
+          <author ref="a:carter.a">Carter, Angela</author>.
           <title>Nights at the Circus</title>.
         </bibl>
         <bibl>
@@ -818,7 +813,7 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
-          <author ref="gaiman.n">Gaiman, Neil</author> and
+          <author ref="a:gaiman.n">Gaiman, Neil</author> and
           <author>Michael Reaves</author>.
           <title>Interworld</title>.
         </bibl>
@@ -1051,7 +1046,7 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author ref="jemisin.nk">Jemisin, N.K.</author>
+          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Fifth Season</title>.
           <series><title>The Broken Earth</title></series>
         </bibl>
@@ -1521,7 +1516,7 @@
           <title>Beasts</title>.
         </bibl>
         <bibl>
-          <author ref="okorafor.n">Okorafor, Nnedi</author>.
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Zahrah the Windseeker</title>.
           <date type="added" when="2016-06-05"/>
         </bibl>
@@ -1596,7 +1591,7 @@
           <title>The Chosen</title>.
         </bibl>
         <bibl>
-          <author ref="robinson.ks">Robinson, Kim Stanley</author>.
+          <author ref="a:robinson.ks">Robinson, Kim Stanley</author>.
           <title>Icehenge</title>.
           <date type="added" when="2017-06-29"/>
         </bibl>
@@ -1625,13 +1620,7 @@
           <title>Dodger</title>.
         </bibl>
         <bibl>
-          <author ref="a:pratchet.t">Pratchett, Terry</author> and
-          <author ref="a:baxter.s">Stephen Baxter</author>.
-          <title>The Long Mars</title>.
-          <series><title>The Long Earth</title></series>
-        </bibl>
-        <bibl>
-          <author ref="priest.c">Priest, Cherie</author>.
+          <author ref="a:priest.c">Priest, Cherie</author>.
           <title>Chapelwood</title>.
           <series><title>The Borden Dispatches</title></series>
           <date type="added" when="2016-11-06"/>
@@ -1649,6 +1638,13 @@
           <author>Quinn, Kate</author>.
           <title>The Alice Network</title>.
           <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
+          <author>Quinn, Zoe</author>.
+          <title>Crash Override</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-09-08"/>
         </bibl>
         <bibl>
           <author>Roach, Mary</author>.
@@ -1948,7 +1944,7 @@
           <title>Sacred Hunger</title>.
         </bibl>
         <bibl>
-          <author ref="valente.cm">Valente, Catherynne M.</author> and
+          <author ref="a:valente.cm">Valente, Catherynne M.</author> and
           <respStmt>
             <resp relation="artist"/>
             <persName>Ana Juan</persName>

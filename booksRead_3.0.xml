@@ -80,33 +80,6 @@
             </monogr>
           </biblStruct>
           
-          <biblStruct xml:id="demson.m.masksanarchy">
-            <monogr>
-              <title>Marks of Anarchy</title>
-              <title type="sub">The History of a Radical Poem,
-                from Percy Shelley to the Triangle Factory Fire</title>
-              <author>
-                <persName ref="a:demson.m"/>
-              </author>
-              <respStmt>
-                <resp relation="artist"/>
-                <persName ref="a:mcclinton.s"/>
-              </respStmt>
-              <respStmt>
-                <resp relation="author of introduction, etc."/>
-                <persName ref="a:buhle.p"/>
-              </respStmt>
-              <imprint>
-                <catRef target="#tag.comics"/>
-                <catRef target="#tag.nonfiction"/>
-                <date type="copyright" when="2013"/>
-                <publisher>
-                  <orgName>Verso</orgName>
-                </publisher>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          
           <biblStruct xml:id="constanti.s.wraeththu">
             <analytic>
               <title>The Enchantments of Flesh and Spirit</title>
@@ -127,6 +100,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.queer"/>
                 <date type="added" when-custom="ash:bachelor"/>
                 <date type="first-edition" when="1993-11"/>
                 <publisher>

@@ -30,11 +30,20 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2017-09-07">
+          <p>Read <ref target="b:constanti.s.wraeththu">Wraeththu</ref>.</p>
+        </event>
+        <event from="2017-09-04" to="2017-09-07">
+          <p>Read <ref target="b:bear.e.windwrackedstars">All the Windwracked Stars</ref>.</p>
+        </event>
+        <event when="2017-09-04">
+          <p>Read <ref target="b:ríos.e.id">I.D.</ref>.</p>
+        </event>
         <event from="2017-09-02">
           <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.12">Pretty Guardian Sailor Moon
             Vol. 11</ref>.</p>
         </event>
-        <event from="2017-08-31">
+        <event from="2017-08-31" to="2017-09-04">
           <p>Read <ref target="b:pratchet.t.longmars">The Long Mars</ref>.</p>
         </event>
         <event when="2017-08-26">
