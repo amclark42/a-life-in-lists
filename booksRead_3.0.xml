@@ -21,8 +21,8 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change when="2017-08-26">Added "omnibus" tag. Split some titles so they 
-          have subtitles; mostly this happens when part of the title is a genre 
+        <change when="2017-08-26">Added "omnibus" tag. Split some titles so they
+          have subtitles; mostly this happens when part of the title is a genre
           label, rather than something necessary for disambiguation or for context.</change>
         <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-03-11">Started adding <att>from-custom</att> on "owned"
@@ -480,6 +480,7 @@
                 <persName ref="a:hulme.k"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2017-06-29"/>
                 <date type="copyright" when="1983"/>
                 <date type="updated-us-edition" when="2005"/>
@@ -17100,7 +17101,7 @@
             xml:id="north.r.thisishowyoudie">
             <monogr>
               <title>This is How You Die</title>
-              <title type="sub">Stories of the Inscrutable, Infallible, Inescapable 
+              <title type="sub">Stories of the Inscrutable, Infallible, Inescapable
                 Machine of Death</title>
               <respStmt>
                 <resp relation="editor of compilation"/>
@@ -18422,7 +18423,7 @@
           <biblStruct xml:id="goldman.w.princessbride">
             <monogr>
               <title>The Princess Bride</title>
-              <title type="sub">S. Morgenstern’s Classic Tale of True Love and High 
+              <title type="sub">S. Morgenstern’s Classic Tale of True Love and High
                 Adventure</title>
               <author>
                 <persName ref="a:goldman.w"/>
