@@ -20,8 +20,10 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change when="2017-09-03">Added personography references to the authors already represented in
-          <ptr target="authors_3.0.xml"/>.</change>
+        <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code>
+          to <att>n</att>.</change>
+        <change when="2017-09-03">Added personography references to the authors already
+          represented in <ptr target="authors_3.0.xml"/>.</change>
         <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-12-11">Added <gi>series</gi> to most books that needed them.</change>
@@ -211,7 +213,7 @@
         <bibl>
           <author>Barker, Meg-John</author> and
           <respStmt>
-            <resp relation="artist"/>
+            <resp n="artist"/>
             <persName>Julia Scheele</persName>
           </respStmt>.
           <title>Queer: A Graphic History</title>.
@@ -361,10 +363,8 @@
         <bibl>
           <author>Bujold, Lois McMaster</author>.
           <title>The Warrior’s Apprentice</title>.
+          <series><title>Vorkosigan Saga</title></series>
           <date type="added" when="2017-06-29"/>
-          <series>
-            <title>Vorkosigan Saga</title>
-          </series>
         </bibl>
         <bibl>
           <author ref="a:butler.oe">Butler, Octavia</author>.
@@ -468,7 +468,7 @@
         <bibl>
           <author>Cixin, Liu</author>.
           <respStmt>
-            <resp relation="translator"/>
+            <resp n="translator"/>
             <persName>Ken Liu</persName>
           </respStmt>.
           <title>The Three-Body Problem</title>.
@@ -514,6 +514,7 @@
           <title>The Wraiths of Will and Pleasure</title>.
           <series><title>Wraeththu</title></series>
           <series><title>Wraeththu Histories</title></series>
+          <date type="added" when="2017-09-28"/>
         </bibl>
         <bibl>
           <author>Croggon, Alison</author>.
@@ -862,7 +863,14 @@
         <bibl>
           <author ref="a:griffith.n">Griffith, Nicola</author>.
           <title>Always</title>.
+          <series><title>Aud Torvingen</title></series>
           <date type="added" when="2017-07-29"/>
+        </bibl>
+        <bibl>
+          <author ref="a:griffith.n">Griffith, Nicola</author>.
+          <title>The Blue Place</title>.
+          <series><title>Aud Torvingen</title></series>
+          <date type="added" when="2017-10-07"/>
         </bibl>
         <bibl>
           <author ref="a:griffith.n">Griffith, Nicola</author>.
@@ -875,7 +883,7 @@
         <bibl>
           <author>Gorodischer, Angelica</author>.
           <respStmt>
-            <resp relation="translator"/>
+            <resp n="translator"/>
             <persName ref="a:kleguin.u">Ursula K. Le Guin</persName>
           </respStmt>
           <title>Kalpa Imperial</title>.
@@ -1571,6 +1579,19 @@
           <series><title>Gormenghast</title></series>
         </bibl>
         <bibl>
+          <author>Pennac, Daniel</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Sarah Adams</persName>
+          </respStmt>
+          <respStmt>
+            <resp n="illustrator"/>
+            <persName ref="a:blake.q">Quentin Blake</persName>
+          </respStmt>
+          <title>The Rights of the Reader</title>.
+          <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
           <author>Philbrick, Rodman</author>.
           <title>Dark Matter</title>.
         </bibl>
@@ -1954,7 +1975,7 @@
         <bibl>
           <author ref="a:valente.cm">Valente, Catherynne M.</author> and
           <respStmt>
-            <resp relation="artist"/>
+            <resp n="artist"/>
             <persName>Ana Juan</persName>
           </respStmt>.
           <title>The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making</title>.

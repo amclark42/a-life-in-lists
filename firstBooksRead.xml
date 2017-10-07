@@ -477,8 +477,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Barry, Lynda</persName>
                </respStmt>
                <title>Cruddy</title>
@@ -540,7 +540,7 @@
                   <persName>Bellairs, John</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Edward Gorey</persName>
                </respStmt>
                <title>The Mummy, the Will, and the Crypt</title>
@@ -554,7 +554,7 @@
                   <persName>Bellairs, John</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Edward Gorey</persName>
                </respStmt>
                <title>The Eyes of the Killer Robot</title>
@@ -568,7 +568,7 @@
                   <persName>Bellairs, John</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Edward Gorey</persName>
                </respStmt>
                <title>The House with a Clock in Its Walls</title>
@@ -583,7 +583,7 @@
                   <persName>Bellairs, John</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Mercer Mayer</persName>
                </respStmt>
                <title>The Figure in the Shadows</title>
@@ -598,7 +598,7 @@
                   <persName>Bellairs, John</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Richard Egielski</persName>
                </respStmt>
                <title>The Letter, the Witch, and the Ring</title>
@@ -614,7 +614,7 @@
                   <persName>Brad Strickland</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Edward Gorey</persName>
                </respStmt>
                <title>The Ghost in the Mirror</title>
@@ -689,7 +689,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Blume, Judy</persName>
                </respStmt>
                <title>Places I Never Meant to Be: Original Stories by Censored Writers</title>
@@ -876,8 +876,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Briggs, Raymond</persName>
                </respStmt>
                <title>The Snowman</title>
@@ -932,7 +932,7 @@
                   <persName>Brown, Margaret Wise</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Clement Hurd</persName>
                </respStmt>
                <title>Goodnight Moon</title>
@@ -1220,8 +1220,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Clowes, Daniel</persName>
                </respStmt>
                <title>Ghost World</title>
@@ -1883,12 +1883,12 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
-                  <resp relation="contributor"/>
+                  <resp n="editor of compilation"/>
+                  <resp n="contributor"/>
                   <persName>Duncan, Lois</persName>
                </respStmt>
                <respStmt>
-                  <resp relation="contributor"/>
+                  <resp n="contributor"/>
                   <persName>Apollo</persName>
                   <persName>Joan Bauer</persName>
                   <persName>Francesca Lia Block</persName>
@@ -2895,7 +2895,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Hirsch, Karen</persName>
                </respStmt>
                <title>Mind Riot: Coming of Age in Comix</title>
@@ -2993,8 +2993,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Horrocks, Dylan</persName>
                </respStmt>
                <title>Hicksville</title>
@@ -3094,8 +3094,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Jacobus, Tim</persName>
                </respStmt>
                <title>It Came from New Jersey!: My Life as an Artist</title>
@@ -3368,7 +3368,7 @@
                   <persName>Juster, Norton</persName>
                </author>
                <respStmt>
-                  <resp relation="illustrator"/>
+                  <resp n="illustrator"/>
                   <persName>Jule Feiffer</persName>
                </respStmt>
                <title>The Phantom Tollbooth</title>
@@ -3481,7 +3481,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Kibuishi, Kazu</persName>
                </respStmt>
                <title>Flight Vol. 1</title>
@@ -3494,7 +3494,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Kibuishi, Kazu</persName>
                </respStmt>
                <title>Flight Vol. 2</title>
@@ -4719,7 +4719,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>November, Sharyn</persName>
                </respStmt>
                <title>Firebirds</title>
@@ -4732,7 +4732,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>November, Sharyn</persName>
                </respStmt>
                <title>Firebirds Rising</title>
@@ -4744,11 +4744,11 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Noyes, Deborah</persName>
                </respStmt>
                <respStmt>
-                  <resp relation="contributor"/>
+                  <resp n="contributor"/>
                   <persName>Gregory Maguire</persName>
                   <persName>Garth Nix</persName>
                   <persName>Celia Rees</persName>
@@ -5183,8 +5183,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Pilkey, Dav</persName>
                </respStmt>
                <title>The Adventures of Captain Underpants</title>
@@ -5196,8 +5196,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Pilkey, Dav</persName>
                </respStmt>
                <title>Captain Underpants and the Attack of the Talking Toilets</title>
@@ -5209,8 +5209,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Pilkey, Dav</persName>
                </respStmt>
                <title>Captain Underpants and the Invasion of the Incredibly Naughty 
@@ -5223,8 +5223,8 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="author"/>
-                  <resp relation="artist"/>
+                  <resp n="author"/>
+                  <resp n="artist"/>
                   <persName>Pilkey, Dav</persName>
                </respStmt>
                <title>Captain Underpants and the Perilous Plot of Professor Poopypants</title>
@@ -6346,7 +6346,7 @@
 
             <bibl>
                <respStmt>
-                  <resp relation="editor of compilation"/>
+                  <resp n="editor of compilation"/>
                   <persName>Stearns, Michael</persName>
                </respStmt>
                <title>The Wizard’s Dozen</title>
@@ -6688,12 +6688,12 @@
                   <persName>Charles Dixon</persName>
                </author>
                <respStmt>
-                  <resp relation="adapter"/>
+                  <resp n="adapter"/>
                   <persName>Chuck Dixon</persName>
                   <persName>Sean Deming</persName>
                </respStmt>
                <respStmt>
-                  <resp relation="artist"/>
+                  <resp n="artist"/>
                   <persName>David Wenzel</persName>
                </respStmt>
                <title>The Hobbit: Or There and Back Again</title>
