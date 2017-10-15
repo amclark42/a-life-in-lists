@@ -30,7 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-10-07">
+        <event from="2017-10-14" to="2017-10-15">
+          <p>Read <ref target="b:busiek.k.astrocity.privatelives">Astro City: Private Lives</ref>.</p>
+        </event>
+        <event when="2017-10-09">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.9">What Did You Eat Yesterday? Vol. 9</ref>.</p>
+        </event>
+        <event from="2017-10-08">
+          <p>Read <ref target="b:griffith.n.always">Always</ref>.</p>
+        </event>
+        <event from="2017-10-07" to="2017-10-08">
+          <p>Read <ref target="b:flor.m.secretsoflettering">The Golden Secrets of Lettering</ref>.</p>
+        </event>
+        <event when="2017-10-07">
           <p>Read <ref target="b:kabi.n.lesbianexperienceloneliness">My Lesbian Experience with
             Loneliness</ref>.</p>
         </event>
