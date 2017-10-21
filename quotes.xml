@@ -45,6 +45,34 @@
         
         <item>
           <quote>
+            <p><said>Politicians are like con men,</said> my mother said. <said>They persuade
+              themselves to believe ridiculous things, and then pursue them in all sincerity.
+              <gap extent="one sentence" reason="omitted"/> Which is why powerful people need
+              people they love by them, to say the unwelcome thing, to help them believe what
+              is right.</said></p>
+          </quote>
+          <bibl>
+            <author>Nicola Griffith</author>,
+            <title>Always</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <p>Queer doesn’t mean <q>don’t label me,</q> it means <q>I am naming myself.</q>
+              It means <q>ask me more questions if you curious</q> and in the same breath
+              means <q>fuck off.</q></p>
+          </quote>
+          <bibl>
+            <author>Asher</author>,
+            <title rend="quoted">What Queerness Means To Me</title>.
+            <title>Transarchism</title>
+            <ptr target="http://www.tranarchism.com/2011/07/07/what-queerness-means-to-me/"/>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
             <p>When you’re historically the one with the power relative to another, if you
               really want to correct the imbalance, you have to be willing to hear pent-up
               rage and not retaliate. You have to be willing to acknowledge your actions that

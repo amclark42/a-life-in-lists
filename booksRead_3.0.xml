@@ -21,7 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
-        <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code> 
+        <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code>
           to <att>n</att>.</change>
         <change when="2017-08-26">Added "omnibus" tag. Split some titles so they
           have subtitles; mostly this happens when part of the title is a genre
@@ -105,7 +105,7 @@
           <biblStruct xml:id="esquivel.l.waterforchocolate">
             <monogr>
               <title>Like Water for Chocolate</title>
-              <title type="sub">A Novel in Monthly Installments, with Recipes, Romances, and Home 
+              <title type="sub">A Novel in Monthly Installments, with Recipes, Romances, and Home
                 Remedies</title>
               <title type="alt" xml:lang="es">Como Agua para Chocolate</title>
               <author>
@@ -153,6 +153,8 @@
                 <persName ref="a:griffith.n"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2017-05-14"/>
                 <date type="copyright" when="2007"/>
                 <publisher>
                   <orgName>Riverhead Books</orgName>
