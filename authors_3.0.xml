@@ -41,6 +41,170 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="gillman.m">
+          <persName>
+            <forename>Melanie</forename>
+            <surname>Gillman</surname>
+          </persName>
+          <gender value="non-binary" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="handwerker.km">
+          <persName>
+            <forename>Kori Michele</forename>
+            <surname>Handwerker</surname>
+          </persName>
+          <gender value="non-binary" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="chen.k">
+          <persName>
+            <forename>Kou</forename>
+            <surname>Chen</surname>
+          </persName>
+          <gender value="genderqueer" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="costa.m">
+          <persName>
+            <forename>Mari</forename>
+            <surname>Costa</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="donovan.n">
+          <persName>
+            <forename>Natasha</forename>
+            <surname>Donovan</surname>
+          </persName>
+          <gender value="female" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="jobateh.g">
+          <persName>
+            <forename>Gisele</forename>
+            <surname>Jobateh</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="kirchner.m">
+          <persName>
+            <forename>Margaret</forename>
+            <surname>Kirchner</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="bellaire.j">
+          <persName>
+            <forename>Jordie</forename>
+            <surname>Bellaire</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="krieger.h">
+          <persName>
+            <forename>Hannah</forename>
+            <surname>Krieger</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lee.f">
+          <persName>
+            <forename>F.</forename>
+            <surname>Lee</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="louis.m">
+          <persName>
+            <forename>Mildred</forename>
+            <surname>Louis</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="oneill.k">
+          <persName>
+            <forename>Katie</forename>
+            <surname>O’Neill</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="onorato.a">
+          <persName>
+            <forename>Amelia</forename>
+            <surname>Onorato</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="pandya.a">
+          <persName>
+            <forename>Aatmaja</forename>
+            <surname>Pandya</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="pavlov.f">
+          <persName>
+            <forename>Fyodor</forename>
+            <surname>Pavlov</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="prager.b">
+          <persName>
+            <forename>Bitmap</forename>
+            <surname>Prager</surname>
+          </persName>
+          <gender value="trans female" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="rose.e">
+          <persName>
+            <forename>Ezra</forename>
+            <surname>Rose</surname>
+          </persName>
+          <gender value="non-binary" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="som.bk">
+          <persName>
+            <forename>Bishakh K.</forename>
+            <surname>Sabo</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="varian.l">
+          <persName>
+            <forename>Laurel</forename>
+            <surname>Varian</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="verhoeven.m">
+          <persName>
+            <forename>Mary</forename>
+            <surname>Verhoeven</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="webb.cb">
+          <persName>
+            <forename>CB</forename>
+            <surname>Webb</surname>
+          </persName>
+        </person>
+        
+        
         <person xml:id="miller.j">
           <persName>
             <forename>Jennifer</forename>

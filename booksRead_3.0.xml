@@ -64,6 +64,129 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="gillman.m.otherside">
+            <monogr>
+              <title>The Other Side</title>
+              <title type="sub">An Anthology of Queer Paranormal Romance</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:gillman.m"/>
+                <persName ref="a:handwerker.km"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:chen.k"/>
+                <persName ref="a:costa.m"/>
+                <persName ref="a:donovan.n"/>
+                <persName ref="a:jobateh.g"/>
+                <persName ref="a:kirchner.m"/>
+                <persName ref="a:krieger.h"/>
+                <persName ref="a:lee.f"/>
+                <persName ref="a:leth.k"/>
+                <persName ref="a:louis.m"/>
+                <persName ref="a:monster.sr"/>
+                <persName ref="a:oneill.k"/>
+                <persName ref="a:onorato.a"/>
+                <persName ref="a:pandya.a"/>
+                <persName ref="a:pavlov.f"/>
+                <persName ref="a:prager.b"/>
+                <persName ref="a:rose.e"/>
+                <persName ref="a:sabo.b"/>
+                <persName ref="a:searle.sw"/>
+                <persName ref="a:som.bk"/>
+                <persName ref="a:varian.l"/>
+                <persName ref="a:verhoeven.m"/>
+                <persName ref="a:webb.cb"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-10-22"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Other Side Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+          <biblStruct xml:id="hicks.fe.stoneheart">
+            <monogr>
+              <title>The Stone Heart</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:hicks.fe"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:bellaire.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-10-22"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Nameless City</title>
+            </series>
+          </biblStruct>
+
+          <biblStruct
+            xml:id="willis.d.dumbingage.6machinationsrevenge">
+            <monogr>
+              <title>Dumbing of Age Vol. 6: The Machinations of My Revenge Will Be Cold, Swift,
+                and Absolutely Ridiculous</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-10-28"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2017-04-26"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+
+          <biblStruct
+            xml:id="willis.d.dumbingage.4amazigirlprepared">
+            <monogr>
+              <title>Dumbing of Age Vol. 4: Amazi-Girl Is Always Prepared for Anything</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2015-11"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2015-05-06"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="miller.j.yeargadfly">
             <monogr>
               <title>The Year of the Gadfly</title>
@@ -12969,7 +13092,9 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstart" when="2012-06-02"/>
-                <publisher/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
               </imprint>
             </monogr>
             <series>
