@@ -64,6 +64,31 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="smith.j.bone">
+            <monogr>
+              <title>BONE</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:smith.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <date type="copyright" when="2004"/>
+                <date type="first-publication" from="1991" to="2004"/>
+                <date type="first-read" when-custom="ash:youngadult"/>
+                <publisher>
+                  <orgName>Cartoon Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>BONE</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="gillman.m.otherside">
             <monogr>
               <title>The Other Side</title>

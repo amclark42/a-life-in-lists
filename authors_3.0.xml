@@ -41,6 +41,14 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="smith.j">
+          <persName>
+            <forename>Jeff</forename>
+            <surname>Smith</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="gillman.m">
           <persName>
             <forename>Melanie</forename>

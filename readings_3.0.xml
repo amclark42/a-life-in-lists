@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-10-28">
+        <event from="2017-11-02">
+          <p>Reread <ref target="b:smith.j.bone">BONE</ref>.</p>
+        </event>
+        <event from="2017-10-31" to="2017-11-02">
+          <p>Read <ref target="b:gillman.m.otherside">The Other Side</ref>.</p>
+        </event>
+        <event from="2017-10-29" to="2017-10-30">
+          <p>Read <ref target="b:hicks.fe.stoneheart">The Stone Heart</ref>.</p>
+        </event>
+        <event from="2017-10-28" to="2017-10-29">
           <p>Read <ref target="b:levangie.g.sevendeadlies">Seven Deadlies</ref>.</p>
         </event>
         <event from="2017-10-19" to="2017-10-28">
