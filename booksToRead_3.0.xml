@@ -1201,7 +1201,7 @@
           <date type="added" when="2016-07-09"/>
         </bibl>
         <bibl>
-          <author ref="a:kleguin.u">Le Guin, Ursula K.</author>
+          <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
           <title>Lavinia</title>.
           <date type="added" when="2016-07-09"/>
         </bibl>
@@ -1840,7 +1840,7 @@
           <title>White Teeth</title>.
         </bibl>
         <bibl>
-          <author ref="a:snyder.m">Snyder, Maria V.</author>
+          <author  ref="a:snyder.m">Snyder, Maria V.</author>
           <title>Shadow Study</title>.
           <series><title>Soulfinders</title></series>
           <series><title>Study</title></series>

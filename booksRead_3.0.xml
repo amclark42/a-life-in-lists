@@ -64,6 +64,158 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="woolf.v.orlando">
+            <monogr>
+              <title>Orlando</title>
+              <title type="sub">A Biography</title>
+              <author>
+                <persName ref="a:woolf.v"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:bachelor"/>
+                <date type="copyright" when="1928"/>
+                <publisher>
+                  <orgName>Harcourt, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="delany.sr.dhalgren">
+            <monogr>
+              <title>Dhalgren</title>
+              <author>
+                <persName ref="a:delany.sr"/>
+              </author>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:gibson.w"/>
+              </respStmt>
+              <imprint>
+                <date type="added" when-custom="ash:master"/>
+                <date type="copyright" when="1974"/>
+                <date type="edition" when="2001-05"/>
+                <publisher>
+                  <orgName>Vintage Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="coates.tn.betweenworldme">
+            <monogr>
+              <title>Between the World and Me</title>
+              <author>
+                <persName ref="a:coates.tn"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2016-10-01"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Spiegel &amp; Grau</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="yun.mk.bridewatergod.1">
+            <monogr>
+              <title>Bride of the Water God Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yun.mk"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:haas.h"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <persName ref="a:simon.p"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:grossberg.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2007"/>
+                <publisher>
+                  <orgName>Dark Horse Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Bride of the Water God</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.10">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 10</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2016"/>
+                <date type="first-publication" when="2015"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="pérez.g.wwbypérez.1">
+            <monogr>
+              <title>Wonder Woman by George Pérez</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <resp n="inker"/>
+                <persName ref="a:pérez.g"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author"/>
+                <persName ref="a:wein.l"/>
+                <persName ref="a:potter.g"/>
+              </respStmt>
+              <respStmt>
+                <resp n="inker"/>
+                <persName ref="a:patterson.b"/>
+                <persName ref="a:smith.b"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.omnibus"/>
+                <date type="copyright" when="2016"/>
+                <date type="first-published" from="1985" to="2004"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wonder Woman</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="smith.j.bone">
             <monogr>
               <title>BONE</title>
