@@ -30,7 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-11-12">
+        <event from="2017-11-17">
+          <p>Read <ref target="b:woolf.v.orlando">Orlando</ref>.</p>
+        </event>
+        <event when="2017-11-17">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.10">What Did You Eat Yesterday? Vol. 10</ref>.</p>
+        </event>
+        <event when="2017-11-16">
+          <p>Reread <ref target="b:mcneil.cs.finder.talisman">Finder: Talisman</ref>.</p>
+        </event>
+        <event when="2017-11-13">
+          <p>Read <ref target="b:yun.mk.bridewatergod.1">Bride of the Water God Vol. 1</ref>.</p>
+        </event>
+        <event from="2017-11-12" to="2017-11-17">
           <p>Read <ref target="b:coates.tn.betweenworldme">Between the World and Me</ref>.</p>
         </event>
         <event from="2017-11-02" to="2017-11-10">

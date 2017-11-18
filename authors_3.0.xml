@@ -41,6 +41,30 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="quinn.z">
+          <persName>
+            <forename>Zoë</forename>
+            <surname>Quinn</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="soma.t">
+          <persName>
+            <forename>Taki</forename>
+            <surname>Soma</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="fitzpatrick.k">
+          <persName>
+            <forename>Kelly</forename>
+            <surname>Fitzpatrick</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="delany.sr">
           <persName>
             <forename>Samuel R.</forename>

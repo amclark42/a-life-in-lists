@@ -64,6 +64,88 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="quinn.z.crashoverride">
+            <monogr>
+              <title>Crash Override</title>
+              <title type="sub">How Gamergate (Nearly) Destroyed My Life, and How We Can Win the 
+                Fight Against Online Hate</title>
+              <author>
+                <persName ref="a:quinn.z"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2017-11-17"/>
+                <date type="added" when="2017-09-08"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Hatchette Book Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+          <biblStruct xml:id="mcguire.s.sticksbones">
+            <monogr>
+              <title>Down Among The Sticks and Bones</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-11-17"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2016-12-11"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
+          </biblStruct>
+
+          <biblStruct
+            xml:id="deconnic.ks.bitchplanet.2.presbitch">
+            <monogr>
+              <title>Bitch Planet Book Two: President Bitch</title>
+              <author>
+                <persName ref="a:deconnic.ks"/>
+                <persName ref="a:delandro.v"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:delandro.v"/>
+                <persName ref="a:soma.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:fitzpatrick.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="book designer"/>
+                <persName ref="a:hughes.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-11-17"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Bitch Planet</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="woolf.v.orlando">
             <monogr>
               <title>Orlando</title>

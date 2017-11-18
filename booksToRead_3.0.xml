@@ -498,11 +498,10 @@
           <title>Mousetrap</title>.
         </bibl>
         <bibl>
-          <author>Coates, Ta-Nehisi</author>.
-          <title>Between the World and Me</title>.
-          <trait ref="#tag.memoir"/>
+          <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
+          <title>We Were Eight Years in Power</title>.
           <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2016-10-01"/>
+          <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
           <author ref="a:constanti.s">Constantine, Storm</author>.
