@@ -1053,6 +1053,10 @@
           <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
+          <author ref="a:johnson.ad">Johnson, Alaya Dawn</author>.
+          <title>The Summer Prince</title>.
+        </bibl>
+        <bibl>
           <author>Jordan, Robert</author>.
           <title>The Eye of the World</title>.
           <series><title>Wheel of Time</title></series>
@@ -1328,12 +1332,6 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>The Winter Long</title>.
           <series><title>October Daye</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>Down Among the Sticks and Bones</title>.
-          <date type="added" when="2016-12-11"/>
-          <series><title>Wayward Children</title></series>
         </bibl>
         <bibl>
           <author ref="a:mchugh.mf">McHugh, Maureen</author>.
@@ -1762,6 +1760,12 @@
           <author>Schroeder, Karl</author>.
           <title>Lady of Mazes</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Schulman, Sarah</author>.
+          <title>Conflict is not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
           <author ref="a:scott.m">Scott, Melissa</author> and

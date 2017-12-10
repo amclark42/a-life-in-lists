@@ -64,6 +64,115 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="mcguire.s.winterlong">
+            <monogr>
+              <title>The Winter Long</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-12-05"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Daw Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="leckie.a.ancillaryjustice">
+            <monogr>
+              <title>Ancillary Justice</title>
+              <author>
+                <persName ref="a:leckie.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-12-05"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Imperial Radch</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="jemisin.nk.fifthseason">
+            <monogr>
+              <title>The Fifth Season</title>
+              <author>
+                <persName ref="a:jemisin.nk"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2017-12-05"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Broken Earth</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="tung.d.quietgirlnoisyworld">
+            <monogr>
+              <title>Quiet Girl in a Noisy World: An Introvert’s Story</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:tung.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2017-12-02"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Andrews McMeel Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="okorafor.n.binti">
+            <monogr>
+              <title>Binti</title>
+              <author>
+                <persName ref="a:okorafor.n"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+          <biblStruct xml:id="mcguire.s.sugarsky">
+            <monogr>
+              <title>Beneath the Sugar Sky</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="quinn.z.crashoverride">
             <monogr>
               <title>Crash Override</title>
@@ -87,7 +196,7 @@
 
           <biblStruct xml:id="mcguire.s.sticksbones">
             <monogr>
-              <title>Down Among The Sticks and Bones</title>
+              <title>Down Among the Sticks and Bones</title>
               <author>
                 <persName ref="a:mcguire.s"/>
               </author>

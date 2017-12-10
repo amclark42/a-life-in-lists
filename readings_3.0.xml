@@ -30,7 +30,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2017-11-17">
+        <event when="2017-12-02">
+          <p>Read <ref target="b:tung.d.quietgirlnoisyworld">Quiet Girl in a Noisy World</ref>.</p>
+        </event>
+        <event from="2017-12-02">
+          <p>Read <ref target="b:delany.sr.dhalgren">Dhalgren</ref>.</p>
+        </event>
+        <event when="2017-12-01">
+          <p>Read <ref target="b:okorafor.n.binti">Binti</ref>.</p>
+        </event>
+        <event when="2017-11-27">
+          <p>Read advance copy of <ref target="b:mcguire.s.sugarsky">Beneath the Sugar Sky</ref>.</p>
+        </event>
+        <event when="2017-11-23">
+          <p>Read <ref target="b:deconnic.ks.bitchplanet.2.presbitch">Bitch Planet Book Two: President 
+            Bitch</ref>.</p>
+        </event>
+        <event from="2017-11-22">
+          <p>Read <ref target="b:pérez.g.wwbypérez.1">Wonder Woman by George Pérez</ref>.</p>
+        </event>
+        <event when="2017-11-19">
+          <p>Read <ref target="b:mcguire.s.sticksbones">Down Among the Sticks and Bones</ref>.</p>
+        </event>
+        <event from="2017-11-17" to="2017-12-01">
           <p>Read <ref target="b:woolf.v.orlando">Orlando</ref>.</p>
         </event>
         <event when="2017-11-17">
