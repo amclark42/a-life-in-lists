@@ -1472,6 +1472,12 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Norman, Don</author>.
+          <title>The Design of Everyday Things</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-12-29"/>
+        </bibl>
+        <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Empire of Ivory</title>.
           <series><title>Temeraire</title></series>
@@ -1822,6 +1828,12 @@
           <author>Shiga, Jason</author>.
           <title>Bookhunter</title>.
           <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Shilts, Randy</author>.
+          <title>And the Band Played On: Politics, People, and the AIDS Epidemic</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2017-12-20"/>
         </bibl>
         <bibl>
           <author>Shinn, Sharon</author>.

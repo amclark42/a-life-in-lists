@@ -64,6 +64,24 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="dowriche.a.frenchhistorie">
+            <monogr>
+              <title>The French Historie</title>
+              <ref target="http://www.wwp.northeastern.edu/texts/dowriche.french.html"/>
+              <author>
+                <persName ref="a:dowriche.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="publication" when="2001-10-11"/>
+                <date type="first-publication" when="1589"/>
+                <publisher>
+                  <orgName>Women Writers Project</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="mcguire.s.winterlong">
             <monogr>
               <title>The Winter Long</title>

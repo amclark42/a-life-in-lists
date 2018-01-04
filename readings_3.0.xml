@@ -30,10 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-01-01">
+          <p>Read <ref target="b:mcguire.s.winterlong">The Winter Long</ref>.</p>
+        </event>
+        <event from="2017-12-31">
+          <p>Read <ref target="b:leckie.a.ancillaryjustice">Ancillary Justice</ref>.</p>
+        </event>
+        <event from="2017-12-22" to="2017-12-29">
+          <p>Read <ref target="b:dowriche.a.frenchhistorie">The French Historie</ref>.</p>
+        </event>
         <event when="2017-12-02">
           <p>Read <ref target="b:tung.d.quietgirlnoisyworld">Quiet Girl in a Noisy World</ref>.</p>
         </event>
-        <event from="2017-12-02">
+        <event from="2017-12-02" to="2017-12-30">
           <p>Read <ref target="b:delany.sr.dhalgren">Dhalgren</ref>.</p>
         </event>
         <event when="2017-12-01">
@@ -46,7 +55,7 @@
           <p>Read <ref target="b:deconnic.ks.bitchplanet.2.presbitch">Bitch Planet Book Two: President 
             Bitch</ref>.</p>
         </event>
-        <event from="2017-11-22">
+        <event from="2017-11-22" to="2017-12-10">
           <p>Read <ref target="b:pérez.g.wwbypérez.1">Wonder Woman by George Pérez</ref>.</p>
         </event>
         <event when="2017-11-19">
