@@ -45,6 +45,33 @@
         
         <item>
           <quote>
+            <p><said>I don’t think I can muster much sympathy for their perspective.</said></p>
+            <p><said>I don’t ask it. Only stand there a moment, and look.</said></p>
+          </quote>
+          <bibl>
+            <author>Ann Leckie</author>,
+            <title>Ancillary Justice</title>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
+            <p>For humans, stories form the bridge between data and understanding. They’re 
+              where we look when we need to contextualize something new. Or to recognize 
+              something we’re pretty sure we’ve seen before. They’re how we identify ourselves, 
+              they’re how we locate ourselves and each other in the larger world.</p>
+          </quote>
+          <bibl>
+            <author>Jay Edidin</author>,
+            <title rend="quoted">You Are Here: The Cartography of Stories</title>,
+            <series><title>TEDxHarvardCollege</title></series>
+            <date type="first-published" when="2018-01-03"/>.
+            <ptr target="https://youtu.be/7XKdWHwkDGY"/>
+          </bibl>
+        </item>
+        
+        <item>
+          <quote>
             <p><said>You amaze me. And when you do, I suspect I’m rather a smaller person for 
               having such petty notions in the first place.</said></p>
           </quote>

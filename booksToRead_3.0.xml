@@ -561,10 +561,6 @@
           <title>Babel-17</title>.
         </bibl>
         <bibl>
-          <author>Delany, Samuel R.</author>.
-          <title>Dhalgren</title>.
-        </bibl>
-        <bibl>
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Intimate Matters: A History of Sexuality in America</title>.
@@ -1188,9 +1184,16 @@
           <title>Rent</title>.
         </bibl>
         <bibl>
-          <author>Leckie, Ann</author>.
-          <title>Ancillary Justice</title>.
+          <author ref="a:leckie.a">Leckie, Ann</author>.
+          <title>Ancillary Sword</title>.
           <series><title>Imperial Radch</title></series>
+          <date type="added" when="2018-01-13"/>
+        </bibl>
+        <bibl>
+          <author ref="a:leckie.a">Leckie, Ann</author>.
+          <title>Ancillary Mercy</title>.
+          <series><title>Imperial Radch</title></series>
+          <date type="added" when="2018-01-13"/>
         </bibl>
         <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
@@ -1230,6 +1233,12 @@
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Liu, Ken</author>
+          <title>The Grace of Kings</title>
+          <series><title>The Dandelion Dynasty</title></series>
+          <date type="added" when="2018-01-13"/>
         </bibl>
         <bibl>
           <author>Long, Mark</author>,
@@ -1330,8 +1339,21 @@
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>The Winter Long</title>.
+          <title>A Red-Rose Chain</title>.
           <series><title>October Daye</title></series>
+          <date type="added" when="2018-01-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Once Broken Faith</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2018-01-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>The Brightest Fell</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2018-01-07"/>
         </bibl>
         <bibl>
           <author ref="a:mchugh.mf">McHugh, Maureen</author>.

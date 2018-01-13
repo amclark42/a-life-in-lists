@@ -64,6 +64,158 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="leckie.a.ancillarymercy">
+            <monogr>
+              <title>Ancillary Mercy</title>
+              <author>
+                <persName ref="a:leckie.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-01-11"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Imperial Radch</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="deconnic.ks.prettydeadly.2.bear">
+            <monogr>
+              <title>Pretty Deadly Vol. 2: The Bear</title>
+              <author>
+                <persName ref="a:deconnic.ks"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:ríos.e"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:bellaire.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Pretty Deadly</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="prince.l.ifiwetthebed">
+            <monogr>
+              <title>Would You Still Love Me if I Wet the Bed?</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:prince.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="first-publication" when="2005"/>
+                <publisher>
+                  <orgName>Top Shelf Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="wilson.ka">
+            <monogr>
+              <title>The Sorcerer of the Wildeeps</title>
+              <author>
+                <persName ref="a:wilson.ka"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-10-29"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+          <biblStruct xml:id="simone.g.redsonja.artbloodfire">
+            <monogr>
+              <title>Red Sonja: The Art of Blood and Fire</title>
+              <author>
+                <persName ref="a:simone.g"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:geovani.w"/>
+                <persName ref="a:salonga.n"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:lucas.a"/>
+                <persName ref="a:santos.e"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:bowland.s"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:rybandt.j"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date when="2014"/>
+                <publisher>
+                  <orgName>Dynamite Entertainment</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Red Sonja</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.11">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 11</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2016"/>
+                <date type="first-publication" when="2015"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="dowriche.a.frenchhistorie">
             <monogr>
               <title>The French Historie</title>
@@ -109,7 +261,9 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2017-12-05"/>
-                <date type="copyright" when="2015"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="2013"/>
                 <publisher>
                   <orgName>Orbit</orgName>
                 </publisher>
