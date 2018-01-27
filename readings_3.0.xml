@@ -30,10 +30,28 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-01-27">
+          <p>Read <ref target="b:deconnic.ks.prettydeadly.2.bear">Pretty Deadly Vol. 2: The Bear</ref>.</p>
+        </event>
+        <event from="2018-01-20">
+          <p>Reread <ref target="b:gaiman.n.fragilethings">Fragile Things</ref>.</p>
+        </event>
+        <event from="2018-01-16" to="2018-01-20">
+          <p>Read <ref target="b:wilson.ka.sorcererwildeeps">The Sorcerer of the Wildeeps</ref>.</p>
+        </event>
+        <event from="2018-01-15" to="2018-01-18">
+          <p>Read <ref target="b:simone.g.redsonja.artbloodfire">Red Sonja: The Art of Blood and Fire</ref>.</p>
+        </event>
+        <event when="2018-01-14">
+          <p>Read <ref target="b:prince.l.ifiwetthebed">Will You Still Love Me If I Wet the Bed?</ref></p>
+        </event>
+        <event from="2018-01-13" to="2018-01-20">
+          <p>Read <ref target="b:quinn.z.crashoverride">Crash Override</ref>.</p>
+        </event>
         <event when="2018-01-13">
           <p>Read <ref target="b:yoshinag.f.whatdidyoueat.11">What Did You Eat Yesterday? Vol. 11</ref>.</p>
         </event>
-        <event from="2018-01-12">
+        <event from="2018-01-12" to="2018-01-13">
           <p>Reread <ref target="b:esquivel.l.waterforchocolate">Like Water for Chocolate</ref>.</p>
         </event>
         <event when="2018-01-01">

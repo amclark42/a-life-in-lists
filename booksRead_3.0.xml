@@ -64,6 +64,26 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="leckie.a.ancillarysword">
+            <monogr>
+              <title>Ancillary Sword</title>
+              <author>
+                <persName ref="a:leckie.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-01-18"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Imperial Radch</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="leckie.a.ancillarymercy">
             <monogr>
               <title>Ancillary Mercy</title>
@@ -135,13 +155,14 @@
             </monogr>
           </biblStruct>
           
-          <biblStruct xml:id="wilson.ka">
+          <biblStruct xml:id="wilson.ka.sorcererwildeeps">
             <monogr>
               <title>The Sorcerer of the Wildeeps</title>
               <author>
                 <persName ref="a:wilson.ka"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2016-10-29"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
@@ -6001,7 +6022,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
-                <date when="2006"/>
+                <date type="copyright" when="2006"/>
                 <publisher>
                   <orgName>HarperCollins</orgName>
                 </publisher>

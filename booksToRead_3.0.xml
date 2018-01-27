@@ -1675,13 +1675,6 @@
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
-          <author>Quinn, Zoe</author>.
-          <title>Crash Override</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2017-09-08"/>
-        </bibl>
-        <bibl>
           <author>Roach, Mary</author>.
           <title>Grunt: The Curious Science of Humans at War</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1791,7 +1784,8 @@
         </bibl>
         <bibl>
           <author>Schulman, Sarah</author>.
-          <title>Conflict is not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair</title>.
+          <title>Conflict is not Abuse: Overstating Harm, Community Responsibility, 
+            and the Duty of Repair</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-11-18"/>
         </bibl>
@@ -2067,11 +2061,6 @@
         <bibl>
           <author>Williams, Tad</author>.
           <title>Mirror World</title>.
-        </bibl>
-        <bibl>
-          <author>Wilson, Kai Ashante</author>.
-          <title>The Sorcerer of the Wildeeps</title>.
-          <date type="added" when="2016-10-29"/>
         </bibl>
         <bibl>
           <author>Windling, Terri</author>.
