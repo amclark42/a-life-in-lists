@@ -248,6 +248,22 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author ref="a:bear.e">Bear, Elizabeth</author>.
+          <title>By the Mountain Bound</title>.
+          <date type="added" when="2018-02-03"/>
+          <series>
+            <title>The Edda of Burdens</title>
+          </series>
+        </bibl>
+        <bibl>
+          <author ref="a:bear.e">Bear, Elizabeth</author>.
+          <title>The Sea Thy Mistress</title>.
+          <date type="added" when="2018-02-03"/>
+          <series>
+            <title>The Edda of Burdens</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Beatrice, Allyson</author>.
           <title>Will the Vampire People Please Leave the Lobby? True Adventures
             in Cult Fandom</title>.
@@ -884,6 +900,12 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <editor>Guran, Paula</editor>.
+          <title>Warrior Women</title>.
+          <trait ref="#tag.anthology"/>
+          <date type="added" when="2018-02-03"/>
+        </bibl>
+        <bibl>
           <author>Hagio, Moto</author>.
           <title>A Drunken Dream and Other Stories</title>.
           <trait ref="#tag.comics"/>
@@ -1027,6 +1049,11 @@
         <bibl>
           <author>Isherwood, Christopher</author>.
           <title>Goodbye to Berlin</title>.
+        </bibl>
+        <bibl>
+          <author>Ishiguro, Kazuo</author>.
+          <title>Never Let Me Go</title>.
+          <date type="added" when="2018-02-04"/>
         </bibl>
         <bibl>
           <author>Jacob, Mira</author>.
@@ -1212,6 +1239,12 @@
           <date type="added" when="2016-07-09"/>
         </bibl>
         <bibl>
+          <author>Kochman, Thomas</author>.
+          <title>Black and White Styles in Conflict</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-02-04"/>
+        </bibl>
+        <bibl>
           <author ref="a:lee.l">Lee, Li-Young</author>.
           <title>Book of My Nights</title>.
         </bibl>
@@ -1336,6 +1369,7 @@
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>
           <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2014-09-30"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -1532,6 +1566,22 @@
         </bibl>
         <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
+          <title>Home</title>.
+          <date type="added" when="2018-02-04"/>
+          <series>
+            <title>Binti</title>
+          </series>
+        </bibl>
+        <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
+          <title>The Night Masquerade</title>.
+          <date type="added" when="2018-02-04"/>
+          <series>
+            <title>Binti</title>
+          </series>
+        </bibl>
+        <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Zahrah the Windseeker</title>.
           <date type="added" when="2016-06-05"/>
         </bibl>
@@ -1542,7 +1592,7 @@
         <bibl>
           <author>Orleck, Annelise</author>.
           <title>Common Sense and a Little Fire: Women and Working-Class Politics in
-            the United States, 1900-1965</title>.
+            the United States, 1900–1965</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
         </bibl>
@@ -1655,12 +1705,6 @@
           <title>Dodger</title>.
         </bibl>
         <bibl>
-          <author ref="a:priest.c">Priest, Cherie</author>.
-          <title>Chapelwood</title>.
-          <series><title>The Borden Dispatches</title></series>
-          <date type="added" when="2016-11-06"/>
-        </bibl>
-        <bibl>
           <author>Pulley, Natasha</author>.
           <title>The Watchmaker of Filigree Street</title>.
           <date type="added" when="2016-07-09"/>
@@ -1704,6 +1748,7 @@
           <title>Ratio: The Simple Codes Behind the Craft of Everyday Cooking</title>.
           <trait ref="#tag.cookbook"/>
           <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2014-09-30"/>
         </bibl>
         <bibl>
           <author ref="a:rucka.g">Rucka, Greg</author>.
@@ -1771,6 +1816,11 @@
           <author ref="a:saramago.j">Saramago, Jose</author>.
           <title>Raised from the Ground</title>.
           <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Saunders, George</author>.
+          <title>Lincoln in the Bardo</title>.
+          <date type="added" when="2018-02-04"/>
         </bibl>
         <bibl>
           <author>Sayers, Dorothy</author>.
@@ -2074,13 +2124,18 @@
           <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
-          <author ref="a:woolf.v">Woolf, Virginia</author>.
-          <title>Orlando</title>.
-        </bibl>
-        <bibl>
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
+        </bibl>
+        <bibl>
+          <author>Yoshimoto, Banana</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Megan Backus</persName>
+          </respStmt>
+          <title>Kitchen</title>.
+          <date type="added" when="2018-02-04"/>
         </bibl>
       </listBibl>
     </body>

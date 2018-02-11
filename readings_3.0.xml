@@ -30,10 +30,27 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-02-11">
+          <p>Read <ref target="b:bauermeister.e.joybeginners">Joy for Beginners</ref>.</p>
+        </event>
+        <event from="2018-02-08" to="2018-02-10">
+          <p>Read <ref target="b:north.r.squirrelgirl.3.youreallygotmenow">The Unbeatable Squirrel Girl
+            Vol. 3: Squirrel, You Really Got Me Now</ref>.</p>
+        </event>
+        <event from="2018-02-04">
+          <p>Read <ref target="b:ruhlman.m.ratio">Ratio: Simple Codes Behind the Craft of Everyday 
+            Cooking</ref>.</p>
+        </event>
+        <event from="2018-02-04" to="2018-02-07">
+          <p>Read <ref target="b:priest.c.chapelwood">Chapelwood</ref>.</p>
+        </event>
+        <event from="2018-01-28" to="2018-02-03">
+          <p>Reread <ref target="b:mckinley.r.rosedaughter">Rose Daughter</ref>.</p>
+        </event>
         <event when="2018-01-27">
           <p>Read <ref target="b:deconnic.ks.prettydeadly.2.bear">Pretty Deadly Vol. 2: The Bear</ref>.</p>
         </event>
-        <event from="2018-01-20">
+        <event from="2018-01-20" to="2018-01-31">
           <p>Reread <ref target="b:gaiman.n.fragilethings">Fragile Things</ref>.</p>
         </event>
         <event from="2018-01-16" to="2018-01-20">

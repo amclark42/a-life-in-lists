@@ -41,6 +41,70 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="quinones.j">
+          <persName>
+            <forename>Joe</forename>
+            <surname>Quinones</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="gibson.j">
+          <persName>
+            <forename>Jordan</forename>
+            <surname>Gibson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="rivera.j">
+          <persName>
+            <forename>Joe</forename>
+            <surname>Rivera</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="deering.m">
+          <persName>
+            <forename>Marc</forename>
+            <surname>Deering</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="bauermeister.e">
+          <persName>
+            <forename>Erica</forename>
+            <surname>Bauermeister</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="morris.j">
+          <persName>
+            <forename>Jan</forename>
+            <surname>Morris</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ruhlman.m">
+          <persName>
+            <forename>Michael</forename>
+            <surname>Ruhlman</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="truhlman.d">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Turner Ruhlman</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="wilson.ka">
           <persName>
             <forename>Kai Ashante</forename>
