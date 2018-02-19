@@ -30,7 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-02-11">
+        <event when="2018-02-17">
+          <p>Reread <ref target="b:stearns.m.wizardsdozen">A Wizard’s Dozen</ref>.</p>
+        </event>
+        <event from="2018-02-14">
+          <p>Read <ref target="b:morris.j.lettersfromhav">Last Letter from Hav</ref>.</p>
+        </event>
+        <event from="2018-02-11" to="2018-02-13">
           <p>Read <ref target="b:bauermeister.e.joybeginners">Joy for Beginners</ref>.</p>
         </event>
         <event from="2018-02-08" to="2018-02-10">

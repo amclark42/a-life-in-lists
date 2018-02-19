@@ -64,6 +64,153 @@
             </series>
           </biblStruct>-->
           
+          <biblStruct xml:id="bull.e.doublefeature">
+            <monogr>
+              <title>Double Feature</title>
+              <author>
+                <persName ref="a:bull.e"/>
+                <persName ref="a:shetterly.w"/>
+              </author>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <persName ref="a:insinga.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <date type="first-publication" when="1994"/>
+                <publisher>
+                  <orgName>The NESFA Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="pierce.t.wildmagic">
+            <monogr>
+              <title>Wild Magic</title>
+              <author>
+                <persName ref="a:pierce.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="copyright" when="1992"/>
+                <date type="first-read" when-custom="ash:child"/>
+                <publisher>
+                  <orgName>Random House</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Immortals</title>
+            </series>
+            <series>
+              <title>Tortall</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.redrosechain">
+            <monogr>
+              <title>A Red Rose Chain</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="added" when="2018-01-07"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Daw Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcmasterbujold.lois.warriorsapprentice">
+            <monogr>
+              <title>The Warrior’s Apprentice</title>
+              <author>
+                <persName ref="a:mcmasterbujold.lois"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="1986"/>
+                <publisher>
+                  <orgName>Baen Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Vorkosigan Saga</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="briggs.p.mooncalled">
+            <monogr>
+              <title>Moon Called</title>
+              <author>
+                <persName ref="a:briggs.p"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="2006"/>
+                <publisher>
+                  <orgName>Ace Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Mercy Thompson</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="elliott.k.lawbecoming">
+            <monogr>
+              <title>The Law of Becoming</title>
+              <author>
+                <persName ref="a:elliott.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="added" when="2016-02-11"/>
+                <date type="copyright" when="1994"/>
+                <publisher>
+                  <orgName>DAW Books, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Jaran</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="elliott.k.earthlycrown">
+            <monogr>
+              <title>An Earthly Crown</title>
+              <author>
+                <persName ref="a:elliott.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="added" when="2016-02-11"/>
+                <date type="copyright" when="1993"/>
+                <publisher>
+                  <orgName>DAW Books, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Jaran</title>
+            </series>
+            <series>
+              <title>The Sword of Heaven</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="north.r.squirrelgirl.3.youreallygotmenow">
             <monogr>
               <title>The Unbeatable Squirrel Girl Vol. 3: Squirrel, You Really Got Me Now</title>
@@ -3830,7 +3977,8 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
-                <date when="2012"/>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="copyright" when="2012"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
                 </publisher>
@@ -4041,7 +4189,8 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
-                <date when="2011"/>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="copyright" when="2011"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
                 </publisher>
@@ -7577,7 +7726,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
-                <date when="1996"/>
+                <date type="copyright" when="1996"/>
                 <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
                   <orgName>Harcourt, Inc.</orgName>
@@ -17259,7 +17408,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2016-07-29"/>
-                <date when="2009-09"/>
+                <date type="copyright" when="2009-09"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
                 </publisher>
@@ -17636,6 +17785,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2017-02-10"/>
+                <date type="copyright" when="2010"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
                 </publisher>
@@ -18050,8 +18200,8 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
-                <date when="2010"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
+                <date type="copyright" when="2010"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
                 </publisher>
@@ -18848,6 +18998,8 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.owned" from="2018-02-17"/>
+                <date type="copyright" when="2011"/>
                 <publisher>Daw Books</publisher>
               </imprint>
             </monogr>
@@ -19306,14 +19458,36 @@
           <biblStruct xml:id="stearns.m.wizardsdozen">
             <monogr>
               <title>A Wizard’s Dozen</title>
+              <title type="sub">Stories of the Fantastic</title>
               <respStmt>
                 <resp n="editor of compilation"/>
                 <persName ref="a:stearns.m"/>
               </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:wrede.pc"/>
+                <persName ref="a:delint.c"/>
+                <persName ref="a:shetterly.w"/>
+                <persName ref="a:levin.b"/>
+                <persName ref="a:oestreicher.j"/>
+                <persName ref="a:wking.t"/>
+                <persName ref="a:coville.b"/>
+                <persName ref="a:doyle.d"/>
+                <persName ref="a:macdonald.jd"/>
+                <persName ref="a:smale.ap"/>
+                <persName ref="a:yolen.j"/>
+                <persName ref="a:velde.vv"/>
+                <persName ref="a:bennett.d"/>
+                <persName ref="a:smith.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="illustrator"/>
+                <persName ref="a:hussar.m"/>
+              </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.anthology"/>
-                <date when="1993"/>
+                <catRef target="#tag.owned" from-custom="ash:child"/>
+                <date type="copyright" when="1993"/>
                 <publisher>
                   <orgName>Scholastic Inc.</orgName>
                 </publisher>
@@ -19796,12 +19970,15 @@
               <imprint>
                 <catRef target="#tag.anthology"/>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
-                <date when="2003"/>
+                <date type="copyright" when="2003"/>
                 <publisher>
                   <orgName>Firebird</orgName>
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Firebirds</title>
+            </series>
           </biblStruct>
 
           <biblStruct xml:id="hill.f.salemtrialsreader">

@@ -234,10 +234,6 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Bauermeister, Erica</author>.
-          <title>Joy for Beginners</title>.
-        </bibl>
-        <bibl>
           <author ref="a:beagle.ps">Beagle, Peter S.</author>
           <title>Summerlong</title>.
           <date type="added" when="2017-01-07"/>
@@ -532,6 +528,11 @@
           <date type="added" when="2017-09-28"/>
         </bibl>
         <bibl>
+          <editor>Crabb, Cindy</editor>.
+          <title>Learning Good Consent: On Healthy Relationships and Survivor Support</title>.
+          <date type="added" when="2018-02-12"/>
+        </bibl>
+        <bibl>
           <author>Croggon, Alison</author>.
           <title>The Naming: The First Book of Pellinor</title>.
           <series><title>The Books of Pellinor</title></series>
@@ -547,6 +548,12 @@
         <bibl>
           <author>Danielewski, Mark Z.</author>
           <title>House of Leaves</title>.
+        </bibl>
+        <bibl>
+          <editor>Datlow, Ellen</editor>.
+          <title>Mad Hatter and March Hares</title>.
+          <trait ref="#tag.anthology"/>
+          <date type="added" when="2018-02-17"/>
         </bibl>
         <bibl>
           <author>David, Peter</author>.
@@ -676,16 +683,19 @@
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>An Earthly Crown</title>.
           <series><title>Jaran</title></series>
+          <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>His Conquering Sword</title>.
           <series><title>Jaran</title></series>
+          <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>The Law of Becoming</title>.
           <series><title>Jaran</title></series>
+          <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>,
@@ -884,6 +894,13 @@
         <bibl>
           <author>Goodman, Alison</author>.
           <title>Singing the Dogstar Blues</title>.
+        </bibl>
+        <bibl>
+          <author>Gordon, Charlotte</author>.
+          <title>Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft 
+            and Mary Shelley</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-02-28"/>
         </bibl>
         <bibl>
           <author>Gorodischer, Angelica</author>.
@@ -1180,6 +1197,12 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Kochman, Thomas</author>.
+          <title>Black and White Styles in Conflict</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-02-04"/>
+        </bibl>
+        <bibl>
           <author>Koul, Scaachi</author>.
           <title>One Day We’ll All Be Dead and None of This Will Matter</title>.
           <trait ref="#tag.memoir"/>
@@ -1196,6 +1219,11 @@
           <title>Ascension</title>.
           <series><title>Tangled Axon</title></series>
           <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Kuhn, Sarah</author>.
+          <title>Heroine Complex</title>.
+          <date type="added" when="2018-02-17"/>
         </bibl>
         <bibl>
           <author ref="a:kushner.e">Kushner, Ellen</author>.
@@ -1237,12 +1265,6 @@
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
           <title>Lavinia</title>.
           <date type="added" when="2016-07-09"/>
-        </bibl>
-        <bibl>
-          <author>Kochman, Thomas</author>.
-          <title>Black and White Styles in Conflict</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2018-02-04"/>
         </bibl>
         <bibl>
           <author ref="a:lee.l">Lee, Li-Young</author>.
@@ -1370,6 +1392,11 @@
           <trait ref="#tag.cookbook"/>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2014-09-30"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Letters to the Pumpkin King</title>.
+          <date type="added" when="2018-02-17"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
