@@ -128,11 +128,11 @@
             </series>
           </biblStruct>
           
-          <biblStruct xml:id="mcmasterbujold.lois.warriorsapprentice">
+          <biblStruct xml:id="mcmasterbujold.l.warriorsapprentice">
             <monogr>
               <title>The Warrior’s Apprentice</title>
               <author>
-                <persName ref="a:mcmasterbujold.lois"/>
+                <persName ref="a:mcmasterbujold.l"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2018-02-17"/>

@@ -340,9 +340,10 @@
           <date type="added" when="2016-07-29"/>
         </bibl>
         <bibl>
-          <author>Briggs, Patricia</author>.
+          <author ref="a:briggs.p">Briggs, Patricia</author>.
           <title>Moon Called</title>.
           <series><title>Mercy Thompson</title></series>
+          <trait ref="#tag.owned" corresp="b:briggs.p.mooncalled"/>
         </bibl>
         <bibl>
           <author>Brookner, Anita</author>.
@@ -373,9 +374,10 @@
           <title>Rogue Moon</title>.
         </bibl>
         <bibl>
-          <author>Bujold, Lois McMaster</author>.
+          <author ref="a:mcmasterbujold.l">Bujold, Lois McMaster</author>.
           <title>The Warrior’s Apprentice</title>.
           <series><title>Vorkosigan Saga</title></series>
+          <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.warriorsapprentice"/>
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
@@ -683,6 +685,7 @@
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>An Earthly Crown</title>.
           <series><title>Jaran</title></series>
+          <trait ref="#tag.owned" corresp="b:elliott.k.earthlycrown"/>
           <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
@@ -695,6 +698,7 @@
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>The Law of Becoming</title>.
           <series><title>Jaran</title></series>
+          <trait ref="#tag.owned" corresp="b:elliott.k.lawbecoming"/>
           <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
@@ -1027,6 +1031,14 @@
           <title>The Iliad</title>.
         </bibl>
         <bibl>
+          <author ref="a:homer">Homer</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Emily Wilson</persName>
+          </respStmt>
+          <title>The Odyssey</title>.
+        </bibl>
+        <bibl>
           <author>hooks, bell</author>.
           <title>Killing Rage: Ending Racism</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1091,6 +1103,7 @@
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Fifth Season</title>.
           <series><title>The Broken Earth</title></series>
+          <trait ref="#tag.owned" corresp="b:jemisin.nk.fifthseason"/>
         </bibl>
         <bibl>
           <author ref="a:johnson.ad">Johnson, Alaya Dawn</author>.
@@ -1242,12 +1255,14 @@
           <author ref="a:leckie.a">Leckie, Ann</author>.
           <title>Ancillary Sword</title>.
           <series><title>Imperial Radch</title></series>
+          <trait ref="#tag.owned" corresp="b:leckie.a.ancillarysword"/>
           <date type="added" when="2018-01-13"/>
         </bibl>
         <bibl>
           <author ref="a:leckie.a">Leckie, Ann</author>.
           <title>Ancillary Mercy</title>.
           <series><title>Imperial Radch</title></series>
+          <trait ref="#tag.owned" corresp="b:leckie.a.ancillarymercy"/>
           <date type="added" when="2018-01-13"/>
         </bibl>
         <bibl>
@@ -1402,6 +1417,7 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>A Red-Rose Chain</title>.
           <series><title>October Daye</title></series>
+          <trait ref="#tag.owned" corresp="b:mcguire.s.redrosechain"/>
           <date type="added" when="2018-01-07"/>
         </bibl>
         <bibl>
@@ -1713,7 +1729,8 @@
         </bibl>
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
-          <title>Once More With Footnotes</title>.
+          <title>Once More* With Footnotes</title>.
+          <trait ref="#tag.outofprint"/><!-- Published by NEFSA Press. -->
         </bibl>
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
