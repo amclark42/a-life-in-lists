@@ -42,6 +42,91 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="merino.j">
+          <persName>
+            <forename>Jesús</forename>
+            <surname>Merino</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="infurnari.j">
+          <persName>
+            <forename>Joe</forename>
+            <surname>Infurnari</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="chaloner.g">
+          <persName>
+            <forename>Gary</forename>
+            <surname>Chaloner</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="grummett.t">
+          <persName>
+            <forename>Tom</forename>
+            <surname>Grummett</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="deschesne.a">
+          <persName>
+            <forename>Albert</forename>
+            <surname>Deschesne</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="shinn.s">
+          <persName>
+            <forename>Sharon</forename>
+            <surname>Shinn</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ostertag.mk">
+          <persName>
+            <forename>Molly Knox</forename>
+            <surname>Ostertag</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="nagabe">
+          <persName>
+            <name>Nagabe</name>
+          </persName>
+        </person>
+        
+        <person xml:id="beck.a">
+          <persName>
+            <forename>Adrienne</forename>
+            <surname>Beck</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="macfarlane.yr">
+          <persName>
+            <forename>Ysabet Reinhart</forename>
+            <surname>Macfarlane</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="blakeslee.l">
+          <persName>
+            <forename>Lys</forename>
+            <surname>Blakeslee</surname>
+          </persName>
+        </person>
+        
         <person xml:id="insinga.a">
           <persName>
             <forename>Aron</forename>

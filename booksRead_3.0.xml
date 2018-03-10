@@ -63,6 +63,140 @@
               <title></title>
             </series>
           </biblStruct>-->
+
+          <biblStruct xml:id="monster.sr.beyond.2">
+            <monogr>
+              <title>Beyond II: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <persName ref="a:monster.sr"/>
+                <persName ref="a:stotts.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:black.r"/>
+                <persName ref="a:monster.sr"/>
+                <persName ref="a:stotts.t"/>
+                <!-- To do! -->
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2017-06-08"/>
+                <catRef target="#tag.owned" from="2018-02-20"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.queer"/>
+                <publisher>
+                  <orgName>Beyond Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Beyond</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="busiek.k.astrocity.honorguard">
+            <monogr>
+              <title>Astro City: Honor Guard</title>
+              <author>
+                <persName ref="a:busiek.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:merino.j"/>
+                <persName ref="a:infurnari.j"/>
+                <persName ref="a:chaloner.g"/>
+                <persName ref="a:grummett.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:roshell.j"/>
+                <persName ref="a:betancour.j"/>
+                <persName ref="a:deschesne.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:sinclair.a"/>
+                <persName ref="a:broome.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="cover artist"/>
+                <persName ref="a:ross.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:busiek.k"/>
+                <persName ref="a:anderson.be"/>
+                <persName ref="a:ross.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Vertigo</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Astro City</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="shinn.s.shatteredwarrior">
+            <monogr>
+              <title>Shattered Warrior</title>
+              <respStmt>
+                <resp n="author"/>
+                <persName ref="a:shinn.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:ostertag.mk"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="nagabe.girlfromotherside.1">
+            <monogr>
+              <title>The Girl from the Other Side: Siúil, a Rún Vol. 1</title>
+              <title type="alt" xml:lang="ja">Totsuku ni no Shōjo</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:nagabe"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:beck.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n=""/>
+                <persName ref="a:macfarlane.yr"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blakeslee.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2016"/>
+                <date type="edition" when="2017"/>
+                <publisher>
+                  <orgName>Seven Seas Entertainment</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Girl from the Other Side: Siúil, a Rún</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="bull.e.doublefeature">
             <monogr>
@@ -1160,6 +1294,12 @@
                 <resp n="letterer"/>
                 <persName ref="a:roshell.j"/>
                 <persName ref="a:betancour.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:busiek.k"/>
+                <persName ref="a:anderson.be"/>
+                <persName ref="a:ross.a"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -10781,9 +10921,17 @@
               <author>
                 <persName ref="a:busiek.k"/>
               </author>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:busiek.k"/>
+                <persName ref="a:anderson.be"/>
+                <persName ref="a:ross.a"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -11997,9 +12145,17 @@
               <author>
                 <persName ref="a:busiek.k"/>
               </author>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:busiek.k"/>
+                <persName ref="a:anderson.be"/>
+                <persName ref="a:ross.a"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -12865,9 +13021,17 @@
               <author>
                 <persName ref="a:busiek.k"/>
               </author>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:busiek.k"/>
+                <persName ref="a:anderson.be"/>
+                <persName ref="a:ross.a"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Vertigo</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -18921,6 +19085,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Beyond</title>
+            </series>
           </biblStruct>
 
           <biblStruct xml:id="bradbury.r.somethingwicked">

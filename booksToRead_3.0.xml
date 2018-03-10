@@ -993,6 +993,13 @@
           <series><title>Dune Chronicles</title></series>
         </bibl>
         <bibl>
+          <author>Hicks, Marie</author>.
+          <title>Programmed Inequality: How Britain Discarded Women Technologists 
+            and Lost Its Edge in Computing</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-03-10"/>
+        </bibl>
+        <bibl>
           <author>Higgins, C. A.</author>.
           <title>Lightless</title>.
           <series><title>Lightless</title></series>
@@ -1101,9 +1108,13 @@
         </bibl>
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
-          <title>The Fifth Season</title>.
+          <title>The Obelisk Gate</title>.
           <series><title>The Broken Earth</title></series>
-          <trait ref="#tag.owned" corresp="b:jemisin.nk.fifthseason"/>
+        </bibl>
+        <bibl>
+          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
+          <title>The Stone Sky</title>.
+          <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
           <author ref="a:johnson.ad">Johnson, Alaya Dawn</author>.
@@ -1184,6 +1195,17 @@
         <bibl>
           <author ref="a:king.s">King, Stephen</author>.
           <title>11/22/63</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:kingfisher.t">Kingfisher, T.</author>
+          <title>Clockwork Boys</title>.
+          <date type="added" when="2018-03-03"/>
+          <series><title>Clocktaur War</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:kingfisher.t">Kingfisher, T.</author>
+          <title>Summer in Orcus</title>.
+          <date type="added" when="2018-03-03"/>
         </bibl>
         <bibl>
           <author>Kingsolver, Barbara</author>.
@@ -1360,6 +1382,12 @@
           <series>
             <title>Fall Revolution</title>
           </series>
+        </bibl>
+        <bibl>
+          <author>Maddow, Rachel</author>.
+          <title>Drift: The Unmooring of American Military Power</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-02-23"/>
         </bibl>
         <bibl>
           <author ref="a:maguire.g">Maguire, Gregory</author>.
@@ -1629,6 +1657,13 @@
           <date type="added" when="2016-06-05"/>
         </bibl>
         <bibl>
+          <author>O’Neil, Cathy</author>.
+          <title>Weapons of Math Destruction: How Big Data Increases Inequality and 
+            Threatens Democracy</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-03-10"/>
+        </bibl>
+        <bibl>
           <author>O’Neill, Eugene</author>.
           <title>Long Day’s Journey Into Night</title>.
         </bibl>
@@ -1786,13 +1821,6 @@
           <author>Ruff, Mark</author>.
           <title>Lovecraft Country</title>.
           <date type="added" when="2017-07-30"/>
-        </bibl>
-        <bibl>
-          <author>Ruhlman, Michael</author>.
-          <title>Ratio: The Simple Codes Behind the Craft of Everyday Cooking</title>.
-          <trait ref="#tag.cookbook"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2014-09-30"/>
         </bibl>
         <bibl>
           <author ref="a:rucka.g">Rucka, Greg</author>.
@@ -2070,9 +2098,16 @@
           <author>Tyson, Neil deGrasse</author>,
           <author>Michael A. Strauss</author>, and
           <author>J. Richard Gott</author>.
-          <title>Welcome to the Universe: An Astrophysical Tour</title>
+          <title>Welcome to the Universe: An Astrophysical Tour</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-10-15"/>
+        </bibl>
+        <bibl>
+          <author>Ullman, Ellen</author>.
+          <title>Life in Code: A Personal History of Technology</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
           <author>Unsworth, Barry</author>.

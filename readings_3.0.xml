@@ -30,11 +30,24 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-03-10">
+          <p>Read <ref target="b:nagabe.girlfromotherside.1">The Girl from the Other Side: Siúil, a Rún 
+            Vol. 1</ref>.</p>
+        </event>
+        <event from="2018-03-10">
+          <p>Read <ref target="b:mcguire.s.redrosechain">A Red-Rose Chain</ref>.</p>
+        </event>
+        <event from="2018-03-02">
+          <p>Read <ref target="b:elliott.k.earthlycrown">An Earthly Crown</ref>.</p>
+        </event>
+        <event from="2018-02-23" to="2018-03-02">
+          <p>Read <ref target="b:jemisin.nk.fifthseason">The Fifth Season</ref>.</p>
+        </event>
         <event when="2018-02-17">
           <p>Reread <ref target="b:stearns.m.wizardsdozen">A Wizard’s Dozen</ref>.</p>
         </event>
-        <event from="2018-02-14">
-          <p>Read <ref target="b:morris.j.lettersfromhav">Last Letter from Hav</ref>.</p>
+        <event from="2018-02-14" to="2018-02-22">
+          <p>Read <ref target="b:morris.j.lettersfromhav">Last Letters from Hav</ref>.</p>
         </event>
         <event from="2018-02-11" to="2018-02-13">
           <p>Read <ref target="b:bauermeister.e.joybeginners">Joy for Beginners</ref>.</p>
@@ -43,7 +56,7 @@
           <p>Read <ref target="b:north.r.squirrelgirl.3.youreallygotmenow">The Unbeatable Squirrel Girl
             Vol. 3: Squirrel, You Really Got Me Now</ref>.</p>
         </event>
-        <event from="2018-02-04">
+        <event from="2018-02-04" to="2018-02-24">
           <p>Read <ref target="b:ruhlman.m.ratio">Ratio: Simple Codes Behind the Craft of Everyday 
             Cooking</ref>.</p>
         </event>
