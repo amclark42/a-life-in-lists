@@ -20,6 +20,8 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2018-02-19">Added "owned" tags to books I own but have not yet 
+          read. Tags include a pointer to the book's catalog entry.</change>
         <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code>
           to <att>n</att>.</change>
         <change when="2017-09-03">Added personography references to the authors already
@@ -36,7 +38,8 @@
           </list>
         </change>
         <change when="2016-05-07">Generated conversion TEI from OxGarage.</change>
-        <change when="2005-06-20T21:31:00">Created the first version of this list in Microsoft Word.</change>
+        <change when="2005-06-20T21:31:00">Created the first version of this list in 
+          Microsoft Word.</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -683,13 +686,6 @@
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>.
-          <title>An Earthly Crown</title>.
-          <series><title>Jaran</title></series>
-          <trait ref="#tag.owned" corresp="b:elliott.k.earthlycrown"/>
-          <date type="added" when="2016-02-11"/>
-        </bibl>
-        <bibl>
-          <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>His Conquering Sword</title>.
           <series><title>Jaran</title></series>
           <date type="added" when="2016-02-11"/>
@@ -1135,6 +1131,11 @@
           <title>The Delinquent Virgin</title>.
         </bibl>
         <bibl>
+          <author>Kann, Claire</author>.
+          <title>Let’s Talk About Love</title>.
+          <date type="added" when="2018-03-24"/>
+        </bibl>
+        <bibl>
           <author>Karr, Mary</author>.
           <title>The Liars’ Club: A Memoir</title>.
         </bibl>
@@ -1443,13 +1444,6 @@
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>A Red-Rose Chain</title>.
-          <series><title>October Daye</title></series>
-          <trait ref="#tag.owned" corresp="b:mcguire.s.redrosechain"/>
-          <date type="added" when="2018-01-07"/>
-        </bibl>
-        <bibl>
-          <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>Once Broken Faith</title>.
           <series><title>October Daye</title></series>
           <date type="added" when="2018-01-07"/>
@@ -1673,6 +1667,11 @@
             the United States, 1900–1965</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
+        </bibl>
+        <bibl>
+          <author>Ortberg, Daniel Mallory</author>.
+          <title>The Merry Spinster: Tales of Everyday Horror</title>.
+          <date type="added" when="2018-03-13"/>
         </bibl>
         <bibl>
           <author>Otsuka, Julie</author>.

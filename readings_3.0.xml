@@ -30,14 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-03-17">
+          <p>Read <ref target="b:miller.j.yeargadfly">The Year of the Gadfly</ref>.</p>
+        </event>
         <event when="2018-03-10">
           <p>Read <ref target="b:nagabe.girlfromotherside.1">The Girl from the Other Side: Siúil, a Rún 
             Vol. 1</ref>.</p>
         </event>
-        <event from="2018-03-10">
+        <event from="2018-03-10" to="2018-03-13">
           <p>Read <ref target="b:mcguire.s.redrosechain">A Red-Rose Chain</ref>.</p>
         </event>
-        <event from="2018-03-02">
+        <event from="2018-03-02" to="2018-03-16">
           <p>Read <ref target="b:elliott.k.earthlycrown">An Earthly Crown</ref>.</p>
         </event>
         <event from="2018-02-23" to="2018-03-02">
