@@ -64,6 +64,26 @@
             </series>
           </biblStruct>-->
 
+          <biblStruct xml:id="monette.s.apprenticetoelves">
+            <monogr>
+              <title>An Apprentice to Elves</title>
+              <author>
+                <persName ref="a:monette.s"/>
+                <persName ref="a:bear.e"/>
+              </author>
+              <imprint>
+                <!--<catRef target="#tag.queer"/>-->
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Iskyrne World</title>
+            </series>
+          </biblStruct>
+
           <biblStruct xml:id="monster.sr.beyond.2">
             <monogr>
               <title>Beyond II: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>
@@ -92,53 +112,6 @@
             </monogr>
             <series>
               <title>Beyond</title>
-            </series>
-          </biblStruct>
-          
-          <biblStruct xml:id="busiek.k.astrocity.honorguard">
-            <monogr>
-              <title>Astro City: Honor Guard</title>
-              <author>
-                <persName ref="a:busiek.k"/>
-              </author>
-              <respStmt>
-                <resp n="artist"/>
-                <persName ref="a:merino.j"/>
-                <persName ref="a:infurnari.j"/>
-                <persName ref="a:chaloner.g"/>
-                <persName ref="a:grummett.t"/>
-              </respStmt>
-              <respStmt>
-                <resp n="letterer"/>
-                <persName ref="a:roshell.j"/>
-                <persName ref="a:betancour.j"/>
-                <persName ref="a:deschesne.a"/>
-              </respStmt>
-              <respStmt>
-                <resp n="colorist"/>
-                <persName ref="a:sinclair.a"/>
-                <persName ref="a:broome.w"/>
-              </respStmt>
-              <respStmt>
-                <resp n="cover artist"/>
-                <persName ref="a:ross.a"/>
-              </respStmt>
-              <respStmt>
-                <resp n="creator"/>
-                <persName ref="a:busiek.k"/>
-                <persName ref="a:anderson.be"/>
-                <persName ref="a:ross.a"/>
-              </respStmt>
-              <imprint>
-                <catRef target="#tag.comics"/>
-                <date type="copyright" when="2017"/>
-                <publisher>
-                  <orgName>Vertigo</orgName>
-                </publisher>
-              </imprint>
-            </monogr>
-            <series>
-              <title>Astro City</title>
             </series>
           </biblStruct>
           
@@ -15861,11 +15834,13 @@
               </author>
               <imprint>
                 <catRef target="#tag.queer"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Iskryne World</title>
+              <title>Iskyrne World</title>
             </series>
           </biblStruct>
 
@@ -16601,7 +16576,9 @@
                 <persName ref="a:bear.e"/>
               </author>
               <imprint>
-                <publisher/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
