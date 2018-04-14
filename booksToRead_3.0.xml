@@ -1061,6 +1061,11 @@
           <title>Les Miserables</title>.
         </bibl>
         <bibl>
+          <author>Hunt, Samantha</author>.
+          <title>The Dark Dark</title>.
+          <date type="added" when="2018-04-14"/>
+        </bibl>
+        <bibl>
           <author>Hurley, Kameron</author>.
           <title>We Have Always Fought: Essays on Craft, Fiction and Fandom</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1501,14 +1506,6 @@
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author ref="a:monette.s">Monette, Sarah</author> and
-          <author ref="a:bear.e">Elizabeth Bear</author>.
-          <title>An Apprentice to Elves</title>.
-          <series><title>Iskryne World</title></series>
-          <trait ref="#tag.queer"/>
-          <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
           <author>Montfort, Nick</author>.

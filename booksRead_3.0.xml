@@ -63,6 +63,33 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="lafrenai.a.timrousbeastie">
+            <monogr>
+              <title>Tim’rous Beastie</title>
+              <title type="sub">An Anthology of Small Adventures in a Big and Dangerous World</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <persName ref="a:lafrenai.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:lafrenai.a"/>
+                <persName ref="a:trotman.cs"/>
+                <!-- To do! -->
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2017-08-02"/>
+                <catRef target="#tag.owned" from="2018-04-12"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.anthology"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
 
           <biblStruct xml:id="monette.s.apprenticetoelves">
             <monogr>
@@ -72,7 +99,7 @@
                 <persName ref="a:bear.e"/>
               </author>
               <imprint>
-                <!--<catRef target="#tag.queer"/>-->
+                <date type="added" when="2016-10-01"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
                   <orgName>Tor</orgName>
@@ -2759,7 +2786,7 @@
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -3838,7 +3865,7 @@
                 <catRef target="#tag.queer"/>
                 <date when="2016"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -4224,7 +4251,7 @@
                 <catRef target="#tag.anthology"/>
                 <date when="2014-02"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -4247,7 +4274,7 @@
                 <catRef target="#tag.anthology"/>
                 <date when="2016"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -4271,7 +4298,7 @@
                 <catRef target="#tag.queer"/>
                 <date when="2016"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -14186,7 +14213,7 @@
                 <catRef target="#tag.queer"/>
                 <date when="2012-09"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -18256,7 +18283,7 @@
                 <catRef target="#tag.queer"/>
                 <date when="2014-09"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -18520,7 +18547,7 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -18989,7 +19016,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.queer"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
