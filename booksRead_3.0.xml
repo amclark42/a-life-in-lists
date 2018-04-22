@@ -99,6 +99,7 @@
                 <persName ref="a:bear.e"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2016-10-01"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
@@ -472,6 +473,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2018-01-18"/>
                 <catRef target="#tag.queer"/>
+                <date type="added" when="2018-01-13"/>
                 <date type="copyright" when="2014"/>
                 <publisher>
                   <orgName>Orbit</orgName>

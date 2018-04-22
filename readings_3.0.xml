@@ -30,10 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-04-18">
+        <event from="2018-04-22">
+          <p>Reread <ref target="b:harris.j.chocolat">Chocolat</ref>.</p>
+        </event>
+        <event from="2018-04-14" to="2018-04-22">
           <p>Read <ref target="b:leckie.a.ancillarysword">Ancillary Sword</ref>.</p>
         </event>
-        <event from="2018-04-09">
+        <event from="2018-04-09" to="2018-04-16">
           <p>Read <ref target="b:monster.sr.beyond.2">Beyond II: The Queer Sci-Fi &amp; Fantasy Comic 
             Anthology</ref>.</p>
         </event>

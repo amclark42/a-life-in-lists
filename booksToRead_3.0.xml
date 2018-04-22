@@ -1281,13 +1281,6 @@
         </bibl>
         <bibl>
           <author ref="a:leckie.a">Leckie, Ann</author>.
-          <title>Ancillary Sword</title>.
-          <series><title>Imperial Radch</title></series>
-          <trait ref="#tag.owned" corresp="b:leckie.a.ancillarysword"/>
-          <date type="added" when="2018-01-13"/>
-        </bibl>
-        <bibl>
-          <author ref="a:leckie.a">Leckie, Ann</author>.
           <title>Ancillary Mercy</title>.
           <series><title>Imperial Radch</title></series>
           <trait ref="#tag.owned" corresp="b:leckie.a.ancillarymercy"/>
