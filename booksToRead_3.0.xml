@@ -344,9 +344,8 @@
         </bibl>
         <bibl>
           <author ref="a:briggs.p">Briggs, Patricia</author>.
-          <title>Moon Called</title>.
+          <title>Blood Bound</title>.
           <series><title>Mercy Thompson</title></series>
-          <trait ref="#tag.owned" corresp="b:briggs.p.mooncalled"/>
         </bibl>
         <bibl>
           <author>Brookner, Anita</author>.
@@ -534,7 +533,8 @@
         </bibl>
         <bibl>
           <editor>Crabb, Cindy</editor>.
-          <title>Learning Good Consent: On Healthy Relationships and Survivor Support</title>.
+          <title>Learning Good Consent: On Healthy Relationships and Survivor 
+            Support</title>.
           <date type="added" when="2018-02-12"/>
         </bibl>
         <bibl>

@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-04-22">
+        <event from="2018-05-02" to="2018-05-05">
+          <p>Read <ref target="b:lafrenai.a.timrousbeastie">Tim’rous Beastie</ref>.</p>
+        </event>
+        <event from="2018-04-27">
+          <p>Read <ref target="b:mcmasterbujold.l.warriorsapprentice">The Warrior’s Apprentice</ref>.</p>
+        </event>
+        <event from="2018-04-25" to="2018-04-27">
+          <p>Read <ref target="b:briggs.p.mooncalled">Moon Called</ref>.</p>
+        </event>
+        <event from="2018-04-22" to="2018-04-24">
           <p>Reread <ref target="b:harris.j.chocolat">Chocolat</ref>.</p>
         </event>
         <event from="2018-04-14" to="2018-04-22">
