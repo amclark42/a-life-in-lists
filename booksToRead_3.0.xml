@@ -50,8 +50,8 @@
         
         <bibl>
           <author>Abbott, Karen</author>.
-          <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the
-            Civil War</title>.
+          <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil 
+            War</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
         </bibl>
@@ -64,8 +64,20 @@
           </series>
         </bibl>
         <bibl>
+          <author>Adams, Ellery</author>.
+          <title>The Secret, Book and Scone Society</title>.
+          <series><title>Miracle Springs, North Carolina</title></series>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author>Addison, Katherine</author>.
           <title>The Goblin Emperor</title>.
+        </bibl>
+        <bibl>
+          <author>Ahmed, Sara</author>.
+          <title>The Promise of Happiness</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author>Akihito, Tomi</author>.
@@ -136,6 +148,13 @@
           <author>Annable, Graham</author>.
           <title>Book of Grickle</title>.
           <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Anzaldúa, Gloria E.</author> and
+          <editor>AnaLouise Keating</editor>.
+          <title>Light in the Dark/Luz en lo Oscuro: Rewriting Identity, Spirituality, Reality</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author ref="a:arendt.h">Arendt, Hannah</author>.
@@ -212,18 +231,6 @@
         <bibl>
           <author>Barker, Clive</author>.
           <title>Weaveworld</title>.
-        </bibl>
-        <bibl>
-          <author>Barker, Meg-John</author> and
-          <respStmt>
-            <resp n="artist"/>
-            <persName>Julia Scheele</persName>
-          </respStmt>.
-          <title>Queer: A Graphic History</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
-          <date type="added" when="2016-11-29"/>
         </bibl>
         <bibl>
           <author ref="a:barnes.j">Barnes, John</author>.
@@ -306,6 +313,13 @@
           <!-- out of print? -->
         </bibl>
         <bibl>
+          <author>Bongiovanni, Archie</author> and
+          <author>Tristan Jimerson</author>.
+          <title>A Quick &amp; Easy Guide to They/Them Pronouns</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
+        </bibl>
+        <bibl>
           <author>Borges, Jorge Luis</author>.
           <title>The Book of Imaginary Beings</title>.
         </bibl>
@@ -376,11 +390,18 @@
           <title>Rogue Moon</title>.
         </bibl>
         <bibl>
-          <author ref="a:mcmasterbujold.l">Bujold, Lois McMaster</author>.
-          <title>The Warrior’s Apprentice</title>.
-          <series><title>Vorkosigan Saga</title></series>
-          <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.warriorsapprentice"/>
-          <date type="added" when="2017-06-29"/>
+          <author>Butler, Isaac</author>, and
+          <author>Dan Kois</author>.
+          <title>The World Only Spins Forward: The Ascent of <title>Angels in 
+            America</title></title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author>Butler, Judith</author>.
+          <title>Gender Trouble</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author ref="a:butler.oe">Butler, Octavia</author>.
@@ -437,7 +458,7 @@
           <date type="added" when="2017-02-19"/>
         </bibl>
         <bibl>
-          <editor>Chabon, Michael</editor>.
+          <editor ref="a:chabon.m">Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
           <trait ref="#tag.anthology"/>
         </bibl>
@@ -493,17 +514,13 @@
         </bibl>
         <bibl>
           <author ref="a:clare.c">Clare, Cassandra</author>.
-          <title>The Mortal Instruments: City of Fallen Angels</title>.
+          <title>City of Fallen Angels</title>.
           <series><title>The Mortal Instruments</title></series>
         </bibl>
         <bibl>
           <author ref="a:clarke.ac">Clarke, Sir Arthur C.</author>
           <title>2001: A Space Odyssey</title>.
           <series><title>Space Odyssey</title></series>
-        </bibl>
-        <bibl>
-          <author>Clarke, Brock</author>.
-          <title>An Arsonist’s Guide to Writers’ Homes in New England</title>.
         </bibl>
         <bibl>
           <author>Cleage, Pearl</author>.
@@ -518,6 +535,12 @@
           <title>We Were Eight Years in Power</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-11-18"/>
+        </bibl>
+        <bibl>
+          <author>Cohen, Cathy</author>.
+          <title>The Boundaries of Blackness: AIDS and the Breakdown of Black Politics</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author ref="a:constanti.s">Constantine, Storm</author>.
@@ -596,6 +619,12 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <author>Devenport, Emily</author>.
+          <title>Medusa Uploaded</title>.
+          <series><title>The Medusa Cycle</title></series>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author>Dick, Phillip K.</author>
           <title>Do Androids Dream of Electric Sheep?</title>.
         </bibl>
@@ -636,6 +665,12 @@
         <bibl>
           <author>Dumas, Alexander</author>.
           <title>The Count of Monte Cristo</title>.
+        </bibl>
+        <bibl>
+          <author>Eddo-Lodge, Reni</author>.
+          <title>Why I’m No Longer Talking to White People About Race</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Edington, Ian</author>.
@@ -808,7 +843,7 @@
         </bibl>
         <bibl>
           <editor>Fox, Rose</editor> and
-          <editor>Daniel Jose Elder</editor>.
+          <editor>Daniel José Elder</editor>.
           <title>Long Hidden: Speculative Fiction from the Margins of History</title>.
           <trait ref="#tag.anthology"/>
         </bibl>
@@ -1040,6 +1075,7 @@
             <persName>Emily Wilson</persName>
           </respStmt>
           <title>The Odyssey</title>.
+          <date type="added" when="2018-02-19"/>
         </bibl>
         <bibl>
           <author>hooks, bell</author>.
@@ -1110,6 +1146,7 @@
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Obelisk Gate</title>.
+          <trait ref="#tag.owned" corresp="b:jemisin.nk.obeliskgate"/>
           <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
@@ -1118,8 +1155,26 @@
           <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
+          <author>Jerkins, Morgan</author>.
+          <title>This Will Be My Undoing: Living at the Intersection of Black, 
+            Female, and Feminist in (White) America</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author ref="a:johnson.ad">Johnson, Alaya Dawn</author>.
           <title>The Summer Prince</title>.
+        </bibl>
+        <bibl>
+          <author>Johnson, Chelsey</author>.
+          <title>Stray City</title>.
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author>Johnson, Denis</author>.
+          <title>The Largesse of the Sea Maiden: Stories</title>.
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Jordan, Robert</author>.
@@ -1216,6 +1271,7 @@
         <bibl>
           <author>Kingsolver, Barbara</author>.
           <title>The Bean Trees</title>.
+          <date type="added" when-custom="ash:youngadult"/>
         </bibl>
         <bibl>
           <author>Kingsolver, Barbara</author>.
@@ -1225,6 +1281,7 @@
         <bibl>
           <author>Kingsolver, Barbara</author>.
           <title>The Poisonwood Bible</title>.
+          <date type="added" when-custom="ash:youngadult"/>
         </bibl>
         <bibl>
           <author>Kipling, Rudyard</author>.
@@ -1362,6 +1419,12 @@
             Americas’s Racial Justice Movement</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
+          <author>Luiselli, Valeria</author>.
+          <title>Tell Me How It Ends: An Essay in Forty Questions</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author ref="a:lynch.s">Lynch, Scott</author>.
@@ -1516,11 +1579,6 @@
           <title>Resenting the Hero</title>.
         </bibl>
         <bibl>
-          <author>Morris, Jan</author>.
-          <title>Hav</title>.
-          <date type="added" when="2017-01-29"/>
-        </bibl>
-        <bibl>
           <author>Murakami, Haruki</author>.
           <title>1Q84</title>.
           <date type="added" when="2016-09-25"/>
@@ -1568,6 +1626,13 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Nelson, Maggie</author>.
+          <title>The Argonauts</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author>Niven, Larry</author>.
           <title>Ringworld</title>.
         </bibl>
@@ -1581,6 +1646,14 @@
           <title>Goldenhand</title>.
           <series><title>Abhorsen</title></series>
           <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Norman, Abby</author>.
+          <title>Ask Me About My Uterus: A Quest to Make Doctors Believe in Women’s 
+            Pain</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Norman, Don</author>.
@@ -1616,18 +1689,6 @@
           <date type="added" when="2016-08-20"/>
         </bibl>
         <bibl>
-          <author ref="a:oates.jc">Oates, Joyce Carol</author>.
-          <title>Beasts</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
-          <title>Home</title>.
-          <date type="added" when="2018-02-04"/>
-          <series>
-            <title>Binti</title>
-          </series>
-        </bibl>
-        <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>The Night Masquerade</title>.
           <date type="added" when="2018-02-04"/>
@@ -1639,6 +1700,12 @@
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Zahrah the Windseeker</title>.
           <date type="added" when="2016-06-05"/>
+        </bibl>
+        <bibl>
+          <author>Older, Daniel José</author>.
+          <title>Shadowshaper</title>.
+          <series><title>Shadowshaper</title></series>
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>O’Neil, Cathy</author>.
@@ -1722,6 +1789,12 @@
           <author ref="a:pierce.t">Pierce, Tamora</author>.
           <title>Beka Cooper: Bloodhound</title>.
           <series><title>Beka Cooper</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:pierce.t">Pierce, Tamora</author>.
+          <title>Tempests and Slaughter</title>.
+          <series><title>The Numair Chronicles</title></series>
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author ref="a:pierce.t">Pierce, Tamora</author>.
@@ -1901,6 +1974,12 @@
           <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
+          <author>Schwab, Victoria</author>.
+          <title>This Savage Song</title>.
+          <series><title>Monsters of Verity</title></series>
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author ref="a:scott.m">Scott, Melissa</author> and
           <author>Amy Griswold</author>
           <title>Death by Silver</title>.
@@ -1931,6 +2010,12 @@
         <bibl>
           <author>Senna, Danzy</author>.
           <title>Caucasia</title>.
+        </bibl>
+        <bibl>
+          <author>Serano, Julia</author>.
+          <title>Excluded: Making Feminist and Queer Movements More Inclusive</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author>Shakur, Assata</author>.
@@ -2153,6 +2238,11 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Ward, Jesmyn</author>.
+          <title>Sing, Unburied, Sing</title>.
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author>Way, Gerard</author>.
           <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
           <trait ref="#tag.comics"/>
@@ -2186,6 +2276,11 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
+          <author>Wolitzer, Meg</author>.
+          <title>The Female Persuasion</title>.
+          <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
           <author>Womack, Jack</author>.
           <title>Random Acts of Senseless Violence</title>.
           <date type="added" when="2017-06-29"/>
@@ -2195,6 +2290,11 @@
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:yolen.j">Yolen, Jane</author>.
+          <title>Mapping the Bones</title>.
+          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Yoshimoto, Banana</author>.

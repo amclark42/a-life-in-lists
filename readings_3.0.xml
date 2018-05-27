@@ -30,10 +30,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-05-20">
+          <p>Read <ref target="b:jemisin.nk.obeliskgate">The Obelisk Gate</ref>.</p>
+        </event>
+        <event from="2018-05-18" to="2018-05-20">
+          <p>Read <ref target="b:barker.mj.queergraphichistory">Queer: A Graphic History</ref>.</p>
+        </event>
+        <event from="2018-05-16" to="2018-05-17">
+          <p>Read <ref target="b:okorafor.n.bintihome">Binti: Home</ref>.</p>
+        </event>
+        <event from="2018-05-13" to="2018-05-16">
+          <p>Read <ref target="b:clarke.b.arsonistsguide">An Arsonist’s Guide to Writers’ Homes in New 
+            England</ref>.</p>
+        </event>
+        <event when="2018-05-10">
+          <p>Reread <ref target="b:okorafor.n.binti">Binti</ref>.</p>
+        </event>
+        <event from="2018-05-10" to="2018-05-12">
+          <p>Read <ref target="b:oates.jc.beasts">Beasts</ref>.</p>
+        </event>
         <event from="2018-05-02" to="2018-05-05">
           <p>Read <ref target="b:lafrenai.a.timrousbeastie">Tim’rous Beastie</ref>.</p>
         </event>
-        <event from="2018-04-27">
+        <event from="2018-04-27" to="2018-05-10">
           <p>Read <ref target="b:mcmasterbujold.l.warriorsapprentice">The Warrior’s Apprentice</ref>.</p>
         </event>
         <event from="2018-04-25" to="2018-04-27">
