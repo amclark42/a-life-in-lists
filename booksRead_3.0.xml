@@ -63,6 +63,57 @@
               <title></title>
             </series>
           </biblStruct>-->
+          
+          <biblStruct xml:id="bear.e.seathymistress">
+            <monogr>
+              <title>The Sea Thy Mistress</title>
+              <author>
+                <persName ref="a:bear.e"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-02-03"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Edda of Burdens</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="griffith.n">
+            <monogr>
+              <title>Ammonite</title>
+              <author>
+                <persName ref="a:griffith.n"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2002"/>
+                <date type="first-publication" when="1992"/>
+                <publisher>
+                  <orgName>The Ballentine Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kingsolver.b.beantrees">
+            <monogr>
+              <title>The Bean Trees</title>
+              <author>
+                <persName ref="a:kingsolver.b"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:youngadult"/>
+                <date type="copyright" when="1988"/>
+                <publisher>
+                  <orgName>Harper &amp; Row</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
 
           <biblStruct xml:id="stevenso.n.lumberjanes.3.terribleplan">
             <monogr>
@@ -240,6 +291,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2018-05-06"/>
+                <date type="added" when="2018-03-10"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
                   <orgName>Orbit</orgName>
@@ -5331,7 +5383,10 @@
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.queer"/>
-                <publisher/>
+                <date type="copyright" when="2006"/>
+                <publisher>
+                  <orgName>Houghton Mifflin Harcourt</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>

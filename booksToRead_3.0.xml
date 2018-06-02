@@ -210,6 +210,11 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Babb, Sanora</author>.
+          <title>Whose Names Are Unknown</title>.
+          <date type="added" when="2018-05-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:baker.k">Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <trait ref="#tag.comics"/>
@@ -1139,19 +1144,19 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Jama-Everett, Ayize</author>.
+          <title>The Liminal People</title>.
+          <date type="added" when="2018-06-02"/>
+        </bibl>
+        <bibl>
           <author>Jeffreys, Sheila</author>.
           <title>The Spinster and Her Enemies</title>.
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
-          <title>The Obelisk Gate</title>.
-          <trait ref="#tag.owned" corresp="b:jemisin.nk.obeliskgate"/>
-          <series><title>The Broken Earth</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Stone Sky</title>.
+          <date type="added" when="2018-03-10"/>
           <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
@@ -1269,17 +1274,17 @@
           <date type="added" when="2018-03-03"/>
         </bibl>
         <bibl>
-          <author>Kingsolver, Barbara</author>.
+          <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
           <title>The Bean Trees</title>.
           <date type="added" when-custom="ash:youngadult"/>
         </bibl>
         <bibl>
-          <author>Kingsolver, Barbara</author>.
+          <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
           <title>Flight Behavior</title>.
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
-          <author>Kingsolver, Barbara</author>.
+          <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
           <title>The Poisonwood Bible</title>.
           <date type="added" when-custom="ash:youngadult"/>
         </bibl>

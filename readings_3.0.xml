@@ -30,7 +30,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-05-20">
+        <event from="2018-05-30">
+          <p>Read <ref target="b:kingsolver.b.beantrees">The Bean Trees</ref>.</p>
+        </event>
+        <event when="2018-05-30">
+          <p>Read <ref target="b:stevenso.n.lumberjanes.3.terribleplan">Lumberjanes Vol. 3: A Terrible 
+            Plan</ref>.</p>
+        </event>
+        <event from="2018-05-20" to="2018-05-29">
           <p>Read <ref target="b:jemisin.nk.obeliskgate">The Obelisk Gate</ref>.</p>
         </event>
         <event from="2018-05-18" to="2018-05-20">

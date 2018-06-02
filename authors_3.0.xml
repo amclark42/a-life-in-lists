@@ -42,6 +42,14 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        <person xml:id="kingsolver.b">
+          <persName>
+            <forename>Barbara</forename>
+            <surname>Kingsolver</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="watters.s">
           <persName>
             <forename>Shannon</forename>
