@@ -928,10 +928,6 @@
           <date type="added" when="2017-10-07"/>
         </bibl>
         <bibl>
-          <author ref="a:griffith.n">Griffith, Nicola</author>.
-          <title>Ammonite</title>.
-        </bibl>
-        <bibl>
           <author>Goodman, Alison</author>.
           <title>Singing the Dogstar Blues</title>.
         </bibl>
@@ -1272,11 +1268,6 @@
           <author ref="a:kingfisher.t">Kingfisher, T.</author>
           <title>Summer in Orcus</title>.
           <date type="added" when="2018-03-03"/>
-        </bibl>
-        <bibl>
-          <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
-          <title>The Bean Trees</title>.
-          <date type="added" when-custom="ash:youngadult"/>
         </bibl>
         <bibl>
           <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.

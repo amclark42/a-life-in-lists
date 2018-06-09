@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-05-30">
+        <event from="2018-06-09">
+          <p>Read <ref target="b:bear.e.seathymistress">The Sea Thy Mistress</ref>.</p>
+        </event>
+        <event from="2018-06-08" to="2018-06-09">
+          <p>Reread <ref target="b:bechdel.a.funhome">Fun Home: A Family Tragicomic</ref>.</p>
+        </event>
+        <event from="2018-06-03" to="2018-06-08">
+          <p>Read <ref target="b:griffith.n.ammonite">Ammonite</ref>.</p>
+        </event>
+        <event from="2018-05-30" to="2018-06-03">
           <p>Read <ref target="b:kingsolver.b.beantrees">The Bean Trees</ref>.</p>
         </event>
         <event when="2018-05-30">
@@ -3207,7 +3216,7 @@
           <p>Read <ref target="b:satrapi.m.embroideries">Embroideries</ref>.</p>
         </event>
         <event when="2008-04-30">
-          <p>Read <ref target="b:bechdel.a.funhomefamilytragicomic">Fun Home: A Family Tragicomic</ref>.</p>
+          <p>Read <ref target="b:bechdel.a.funhome">Fun Home: A Family Tragicomic</ref>.</p>
         </event>
         <event when="2008-04-25">
           <p>Read <ref target="b:rieber.jn.booksmagic.bindings">Books of Magic: Bindings</ref>.</p>

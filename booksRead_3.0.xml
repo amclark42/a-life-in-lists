@@ -64,6 +64,8 @@
             </series>
           </biblStruct>-->
           
+          <!-- Break lines at column 100. -->
+          
           <biblStruct xml:id="bear.e.seathymistress">
             <monogr>
               <title>The Sea Thy Mistress</title>
@@ -83,13 +85,15 @@
             </series>
           </biblStruct>
           
-          <biblStruct xml:id="griffith.n">
+          <biblStruct xml:id="griffith.n.ammonite">
             <monogr>
               <title>Ammonite</title>
               <author>
                 <persName ref="a:griffith.n"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when-custom="ash:freelancer"/>
                 <date type="copyright" when="2002"/>
                 <date type="first-publication" when="1992"/>
                 <publisher>
@@ -5370,7 +5374,7 @@
             </monogr>
           </biblStruct>
 
-          <biblStruct xml:id="bechdel.a.funhomefamilytragicomic">
+          <biblStruct xml:id="bechdel.a.funhome">
             <monogr>
               <title>Fun Home: A Family Tragicomic</title>
               <respStmt>
