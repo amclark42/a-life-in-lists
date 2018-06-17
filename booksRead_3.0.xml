@@ -18191,9 +18191,12 @@
                 <persName ref="a:mcneil.cs"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.owned" from-custom="ash:freelancer"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Dark Horse Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>

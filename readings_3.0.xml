@@ -30,7 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-06-09">
+        <event when="2018-06-17">
+          <p>Read <ref target="b:north.r.squirrelgirl.4.ikissedasquirrel">The Unbeatable Squirrel Girl 
+            Vol. 4: I Kissed a Squirrel and I Liked It</ref>.</p>
+        </event>
+        <event from="2018-06-15">
+          <p>Read <ref target="b:leckie.a.ancillarymercy">Ancillary Mercy</ref>.</p>
+        </event>
+        <event when="2018-06-15">
+          <p>Reread <ref target="b:ryan.s.badhouses">Bad Houses</ref>.</p>
+        </event>
+        <event from="2018-06-09" to="2018-06-15">
           <p>Read <ref target="b:bear.e.seathymistress">The Sea Thy Mistress</ref>.</p>
         </event>
         <event from="2018-06-08" to="2018-06-09">
