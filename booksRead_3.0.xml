@@ -757,6 +757,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2018-01-11"/>
                 <catRef target="#tag.queer"/>
+                <date type="added" when="2018-01-13"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
                   <orgName>Orbit</orgName>

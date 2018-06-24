@@ -1333,13 +1333,6 @@
           <title>Rent</title>.
         </bibl>
         <bibl>
-          <author ref="a:leckie.a">Leckie, Ann</author>.
-          <title>Ancillary Mercy</title>.
-          <series><title>Imperial Radch</title></series>
-          <trait ref="#tag.owned" corresp="b:leckie.a.ancillarymercy"/>
-          <date type="added" when="2018-01-13"/>
-        </bibl>
-        <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
           <title>The Dispossessed</title>.
           <date type="added" when="2016-07-09"/>
