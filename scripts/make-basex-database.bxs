@@ -1,0 +1,24 @@
+## Create a database of lists
+#
+# To run, enter the BaseX Client and enter the command 
+# `execute ../a-life-in-lists/scripts/make-basex-database.bxs`. 
+# (This script assumes that the repository is placed beside the BaseX directory.)
+
+set chop false;
+set skipcorrupt true;
+set xinclude false;
+set ftindex true;
+set ftinclude Q{http://www.tei-c.org/ns/1.0}p;
+set updindex true;
+set autooptimize true
+
+create db lists
+open lists
+add ../a-life-in-lists/authors_3.0.xml
+add ../a-life-in-lists/booksRead_3.0.xml
+add ../a-life-in-lists/booksToRead_3.0.xml
+add ../a-life-in-lists/firstBooksRead.xml
+add ../a-life-in-lists/quotes.xml
+add ../a-life-in-lists/readings_3.0.xml
+add ../a-life-in-lists/timeline.xml
+close
