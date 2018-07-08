@@ -12678,7 +12678,11 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstart" when="2011-07-29"/>
-                <publisher/>
+                <date type="first-printing" when="2011-10"/>
+                <date type="first-publication" from="2000-07-31" to="2003-07-19"/>
+                <publisher>
+                  <orgName>Couscous Collective</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -12848,7 +12852,10 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstart" when="2011-07-29"/>
-                <publisher/>
+                <date type="first-publication" from="2003-07-20" to="2006-06-02"/>
+                <publisher>
+                  <orgName>Couscous Collective</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
