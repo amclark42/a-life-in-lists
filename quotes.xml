@@ -42,6 +42,36 @@
             <title></title>
           </bibl>
         </item>-->
+
+        <item>
+          <quote>
+            <p>They thought the facades of the houses very magnificent—they could not praise them highly 
+              enough. But the sad decay, which buildings, bridges and church all displayed, seemed to 
+              charm them even more. They were Englishmen, and, to them, the decline of other nations was 
+              the most natural thing in the world. They belonged to a race blessed with so sensitive an 
+              appreciation of its own talents (and so doubtful of any body else’s) that they would not 
+              have been surprized to learn that the Venetians themselves had been entirely ignorant of 
+              the merits of their own city—until Englishmen had come to tell them it was delightful.</p>
+          </quote>
+          <bibl>
+            <author>Susanna Clarke</author>,
+            <title rend="italic">Jonathan Strange and Mr. Norrell</title>
+          </bibl>
+        </item>
+
+        <item>
+          <quote>
+            <p>It is precisely by passing judgements upon other people’s work and pointing out their 
+              errors that readers can be made to understand your own opinions better. It is the easiest 
+              thing in the world to turn a review to one’s own ends. One only need mention the book 
+              once or twice and for the rest of the article one may develop one’s theme just as one 
+              chuses.</p>
+          </quote>
+          <bibl>
+            <author>Susanna Clarke</author>,
+            <title rend="italic">Jonathan Strange and Mr. Norrell</title>
+          </bibl>
+        </item>
         
         <item>
           <quote>
@@ -2347,7 +2377,7 @@
 
         <item>
           <quote>
-            <p>There is nothing in the world so easy to explain as failure – it is,
+            <p>There is nothing in the world so easy to explain as failure—it is,
               after all, what every body does all the time.</p>
           </quote>
           <bibl>

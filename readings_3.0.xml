@@ -30,11 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-07-14">
+          <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.10">Pretty Guardian Sailor Moon 
+            Vol. 10</ref>.</p>
+        </event>
+        <event when="2018-07-11">
+          <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.9">Pretty Guardian Sailor Moon 
+            Vol. 9</ref>.</p>
+        </event>
         <event from="2018-07-03">
           <p>Reread <ref target="b:garrity.sk.narbonicperfectcollectionbook1">Narbonic: The Perfect 
             Collection Book 1</ref>.</p>
         </event>
-        <event from="2018-06-23">
+        <event from="2018-06-23" to="2018-07-12">
           <p>Reread <ref target="b:clarke.s.jonathanstrangemrnorrell">Jonathan Strange &amp; Mr. Norrell</ref>.</p>
         </event>
         <event when="2018-06-17">
