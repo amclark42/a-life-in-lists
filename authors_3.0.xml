@@ -42,6 +42,99 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        
+        <person xml:id="kendrick.a">
+          <persName>
+            <forename>Anna</forename>
+            <surname>Kendrick</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="roach.m">
+          <persName>
+            <forename>Mary</forename>
+            <surname>Roach</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="doctorow.c">
+          <persName>
+            <forename>Cory</forename>
+            <surname>Doctorow</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="garrés.r">
+          <persName>
+            <forename>Rafael</forename>
+            <surname>Garrés Cervantes</surname>
+          </persName>
+          <persName type="alternate">
+            <forename>Rafa</forename>
+            <surname>Garrés</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="irving.f">
+          <persName>
+            <forename>Frazer</forename>
+            <surname>Irving</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="brown.k">
+          <persName>
+            <forename>Kate</forename>
+            <surname>Brown</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lotay.t">
+          <persName>
+            <forename>Tula</forename>
+            <surname>Lotay</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hans.s">
+          <persName>
+            <forename>Stephanie</forename>
+            <surname>Hans</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="graham.b">
+          <persName>
+            <forename>Brandon</forename>
+            <surname>Graham</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lopes.m">
+          <persName>
+            <forename>Mat</forename>
+            <surname>Lopes</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hambly.b">
+          <persName>
+            <forename>Barbara</forename>
+            <surname>Hambly</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="kingsolver.b">
           <persName>
             <forename>Barbara</forename>
@@ -2825,8 +2918,8 @@
 
         <person xml:id="duca.ld">
           <persName>
-            <forename>Leila Del</forename>
-            <surname>Duca</surname>
+            <forename>Leila</forename>
+            <surname>Del Duca</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
         </person>

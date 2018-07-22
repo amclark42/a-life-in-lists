@@ -914,6 +914,11 @@
           <series><title>Newsflesh Trilogy</title></series>
         </bibl>
         <bibl>
+          <author ref="a:grant.m">Grant, Mira</author>.
+          <title>Into the Drowning Deep</title>.
+          <date type="added" when="2018-07-21"/>
+        </bibl>
+        <bibl>
           <author>Green, Henry</author>.
           <title>Living, Loving, Partly Going</title>.
         </bibl>
@@ -964,6 +969,12 @@
           <title>A Nation Under Our Feet: Black Political Struggles in the Rural
             South from Slavery to the Great Migration</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author ref="a:hambly.b">Hambly, Barbara</author>.
+          <title>Fever Season</title>.
+          <series><title>Benjamin January</title></series>
+          <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
           <author>Hammet, Dashiell</author>.
@@ -1280,6 +1291,11 @@
           <title>Kim</title>.
         </bibl>
         <bibl>
+          <author>Kirstein, Rosemary</author>.
+          <title>The Steerswoman’s Road</title>.
+          <date type="added" when="2018-07-21"/>
+        </bibl>
+        <bibl>
           <author ref="a:knisley.l">Knisley, Lucy</author>.
           <title>An Age of License: A Travelogue</title>.
           <trait ref="#tag.comics"/>
@@ -1483,11 +1499,29 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <author>McElroy, Clint</author>,
+          <author>Griffin McElroy</author>,
+          <author>Justin McElroy</author>,
+          <author>Travis McElroy</author>,
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Carey Pietsch</persName>
+          </respStmt>.
+          <title>The Adventure Zone: Here There Be Gerblins</title>.
+          <series><title>The Adventure Zone</title></series>
+          <date type="added" when="2018-07-22"/>
+        </bibl>
+        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2014-09-30"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>The Girl in the Green Silk Dress</title>.
+          <date type="added" when="2018-07-22"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2083,6 +2117,11 @@
           <series><title>Study</title></series>
           <series><title>The Chronicles of Ixia</title></series>
           <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Solomon, River</author>.
+          <title>An Unkindness of Ghosts</title>.
+          <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
           <author>Somtow, S.P.</author>

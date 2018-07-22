@@ -30,6 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-07-20">
+          <p>Read <ref target="b:hambly.b.freemanofcolor">A Free Man of Color</ref>.</p>
+        </event>
+        <event when="2018-07-18">
+          <p>Reread <ref target="b:north.r.squirrelgirl.squirrelpower">The Unbeatable Squirrel Girl: 
+            Squirrel Power</ref>.</p>
+        </event>
         <event when="2018-07-14">
           <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.10">Pretty Guardian Sailor Moon 
             Vol. 10</ref>.</p>
@@ -38,7 +45,7 @@
           <p>Reread <ref target="b:takeuchi.n.prettyguardiansailormoon.9">Pretty Guardian Sailor Moon 
             Vol. 9</ref>.</p>
         </event>
-        <event from="2018-07-03">
+        <event from="2018-07-03" to="2018-07-20">
           <p>Reread <ref target="b:garrity.sk.narbonicperfectcollectionbook1">Narbonic: The Perfect 
             Collection Book 1</ref>.</p>
         </event>
