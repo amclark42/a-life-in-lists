@@ -30,7 +30,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-07-26">
+        <event from="2018-08-04">
+          <p>Read <ref target="b:walton.j.justcity">The Just City</ref>.</p>
+        </event>
+        <event when="2018-07-29">
+          <p>Read <ref target="b:gillen.k.wickeddivine.3.commercialsuicide">The Wicked and the Divine 
+            Vol. 3: Commercial Suicide</ref>.</p>
+        </event>
+        <event from="2018-07-26" to="2018-08-04">
           <p>Read <ref target="b:roach.m.grunt">Grunt</ref>.</p>
         </event>
         <event from="2018-07-20" to="2018-07-25">
@@ -765,7 +772,8 @@
           <p>Read <ref target="b:aaron.j.thor.goddessthunder">Thor: Goddess of Thunder</ref>.</p>
         </event>
         <event when="2015-12-27">
-          <p>Read <ref target="b:gillen.k.wickeddivine.fandemonium">The Wicked and the Divine: Fandemonium</ref>.</p>
+          <p>Read <ref target="b:gillen.k.wickeddivine.2.fandemonium">The Wicked and the Divine Vol. 2: 
+            Fandemonium</ref>.</p>
         </event>
         <event from="2015-12-11" to="2015-12-27">
           <p>Reread <ref target="b:kerr.p.wildswans">The Wild Swans</ref>.</p>
