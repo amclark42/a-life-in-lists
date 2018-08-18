@@ -30,7 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-08-04">
+        <event from="2018-08-16">
+          <p>Read <ref target="b:kendrick.a.scrappylittlenobody">Scrappy Little Nobody</ref>.</p>
+        </event>
+        <event when="2018-08-15">
+          <p>Read <ref target="b:aaron.j.mightythor.2.lordsmidgard">The Mighty Thor Vol. 2: Lords of 
+            Midgard</ref>.</p>
+        </event>
+        <event when="2018-08-12">
+          <p>Read <ref target="b:doctorow.c.irl">In Real Life</ref>.</p>
+        </event>
+        <event from="2018-08-04" to="2018-08-16">
           <p>Read <ref target="b:walton.j.justcity">The Just City</ref>.</p>
         </event>
         <event when="2018-07-29">

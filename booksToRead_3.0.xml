@@ -2288,9 +2288,15 @@
         </bibl>
         <bibl>
           <author ref="a:walton.j">Walton, Jo</author>.
-          <title>The Just City</title>.
+          <title>The Philosopher Kings</title>.
           <series><title>Thessaly</title></series>
-          <date type="added" when="2016-10-01"/>
+          <date type="added" when="2018-08-16"/>
+        </bibl>
+        <bibl>
+          <author ref="a:walton.j">Walton, Jo</author>.
+          <title>Necessity</title>.
+          <series><title>Thessaly</title></series>
+          <date type="added" when="2018-08-16"/>
         </bibl>
         <bibl>
           <author>Ward, Jesmyn</author>.
