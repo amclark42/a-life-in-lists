@@ -49,6 +49,32 @@
         <head>Books to Read</head>
         
         <bibl>
+          <author ref="a:aaron.j">Aaron, Jason</author>, and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:dauterma.r">Russell Dauterman</persName>
+          </respStmt>.
+          <title>Thor Vol. 2: Who Holds the Hammer?</title>
+          <trait ref="#tag.comics"/>
+          <series>
+            <title>Thor</title>
+          </series>
+          <date type="added" when="2018-08-25"/>
+        </bibl>
+        <bibl>
+          <author ref="a:aaron.j">Aaron, Jason</author>, and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:dauterma.r">Russell Dauterman</persName>
+          </respStmt>.
+          <title>The Mighty Thor Vol. 1: Thunder in Her Veins</title>
+          <trait ref="#tag.comics"/>
+          <series>
+            <title>The Mighty Thor</title>
+          </series>
+          <date type="added" when="2018-08-25"/>
+        </bibl>
+        <bibl>
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil 
             War</title>.
@@ -712,7 +738,7 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Eliot, George</author>.
+          <author ref="a:eliot.g">Eliot, George</author>.
           <title>Middlemarch</title>.
           <date type="added" when="2017-06-29"/>
         </bibl>
@@ -1210,13 +1236,6 @@
         <bibl>
           <author>Kay, Elizabeth</author>.
           <title>The Divide</title>.
-        </bibl>
-        <bibl>
-          <author>Kendrick, Anna</author>.
-          <title>Scrappy Little Nobody</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2017-07-18"/>
         </bibl>
         <bibl>
           <author>Kesey, Ken</author>.
@@ -1775,6 +1794,14 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
+          <author>Palmer, Ada</author>.
+          <title>Too Like The Lightning</title>.
+          <series>
+            <title>Terra Ignota</title>
+          </series>
+          <date type="added" when="2018-08-18"/>
+        </bibl>
+        <bibl>
           <author>Palmer, Dexter</author>.
           <title>Version Control</title>.
           <date type="added" when="2017-03-10"/>
@@ -1855,11 +1882,6 @@
           <title>The Chosen</title>.
         </bibl>
         <bibl>
-          <author ref="a:robinson.ks">Robinson, Kim Stanley</author>.
-          <title>Icehenge</title>.
-          <date type="added" when="2017-06-29"/>
-        </bibl>
-        <bibl>
           <author>Potok, Chaim</author>.
           <title>The Chosen</title>.
         </bibl>
@@ -1911,6 +1933,11 @@
           <date type="added" when="2018-08-04"/>
         </bibl>
         <bibl>
+          <author ref="a:robinson.ks">Robinson, Kim Stanley</author>.
+          <title>Icehenge</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Rodi, Robert</author>.
           <title>What They Did to Princess Paragon</title>.
         </bibl>
@@ -1930,14 +1957,14 @@
           <series><title>Tales of the Otori</title></series>
         </bibl>
         <bibl>
-          <author>Ruff, Mark</author>.
-          <title>Lovecraft Country</title>.
-          <date type="added" when="2017-07-30"/>
-        </bibl>
-        <bibl>
           <author ref="a:rucka.g">Rucka, Greg</author>.
           <title>Keeper</title>.
           <series><title>Atticus Kodiak</title></series>
+        </bibl>
+        <bibl>
+          <author>Ruff, Mark</author>.
+          <title>Lovecraft Country</title>.
+          <date type="added" when="2017-07-30"/>
         </bibl>
         <bibl>
           <editor>Rusch, Kristine Kathryn</editor>.
@@ -1967,6 +1994,11 @@
           <author ref="a:russ.j">Russ, Joanna</author>.
           <title>Extra (Ordinary) People</title>.
           <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
+          <author>Russell, Karen</author>.
+          <title>St. Lucy’s Home for Girls Raised by Wolves</title>.
+          <date type="added" when="2018-08-26"/>
         </bibl>
         <bibl>
           <author>Ryan, Carrie</author>.

@@ -43,6 +43,83 @@
         </person>-->
         
         
+        <person xml:id="jackson.s">
+          <persName>
+            <forename>Shirley</forename>
+            <surname>Jackson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="eliot.g">
+          <persName type="pseudonym">
+            <forename>George</forename>
+            <surname>Eliot</surname>
+          </persName>
+          <persName>
+            <forename>Mary Anne</forename>
+            <surname>Evans</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ashton.r">
+          <persName>
+            <forename>Rosemary</forename>
+            <surname>Ashton</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lethem.j">
+          <persName>
+            <forename>Jonathan</forename>
+            <surname>Letham</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        
+        <person xml:id="allegri.n">
+          <persName>
+            <forename>Natasha</forename>
+            <surname>Allegri</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="wilson.me">
+          <persName>
+            <forename>Megan</forename>
+            <surname>Wilson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="horikoshi.k">
+          <persName>
+            <forename>Kohei</forename>
+            <surname>Horikoshi</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hunt.j">
+          <persName>
+            <forename>John</forename>
+            <surname>Hunt</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="eisenberg.r">
+          <persName>
+            <forename>Robin</forename>
+            <surname>Eisenberg</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="kendrick.a">
           <persName>
             <forename>Anna</forename>
@@ -161,7 +238,7 @@
         
         <person xml:id="williams.b">
           <persName>
-            <forename>Brittney</forename>
+            <forename>Brittney L.</forename>
             <surname>Williams</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
@@ -1811,11 +1888,11 @@
         </person>
 
         <person xml:id="theoatmeal">
+          <persName type="pseudonym">The Oatmeal</persName>
           <persName>
             <forename>Matthew</forename>
             <surname>Inman</surname>
           </persName>
-          <persName type="pseudonym">The Oatmeal</persName>
           <gender value="male" evidence="conjecture"/>
         </person>
 
@@ -5138,8 +5215,8 @@
         </person>
 
         <person xml:id="avi">
+          <persName type="pseudonym">Avi</persName>
           <persName>
-            <addName type="pseudonym">Avi</addName>
             <forename>Edward Irving</forename>
             <surname>Wortis</surname>
           </persName>
@@ -6541,7 +6618,7 @@
           <gender value="female" evidence="self-identification"/>
 
           <persona xml:id="grant.m">
-            <persName type="psuedonym">
+            <persName type="pseudonym">
               <forename>Mira</forename>
               <surname>Grant</surname>
             </persName>
