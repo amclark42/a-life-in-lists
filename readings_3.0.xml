@@ -30,6 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-09-03">
+          <p>Read <ref target="b:leth.k.patsywalkerhellcat.1.hookedonafeline">Patsy Walker, A.K.A. 
+            Hellcat! Vol. 1: Hooked on a Feline</ref>.</p>
+        </event>
+        <event when="2018-08-30">
+          <p>Read <ref target="b:horikoshi.k.myheroacademia.1">My Hero Academia Vol. 1</ref>.</p>
+        </event>
         <event from="2018-08-25">
           <p>Read <ref target="b:eliot.g.middlemarch">Middlemarch</ref>.</p>
         </event>

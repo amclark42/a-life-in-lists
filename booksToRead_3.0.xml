@@ -1366,6 +1366,16 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Larson, Hope</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Brittney Williams</persName>
+          </respStmt>
+          <title>Goldie Vance</title>.
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2018-09-03"/>
+        </bibl>
+        <bibl>
           <author>Larson, Jonathan</author>.
           <title>Rent</title>.
         </bibl>
@@ -1485,6 +1495,12 @@
           <author>Mann, Charles C.</author>
           <title>1491: New Revelations of the Americas Before Columbus</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Marks, Laurie J.</author>
+          <title>Fire Logic</title>.
+          <series><title>Fire Logic</title></series>
+          <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
           <author>Marley, Louise</author>.
@@ -1745,6 +1761,11 @@
           <series>
             <title>The Janet Watson Chronicles</title>
           </series>
+        </bibl>
+        <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
+          <title>Akata Witch</title>.
+          <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
@@ -2145,6 +2166,11 @@
           <date type="added" when="2017-09-03"/>
         </bibl>
         <bibl>
+          <author>Smith, Sherri L.</author>
+          <title>Orleans</title>.
+          <date type="added" when="2018-09-03"/>
+        </bibl>
+        <bibl>
           <author>Smith, Zadie</author>.
           <title>White Teeth</title>.
         </bibl>
@@ -2367,6 +2393,11 @@
           <author>Windling, Terri</author>.
           <title>The Wood Wife</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Winters, Cat</author>.
+          <title>The Steep &amp; Thorny Way</title>.
+          <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
           <author>Wolitzer, Meg</author>.
