@@ -278,6 +278,7 @@
           <author ref="a:beagle.ps">Beagle, Peter S.</author>
           <title>Summerlong</title>.
           <date type="added" when="2017-01-07"/>
+          <trait ref="#tag.owned" corresp="b:beagle.ps.summerlong"/>
         </bibl>
         <bibl>
           <author ref="a:bear.e">Bear, Elizabeth</author>.
@@ -741,6 +742,7 @@
           <author ref="a:eliot.g">Eliot, George</author>.
           <title>Middlemarch</title>.
           <date type="added" when="2017-06-29"/>
+          <trait ref="#tag.owned" corresp="b:eliot.g.middlemarch"/>
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -1186,6 +1188,7 @@
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Stone Sky</title>.
           <date type="added" when="2018-03-10"/>
+          <trait ref="#tag.owned" corresp="b:jemisin.nk.stonesky"/>
           <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
@@ -1380,6 +1383,11 @@
           <title>Rent</title>.
         </bibl>
         <bibl>
+          <author ref="a:leckie.a">Leckie, Ann</author>.
+          <title>Provenance</title>.
+          <date type="added" when="2018-09-16"/>
+        </bibl>
+        <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
           <title>The Dispossessed</title>.
           <date type="added" when="2016-07-09"/>
@@ -1389,6 +1397,7 @@
           <title>The Farthest Shore</title>.
           <series><title>Earthsea Cycle</title></series>
           <date type="added" when="2016-07-09"/>
+          <trait ref="#tag.owned" corresp="b:kleguin.u.farthestshore"/>
         </bibl>
         <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
@@ -1534,19 +1543,6 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
-          <author>McElroy, Clint</author>,
-          <author>Griffin McElroy</author>,
-          <author>Justin McElroy</author>,
-          <author>Travis McElroy</author>,
-          <respStmt>
-            <resp n="artist"/>
-            <persName>Carey Pietsch</persName>
-          </respStmt>.
-          <title>The Adventure Zone: Here There Be Gerblins</title>.
-          <series><title>The Adventure Zone</title></series>
-          <date type="added" when="2018-07-22"/>
-        </bibl>
-        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>
@@ -1597,6 +1593,15 @@
         <bibl>
           <author>McMahon, Jennifer</author>.
           <title>Island of Lost Girls</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
+          <title>The Vor Game</title>.
+          <series>
+            <title>The Vorkosigan Saga</title>
+          </series>
+          <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
+          <!-- I neglected to add this after reading The Warrior's Apprentice. -->
         </bibl>
         <bibl>
           <author>McRobbie, Linda Rodriguez</author>.
@@ -2005,6 +2010,7 @@
           <author ref="a:rushdie.s">Rushdie, Salman</author>.
           <title>Midnight’s Children</title>.
           <date type="added" when="2017-06-29"/>
+          <trait ref="#tag.owned" corresp="b:rushdie.s.midnightschildren"/>
         </bibl>
         <bibl>
           <author ref="a:russ.j">Russ, Joanna</author>.

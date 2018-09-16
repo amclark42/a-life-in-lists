@@ -67,6 +67,157 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="huff.t.summonkeeper">
+            <monogr>
+              <title>Summon the Keeper</title>
+              <author>
+                <persName ref="a:huff.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="copyright" when="1998"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Keeper’s Chronicles</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="kleguin.u.farthestshore">
+            <monogr>
+              <title>The Farthest Shore</title>
+              <author>
+                <persName ref="a:kleguin.u"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="added" when="2016-07-09"/>
+                <date type="copyright" when="1972"/>
+                <date type="publication" when="2014"/>
+                <publisher>
+                  <orgName>Saga Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Earthsea Cycle</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcmasterbujold.l.youngmiles">
+            <analytic corresp="#mcmasterbujold.l.warriorsapprentice">
+              <title>The Warrior’s Apprentice</title>
+              <date type="copyright" when="1986"/>
+            </analytic>
+            <analytic>
+              <title>The Mountains of Mourning</title>
+              <date type="copyright" when="1989"/>
+            </analytic>
+            <analytic xml:id="mcmasterbujold.l.vorgame">
+              <title>The Vor Game</title>
+              <date type="copyright" when="1990"/>
+            </analytic>
+            <monogr>
+              <title>Young Miles</title>
+              <author>
+                <persName ref="a:mcmasterbujold.l"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="copyright" when="1997"/>
+                <publisher>
+                  <orgName>Baen Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Vorkosigan Saga</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="jemisin.nk.stonesky">
+            <monogr>
+              <title>The Stone Sky</title>
+              <author>
+                <persName ref="a:jemisin.nk"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="added" when="2018-03-10"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Broken Earth</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="beagle.ps.summerlong">
+            <monogr>
+              <title>Summerlong</title>
+              <author>
+                <persName ref="a:beagle.ps"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="added" when="2017-01-07"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Tachyon Publications LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcelroy.c.theadventurezone.1.gerblins">
+            <monogr>
+              <title>The Adventure Zone: Here There Be Gerblins</title>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="artist"/>
+                <persName ref="a:pietsch.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:stone.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:smith.n"/>
+                <persName ref="a:brennan.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.g"/>
+                <persName ref="a:mcelroy.j"/>
+                <persName ref="a:mcelroy.t"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2018-09-13"/>
+                <date type="added" when="2018-07-22"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Adventure Zone</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="rushdie.s.midnightschildren">
             <monogr>
               <title>Midnight’s Children</title>

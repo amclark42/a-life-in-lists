@@ -30,6 +30,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2018-09-13">
+          <p>Read <ref target="b:mcelroy.c.theadventurezone.1.gerblins">The Adventure Zone: Here 
+            There Be Gerblins</ref>.</p>
+        </event>
         <event when="2018-09-03">
           <p>Read <ref target="b:leth.k.patsywalkerhellcat.1.hookedonafeline">Patsy Walker, A.K.A. 
             Hellcat! Vol. 1: Hooked on a Feline</ref>.</p>
