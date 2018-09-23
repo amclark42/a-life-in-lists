@@ -305,6 +305,11 @@
           <title>The Jaguar Princess</title>.
         </bibl>
         <bibl>
+          <author>Benjamin, Chloe</author>.
+          <title>The Immortalists</title>.
+          <date type="added" when="2018-09-23"/>
+        </bibl>
+        <bibl>
           <author>Bergemann, Rosalind A.</author>
           <title>An Asperger’s Guide to Public Speaking</title>.
           <trait ref="#tag.nonfiction"/>
@@ -412,6 +417,11 @@
         <bibl>
           <author>Budrys, Algis</author>.
           <title>Rogue Moon</title>.
+        </bibl>
+        <bibl>
+          <author>Bull, Emma</author>.
+          <title>War for the Oaks</title>.
+          <date type="added" when="2018-09-23"/>
         </bibl>
         <bibl>
           <author>Butler, Isaac</author>, and
@@ -737,12 +747,6 @@
           <author>Eichenwald, Kurt</author>.
           <title>500 Days: Secrets and Lies in the Terror Wars</title>.
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author ref="a:eliot.g">Eliot, George</author>.
-          <title>Middlemarch</title>.
-          <date type="added" when="2017-06-29"/>
-          <trait ref="#tag.owned" corresp="b:eliot.g.middlemarch"/>
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -1640,6 +1644,11 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Mosley, Walter</author>.
+          <title>Down the River Unto the Sea</title>.
+          <date type="added" when="2018-09-23"/>
+        </bibl>
+        <bibl>
           <author>Moore, Moira</author>.
           <title>Resenting the Hero</title>.
         </bibl>
@@ -2010,7 +2019,6 @@
           <author ref="a:rushdie.s">Rushdie, Salman</author>.
           <title>Midnight’s Children</title>.
           <date type="added" when="2017-06-29"/>
-          <trait ref="#tag.owned" corresp="b:rushdie.s.midnightschildren"/>
         </bibl>
         <bibl>
           <author ref="a:russ.j">Russ, Joanna</author>.
@@ -2269,6 +2277,14 @@
         <bibl>
           <author ref="a:thomas.s">Thomas, Scarlett</author>.
           <title>The End of Mr. Y</title>.
+        </bibl>
+        <bibl>
+          <author>Thompson, Tade</author>.
+          <title>Rosewater</title>.
+          <series>
+            <title>The Wormwood Trilogy</title>
+          </series>
+          <date type="added" when="2018-09-23"/>
         </bibl>
         <bibl>
           <author>Trivers, Robert</author>.

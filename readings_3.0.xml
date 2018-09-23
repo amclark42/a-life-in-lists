@@ -30,6 +30,9 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-09-22">
+          <p>Read <ref target="b:jackson.s.wehavealways">We Have Always Lived in the Castle</ref>.</p>
+        </event>
         <event when="2018-09-13">
           <p>Read <ref target="b:mcelroy.c.theadventurezone.1.gerblins">The Adventure Zone: Here 
             There Be Gerblins</ref>.</p>
@@ -41,7 +44,7 @@
         <event when="2018-08-30">
           <p>Read <ref target="b:horikoshi.k.myheroacademia.1">My Hero Academia Vol. 1</ref>.</p>
         </event>
-        <event from="2018-08-25">
+        <event from="2018-08-25" to="2018-09-22">
           <p>Read <ref target="b:eliot.g.middlemarch">Middlemarch</ref>.</p>
         </event>
         <event when="2018-08-23">
