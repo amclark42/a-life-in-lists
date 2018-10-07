@@ -96,7 +96,7 @@
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
-          <author>Addison, Katherine</author>.
+          <author ref="a:addison.k">Addison, Katherine</author>.
           <title>The Goblin Emperor</title>.
         </bibl>
         <bibl>
@@ -559,6 +559,7 @@
         <bibl>
           <author ref="a:clarke.s">Clarke, Susanna</author>.
           <title>The Ladies of Grace Adieu and Other Stories</title>.
+          <date type="added" when="2018-07-15"/>
         </bibl>
         <bibl>
           <author>Cleage, Pearl</author>.
@@ -644,6 +645,7 @@
           <author>Dean, Pamela</author>.
           <title>Tam Lin</title>.
           <date type="added" when="2017-06-29"/>
+          <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
           <author>Delany, Samuel R.</author>
@@ -869,6 +871,7 @@
           <author>Forsyth, Kate</author>.
           <title>The Witches of Eileanan</title>.
           <series><title>The Witches of Eileanan</title></series>
+          <!-- Available as an e-book from BPL -->
         </bibl>
         <bibl>
           <author>Fowler, Karen Joy</author>.
@@ -959,6 +962,12 @@
           <title>The Blue Place</title>.
           <series><title>Aud Torvingen</title></series>
           <date type="added" when="2017-10-07"/>
+          <!-- In-library use only at BPL Central Delivery Desk -->
+        </bibl>
+        <bibl>
+          <author ref="a:griffith.n">Griffith, Nicola</author>.
+          <title>So Lucky</title>.
+          <date type="added" when="2018-10-07"/>
         </bibl>
         <bibl>
           <author>Goodman, Alison</author>.
@@ -1077,10 +1086,6 @@
           <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
-          <author>Hill, Stuart</author>.
-          <title>The Cry of the Icemark</title>.
-        </bibl>
-        <bibl>
           <author ref="a:hobb.r">Hobb, Robin</author>.
           <title>Golden Fool</title>.
           <series><title>Tawny Man</title></series>
@@ -1148,7 +1153,9 @@
         </bibl>
         <bibl>
           <author>Hyde, Lewis</author>.
-          <title>Trickster Makes This World</title>.
+          <title>Trickster Makes This World: Mischief, Myth, and Art</title>.
+          <trait ref="#tag.nonfiction"/>
+          <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
           <author>Ireland, Justina</author>.
@@ -1167,6 +1174,11 @@
           <author>Ishiguro, Kazuo</author>.
           <title>Never Let Me Go</title>.
           <date type="added" when="2018-02-04"/>
+        </bibl>
+        <bibl>
+          <author ref="a:jackson.s">Jackson, Shirley</author>.
+          <title>The Haunting of Hill House</title>.
+          <date type="added" when="2018-10-07"/>
         </bibl>
         <bibl>
           <author>Jacob, Mira</author>.
@@ -1349,7 +1361,7 @@
         </bibl>
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
-          <title>Glamour and Glass</title>.
+          <title>Glamour in Glass</title>.
           <series><title>Glamour in Glass</title></series>
         </bibl>
         <bibl>
@@ -1357,6 +1369,7 @@
           <title>Ascension</title>.
           <series><title>Tangled Axon</title></series>
           <date type="added" when="2016-10-01"/>
+          <!-- available from BPL as an e-book -->
         </bibl>
         <bibl>
           <author>Kuhn, Sarah</author>.
@@ -2335,7 +2348,7 @@
         <bibl>
           <author ref="a:valentin.g">Valentine, Genevieve</author>.
           <title>Icon</title>.
-          <series><title>Persona</title></series>
+          <series><title>The Persona Sequence</title></series>
           <date type="added" when="2017-04-08"/>
         </bibl>
         <bibl>

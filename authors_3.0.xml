@@ -4170,6 +4170,13 @@
             <surname>Monette</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
+          
+          <persona xml:id="addison.k">
+            <persName>
+              <forename>Katherine</forename>
+              <surname>Addison</surname>
+            </persName>
+          </persona>
         </person>
 
         <person xml:id="gaiman.n">
