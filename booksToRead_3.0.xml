@@ -652,6 +652,17 @@
           <title>Babel-17</title>.
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:delliqua.b">Delliquanti, Blue</persName>
+          </respStmt> and
+          <author>Soleil Ho</author>.
+          <title>Meal: Adventures in Entomophagy</title>.
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2018-10-13"/>
+        </bibl>
+        <bibl>
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Intimate Matters: A History of Sexuality in America</title>.
@@ -890,6 +901,11 @@
         <bibl>
           <author>Frazier, Charles</author>.
           <title>Cold Mountain</title>.
+        </bibl>
+        <bibl>
+          <author>French, Tana</author>.
+          <title>The Witch Elm</title>.
+          <date type="added" when="2018-10-14"/>
         </bibl>
         <bibl>
           <author ref="a:funke.c">Funke, Cornelia</author>.
@@ -2027,11 +2043,6 @@
         <bibl>
           <author ref="a:rushdie.s">Rushdie, Salman</author>.
           <title>Fury</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:rushdie.s">Rushdie, Salman</author>.
-          <title>Midnight’s Children</title>.
-          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <author ref="a:russ.j">Russ, Joanna</author>.
