@@ -275,12 +275,6 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author ref="a:beagle.ps">Beagle, Peter S.</author>
-          <title>Summerlong</title>.
-          <date type="added" when="2017-01-07"/>
-          <trait ref="#tag.owned" corresp="b:beagle.ps.summerlong"/>
-        </bibl>
-        <bibl>
           <author ref="a:bear.e">Bear, Elizabeth</author>.
           <title>Karen Memory</title>.
           <date type="added" when="2016-10-01"/>
@@ -790,6 +784,15 @@
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
+          <author>Emrys, Ruthanna</author>.
+          <title>Winter Tide</title>.
+          <trait ref="#tag.queer"/>
+          <series>
+            <title>The Innsmouth Legacy</title>
+          </series>
+          <date type="added" when="2018-10-20"/>
+        </bibl>
+        <bibl>
           <author>Emshwiller, Carol</author>.
           <title>Ledoyt</title>.
           <date type="added" when="2017-01-29"/>
@@ -806,6 +809,14 @@
         <bibl>
           <author>Erdrich, Louise</author>.
           <title>Love Medicine</title>.
+        </bibl>
+        <bibl>
+          <author>Fahy, Warren</author>.
+          <title>Fragment</title>.
+          <series>
+            <title>Fragment</title>
+          </series>
+          <date type="added" when="2018-10-20"/>
         </bibl>
         <bibl>
           <author ref="a:faustost.a">Fausto-Sterling, Anne</author>.

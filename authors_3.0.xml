@@ -43,6 +43,22 @@
         </person>-->
         
         
+        <person xml:id="rodi.r">
+          <persName>
+            <forename>Robert</forename>
+            <surname>Rodi</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="serano.j">
+          <persName>
+            <forename>Julia</forename>
+            <surname>Serano</surname>
+          </persName>
+          <gender value="trans female" evidence="self-identification"/>
+        </person>
+        
         <person xml:id="huff.t">
           <persName>
             <forename>Tanya</forename>

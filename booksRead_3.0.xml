@@ -67,6 +67,76 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="rodi.r.princessparagon">
+            <monogr>
+              <title>What They Did to Princess Paragon</title>
+              <author>
+                <persName ref="a:rodi.r"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when-custom="ash:freelancer"/><!-- master's? -->
+                <date type="copyright" when="1994"/>
+                <publisher>
+                  <orgName>Dutton</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kowal.mr.glamouringlass">
+            <monogr>
+              <title>Glamour in Glass</title>
+              <author>
+                <persName ref="a:kowal.mr"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Glamour in Glass</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="serano.j.excluded">
+            <monogr>
+              <title>Excluded: Making Feminist and Queer Movements More Inclusive</title>
+              <author>
+                <persName ref="a:serano.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-05-20"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Seal Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="grant.m.drowningdeep">
+            <monogr>
+              <title>Into the Drowning Deep</title>
+              <author>
+                <persName ref="a:grant.m"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-07-21"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="huff.t.summonkeeper">
             <monogr>
               <title>Summon the Keeper</title>
