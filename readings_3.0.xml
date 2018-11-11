@@ -30,7 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2018-10-18">
+        <event from="2018-11-10">
+          <p>Read <ref target="b:kowal.mr.glamouringlass">Glamour in Glass</ref>.</p>
+        </event>
+        <event from="2018-11-01" to="2018-11-10">
+          <p>Read <ref target="b:serano.j.excluded">Excluded: Making Feminist and Queer Movements 
+            More Inclusive</ref>.</p>
+        </event>
+        <event from="2018-10-21" to="2018-11-01">
+          <p>Read <ref target="b:rodi.r.princessparagon">What They Did to Princess Paragon</ref>.</p>
+        </event>
+        <event from="2018-10-18" to="2018-10-21">
           <p>Read <ref target="b:grant.m.drowningdeep">Into the Drowning Deep</ref>.</p>
         </event>
         <event from="2018-10-14" to="2018-10-18">

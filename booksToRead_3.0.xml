@@ -509,6 +509,12 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <author>Chemaly, Sorora</author>.
+          <title>Rage Becomes Her: The Power of Women’s Anger</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
           <author>Cheng’en, Wu</author>.
           <title>Journey to the West</title>.
         </bibl>
@@ -529,6 +535,12 @@
         <bibl>
           <author ref="a:chiang.t">Chiang, Ted</author>.
           <title>Stories of Your Life and Others</title>.
+        </bibl>
+        <bibl>
+          <author>Chugh, Dolly</author>.
+          <title>The Person You Mean to Be: How Good People Fight Bias</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Cixin, Liu</author>.
@@ -570,6 +582,12 @@
           <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
+          <author>Cogman, Genevieve</author>.
+          <title>The Invisible Library</title>.
+          <series><title>The Invisible Library</title></series>
+          <date type="added" when="2018-10-26"/>
+        </bibl>
+        <bibl>
           <author>Cohen, Cathy</author>.
           <title>The Boundaries of Blackness: AIDS and the Breakdown of Black Politics</title>.
           <trait ref="#tag.nonfiction"/>
@@ -586,6 +604,19 @@
           <series><title>Wraeththu</title></series>
           <series><title>Wraeththu Histories</title></series>
           <date type="added" when="2017-09-28"/>
+        </bibl>
+        <bibl>
+          <author>Cooper, Brittney</author>.
+          <title>Eloquent Rage: A Black Feminist Discovers Her Superpower</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author>CrimethInc.</author>
+          <title>No Wall They Can Build: A Guide to Border &amp; Migration Across 
+            North America</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <editor>Crabb, Cindy</editor>.
@@ -698,6 +729,19 @@
           <series><title>African Immortals</title></series>
         </bibl>
         <bibl>
+          <author>Dumas, Alexander</author>.
+          <title>The Count of Monte Cristo</title>.
+        </bibl>
+        <bibl>
+          <author>Dunbar-Ortiz, Roxanne</author>.
+          <title>An Indigenous Peoples’ History of the United States</title>.
+          <trait ref="#tag.nonfiction"/>
+          <series>
+            <title>ReVisioning American History</title>
+          </series>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
           <author>Dunsany, Lord</author>.
           <title>The King of Elfland’s Daughter</title>.
           <date type="added" when="2017-06-29"/>
@@ -706,10 +750,6 @@
           <author ref="a:durham.da">Durham, David Anthony</author>.
           <title>Acacia: The Other Lands</title>.
           <series><title>Acacia</title></series>
-        </bibl>
-        <bibl>
-          <author>Dumas, Alexander</author>.
-          <title>The Count of Monte Cristo</title>.
         </bibl>
         <bibl>
           <author>Eddo-Lodge, Reni</author>.
@@ -809,6 +849,13 @@
         <bibl>
           <author>Erdrich, Louise</author>.
           <title>Love Medicine</title>.
+        </bibl>
+        <bibl>
+          <author>Evans, Cheryl B.</author>
+          <title>I Promised Not to Tell: Raising a Transgender Child</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Fahy, Warren</author>.
@@ -976,11 +1023,6 @@
           <series><title>Newsflesh Trilogy</title></series>
         </bibl>
         <bibl>
-          <author ref="a:grant.m">Grant, Mira</author>.
-          <title>Into the Drowning Deep</title>.
-          <date type="added" when="2018-07-21"/>
-        </bibl>
-        <bibl>
           <author>Green, Henry</author>.
           <title>Living, Loving, Partly Going</title>.
         </bibl>
@@ -1113,6 +1155,12 @@
           <date type="added" when="2017-05-19"/>
         </bibl>
         <bibl>
+          <author>Hill, Daniel</author>.
+          <title>White Awake: An Honest Look at What It Means to Be White</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
           <author ref="a:hobb.r">Hobb, Robin</author>.
           <title>Golden Fool</title>.
           <series><title>Tawny Man</title></series>
@@ -1229,6 +1277,11 @@
         </bibl>
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
+          <title>How Long ‘til Black Future Month?: Stories</title>.
+          <date type="added" when="2018-10-26"/>
+        </bibl>
+        <bibl>
+          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>The Stone Sky</title>.
           <date type="added" when="2018-03-10"/>
           <trait ref="#tag.owned" corresp="b:jemisin.nk.stonesky"/>
@@ -1286,6 +1339,14 @@
         <bibl>
           <author>Kesey, Ken</author>.
           <title>One Flew Over the Cuckoo’s Nest</title>.
+        </bibl>
+        <bibl>
+          <author>Khan-Cullors, Patrisse</author> and
+          <author>asha bandele</author>.
+          <title>When They Call You a Terrorist: A Black Lives Matter Memoir</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author ref="a:kiernan.cr">Kiernan, Caitlín R.</author>
@@ -1654,6 +1715,13 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>McRuer, Robert</author>.
+          <title>Crip Theory: Cultural Signs of Queerness and Disability</title>.
+          <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2018-11-11"/>
+        </bibl>
+        <bibl>
           <author ref="a:meltzer.b">Meltzer, Brad</author>.
           <title>The Book of Lies</title>.
         </bibl>
@@ -1673,6 +1741,12 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Mock, Janet</author>.
+          <title>Surpassing Certainty: What My Twenties Taught Me</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
           <author>Montfort, Nick</author>.
           <title>Exploratory Programming for the Arts and Humanities</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1684,13 +1758,13 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Moore, Moira</author>.
+          <title>Resenting the Hero</title>.
+        </bibl>
+        <bibl>
           <author>Mosley, Walter</author>.
           <title>Down the River Unto the Sea</title>.
           <date type="added" when="2018-09-23"/>
-        </bibl>
-        <bibl>
-          <author>Moore, Moira</author>.
-          <title>Resenting the Hero</title>.
         </bibl>
         <bibl>
           <author>Murakami, Haruki</author>.
@@ -1762,6 +1836,13 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Noah, Trevor</author>.
+          <title>Born a Crime: Stories From a South African Childhood</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
           <author>Norman, Abby</author>.
           <title>Ask Me About My Uterus: A Quest to Make Doctors Believe in Women’s 
             Pain</title>.
@@ -1806,6 +1887,11 @@
             Radical Curiosity and Solve Any Problem</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-08-20"/>
+        </bibl>
+        <bibl>
+          <author ref="a:oates.jc">Oates, Joyce Carol</author>.
+          <title>Hazards of Time Travel</title>.
+          <date type="added" when="2018-10-26"/>
         </bibl>
         <bibl>
           <author>O’Dell, Claire</author> and
@@ -1867,6 +1953,12 @@
           <author>Otsuka, Julie</author>.
           <title>The Buddha in the Attic</title>.
           <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Painter, Nell Irvin</author>.
+          <title>The History of White People</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Palmer, Ada</author>.
@@ -2011,10 +2103,6 @@
           <author ref="a:robinson.ks">Robinson, Kim Stanley</author>.
           <title>Icehenge</title>.
           <date type="added" when="2017-06-29"/>
-        </bibl>
-        <bibl>
-          <author>Rodi, Robert</author>.
-          <title>What They Did to Princess Paragon</title>.
         </bibl>
         <bibl>
           <author>Rosenberg, Jordy</author>.
@@ -2164,10 +2252,12 @@
           <title>Caucasia</title>.
         </bibl>
         <bibl>
-          <author>Serano, Julia</author>.
-          <title>Excluded: Making Feminist and Queer Movements More Inclusive</title>.
+          <author ref="a:serano.j">Serano, Julia</author>.
+          <title>Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating 
+            of Femininity</title>.
           <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2018-05-20"/>
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
           <author>Shakur, Assata</author>.
@@ -2247,6 +2337,12 @@
           <title>Digital Divide</title>.
         </bibl>
         <bibl>
+          <author>Spelman, Elizabeth V.</author>
+          <title>Inessential Woman: Problems of Exclusion in Feminist Thought</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-11-11"/>
+        </bibl>
+        <bibl>
           <author>Spenser, Sir Edmund</author>.
           <title>The Faerie Queen</title>.
         </bibl>
@@ -2303,6 +2399,15 @@
         <bibl>
           <author>Tevis, Walter</author>.
           <title>The Man Who Fell to Earth</title>.
+        </bibl>
+        <bibl>
+          <author>Thích Nhất Hạnh</author>.
+          <title>How to Relax</title>.
+          <trait ref="#tag.nonfiction"/>
+          <series>
+            <title>Mindfulness Essentials</title>
+          </series>
+          <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Thomas, Angie</author>.
