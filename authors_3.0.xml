@@ -43,6 +43,14 @@
         </person>-->
         
         
+        <person xml:id="hausladen.b">
+          <persName>
+            <forename>Blake</forename>
+            <surname>Hausladen</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="rodi.r">
           <persName>
             <forename>Robert</forename>

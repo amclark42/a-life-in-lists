@@ -67,6 +67,25 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="hausladen.b.ghostsyew">
+            <monogr>
+              <title>Ghosts in the Yew</title>
+              <author>
+                <persName ref="a:hausladen.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-11-05"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Rook Creek Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Vesteal</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="rodi.r.princessparagon">
             <monogr>
               <title>What They Did to Princess Paragon</title>
@@ -75,7 +94,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.queer"/>
-                <date type="added" when-custom="ash:freelancer"/><!-- master's? -->
+                <date type="added" when-custom="ash:master"/><!-- I found a used copy in Myopic Books while in Chicago for Grandma M.’s funeral. Did not buy it but made a note of it. -->
                 <date type="copyright" when="1994"/>
                 <publisher>
                   <orgName>Dutton</orgName>
@@ -128,6 +147,7 @@
                 <persName ref="a:grant.m"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2018-07-21"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
@@ -845,7 +865,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2018-05-06"/>
                 <date type="copyright" when="2017"/>
-                <date type="first-published" when="2017"/>
+                <date type="first-publication" when="2017"/>
                 <publisher>
                   <orgName>Ten Speed Press</orgName>
                 </publisher>
@@ -1824,7 +1844,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.omnibus"/>
                 <date type="copyright" when="2016"/>
-                <date type="first-published" from="1985" to="2004"/>
+                <date type="first-publication" from="1985" to="2004"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
                 </publisher>
@@ -2981,7 +3001,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2017-05-29"/>
-                <date type="first-published" when="2012"/>
+                <date type="first-publication" when="2012"/>
                 <date type="first-american-edition" when="2013-01"/>
                 <publisher>
                   <orgName>Yen Press</orgName>
@@ -3647,7 +3667,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2017-02-10"/>
-                <date type="first-published" when="2011"/>
+                <date type="first-publication" when="2011"/>
                 <date type="first-american-edition" when="2012-03"/>
                 <publisher>
                   <orgName>Yen Press</orgName>
@@ -17415,8 +17435,11 @@
                 <persName ref="a:mckinley.r"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
-                <publisher/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
+                <date type="copyright" when="2003"/>
+                <publisher>
+                  <orgName>Berkley Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -17472,8 +17495,7 @@
             </monogr>
           </biblStruct>
 
-          <biblStruct
-            xml:id="fine.c.delusionsgender">
+          <biblStruct xml:id="fine.c.delusionsgender">
             <monogr>
               <title>Delusions of Gender</title>
               <title type="sub">How Our Minds, Society and Neurosexism Create Difference</title>
@@ -17498,7 +17520,7 @@
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher></publisher>
               </imprint>
             </monogr>
             <series>
@@ -17781,10 +17803,20 @@
                 <resp n="artist"/>
                 <persName ref="a:mori.k"/>
               </respStmt>
+              <!--<respStmt>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>-->
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -18191,7 +18223,10 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <persName ref="a:knisley.l"/>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -19407,10 +19442,22 @@
                 <resp n="artist"/>
                 <persName ref="a:mori.k"/>
               </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <date type="first-publication" when="2010"/>
+                <date type="translation-copyright" when="2011"/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
