@@ -1449,7 +1449,17 @@
         </bibl>
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
-          <title>Glamour in Glass</title>.
+          <title>Without a Summer</title>.
+          <series><title>Glamour in Glass</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
+          <title>Valour and Vanity</title>.
+          <series><title>Glamour in Glass</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
+          <title>Of Noble Family</title>.
           <series><title>Glamour in Glass</title></series>
         </bibl>
         <bibl>
@@ -2320,6 +2330,13 @@
           <series><title>Study</title></series>
           <series><title>The Chronicles of Ixia</title></series>
           <date type="added" when="2016-10-01"/>
+        </bibl>
+        <bibl>
+          <author>Solnit, Rebecca</author>.
+          <title>The Faraway Nearby</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-11-18"/>
         </bibl>
         <bibl>
           <author>Solomon, River</author>.
