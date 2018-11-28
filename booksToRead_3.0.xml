@@ -2391,6 +2391,11 @@
           <title>Lightborn</title>.
         </bibl>
         <bibl>
+          <author>Thompson, Tade</author>.
+          <title>Rosewater</title>.
+          <date type="added" when="2018-11-25"/>
+        </bibl>
+        <bibl>
           <author ref="a:talbot.b">Talbot, Bryan</author>.
           <title>Alice in Sunderland</title>.
           <trait ref="#tag.comics"/>

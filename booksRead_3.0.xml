@@ -67,6 +67,35 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct
+            xml:id="willis.d.dumbingage.7ukelelehealing">
+            <monogr>
+              <title>Dumbing of Age Vol. 7: Just Put Down the Ukelele Only Then Can the Healing 
+                Begin</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:lovhaug.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2018-11-21"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2018-05-02"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="hausladen.b.ghostsyew">
             <monogr>
               <title>Ghosts in the Yew</title>

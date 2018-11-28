@@ -30,6 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-11-21">
+          <p>Read <ref target="b:willis.d.dumbingage.7ukelelehealing">Dumbing of Age Vol. 7: Just 
+            Put Down the Ukelele Only Then Can the Healing Begin</ref>.</p>
+        </event>
+        <event when="2018-11-19">
+          <p>Reread <ref target="b:leyh.k.supercakes">SuperCakes</ref>.</p>
+        </event>
         <event from="2018-11-18">
           <p>Read <ref target="b:jemisin.nk.stonesky">The Stone Sky</ref>.</p>
         </event>

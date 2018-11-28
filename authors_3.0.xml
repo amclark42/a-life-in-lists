@@ -43,6 +43,17 @@
         </person>-->
         
         
+        <person xml:id="lovhaug.l">
+          <persName>
+            <forename>Lewis</forename>
+            <surname>Lovhaug</surname>
+          </persName>
+          <persName type="pseudonym">
+            <name>Linkara</name>
+          </persName>
+          <gender value="male" evidence="self-identification"/>
+        </person>
+        
         <person xml:id="hausladen.b">
           <persName>
             <forename>Blake</forename>
