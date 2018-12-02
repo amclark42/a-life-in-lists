@@ -413,7 +413,7 @@
           <title>Rogue Moon</title>.
         </bibl>
         <bibl>
-          <author>Bull, Emma</author>.
+          <author ref="a:bull.e">Bull, Emma</author>.
           <title>War for the Oaks</title>.
           <date type="added" when="2018-09-23"/>
         </bibl>
@@ -546,7 +546,7 @@
           <author>Cixin, Liu</author>.
           <respStmt>
             <resp n="translator"/>
-            <persName>Ken Liu</persName>
+            <persName ref="a:liu.k">Ken Liu</persName>
           </respStmt>.
           <title>The Three-Body Problem</title>.
           <series><title>Remembrance of Earth’s Past</title></series>
@@ -662,7 +662,7 @@
           <title>The Search for King Arthur</title>.
         </bibl>
         <bibl>
-          <author>De Bodard, Aliette</author>.
+          <author ref="a:bodard.a">De Bodard, Aliette</author>.
           <title>Servant of the Underworld</title>.
           <series><title>Obsidian and Blood</title></series>
         </bibl>
@@ -722,6 +722,11 @@
         <bibl>
           <author>Dorst, Doug</author>.
           <title>Alive in Necropolis</title>.
+        </bibl>
+        <bibl>
+          <author>Drayden, Nicky</author>.
+          <title>Temper</title>.
+          <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
           <author ref="a:due.t">Due, Tananarive</author>.
@@ -1023,6 +1028,11 @@
           <series><title>Newsflesh Trilogy</title></series>
         </bibl>
         <bibl>
+          <author ref="a:grant.m">Grant, Mira</author>.
+          <title>Kingdom of Needle and Bone</title>.
+          <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
           <author>Green, Henry</author>.
           <title>Living, Loving, Partly Going</title>.
         </bibl>
@@ -1064,7 +1074,7 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <editor>Guran, Paula</editor>.
+          <editor ref="a:guran.p">Guran, Paula</editor>.
           <title>Warrior Women</title>.
           <trait ref="#tag.anthology"/>
           <date type="added" when="2018-02-03"/>
@@ -1142,6 +1152,19 @@
           <series><title>Dune Chronicles</title></series>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:hicks.fe"/>
+          </respStmt>.
+          <title>The Divided Earth</title>.
+          <trait ref="#tag.comics"/>
+          <series>
+            <title>The Nameless City</title>
+          </series>
+          <date type="added" when="2018-12-02"/>
+        </bibl>
+        <bibl>
           <author>Hicks, Marie</author>.
           <title>Programmed Inequality: How Britain Discarded Women Technologists 
             and Lost Its Edge in Computing</title>.
@@ -1208,6 +1231,11 @@
           <title>Midnight Robber</title>.
         </bibl>
         <bibl>
+          <author>Horowitz, Anthony</author>.
+          <title>The Word is Murder</title>.
+          <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
           <author>Hoyt, Sarah</author>.
           <title>Heart of Light</title>.
           <series><title>Magical British Empire</title></series>
@@ -1222,8 +1250,8 @@
           <date type="added" when="2018-04-14"/>
         </bibl>
         <bibl>
-          <author>Hurley, Kameron</author>.
-          <title>We Have Always Fought: Essays on Craft, Fiction and Fandom</title>.
+          <author ref="a:hurley.k">Hurley, Kameron</author>.
+          <title>The Geek Feminist Revolution</title>.
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
@@ -1543,7 +1571,7 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Liu, Ken</author>
+          <author ref="liu.k">Liu, Ken</author>
           <title>The Grace of Kings</title>
           <series><title>The Dandelion Dynasty</title></series>
           <date type="added" when="2018-01-13"/>
@@ -1591,6 +1619,11 @@
           <title>The Republic of Thieves</title>.
           <series><title>Gentleman Bastard</title></series>
           <date type="added" when="2017-06-10"/>
+        </bibl>
+        <bibl>
+          <author>Ma, Ling</author>.
+          <title>Severence</title>.
+          <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
           <author>Mack, David</author>.
@@ -1745,6 +1778,16 @@
           <title>Kiki Strike: Inside the Shadow City</title>.
         </bibl>
         <bibl>
+          <author>Miller, Madeline</author>.
+          <title>Circe: A Novel</title>.
+          <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
+          <author>Miller, Sam J.</author>
+          <title>Blackfish City</title>.
+          <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
           <author>Minnick, Fred</author>.
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
@@ -1770,6 +1813,12 @@
         <bibl>
           <author>Moore, Moira</author>.
           <title>Resenting the Hero</title>.
+        </bibl>
+        <bibl>
+          <author>Morton, Kati</author>.
+          <title>Are u ok?: A Guide to Caring for Your Mental Health</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
           <author>Mosley, Walter</author>.
@@ -2140,7 +2189,7 @@
           <date type="added" when="2017-07-30"/>
         </bibl>
         <bibl>
-          <editor>Rusch, Kristine Kathryn</editor>.
+          <editor ref="a:rusch.kk">Rusch, Kristine Kathryn</editor>.
           <title>Women of Futures Past: Classic Stories</title>.
           <trait ref="#tag.anthology"/>
           <date type="added" when="2017-01-07"/>
@@ -2235,6 +2284,11 @@
           <title>Death by Silver</title>.
           <series><title>Julian Lynes and Ned Mathey</title></series>
           <date type="added" when="2016-10-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:scott.m">Scott, Melissa</author>.
+          <title>Finders</title>.
+          <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
           <author ref="a:scott.m">Scott, Melissa</author>.
@@ -2369,6 +2423,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author ref="a:springer.n">Springer, Nancy</author>.
+          <title>The Oddling Prince</title>.
+          <date type="added" when="2018-12-02"/>
+        </bibl>
+        <bibl>
           <author ref="a:stephens.n">Stephenson, Neal</author>.
           <title>Anathem</title>.
         </bibl>
@@ -2391,11 +2450,6 @@
           <title>Lightborn</title>.
         </bibl>
         <bibl>
-          <author>Thompson, Tade</author>.
-          <title>Rosewater</title>.
-          <date type="added" when="2018-11-25"/>
-        </bibl>
-        <bibl>
           <author ref="a:talbot.b">Talbot, Bryan</author>.
           <title>Alice in Sunderland</title>.
           <trait ref="#tag.comics"/>
@@ -2411,6 +2465,12 @@
           <author>Tanzer, Molly</author>.
           <title>Vermilion</title>
           <date type="added" when="2016-12-11"/>
+        </bibl>
+        <bibl>
+          <author>Taylor, Jodi</author>.
+          <title>Just One Damned Thing After Another</title>.
+          <series><title>The Chronicles of St Mary’s</title></series>
+          <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
           <author>Taylor, John H.</author>
@@ -2598,6 +2658,11 @@
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:yolen.j">Yolen, Jane</author>.
+          <title>The Emerald Circus</title>.
+          <date type="added" when="2018-12-02"/>
         </bibl>
         <bibl>
           <author ref="a:yolen.j">Yolen, Jane</author>.

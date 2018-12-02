@@ -67,6 +67,200 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="naifeh.t.princessugg.1">
+            <monogr>
+              <title>Princess Ugg Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:naifeh.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <resp n="letterer"/>
+                <persName ref="a:wucinich.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:fischer.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Princess Ugg</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="fraction.m.sexcrims.4">
+            <monogr>
+              <title>Sex Criminals Vol. 4: Fourgy</title>
+              <author>
+                <persName ref="a:fraction.m"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:zdarsky.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:breitweis.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Sex Criminals</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="david.p.youngjustice.1">
+            <monogr>
+              <title>Young Justice Book 1</title>
+              <author>
+                <persName ref="a:david.p"/>
+                <persName ref="a:dezago.t"/>
+                <persName ref="a:johnson.dc"/>
+                <persName ref="a:dixon.c"/>
+                <persName ref="a:waid.m"/>
+                <persName ref="a:kesel.k"/>
+                <persName ref="a:faerber.j"/>
+                <persName ref="a:peyer.t"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:nauck.t"/>
+                <persName ref="a:mckone.m"/>
+                <persName ref="a:ramos.h"/>
+                <persName ref="a:unzueta.á"/>
+                <persName ref="a:rosseau.c"/>
+                <persName ref="a:flores.r"/>
+                <persName ref="a:garza.a"/>
+                <persName ref="a:phillips.j"/>
+                <persName ref="a:hamner.c"/>
+                <persName ref="a:connor.a"/>
+                <persName ref="a:vansciver.e"/>
+                <persName ref="a:egeland.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="inker"/>
+                <persName ref="a:stucker.l"/>
+                <persName ref="a:mckenna.m"/>
+                <persName ref="a:faucher.w"/>
+                <persName ref="a:neary.p"/>
+                <persName ref="a:rapmund.n"/>
+                <persName ref="a:parsons.s"/>
+                <persName ref="a:cabinboy"/>
+                <persName ref="a:mendoza.j"/>
+                <persName ref="a:rodriguez.j"/>
+                <persName ref="a:hamner.c"/>
+                <persName ref="a:palmiotti.j"/>
+                <persName ref="a:vansciver.e"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wright.j"/>
+                <persName ref="a:rosas.j"/>
+                <persName ref="a:mcgraw.t"/>
+                <persName ref="a:tewes.r"/>
+                <persName ref="a:rambo.p"/>
+                <persName ref="a:serrano.f"/>
+                <persName ref="a:baumann.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:lopez.k"/>
+                <persName ref="a:workman.j"/>
+                <persName ref="a:comicraft"/>
+                <persName ref="a:robins.c"/>
+                <persName ref="a:eliopoul.c"/>
+                <persName ref="a:harkins.t"/>
+                <persName ref="a:chiang.j"/>
+                <persName ref="a:hathaway.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" from="1998" to="1989"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Young Justice</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="guran.p.warriorwomen">
+            <monogr>
+              <title>Warrior Women</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:guran.p"/>
+              </respStmt>
+              <author>
+                <persName ref="a:lee.t"/>
+                <persName ref="a:gentle.m"/>
+                <persName ref="a:yolen.j"/>
+                <persName ref="a:kiernan.cr"/>
+                <persName ref="a:isaak.e"/>
+                <persName ref="a:bear.e"/>
+                <persName ref="a:hopkinso.n"/>
+                <persName ref="a:vaughn.c"/>
+                <persName ref="a:liu.k"/>
+                <persName ref="a:mcguire.s"/>
+                <persName ref="a:reed.r"/>
+                <persName ref="a:goss.t"/>
+                <persName ref="a:martin.grr"/>
+                <persName ref="a:lee.yh"/>
+                <persName ref="a:reisman.j"/>
+                <persName ref="a:rusch.kk"/>
+                <persName ref="a:lee.s"/>
+                <persName ref="a:miller.s"/>
+                <persName ref="a:kress.n"/>
+                <persName ref="a:owomoyela.a"/>
+                <persName ref="a:moon.e"/>
+                <persName ref="a:acks.r"/>
+                <persName ref="a:hurley.k"/>
+                <persName ref="a:bodard.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Prime Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="auster.p.countrylastthings">
+            <monogr>
+              <title>In the Country of Last Things</title>
+              <author>
+                <persName ref="a:auster.p"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:bachelor"/>
+                <date type="copyright" when="1987"/>
+                <publisher>
+                  <orgName>Penguin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct
             xml:id="willis.d.dumbingage.7ukelelehealing">
             <monogr>
