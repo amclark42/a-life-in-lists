@@ -30,6 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2018-12-06">
+          <p>Read <ref target="b:guran.p.warriorwomen">Warrior Women</ref>.</p>
+        </event>
+        <event from="2018-12-04" to="2018-12-05">
+          <p>Read <ref target="b:auster.p.countrylastthings">In the Country of Last Things</ref>. 
+            Left unfinished.</p>
+        </event>
+        <event when="2018-12-02">
+          <p>Read <ref target="b:fraction.m.sexcrims.4">Sex Criminals Vol. 4: Fourgy</ref>.</p>
+        </event>
         <event when="2018-12-01">
           <p>Read <ref target="b:naifeh.t.princessugg.1">Princess Ugg Vol. 1</ref>.</p>
         </event>
@@ -40,7 +50,7 @@
         <event when="2018-11-19">
           <p>Reread <ref target="b:leyh.k.supercakes">SuperCakes</ref>.</p>
         </event>
-        <event from="2018-11-18">
+        <event from="2018-11-18" to="2018-12-03">
           <p>Read <ref target="b:jemisin.nk.stonesky">The Stone Sky</ref>.</p>
         </event>
         <event from="2018-11-10" to="2018-11-18">

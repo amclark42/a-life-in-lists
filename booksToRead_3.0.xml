@@ -226,10 +226,6 @@
           <title>Sense and Sensibility</title>.
         </bibl>
         <bibl>
-          <author ref="a:auster.p">Auster, Paul</author>.
-          <title>In the Country of Last Things</title>.
-        </bibl>
-        <bibl>
           <author ref="a:azzarello.b">Azzarello, Brian</author> and
           <author ref="a:chiang.c">Cliff Chiang</author>.
           <title>Doctor 13: Architecture and Mortality</title>.
@@ -334,6 +330,12 @@
           <title>The Interior Life</title>.
           <date type="added" when="2017-06-29"/>
           <!-- out of print? -->
+        </bibl>
+        <bibl>
+          <author>Blight, David W.</author>
+          <title>Race and Reunion: The Civil War in American Memory</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-12-08"/>
         </bibl>
         <bibl>
           <author>Bongiovanni, Archie</author> and
@@ -871,6 +873,12 @@
           <date type="added" when="2018-10-20"/>
         </bibl>
         <bibl>
+          <author>Faust, Drew Gilpin</author>.
+          <title>This Republic of Suffering: Death and the American Civil War</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-12-08"/>
+        </bibl>
+        <bibl>
           <author ref="a:faustost.a">Fausto-Sterling, Anne</author>.
           <title>The Myths of Gender</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1307,13 +1315,6 @@
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>How Long ‘til Black Future Month?: Stories</title>.
           <date type="added" when="2018-10-26"/>
-        </bibl>
-        <bibl>
-          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
-          <title>The Stone Sky</title>.
-          <date type="added" when="2018-03-10"/>
-          <trait ref="#tag.owned" corresp="b:jemisin.nk.stonesky"/>
-          <series><title>The Broken Earth</title></series>
         </bibl>
         <bibl>
           <author>Jerkins, Morgan</author>.
@@ -2632,6 +2633,11 @@
         <bibl>
           <author>Williams, Tad</author>.
           <title>Mirror World</title>.
+        </bibl>
+        <bibl>
+          <author>Wilson, G. Willow</author>.
+          <title>The Bird King</title>.
+          <date type="added" when="2018-12-09"/>
         </bibl>
         <bibl>
           <author>Windling, Terri</author>.
