@@ -453,6 +453,14 @@
           <trait ref="#tag.outofprint"/>
         </bibl>
         <bibl>
+          <author>Calvin, Effie</author>.
+          <title>The Queen of Ieflaria</title>.
+          <series>
+            <title>Tales of Inthya</title>
+          </series>
+          <date type="added" when="2018-12-16"/>
+        </bibl>
+        <bibl>
           <author ref="a:carey.m">Carey, Mike</author>.
           <title>The Devil You Know</title>.
         </bibl>
@@ -2265,6 +2273,19 @@
           <author>Schroeder, Karl</author>.
           <title>Lady of Mazes</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>von Schönwerth, Franz Xaver</author>.
+          <respStmt>
+            <resp n="editor"/>
+            <persName>Erika Eichenseer</persName>
+          </respStmt>
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Maria Tatar</persName>
+          </respStmt>
+          <title>The Turnip Princess and Other Newly Discovered Fairy Tales</title>.
+          <date type="added" when="2018-12-16"/>
         </bibl>
         <bibl>
           <author>Schulman, Sarah</author>.
