@@ -67,6 +67,38 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="mori.k.bridesstory.5">
+            <monogr>
+              <title>A Bride’s Story Vol. 5</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:mori.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2018-12-29"/>
+                <date type="copyright" when="2013"/>
+                <date type="first-publication" when="2013"/>
+                <date type="first-american-edition" when="2013-09"/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>A Bride’s Story</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="naifeh.t.princessugg.1">
             <monogr>
               <title>Princess Ugg Vol. 1</title>
@@ -237,6 +269,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.anthology"/>
+                <date type="added" when="2018-02-03"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
                   <orgName>Prime Books</orgName>

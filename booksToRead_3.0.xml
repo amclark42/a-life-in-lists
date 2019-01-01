@@ -525,6 +525,11 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author>Chen, Mike</author>.
+          <title>Here and Now and Then</title>.
+          <date type="added" when="2018-12-27"/>
+        </bibl>
+        <bibl>
           <author>Cheng’en, Wu</author>.
           <title>Journey to the West</title>.
         </bibl>
@@ -1088,12 +1093,6 @@
           <editor>Guay, Rebecca</editor>.
           <title>A Flight of Angels</title>.
           <trait ref="#tag.comics"/>
-        </bibl>
-        <bibl>
-          <editor ref="a:guran.p">Guran, Paula</editor>.
-          <title>Warrior Women</title>.
-          <trait ref="#tag.anthology"/>
-          <date type="added" when="2018-02-03"/>
         </bibl>
         <bibl>
           <author>Hagio, Moto</author>.
@@ -1700,6 +1699,22 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="adapter"/>
+            <resp n="creator"/>
+            <persName ref="a:mcelroy.c">McElroy, Clint</persName>
+          </respStmt> and
+          <respStmt>
+            <resp n="adapter"/>
+            <resp n="artist"/>
+            <persName ref="a:pietsch.c">Carey Pietsch</persName>
+          </respStmt>.
+          <title>The Adventure Zone: Murder on the Rockport Limited!</title>
+          <series><title>The Adventure Zone</title></series>
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2018-12-28"/>
+        </bibl>
+        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>
@@ -1710,6 +1725,12 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>The Girl in the Green Silk Dress</title>.
           <date type="added" when="2018-07-22"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>In an Absent Dream</title>.
+          <series><title>Wayward Children</title></series>
+          <date type="added" when="2018-12-27"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
