@@ -67,6 +67,96 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="trotman.cs.ftlyall">
+            <monogr>
+              <title>FTL, Y’all! Tales from the Age of the $200 Warp Drive</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <persName ref="a:trotman.cs"/>
+                <persName ref="a:lafrenai.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:delliqua.b"/>
+                <persName ref="a:powers.c"/>
+                <persName ref="a:jarvis.m"/>
+                <persName ref="a:rossbach.k"/>
+                <persName ref="a:dovelin.a"/>
+                <persName ref="a:kaye.j"/>
+                <persName ref="a:sunny"/>
+                <persName ref="a:jay.i"/>
+                <persName ref="a:rubedo.s"/>
+                <persName ref="a:webb.cb"/>
+                <persName ref="a:chan.nn"/>
+                <persName ref="a:ordway.r"/>
+                <persName ref="a:ahueonao"/>
+                <persName ref="a:eaton.j"/>
+                <persName ref="a:wright.jf"/>
+                <persName ref="a:littlecorvus"/>
+                <persName ref="a:wilson.n"/>
+                <persName ref="a:dalton.j"/>
+                <persName ref="a:andry.d"/>
+                <persName ref="a:schultz.p"/>
+                <persName ref="a:hayama.c"/>
+                <persName ref="a:roske.et"/>
+                <persName ref="a:kobabe.m"/>
+                <persName ref="a:seago.a"/>
+                <persName ref="a:dahm.e"/>
+              </respStmt>
+              <respStmt>
+                <resp n="cover designer"/>
+                <persName ref="a:davey.p"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2018-06-22"/>
+                <catRef target="#tag.owned" from="2019-01-03"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="wolitzer.m.femalepersuasion">
+            <monogr>
+              <title>The Female Persuasion</title>
+              <author>
+                <persName ref="a:wolitzer.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2019-01-01"/>
+                <date type="added" when="2018-05-19"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Riverhead Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="okorafor.n.bintinightmasquerade">
+            <monogr>
+              <title>Binti: The Night Masquerade</title>
+              <author>
+                <persName ref="a:okorafor.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2019-01-01"/>
+                <date type="added" when="2018-02-04"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Binti</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="mori.k.bridesstory.5">
             <monogr>
               <title>A Bride’s Story Vol. 5</title>
@@ -3874,7 +3964,7 @@
               <respStmt>
                 <resp n="contributor"/>
                 <persName ref="a:frier.n"/>
-                <persName ref="a:dechaniq"/>
+                <persName ref="a:dechanique"/>
                 <persName ref="a:weathing.l"/>
                 <persName ref="a:sabo.b"/>
                 <persName ref="a:scary-t"/>
@@ -5097,7 +5187,7 @@
                 <persName ref="a:richards.c"/>
                 <persName ref="a:morales.r"/>
                 <persName ref="a:lopez.d"/>
-                <persName ref="a:derenick.k"/>
+                <persName ref="a:derenick.t"/>
                 <persName ref="a:jeanty.g"/>
                 <persName ref="a:kerschl.k"/>
               </respStmt>
@@ -15279,7 +15369,7 @@
               <respStmt>
                 <resp n="editor of compilation"/>
                 <persName ref="a:trotman.cs"/>
-                <persName ref="a:sebastia.tl"/>
+                <persName ref="a:sebastian.tl"/>
                 <persName ref="a:carlson.jd"/>
               </respStmt>
               <respStmt>
@@ -15316,7 +15406,7 @@
                 <persName ref="a:porter.m"/>
                 <persName ref="a:riley.b"/>
                 <persName ref="a:ruby.r"/>
-                <persName ref="a:sebastia.tl"/>
+                <persName ref="a:sebastian.tl"/>
                 <persName ref="a:trotman.cs"/>
                 <persName ref="a:weathing.l"/>
                 <persName ref="a:weaver.ek"/>
@@ -21320,13 +21410,13 @@
             </monogr>
           </biblStruct>
 
-          <biblStruct xml:id="soustell.j.dailylifeaztecs">
+          <biblStruct xml:id="soustelle.j.dailylifeaztecs">
             <monogr>
               <title>Daily Life of the Aztecs On the Eve of the Spanish Conquest</title>
               <title type="alt" xml:lang="fr">La Vie Quotidienne des Aztèques à la
                 Veille de la Conquête Espagnole</title>
               <author>
-                <persName ref="a:soustell.j"/>
+                <persName ref="a:soustelle.j"/>
               </author>
               <respStmt>
                 <resp n="translator"/>

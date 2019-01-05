@@ -30,6 +30,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2019-01-04">
+          <p>Read <ref target="b:wolitzer.m.femalepersuasion">The Female Persuasion</ref>.</p>
+        </event>
+        <event when="2019-01-02">
+          <p>Read <ref target="b:okorafor.n.bintinightmasquerade">Binti: The Night Masquerade</ref>.</p>
+        </event>
         <event from="2018-12-06" to="2018-12-30">
           <p>Read <ref target="b:guran.p.warriorwomen">Warrior Women</ref>.</p>
         </event>

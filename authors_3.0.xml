@@ -43,6 +43,216 @@
           </person>-->
         
         
+        <person xml:id="agi.t">
+          <persName type="pseudonym">
+            <forename>Tadashi</forename>
+            <surname>Agi</surname>
+          </persName>
+          <note>Pseudonym of brother and sister team Yuko and Shin Kibayashi.</note>
+        </person>
+        
+        <person xml:id="okimoto.s">
+          <persName>
+            <forename>Shu</forename>
+            <surname>Okimoto</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="soustelle.j">
+          <persName>
+            <forename>Jacques</forename>
+            <surname>Soustelle</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="wolitzer.m">
+          <persName>
+            <forename>Meg</forename>
+            <surname>Wolitzer</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="dalton.j">
+          <persName>
+            <forename>Jonathan</forename>
+            <surname>Dalton</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="andry.d">
+          <persName>
+            <forename>David</forename>
+            <surname>Andry</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="schultz.p">
+          <persName>
+            <forename>Paul</forename>
+            <surname>Schultz</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="hayama.c">
+          <persName>
+            <forename>Cheez</forename>
+            <surname>Hayama</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="roske.et">
+          <persName>
+            <forename>Earl T.</forename>
+            <surname>Roske</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="kobabe.m">
+          <persName>
+            <forename>Maia</forename>
+            <surname>Kobabe</surname>
+          </persName>
+          <gender value="non-binary" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="seago.a">
+          <persName>
+            <forename>Ainsley</forename>
+            <surname>Seago</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="davey.p">
+          <persName>
+            <forename>Paul</forename>
+            <surname>Davey</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="dovelin.a">
+          <persName>
+            <forename>Alexxander</forename>
+            <surname>Dovelin</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="kaye.j">
+          <persName>
+            <forename>Jamie</forename>
+            <surname>Kaye</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="jay.i">
+          <persName>
+            <forename>Iris</forename>
+            <surname>Jay</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/> she/her pronouns preferred -->
+        </person>
+        
+        <person xml:id="rubedo.s">
+          <persName>
+            <forename>Skolli</forename>
+            <surname>Rubedo</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/> she/her pronouns -->
+        </person>
+        
+        <person xml:id="chan.nn">
+          <persName>
+            <forename>N.N.</forename>
+            <surname>Chan</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ordway.r">
+          <persName>
+            <forename>Rachel</forename>
+            <surname>Ordway</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ahueonao">
+          <persName>
+            <name>Ahueonao</name>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>-->
+        </person>
+        
+        <person xml:id="eaton.j">
+          <persName>
+            <forename>Jay</forename>
+            <surname>Eaton</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/> they/them pronouns -->
+        </person>
+        
+        <person xml:id="wright.jf">
+          <persName>
+            <forename>James F.</forename>
+            <surname>Wright</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="littlecorvus">
+          <persName>
+            <name>Little Corvus</name>
+          </persName>
+          <gender value="non-binary" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="wilson.n">
+          <persName>
+            <forename>Nathaniel</forename>
+            <surname>Wilson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="powers.c">
+          <persName>
+            <forename>Cindy</forename>
+            <surname>Powers</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="jarvis.m">
+          <persName>
+            <forename>Mulele</forename>
+            <surname>Jarvis</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="rossbach.k">
+          <persName>
+            <forename>Kay</forename>
+            <surname>Rossbach</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="sunny">
+          <persName>
+            <name>Sunny</name>
+          </persName>
+        </person>
+        
         <person xml:id="wucinich.w">
           <persName>
             <forename>Warren</forename>
@@ -3155,9 +3365,9 @@
           </persName>
         </person>
 
-        <person xml:id="sebastia.th">
+        <person xml:id="sebastian.tl">
           <persName>
-            <forename>Trisha H.</forename>
+            <forename>Trisha L.</forename>
             <surname>Sebastian</surname>
           </persName>
         </person>
@@ -5115,7 +5325,7 @@
           <gender value="male" evidence="conjecture"/>
         </person>
 
-        <person xml:id="nissenba.s">
+        <person xml:id="nissenbaum.s">
           <persName>
             <forename>Stephen</forename>
             <surname>Nissenbaum</surname>
