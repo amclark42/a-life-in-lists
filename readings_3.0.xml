@@ -30,7 +30,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-01-04">
+        <event from="2019-01-19">
+          <p>Read <ref target="b:kleguin.u.farthestshore">The Farthest Shore</ref>.</p>
+        </event>
+        <event when="2019-01-05">
+          <p>Read <ref target="b:trotman.cs.ftlyall">FTL, Y’all! Tales from the Age of the $200 
+            Warp Drive</ref>.</p>
+        </event>
+        <event from="2019-01-04" to="2019-01-19">
           <p>Read <ref target="b:wolitzer.m.femalepersuasion">The Female Persuasion</ref>.</p>
         </event>
         <event when="2019-01-02">

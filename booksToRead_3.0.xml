@@ -90,6 +90,12 @@
           </series>
         </bibl>
         <bibl>
+          <author>Ackerman, Jennifer</author>.
+          <title>The Genius of Birds</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-01-19"/>
+        </bibl>
+        <bibl>
           <author>Adams, Ellery</author>.
           <title>The Secret, Book and Scone Society</title>.
           <series><title>Miracle Springs, North Carolina</title></series>
@@ -688,7 +694,7 @@
           <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
-          <author>Delany, Samuel R.</author>
+          <author ref="a:delany.sr">Delany, Samuel R.</author>
           <title>Babel-17</title>.
         </bibl>
         <bibl>
@@ -878,6 +884,13 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author>Everett, Mik (Kim Longhofer)</author>.
+          <title>Self-Published Kindling: The Memoirs of a Homeless Bookstore Owner</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-01-07"/>
+        </bibl>
+        <bibl>
           <author>Fahy, Warren</author>.
           <title>Fragment</title>.
           <series>
@@ -1040,6 +1053,32 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
+          <author>Goldberg Sloan, Holly</author> and
+          <author ref="a:wolitzer.m">Meg Wolitzer</author>.
+          <title>To Night Owl from Dogfish</title>.
+          <date type="added" when="2019-01-21"/>
+        </bibl>
+        <bibl>
+          <author>Goodman, Alison</author>.
+          <title>Singing the Dogstar Blues</title>.
+        </bibl>
+        <bibl>
+          <author>Gordon, Charlotte</author>.
+          <title>Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft 
+            and Mary Shelley</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2018-02-28"/>
+        </bibl>
+        <bibl>
+          <author>Gorodischer, Angelica</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName ref="a:kleguin.u">Ursula K. Le Guin</persName>
+          </respStmt>
+          <title>Kalpa Imperial</title>.
+          <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
           <author>Grant, Michael</author>.
           <title>Gone</title>.
         </bibl>
@@ -1068,26 +1107,6 @@
           <author ref="a:griffith.n">Griffith, Nicola</author>.
           <title>So Lucky</title>.
           <date type="added" when="2018-10-07"/>
-        </bibl>
-        <bibl>
-          <author>Goodman, Alison</author>.
-          <title>Singing the Dogstar Blues</title>.
-        </bibl>
-        <bibl>
-          <author>Gordon, Charlotte</author>.
-          <title>Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft 
-            and Mary Shelley</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2018-02-28"/>
-        </bibl>
-        <bibl>
-          <author>Gorodischer, Angelica</author>.
-          <respStmt>
-            <resp n="translator"/>
-            <persName ref="a:kleguin.u">Ursula K. Le Guin</persName>
-          </respStmt>
-          <title>Kalpa Imperial</title>.
-          <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
           <editor>Guay, Rebecca</editor>.
@@ -1128,6 +1147,12 @@
         <bibl>
           <author ref="a:harris.j">Harris, Joanne</author>.
           <title>Runemarks</title>.
+        </bibl>
+        <bibl>
+          <author>Harris, Malcolm</author>.
+          <title>Kids These Days: Human Capital and the Making of Millenials</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-01-07"/>
         </bibl>
         <bibl>
           <author>Harris-Perry, Melissa V.</author>
@@ -1750,6 +1775,12 @@
           <date type="added" when="2018-01-07"/>
         </bibl>
         <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Velveteen vs. The Junior Super Patriots</title>.
+          <series><title>Velveteen vs.</title></series>
+          <date type="added" when="2019-01-13"/>
+        </bibl>
+        <bibl>
           <author ref="a:mchugh.mf">McHugh, Maureen</author>.
           <title>Mission Child</title>.
         </bibl>
@@ -2034,6 +2065,11 @@
           <author>Otsuka, Julie</author>.
           <title>The Buddha in the Attic</title>.
           <date type="added" when="2017-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Oyeyemi, Helen</author>.
+          <title>Gingerbread</title>.
+          <date type="added" when="2019-01-19"/>
         </bibl>
         <bibl>
           <author>Painter, Nell Irvin</author>.
@@ -2669,7 +2705,7 @@
           <title>Mirror World</title>.
         </bibl>
         <bibl>
-          <author>Wilson, G. Willow</author>.
+          <author ref="a:wilson.gw">Wilson, G. Willow</author>.
           <title>The Bird King</title>.
           <date type="added" when="2018-12-09"/>
         </bibl>
@@ -2682,11 +2718,6 @@
           <author>Winters, Cat</author>.
           <title>The Steep &amp; Thorny Way</title>.
           <date type="added" when="2018-09-03"/>
-        </bibl>
-        <bibl>
-          <author>Wolitzer, Meg</author>.
-          <title>The Female Persuasion</title>.
-          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Womack, Jack</author>.
