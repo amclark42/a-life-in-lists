@@ -30,7 +30,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-01-19">
+        <event from="2019-02-15">
+          <p>Read <ref target="b:murakami.h.afterdark">After Dark</ref>.</p>
+        </event>
+        <event from="2019-02-02" to="2019-02-14">
+          <p>Read <ref target="b:oneil.c.mathdestruction">Weapons of Math Destruction</ref>.</p>
+        </event>
+        <event from="2019-01-19" to="2019-02-02">
           <p>Read <ref target="b:kleguin.u.farthestshore">The Farthest Shore</ref>.</p>
         </event>
         <event when="2019-01-05">
@@ -2815,10 +2821,10 @@
           <p>Read <ref target="b:winick.j.greenlantern.passingtorch">Green Lantern: Passing the Torch</ref>.</p>
         </event>
         <event when="2009-11-10">
-          <p>Read <ref target="b:vaughan.b.ylastman.motherland">Y: The Last Man: Motherland</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.motherland">Y: The Last Man: Motherland</ref>.</p>
         </event>
         <event when="2009-11-10">
-          <p>Read <ref target="b:vaughan.b.ylastman.whyswherefores">Y: The Last Man: Whys and Wherefores</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.whyswherefores">Y: The Last Man: Whys and Wherefores</ref>.</p>
         </event>
         <event from="2009-11-08" to="2009-11-09">
           <p>Read <ref target="b:warren.a.empowered1">Empowered Vol. 1</ref>.</p>
@@ -2851,10 +2857,10 @@
           <p>Read <ref target="b:pini.w.elfquest.grandquest12">Elfquest: The Grand Quest Vol. 12</ref>.</p>
         </event>
         <event when="2009-11-02">
-          <p>Read <ref target="b:vaughan.b.runaways.3deluxehardcover">Runaways Vol. 3 Deluxe Hardcover</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.runaways.3deluxehardcover">Runaways Vol. 3 Deluxe Hardcover</ref>.</p>
         </event>
         <event when="2009-10-31">
-          <p>Read <ref target="b:vaughan.b.runaways.2deluxehardcover">Runaways Vol. 2 Deluxe Hardcover</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.runaways.2deluxehardcover">Runaways Vol. 2 Deluxe Hardcover</ref>.</p>
         </event>
         <event from="2009-10-26" to="2009-10-27">
           <p>Reread <ref target="b:akamatsu.k.lovehina.1">Love Hina Vol. 1</ref>.</p>
@@ -2872,13 +2878,13 @@
           <p>Reread <ref target="b:yolen.j.dragonsblood">Dragon’s Blood</ref>.</p>
         </event>
         <event from="2009-10-11" to="2009-10-12">
-          <p>Partial reread <ref target="b:vaughan.b.runaways.1deluxehardcover">Runaways Vol. 1 Deluxe Hardcover</ref>.</p>
+          <p>Partial reread <ref target="b:vaughan.bk.runaways.1deluxehardcover">Runaways Vol. 1 Deluxe Hardcover</ref>.</p>
         </event>
         <event when="2009-09-29">
-          <p>Read <ref target="b:vaughan.b.ylastman.paperdolls">Y: The Last Man: Paper Dolls</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.paperdolls">Y: The Last Man: Paper Dolls</ref>.</p>
         </event>
         <event when="2009-09-28">
-          <p>Read <ref target="b:vaughan.b.ylastman.kimonodragons">Y: The Last Man: Kimono Dragons</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.kimonodragons">Y: The Last Man: Kimono Dragons</ref>.</p>
         </event>
         <event when="2009-09-22">
           <p>Read <ref target="b:ellis.w.transmetropolitan.onemoretime">Transmetropolitan: One More Time</ref>.</p>
@@ -3037,7 +3043,7 @@
           <p>Read <ref target="b:miller.k.innocentmage">The Innocent Mage</ref>.</p>
         </event>
         <event when="2009-06-15">
-          <p>Read <ref target="b:vaughan.b.ylastman.girlongirl">Y: The Last Man: Girl on Girl</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.girlongirl">Y: The Last Man: Girl on Girl</ref>.</p>
         </event>
         <event when="2009-06-14">
           <p>Read <ref target="b:samura.h.bladeimmortalbloodathousand">Blade of the Immortal: Blood of a Thousand</ref>.</p>
@@ -3079,10 +3085,10 @@
           <p>Reread <ref target="b:hidier.td.bornconfused">Born Confused</ref>.</p>
         </event>
         <event when="2009-05-21">
-          <p>Read <ref target="b:vaughan.b.ylastman.ringtruth">Y: The Last Man: Ring of Truth</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.ringtruth">Y: The Last Man: Ring of Truth</ref>.</p>
         </event>
         <event when="2009-05-20">
-          <p>Read <ref target="b:vaughan.b.ylastman.safeword">Y: The Last Man: Safeword</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.safeword">Y: The Last Man: Safeword</ref>.</p>
         </event>
         <event from="2009-05-18" to="2009-05-22">
           <p>Read <ref target="b:rushdie.s.enchantressflorence">The Enchantress of Florence</ref>.</p>
@@ -3094,7 +3100,7 @@
           <p>Read <ref target="b:ellis.w.transmetropolitan.gougeaway">Transmetropolitan: Gouge Away</ref>.</p>
         </event>
         <event from="2009-04-29" to="2009-04-30">
-          <p>Read <ref target="b:vaughan.b.ylastman.onesmallstep">Y: The Last Man: One Small Step</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.onesmallstep">Y: The Last Man: One Small Step</ref>.</p>
         </event>
         <event from="2009-04-23" to="2009-04-30">
           <p>Reread <ref target="b:nix.g.abhorsen">Abhorsen</ref>.</p>
@@ -3253,7 +3259,7 @@
           <p>Read <ref target="b:nightow.y.trigun.2">Trigun Vol. 2</ref>.</p>
         </event>
         <event when="2008-08-06">
-          <p>Read <ref target="b:vaughan.b.ylastman.,1unmanned">Y: The Last Man, Vol. 1 Unmanned</ref>.</p>
+          <p>Read <ref target="b:vaughan.bk.ylastman.1unmanned">Y: The Last Man, Vol. 1 Unmanned</ref>.</p>
         </event>
         <event from="2008-08-05" to="2008-08-06">
           <p>Read <ref target="b:johns.g.52.1">52 Vol. 1</ref>.</p>

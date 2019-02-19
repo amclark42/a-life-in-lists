@@ -43,6 +43,30 @@
           </person>-->
         
         
+        <person xml:id="montfort.n">
+          <persName>
+            <forename>Nick</forename>
+            <surname>Montfort</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="murray.w">
+          <persName>
+            <forename>Will</forename>
+            <surname>Murray</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+          </person>
+        
+        <person xml:id="staples.f">
+          <persName>
+            <forename>Fiona</forename>
+            <surname>Staples</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          </person>
+        
         <person xml:id="agi.t">
           <persName type="pseudonym">
             <forename>Tadashi</forename>
@@ -4574,9 +4598,9 @@
           <gender value="male" evidence="conjecture"/>
         </person>
 
-        <person xml:id="vaughan.b">
+        <person xml:id="vaughan.bk">
           <persName>
-            <forename>Brian</forename>
+            <forename>Brian K.</forename>
             <surname>Vaughan</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
@@ -8030,6 +8054,10 @@
         
         <org xml:id="comicraft">
           <orgName>Comicraft</orgName>
+        </org>
+        
+        <org xml:id="fonografiks">
+          <orgName>Fonografiks</orgName>
         </org>
         
         <org xml:id="peachpit">

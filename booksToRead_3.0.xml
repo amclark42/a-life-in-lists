@@ -1093,6 +1093,11 @@
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
+          <author>Gray, Anissa</author>.
+          <title>The Care and Feeding of Ravenously Hungry Girls</title>.
+          <date type="added" when="2019-02-03"/>
+        </bibl>
+        <bibl>
           <author>Green, Henry</author>.
           <title>Living, Loving, Partly Going</title>.
         </bibl>
@@ -1570,10 +1575,9 @@
         </bibl>
         <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
-          <title>The Farthest Shore</title>.
+          <title>Tehanu</title>.
           <series><title>Earthsea Cycle</title></series>
-          <date type="added" when="2016-07-09"/>
-          <trait ref="#tag.owned" corresp="b:kleguin.u.farthestshore"/>
+          <date type="added" when="2019-02-02"/>
         </bibl>
         <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
@@ -2401,6 +2405,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Shannon, Samantha</author>.
+          <title>The Priory of the Orange Tree</title>.
+          <date type="added" when="2019-02-03"/>
+        </bibl>
+        <bibl>
           <author>Shattuck, Jessica</author>.
           <title>The Women in the Castle</title>.
           <date type="added" when="2017-08-20"/>
@@ -2675,6 +2684,11 @@
           <author>Ward, Jesmyn</author>.
           <title>Sing, Unburied, Sing</title>.
           <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author>Waugh, Evelyn</author>.
+          <title>Decline and Fall</title>.
+          <date type="added" when="2019-02-16"/>
         </bibl>
         <bibl>
           <author>Way, Gerard</author>.
