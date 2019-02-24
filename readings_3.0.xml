@@ -30,7 +30,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-02-15">
+        <event from="2019-02-20">
+          <p>Read <ref target="b:valentin.g.girlskingfisherclub">The Girls at the Kingfisher Club</ref>.</p>
+        </event>
+        <event when="2019-02-16">
+          <p>Read <ref target="b:mori.k.bridesstory.5">A Bride’s Story Vol. 5</ref>.</p>
+        </event>
+        <event from="2019-02-16" to="2019-02-23">
+          <p>Skimmed <ref target="b:montfort.n.exploratoryprogramming">Exploratory Programming for the 
+            Arts and Humanities</ref>.</p>
+        </event>
+        <event from="2019-02-15" to="2019-02-20">
           <p>Read <ref target="b:murakami.h.afterdark">After Dark</ref>.</p>
         </event>
         <event from="2019-02-02" to="2019-02-14">

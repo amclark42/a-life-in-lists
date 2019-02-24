@@ -1865,12 +1865,6 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
-          <author>Montfort, Nick</author>.
-          <title>Exploratory Programming for the Arts and Humanities</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2017-02-19"/>
-        </bibl>
-        <bibl>
           <author ref="a:moore.l">Moore, Lorrie</author>.
           <title>Anagrams</title>.
           <date type="added" when="2016-10-01"/>
@@ -1891,16 +1885,12 @@
           <date type="added" when="2018-09-23"/>
         </bibl>
         <bibl>
-          <author>Murakami, Haruki</author>.
+          <author ref="a:murakami.h">Murakami, Haruki</author>.
           <title>1Q84</title>.
           <date type="added" when="2016-09-25"/>
         </bibl>
         <bibl>
-          <author>Murakami, Haruki</author>.
-          <title>After Dark</title>.
-        </bibl>
-        <bibl>
-          <author>Murakami, Haruki</author>.
+          <author ref="a:murakami.h">Murakami, Haruki</author>.
           <title>Kafka on the Shore</title>.
         </bibl>
         <bibl>
@@ -1910,6 +1900,13 @@
         <bibl>
           <author>Murphy, Louise</author>.
           <title>The True Story of Hansel and Gretel</title>.
+        </bibl>
+        <bibl>
+          <author>Murray, Janet H.</author>
+          <title>Inventing the Medium: Principles of Interaction Design as a 
+            Cultural Practice</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-02-23"/>
         </bibl>
         <bibl>
           <author ref="a:myers.wd">Myers, Walter Dean</author>.
@@ -2263,6 +2260,12 @@
         <bibl>
           <author ref="a:rushdie.s">Rushdie, Salman</author>.
           <title>Fury</title>.
+        </bibl>
+        <bibl>
+          <author>Rushkoff, Douglas</author>.
+          <title>Program or Be Programmed: Ten Commands for a Digital Age</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-02-23"/>
         </bibl>
         <bibl>
           <author ref="a:russ.j">Russ, Joanna</author>.
