@@ -5,6 +5,9 @@
       <category xml:id="tag.anthology">
         <catDesc>anthology</catDesc>
       </category>
+      <category xml:id="tag.artbook">
+        <catDesc>art book</catDesc>
+      </category>
       <category xml:id="tag.class">
         <catDesc>classroom reading</catDesc>
       </category>
@@ -22,6 +25,9 @@
       </category>
       <category xml:id="tag.kickstart">
         <catDesc>Kickstarted</catDesc>
+      </category>
+      <category xml:id="tag.minicomic">
+        <catDesc>mini-comic</catDesc>
       </category>
       <category xml:id="tag.memoir">
         <catDesc>autobiography, biography, and memoir</catDesc>
@@ -43,6 +49,9 @@
       </category>
       <category xml:id="tag.rpg">
         <catDesc>role-playing game rulebook</catDesc>
+      </category>
+      <category xml:id="tag.zine">
+        <catDesc>zine</catDesc>
       </category>
     </taxonomy>
   </classDecl>

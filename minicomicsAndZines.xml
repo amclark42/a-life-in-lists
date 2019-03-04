@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
+  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mini-Comics &amp; Zines</title>
+        <editor>
+          <persName>Ashley M. Clark</persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Just me, Ashley</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
+    <revisionDesc>
+      <listChange>
+        <change when="2019-02-24">Created this list. I referenced the Massachusetts Independent 
+          Comics Expo (MICE) exhibitor lists via the Wayback Machine to figure out years:
+          <list>
+            <item>
+              <label>2017</label>
+              <ptr target="https://web.archive.org/web/20180204105222/http://www.micexpo.org/exhibitors/"/>
+            </item>
+            <item>
+              <label>2016</label>
+              <ptr target="https://web.archive.org/web/20170708003001/http://www.micexpo.org/exhibitors/"/>
+            </item>
+            <item>
+              <label>2015</label>
+              <ptr target="https://web.archive.org/web/20160125075845/http://www.micexpo.org/exhibitors/"/>
+            </item>
+          </list>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <listBibl>
+          <head>Mini-Comics &amp; Zines</head>
+          
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:pandya.a">Aatmaja Pandya</persName>
+            </respStmt>
+            <title>Phantom</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Alabaster Rizzo</persName>
+            </respStmt>
+            <title>Mimi and the Wolves Act III: The Howl</title>
+            <date type="copyright" when="2016"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <series>
+              <title>Mimi and the Wolves</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:delliqua.b">Blue Delliquanti</persName>
+            </respStmt>
+            <title>Stop</title>
+            <title type="sub">an O Human Star side story featuring Lucille</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <series>
+              <title>O Human Star</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName>H. Finn Cunningham</persName>
+            </respStmt>
+            <title>The Mental Health Cookbook</title>
+            <title type="sub">Creating Connection with Food and Herbs</title>
+            <date type="first-publication" when="2009"/>
+            <date type="publication" when="2015"/>
+            <publisher>
+              <orgName>And Pens</orgName>
+            </publisher>
+            <catRef target="#tag.cookbook"/>
+            <catRef target="#tag.owned" from="2018-09-13"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <persName>Isabella Rotman</persName>
+            </respStmt>
+            <title>Burn Your Demons</title>
+            <date type="copyright" when="2015"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <series>
+              <title>Burn Your Demons</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName>Isabella Rotman</persName>
+            </respStmt>
+            <title>Gatherer: A Pocket Foraging Handbook</title>
+            <date type="copyright" when="2014"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName>Isabella Rotman</persName>
+            </respStmt>
+            <title>Good to Know</title>
+            <title type="sub">A Zine of Useful Things</title>
+            <date type="copyright" when="2015"/>
+            <catRef target="#tag.owned" from="2018-09-13"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Isabella Rotman</persName>
+            </respStmt>
+            <title>Siren School</title>
+            <date type="published" when="2017"/>
+            <publisher>
+              <orgName>Sliver Sprocket</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Jey Barnes</persName>
+            </respStmt>
+            <title>Job Satisfaction Issue #1</title>
+            <date type="copyright" from="2015" to="2016"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>Job Satisfaction</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Jey Barnes</persName>
+            </respStmt>
+            <title>Job Satisfaction Issue #2</title>
+            <date type="copyright" from="2016" to="2017"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>Job Satisfaction</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Kat Fajardo</persName>
+            </respStmt>
+            <title xml:lang="es">Gringa!</title>
+            <date type="copyright" when="2016"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Kathleen Kralowec</persName>
+            </respStmt>
+            <title>The Lion and the Roc Issue 1</title>
+            <date type="copyright" when="2015"/>
+            <publisher>
+              <orgName>Comicker Digital</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <series>
+              <title>The Lion and the Roc</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName>Kathleen Kralowec</persName>
+            </respStmt>
+            <title>Notes Towards <title rend="italic">A Sorceror’s Companion</title></title>
+            <date type="copyright" when="2015"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <author>
+              <persName>L.B. Lee</persName>
+            </author>
+            <title>Feeling Worthless?</title>
+            <date type="creation" when="2012-07-02"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Mar Julia</persName>
+            </respStmt>
+            <title>Low Tide</title>
+            <date type="publication" when="2016-10"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:gillman.m">Melanie Gillman</persName>
+            </respStmt>
+            <title>Pockets</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>As the Crow Flies</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:gillman.m">Melanie Gillman</persName>
+            </respStmt>
+            <title>Sweet Rock</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:gillman.m">Melanie Gillman</persName>
+            </respStmt>
+            <title>Toxoplasmosis</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Miranda Harmon</persName>
+            </respStmt>
+            <title>Harmontown</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Natalie Reiss</persName>
+            </respStmt>
+            <title>Garlic Bread with Rose</title>
+            <date type="created" when="2017"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.cookbook"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Rosemary Valero-O’Connell</persName>
+            </respStmt>
+            <title>What is Left</title>
+            <publisher>
+              <orgName>ShortBox</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName>Sarah Burns</persName>
+            </respStmt>
+            <title>How to improve a cruddy day</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Shannon Dybvig</persName>
+            </respStmt>
+            <title>Keybound: Prologue</title>
+            <date type="copyright" when="2017"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2018-12-29"/>
+            <series>
+              <title>Keybound</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Shannon Wright</persName>
+            </respStmt>
+            <title>Rose Fever</title>
+            <date type="copyright" when="2017"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Sonia Liao</persName>
+            </respStmt>
+            <title>Crown Chapter 1</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.owned" from="2016-10" cert="medium"/>
+            <!-- I got this in either 2015 or 2016. I can't find any records of when 
+              Sonia Liao's work was available at MICE. I think one of her friends 
+              distributed it. -->
+            <series>
+              <title>Crown</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Victoria Marcelino</persName>
+            </respStmt>
+            <title>Enchanted</title>
+            <title type="sub">A Mini Comic About Modern Day Witchood</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Victoria Marcelino</persName>
+            </respStmt>
+            <title>What I Wish I knew Back Then</title>
+            <title type="sub" xml:lang="es">y otra cosas de mi memoria</title>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2017-10"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Vreni</persName>
+            </respStmt>
+            <title>Raven Eyes</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="artist"/>
+              <persName>Vreni Stollberger</persName>
+            </respStmt>
+            <title>The Trainers in Your Neighborhood</title>
+            <date type="creation" when="2016"/>
+            <catRef target="#tag.artbook"/>
+            <catRef target="#tag.owned" from="2016-10"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
