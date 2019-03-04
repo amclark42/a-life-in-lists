@@ -502,6 +502,11 @@
           <date type="added" when="2017-02-19"/>
         </bibl>
         <bibl>
+          <author ref="a:chabon.m">Chabon, Michael</author>.
+          <title>The Amazing Adventures of Kavalier &amp; Clay</title>.
+          <date type="added" when="2019-03-02"/>
+        </bibl>
+        <bibl>
           <editor ref="a:chabon.m">Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
           <trait ref="#tag.anthology"/>
@@ -683,6 +688,11 @@
           <title>The Search for King Arthur</title>.
         </bibl>
         <bibl>
+          <author>Day, Kate Hope</author>.
+          <title>If, Then</title>.
+          <date type="added" when="2019-03-03"/>
+        </bibl>
+        <bibl>
           <author ref="a:bodard.a">De Bodard, Aliette</author>.
           <title>Servant of the Underworld</title>.
           <series><title>Obsidian and Blood</title></series>
@@ -720,6 +730,11 @@
           <title>Medusa Uploaded</title>.
           <series><title>The Medusa Cycle</title></series>
           <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author ref="a:diamant.a">Diamant, Anita</author>.
+          <title>The Boston Girl</title>.
+          <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
           <author>Dick, Phillip K.</author>
@@ -1043,6 +1058,15 @@
           </series>
         </bibl>
         <bibl>
+          <author>Glassman, Shira</author>.
+          <title>The Second Mango</title>.
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2019-03-02"/>
+          <series>
+            <title>Mangoverse</title>
+          </series>
+        </bibl>
+        <bibl>
           <author>Gleick, James</author>.
           <title>Chaos: Making a New Science</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1128,6 +1152,13 @@
           <title>A Nation Under Our Feet: Black Political Struggles in the Rural
             South from Slavery to the Great Migration</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Halse Anderson, Laurie</author>.
+          <title>Shout</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-03-03"/>
         </bibl>
         <bibl>
           <author ref="a:hambly.b">Hambly, Barbara</author>.
@@ -1243,6 +1274,11 @@
           <title>Alan Turing: The Enigma</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Hoffman, Alice</author>.
+          <title>The Museum of Extraordinary Things</title>.
+          <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
           <author>Hogan, Kristen</author>.
@@ -1374,6 +1410,12 @@
           <author>Johnson, Denis</author>.
           <title>The Largesse of the Sea Maiden: Stories</title>.
           <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author>Johnston, E.K.</author>
+          <title>The Afterward</title>.
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
           <author>Jordan, Robert</author>.
@@ -2584,6 +2626,12 @@
           <title>The End of Mr. Y</title>.
         </bibl>
         <bibl>
+          <author>Thompson, Christina</author>.
+          <title>Sea People: The Puzzle of Polynesia</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-03-03"/>
+        </bibl>
+        <bibl>
           <author>Thompson, Tade</author>.
           <title>Rosewater</title>.
           <series>
@@ -2641,11 +2689,6 @@
           <author ref="a:valentin.g">Valentine, Genevieve</author>.
           <title>Icon</title>.
           <series><title>The Persona Sequence</title></series>
-          <date type="added" when="2017-04-08"/>
-        </bibl>
-        <bibl>
-          <author ref="a:valentin.g">Valentine, Genevieve</author>.
-          <title>The Girls at the Kingfisher Club</title>.
           <date type="added" when="2017-04-08"/>
         </bibl>
         <bibl>

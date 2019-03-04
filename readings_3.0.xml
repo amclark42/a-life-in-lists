@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-02-20">
+        <event from="2019-03-01">
+          <p>Reread <ref target="b:gaiman.n.stardust">Stardust</ref>.</p>
+        </event>
+        <event when="2019-03-01">
+          <p>Reread <ref target="b:mcguire.s.heartdoorway">Every Heart a Doorway</ref>.</p>
+        </event>
+        <event when="2019-03-01">
+          <p>Read <ref target="b:vaughan.bk.saga.4">Saga Vol. 4</ref>.</p>
+        </event>
+        <event from="2019-02-20" to="2019-03-01">
           <p>Read <ref target="b:valentin.g.girlskingfisherclub">The Girls at the Kingfisher Club</ref>.</p>
         </event>
         <event when="2019-02-16">
