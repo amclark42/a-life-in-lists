@@ -67,6 +67,130 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="gillen.k.wickeddivine.5.imperialphase1">
+            <monogr>
+              <title>The Wicked and the Divine Vol. 5: Imperial Phase Part 1</title>
+              <author>
+                <persName ref="a:gillen.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:mckelvie.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wilson.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="flatter"/>
+                <persName ref="a:cunniffe.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:william.c"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Wicked and the Divine</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="naifeh.t.princessugg.2">
+            <monogr>
+              <title>Princess Ugg Vol. 2</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:naifeh.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <resp n="letterer"/>
+                <persName ref="a:wucinich.w"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Princess Ugg</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="nye.b.everythingallatonce">
+            <monogr>
+              <title>Everything All at Once</title>
+              <title type="sub">How to Unleash Your Inner Nerd, Tap into Radical Curiosity, and 
+                Solve Any Problem</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="illustrator"/>
+                <persName ref="a:nye.b"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:powell.cs"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2016-08-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Rodale</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kingsolver.b.flightbehavior">
+            <monogr>
+              <title>Flight Behavior</title>
+              <author>
+                <persName ref="a:kingsolver.b"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-01-29"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>HarperCollins</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="walton.j.philosopherkings">
+            <monogr>
+              <title>The Philosopher Kings</title>
+              <author>
+                <persName ref="a:walton.j"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-08-16"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Thessaly</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="montfort.n.exploratoryprogramming">
             <monogr>
               <title>Exploratory Programming for the Arts and Humanities</title>

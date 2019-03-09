@@ -40,8 +40,24 @@
             <surname></surname>
           </persName>
           <gender value="" evidence="conjecture"/>
-          </person>-->
+        </person>-->
         
+        
+        <person xml:id="nye.b">
+          <persName>
+            <forename>Bill</forename>
+            <surname>Nye</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="powell.cs">
+          <persName>
+            <forename>Corey S.</forename>
+            <surname>Powell</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="montfort.n">
           <persName>
