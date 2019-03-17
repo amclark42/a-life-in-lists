@@ -67,6 +67,35 @@
           <!-- Break lines at column 100. -->
           
           
+          
+          <biblStruct xml:id="alder.a.dream">
+            <monogr>
+              <title>Dream Askew &amp; Dream Apart</title>
+              <author>
+                <persName ref="a:alder.a"/>
+                <persName ref="a:rosenbaum.b"/>
+              </author>
+              <respStmt>
+                <resp n="illustrator"/>
+                <persName ref="a:chevat.z"/>
+                <persName ref="a:rose.e"/>
+              </respStmt>
+              <editor>
+                <persName ref="wood.d"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2018-06-17"/>
+                <catRef target="#tag.owned" from="2019-03-15"/>
+                <catRef target="#tag.queer"/>
+                <catRef target="#tag.rpg"/>
+                <date type="first-publication" when="2019"/>
+                <publisher>
+                  <persName ref="a:alder.a"/>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="gillen.k.wickeddivine.5.imperialphase1">
             <monogr>
               <title>The Wicked and the Divine Vol. 5: Imperial Phase Part 1</title>

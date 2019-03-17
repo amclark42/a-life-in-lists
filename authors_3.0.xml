@@ -43,6 +43,46 @@
         </person>-->
         
         
+        <person xml:id="rosenbaum.b">
+          <persName>
+            <forename>Benjamin</forename>
+            <surname>Rosenbaum</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="chevat.z">
+          <persName>
+            <forename>Zev</forename>
+            <surname>Chevat</surname>
+          </persName>
+          <gender value="non-binary" evidence="self-identification"/><!-- he/him, they/them -->
+        </person>
+        
+        <person xml:id="murakami.h">
+          <persName>
+            <forename>Haruki</forename>
+            <surname>Murakami</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="rubin.j">
+          <persName>
+            <forename>Jay</forename>
+            <surname>Rubin</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="oneil.c">
+          <persName>
+            <forename>Cathy</forename>
+            <surname>O’Neil</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="nye.b">
           <persName>
             <forename>Bill</forename>

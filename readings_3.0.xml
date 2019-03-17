@@ -30,6 +30,9 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2019-03-15">
+          <p>Read <ref target="b:alder.a.dream">Dream Askew &amp; Dream Apart</ref>.</p>
+        </event>
         <event from="2019-03-08">
           <p>Read <ref target="b:nye.b.everythingallatonce">Everything All at Once</ref>.</p>
         </event>
