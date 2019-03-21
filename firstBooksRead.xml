@@ -52,7 +52,6 @@
                   <persName>Adams, Douglas</persName>
                </author>
                <title>Dirk Gently’s Holistic Detective Agency</title>
-               <note>See Gaiman, Neil</note>
                <series>
                   <title>Dirk Gently</title>
                </series>
@@ -119,7 +118,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:adams.d.hitchhikerradio">
                <author>
                   <persName>Adams, Douglas</persName>
                </author>
@@ -131,18 +130,19 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:adams.d.hitchhikersguide">
                <author>
                   <persName>Adams, Douglas</persName>
                </author>
                <title>The Ultimate Hitchhiker’s Guide</title>
+               <trait ref="#tag.omnibus"/>
                <trait ref="#tag.owned" from-custom="ash:child"/>
                <series>
                   <title>The Hitchhiker’s Guide</title>
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:adams.d.salmondoubt">
                <author>
                   <persName>Adams, Douglas</persName>
                </author>
@@ -171,7 +171,7 @@
                <title>The Gawgon and the Boy</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:alexande.l.ironring">
                <author>
                   <persName>Alexander, Lloyd</persName>
                </author>
@@ -359,7 +359,7 @@
                <title>Snakecharm</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:atwood.m.handmaidstale">
                <author>
                   <persName>Atwood, Margaret</persName>
                </author>
@@ -376,7 +376,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:avi.citylight">
                <author>
                   <persName>Avi</persName>
                </author>
@@ -715,6 +715,9 @@
                   <persName>Bradbury, Ray</persName>
                </author>
                <title>Death is a Lonely Business</title>
+               <series>
+                 <title>Crumley Mysteries</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -724,7 +727,7 @@
                <title>Driving Blind</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:bradbury.r.fahrenheit451">
                <author>
                   <persName>Bradbury, Ray</persName>
                </author>
@@ -745,6 +748,10 @@
                   <persName>Bradbury, Ray</persName>
                </author>
                <title>A Graveyard for Lunatics</title>
+               <title type="sub">Another Tale of Two Cities</title>
+               <series>
+                 <title>Crumley Mysteries</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -752,6 +759,9 @@
                   <persName>Bradbury, Ray</persName>
                </author>
                <title>Let’s All Kill Constance</title>
+               <series>
+                 <title>Crumley Mysteries</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -810,7 +820,7 @@
                <title>Quicker Than the Eye</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:bradbury.r.somethingwicked">
                <author>
                   <persName>Bradbury, Ray</persName>
                </author>
@@ -982,7 +992,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:busiek.k.astrocity.localheroes">
                <author>
                   <persName>Busiek, Kurt</persName>
                </author>
@@ -1036,12 +1046,15 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:card.os.endersgame">
                <author>
                   <persName>Card, Orson Scott</persName>
                </author>
                <title>Ender’s Game</title>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <series>
+                 <title>Ender’s Saga</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -1049,6 +1062,9 @@
                   <persName>Card, Orson Scott</persName>
                </author>
                <title>Ender’s Shadow</title>
+               <series>
+                 <title>Ender’s Saga</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -1230,7 +1246,7 @@
                <trait ref="#tag.owned" from-custom="ash:bachelor" to-custom="ash:master"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:coelho.p.alchemist">
                <author>
                   <persName>Coelho, Paulo</persName>
                </author>
@@ -1403,7 +1419,6 @@
                   <persName>Coville, Bruce</persName>
                </author>
                <title>Aliens Stole My Body</title>
-               <note>See Yolen, Jane</note>
             </bibl>
 
             <bibl>
@@ -1541,6 +1556,7 @@
                   <persName>Cunningham, Michael</persName>
                </author>
                <title>The Hours</title>
+               <note>Never finished.</note>
             </bibl>
 
             <bibl>
@@ -1564,7 +1580,7 @@
                <title>The Silver Kiss</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:dahl.r.bfg">
                <author>
                   <persName>Dahl, Roald</persName>
                </author>
@@ -1579,7 +1595,7 @@
                <title>Boy: Tales of Childhood</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:dahl.r.completewonka">
                <author>
                   <persName>Dahl, Roald</persName>
                </author>
@@ -1609,7 +1625,7 @@
                <title>James and the Giant Peach</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:dahl.r.matilda">
                <author>
                   <persName>Dahl, Roald</persName>
                </author>
@@ -1638,7 +1654,7 @@
                <title>The Umbrella Man And Other Stories</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:dahl.r.witches">
                <author>
                   <persName>Dahl, Roald</persName>
                </author>
@@ -1757,7 +1773,7 @@
 
             <bibl>
                <author>
-                  <persName>Deveraux, Jude.</persName>
+                  <persName>Deveraux, Jude</persName>
                </author>
                <title>Remembrance</title>
             </bibl>
@@ -1823,7 +1839,7 @@
                <title>Tears of a Tiger</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:duane.d.soyouwanttobewizard">
                <author>
                   <persName>Duane, Diane</persName>
                </author>
@@ -1914,7 +1930,7 @@
                <trait ref="#tag.owned" when-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:eggers.d.staggeringgenius">
                <author>
                   <persName>Eggers, Dave</persName>
                </author>
@@ -1931,7 +1947,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:esquivel.l.waterforchocolate">
                <author>
                   <persName>Esquivel, Laura</persName>
                </author>
@@ -1968,7 +1984,7 @@
                <title>The Horse Whisperer</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:farmer.n.eareyearm">
                <author>
                   <persName>Farmer, Nancy</persName>
                </author>
@@ -1990,7 +2006,7 @@
                <title>The House of the Scorpion</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:farmer.n.warmplace">
                <author>
                   <persName>Farmer, Nancy</persName>
                </author>
@@ -2005,7 +2021,7 @@
                <title>Mind’s Eye</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:fleischm.p.seedfolk">
                <author>
                   <persName>Fleischman, Paul</persName>
                </author>
@@ -2072,9 +2088,11 @@
                   <persName>Frank, Anne</persName>
                </author>
                <title>Diary of a Young Girl</title>
+               <trait ref="#tag.memoir"/>
+               <trait ref="#tag.nonfiction"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:funke.c.inkheart">
                <author>
                   <persName>Funke, Cornelia</persName>
                </author>
@@ -2082,7 +2100,7 @@
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:funke.c.inkspell">
                <author>
                   <persName>Funke, Cornelia</persName>
                </author>
@@ -2090,20 +2108,26 @@
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.americangods">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
                <title>American Gods</title>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <series>
+                 <title>American Gods</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.anansiboys">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
                <title>Anansi Boys</title>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <series>
+                 <title>American Gods</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -2119,7 +2143,6 @@
                   <persName>Gaiman, Neil</persName>
                </author>
                <title>The Books of Magic</title>
-               <note>See Rieber, John Ney</note>
                <trait ref="#tag.comics"/>
                <series>
                   <title>Books of Magic</title>
@@ -2138,11 +2161,11 @@
                   <persName>Gaiman, Neil</persName>
                </author>
                <title>Don’t Panic: The Official Hitchhiker’s Guide to the Galaxy Companion</title>
-               <note>See Adams, Douglas.</note>
+               <trait ref="#tag.memoir"/>
                <trait ref="#tag.nonfiction"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.fragilethings">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
@@ -2158,7 +2181,7 @@
                <trait ref="#tag.comics"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.neverwhere">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
@@ -2294,7 +2317,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.smokemirrors">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
@@ -2302,7 +2325,7 @@
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.stardust">
                <author>
                   <persName>Gaiman, Neil</persName>
                </author>
@@ -2536,7 +2559,7 @@
                <title>The Night Room</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:goldman.w.princessbride">
                <author>
                   <persName>Goldman, William</persName>
                </author>
@@ -2605,7 +2628,7 @@
                   <persName>Grisham, John</persName>
                </author>
                <title>The Chamber</title>
-               <note>First “adult” book read</note>
+               <note>First “adult” book read.</note>
             </bibl>
 
             <bibl>
@@ -2629,7 +2652,7 @@
                <title>The Pelican Brief</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:grisham.j.rainmaker">
                <author>
                   <persName>Grisham, John</persName>
                </author>
@@ -2761,7 +2784,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="heinlein.r.citizengalaxy">
                <author>
                   <persName>Heinlein, Robert</persName>
                </author>
@@ -2863,7 +2886,7 @@
                <trait ref="#tag.comics"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:hidier.td.bornconfused">
                <author>
                   <persName>Hidier, Tanuja Desai</persName>
                </author>
@@ -2975,7 +2998,7 @@
                <title>The Tao of Pooh</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:homer.odyssey">
                <author>
                   <persName>Homer</persName>
                </author>
@@ -3023,7 +3046,7 @@
                <title>The Watcher</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:howe.n.adventuresblueavenger">
                <author>
                   <persName>Howe, Norma</persName>
                </author>
@@ -3099,130 +3122,174 @@
                   <persName>Jacobus, Tim</persName>
                </respStmt>
                <title>It Came from New Jersey!: My Life as an Artist</title>
-               <note>See Stine, R.L.</note>
                <trait ref="#tag.memoir"/>
                <trait ref="#tag.nonfiction"/>
                <trait ref="#tag.owned" when-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.redwall">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Redwall</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.mossflower">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Mossflower</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.mattimeo">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Mattimeo</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.martinwarrior">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Martin the Warrior</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.legendluke">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>The Legend of Luke</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.lordbrocktree">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Lord Brocktree</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.salamandastron">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Salamandastron</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.triss">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Triss</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.marlfox">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Marlfox</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.bellmaker">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>The Bellmaker</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.mariel">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Mariel of Redwall</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.pearlslutra">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>The Pearls of Lutra</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.outcastredwall">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>The Outcast of Redwall</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.taggerung">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>Taggerung</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jacques.b.longpatrol">
                <author>
                   <persName>Jacques, Brian</persName>
                </author>
                <title>The Long Patrol</title>
                <trait ref="#tag.owned" from-custom="ash:child"/>
+               <series>
+                 <title>Redwall</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -3231,6 +3298,9 @@
                </author>
                <title>Castaways of the Flying Dutchman</title>
                <trait ref="#tag.owned" when-custom="ash:child"/>
+               <series>
+                 <title>Castaways</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -3239,6 +3309,9 @@
                </author>
                <title>The Angel’s Command</title>
                <trait ref="#tag.owned" when-custom="ash:child"/>
+               <series>
+                 <title>Castaways</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -3255,7 +3328,7 @@
                <title>The Love Wife</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jen.g.monainpromisedland">
                <author>
                   <persName>Jen, Gish</persName>
                </author>
@@ -3277,7 +3350,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:goyer.d.jla.jsavirtuevice">
                <author>
                   <persName>Johns, Geoff</persName>
                </author>
@@ -3300,7 +3373,7 @@
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl saemAs="b:jones.dw.derkholm">
                <author>
                   <persName>Jones, Diana Wynne</persName>
                </author>
@@ -3308,7 +3381,7 @@
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jones.dw.deepsecret">
                <author>
                   <persName>Jones, Diana Wynne</persName>
                </author>
@@ -3316,7 +3389,7 @@
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:jones.dw.howlsmovingcastle">
                <author>
                   <persName>Jones, Diana Wynne</persName>
                </author>
@@ -3441,7 +3514,7 @@
                <trait ref="#tag.nonfiction"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:kerr.p.wildswans">
                <author>
                   <persName>Kerr, Peg</persName>
                </author>
@@ -3505,7 +3578,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:kidd.sm.secretbees">
                <author>
                   <persName>Kidd, Sue Monk</persName>
                </author>
@@ -3551,7 +3624,7 @@
                <title>Needful Things</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:king.s.onwriting">
                <author>
                   <persName>King, Stephen</persName>
                </author>
@@ -3652,13 +3725,19 @@
                   <persName>Koontz, Dean</persName>
                </author>
                <title>Fear Nothing</title>
+               <series>
+                 <title>Moonlight Bay</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:koontz.d.seizenight">
                <author>
                   <persName>Koontz, Dean</persName>
                </author>
                <title>Seize the Night</title>
+               <series>
+                 <title>Moonlight Bay</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -3888,7 +3967,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:lengle.m.awrinkleintime">
                <author>
                   <persName>L’Engle, Madeline</persName>
                </author>
@@ -3899,7 +3978,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:lengle.m.swiftlytiltingplanet">
                <author>
                   <persName>L’Engle, Madeline</persName>
                </author>
@@ -3910,7 +3989,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:lengle.m.winddoor">
                <author>
                   <persName>L’Engle, Madeline</persName>
                </author>
@@ -3921,7 +4000,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:lengle.m.manywaters">
                <author>
                   <persName>L’Engle, Madeline</persName>
                </author>
@@ -3995,7 +4074,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:lightman.a.einsteinsdreams">
                <author>
                   <persName>Lightman, Alan</persName>
                </author>
@@ -4113,7 +4192,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:garcíamá.g.hundredyears">
                <author>
                   <persName>Márquez, Gabriel García</persName>
                </author>
@@ -4186,20 +4265,28 @@
 
             <bibl>
                <author>
-                  <persName>Matas, Carol &amp; Perry Nodelman</persName>
+                  <persName>Matas, Carol</persName>
+                  <persName>Perry Nodelman</persName>
                </author>
                <title>Of Two Minds</title>
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
+               <series>
+                 <title>Minds</title>
+               </series>
             </bibl>
 
             <bibl>
                <author>
-                  <persName>Matas, Carol &amp; Perry Nodelman</persName>
+                  <persName>Matas, Carol</persName>
+                  <persName>Perry Nodelman</persName>
                </author>
                <title>More Minds</title>
+               <series>
+                 <title>Minds</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:matheson.r.iamlegend">
                <author>
                   <persName>Matheson, Richard</persName>
                </author>
@@ -4209,7 +4296,8 @@
 
             <bibl>
                <author>
-                  <persName>McBay, Bruce and James Heneghan</persName>
+                  <persName>McBay, Bruce</persName>
+                  <persName>James Heneghan</persName>
                </author>
                <title>Waiting for Sarah</title>
             </bibl>
@@ -4241,7 +4329,7 @@
                <trait ref="#tag.owned" from-custom="ash:bachelor"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:mccloud.s.makingcomics">
                <author>
                   <persName>McCloud, Scott</persName>
                </author>
@@ -4278,7 +4366,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:mckinley.r.rosedaughter">
                <author>
                   <persName>McKinley, Robin</persName>
                </author>
@@ -4322,7 +4410,7 @@
                <title>Petey</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:miller.a.crucible">
                <author>
                   <persName>Miller, Arthur</persName>
                </author>
@@ -4384,7 +4472,7 @@
                <trait ref="#tag.comics"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:moeller.c.jla.leagueone">
                <author>
                   <persName>Moeller, Christopher</persName>
                </author>
@@ -4494,7 +4582,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:morrison.g.jla.worldwariii">
                <author>
                   <persName>Morrison, Grant</persName>
                </author>
@@ -4572,12 +4660,12 @@
                <trait ref="#tag.class" when-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:myers.wd.legendtarik">
                <author>
                   <persName>Myers, Walter Dean</persName>
                </author>
                <title>The Legend of Tarik</title>
-               <trait ref="#tag.owned" when-custom="ash:bachelor"/>
+               <trait ref="#tag.owned" from-custom="ash:bachelor"/>
             </bibl>
 
             <bibl>
@@ -4616,7 +4704,7 @@
                <trait ref="#tag.owned" when-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:niffeneg.a.timetravelerswife">
                <author>
                   <persName>Niffenegger, Audrey</persName>
                </author>
@@ -4646,7 +4734,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:nix.g.abhorsen">
                <author>
                   <persName>Nix, Garth</persName>
                </author>
@@ -4717,7 +4805,7 @@
                <title>Dancing on the Edge</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:november.s.firebirds">
                <respStmt>
                   <resp n="editor of compilation"/>
                   <persName>November, Sharyn</persName>
@@ -4764,7 +4852,7 @@
                <trait ref="#tag.anthology"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:obrien.t.thingstheycarried">
                <author>
                   <persName>O’Brien, Tim</persName>
                </author>
@@ -4836,7 +4924,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:paolini.c.eragon">
                <author>
                   <persName>Paolini, Christopher</persName>
                </author>
@@ -4847,7 +4935,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:paolini.c.eldest">
                <author>
                   <persName>Paolini, Christopher</persName>
                </author>
@@ -4885,6 +4973,9 @@
                   <persName>Pattou, Edith</persName>
                </author>
                <title>East</title>
+               <series>
+                 <title>East</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -4921,7 +5012,7 @@
                <title>Hatchet</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:paulsen.g.island">
                <author>
                   <persName>Paulsen, Gary</persName>
                </author>
@@ -4941,13 +5032,9 @@
                   <persName>Pearl, Matthew</persName>
                </author>
                <title>The Dante Club</title>
-            </bibl>
-
-            <bibl>
-               <author>
-                  <persName>Peck, Richard</persName>
-               </author>
-               <title>Blossom Culp and the Sleep of Death</title>
+               <series>
+                 <title>The Dante Club</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -4955,6 +5042,19 @@
                   <persName>Peck, Richard</persName>
                </author>
                <title>Ghosts I Have Been</title>
+               <series>
+                 <title>Blossom Culp</title>
+               </series>
+            </bibl>
+
+            <bibl>
+               <author>
+                  <persName>Peck, Richard</persName>
+               </author>
+               <title>Blossom Culp and the Sleep of Death</title>
+               <series>
+                 <title>Blossom Culp</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -4976,6 +5076,9 @@
                   <persName>Philbrick, Rodman</persName>
                </author>
                <title>Max the Mighty</title>
+               <series>
+                 <title>Freak the Mighty</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -5012,7 +5115,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Song of the Lioness: Alanna: the First Adventure</title>
+               <title>Alanna: the First Adventure</title>
                <series>
                   <title>Song of the Lioness</title>
                </series>
@@ -5022,7 +5125,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Song of the Lioness: In the Hand of the Goddess</title>
+               <title>In the Hand of the Goddess</title>
                <series>
                   <title>Song of the Lioness</title>
                </series>
@@ -5032,7 +5135,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Song of the Lioness: The Woman Who Rides Like a Man</title>
+               <title>The Woman Who Rides Like a Man</title>
                <series>
                   <title>Song of the Lioness</title>
                </series>
@@ -5042,17 +5145,17 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Song of the Lioness: Lioness Rampant</title>
+               <title>Lioness Rampant</title>
                <series>
                   <title>Song of the Lioness</title>
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pierce.t.wildmagic">
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Immortals: Wild Magic</title>
+               <title>Wild Magic</title>
                <series>
                   <title>Immortals</title>
                </series>
@@ -5062,7 +5165,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Immortals: Wolf Speaker</title>
+               <title>Wolf Speaker</title>
                <series>
                   <title>Immortals</title>
                </series>
@@ -5072,7 +5175,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Immortals: The Emperor Mage</title>
+               <title>The Emperor Mage</title>
                <series>
                   <title>Immortals</title>
                </series>
@@ -5082,7 +5185,7 @@
                <author>
                   <persName>Pierce, Tamora</persName>
                </author>
-               <title>Immortals: The Realms of the Gods</title>
+               <title>The Realms of the Gods</title>
                <series>
                   <title>Immortals</title>
                </series>
@@ -5236,7 +5339,8 @@
 
             <bibl>
                <author>
-                  <persName>Pini, Wendy &amp; Richard</persName>
+                  <persName>Pini, Wendy</persName>
+                  <persName>Richard Pini</persName>
                </author>
                <title>Elfquest: Fire and Flight</title>
                <trait ref="#tag.comics"/>
@@ -5386,7 +5490,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pratchet.t.wyrdsisters">
                <author>
                   <persName>Pratchett, Terry</persName>
                </author>
@@ -5437,7 +5541,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pratchet.t.smallgods">
                <author>
                   <persName>Pratchett, Terry</persName>
                </author>
@@ -5508,13 +5612,12 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:gaiman.n.goodomens">
                <author>
                   <persName>Pratchett, Terry</persName>
                   <persName>Neil Gaiman</persName>
                </author>
                <title>Good Omens</title>
-               <note>See Gaiman, Neil</note>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
             </bibl>
 
@@ -5532,7 +5635,7 @@
                <title>Count Karlstein</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pullman.p.goldencompass">
                <author>
                   <persName>Pullman, Philip</persName>
                </author>
@@ -5543,7 +5646,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pullman.p.subtleknife">
                <author>
                   <persName>Pullman, Philip</persName>
                </author>
@@ -5553,7 +5656,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pullman.p.amberspyglass">
                <author>
                   <persName>Pullman, Philip</persName>
                </author>
@@ -5563,11 +5666,12 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:pullman.p.completehisdarkmaterials">
                <author>
                   <persName>Pullman, Philip</persName>
                </author>
                <title>His Dark Materials</title>
+               <trait ref="#tag.omnibus"/>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
                <series>
                   <title>His Dark Materials</title>
@@ -5652,14 +5756,16 @@
                   <persName>Rice, Anne</persName>
                </author>
                <title>Interview with the Vampire</title>
+               <series>
+                 <title>The Vampire Chronicles</title>
+               </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:rieber.jn.booksmagic.summonings">
                <author>
                   <persName>Rieber, John Ney</persName>
                </author>
                <title>Books of Magic: Summonings</title>
-               <note>See Gaiman, Neil</note>
                <trait ref="#tag.comics"/>
                <trait ref="#tag.owned" from-custom="ash:bachelor"/>
                <series>
@@ -5667,7 +5773,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:rieber.jn.booksmagic.reckonings">
                <author>
                   <persName>Rieber, John Ney</persName>
                </author>
@@ -5717,7 +5823,7 @@
                <title>Moon Dancer</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:rowling.jk.hp.sorcerersstone">
                <author>
                   <persName>Rowling, J.K.</persName>
                </author>
@@ -5733,7 +5839,7 @@
                   <persName>Rowling, J.K.</persName>
                </author>
                <title>Harry Potter and the Chamber of Secrets</title>
-               <trait ref="#tag.owned" from-custom="ash:child"/>
+               <trait ref="#tag.owned" from-custom="ash:child" to-custom="ash:master"/>
                <series>
                   <title>Harry Potter</title>
                </series>
@@ -5744,13 +5850,13 @@
                   <persName>Rowling, J.K.</persName>
                </author>
                <title>Harry Potter and the Prisoner of Azkaban</title>
-               <trait ref="#tag.owned" from-custom="ash:child"/>
+               <trait ref="#tag.owned" from-custom="ash:child" to-custom="ash:master"/>
                <series>
                   <title>Harry Potter</title>
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:rowling.jk.hp.gobletfire">
                <author>
                   <persName>Rowling, J.K.</persName>
                </author>
@@ -5766,7 +5872,7 @@
                   <persName>Rowling, J.K.</persName>
                </author>
                <title>Harry Potter and the Order of the Phoenix</title>
-               <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <trait ref="#tag.owned" from-custom="ash:youngadult" to-custom="ash:master"/>
                <series>
                   <title>Harry Potter</title>
                </series>
@@ -5777,7 +5883,7 @@
                   <persName>Rowling, J.K.</persName>
                </author>
                <title>Harry Potter and the Half-Blood Prince</title>
-               <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <trait ref="#tag.owned" from-custom="ash:youngadult" to-custom="ash:master"/>
                <series>
                   <title>Harry Potter</title>
                </series>
@@ -5788,7 +5894,7 @@
                   <persName>Rowling, J.K.</persName>
                </author>
                <title>Harry Potter and the Deathly Hollows</title>
-               <trait ref="#tag.owned" from-custom="ash:bachelor"/>
+               <trait ref="#tag.owned" from-custom="ash:bachelor" to-custom="ash:master"/>
                <series>
                   <title>Harry Potter</title>
                </series>
@@ -5799,6 +5905,9 @@
                   <persName>Rushdie, Salman</persName>
                </author>
                <title>Haroun and the Sea of Stories</title>
+               <series>
+                 <title>Khalifa Brothers</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -5847,7 +5956,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:saintexu.a.littleprince">
                <author>
                   <persName>Saint Exupéry, Antoine de</persName>
                </author>
@@ -5906,7 +6015,8 @@
 
             <bibl>
                <author>
-                  <persName>Scott, Jerry &amp; Jim Borgman</persName>
+                  <persName>Scott, Jerry</persName>
+                  <persName>Jim Borgman</persName>
                </author>
                <title>Zits: Growth Spurt</title>
                <trait ref="#tag.comics"/>
@@ -5915,7 +6025,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:sebold.a.lovelybones">
                <author>
                   <persName>Sebold, Alice</persName>
                </author>
@@ -6156,9 +6266,10 @@
                </author>
                <title>A Tree Grows in Brooklyn</title>
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
+               <trait ref="#tag.owned" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:smith.j.bone">
                <author>
                   <persName>Smith, Jeff</persName>
                </author>
@@ -6219,6 +6330,9 @@
                   <persName>Snyder, Zilpha Keatley</persName>
                </author>
                <title>The Egypt Game</title>
+               <series>
+                 <title>Game</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -6226,6 +6340,9 @@
                   <persName>Snyder, Zilpha Keatley</persName>
                </author>
                <title>The Gypsy Game</title>
+               <series>
+                 <title>Game</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -6293,7 +6410,7 @@
                <trait ref="#tag.comics"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:spiegalm.a.maus.1">
                <author>
                   <persName>Spiegelman, Art</persName>
                </author>
@@ -6304,7 +6421,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:spiegalm.a.maus.2">
                <author>
                   <persName>Spiegelman, Art</persName>
                </author>
@@ -6335,6 +6452,9 @@
                </author>
                <title>Stargirl</title>
                <trait ref="#tag.owned" from-custom="ash:youngadult"/>
+               <series>
+                 <title>Stargirl</title>
+               </series>
             </bibl>
 
             <bibl>
@@ -6344,7 +6464,7 @@
                <title>I Am Mordred</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:stearns.m.wizardsdozen">
                <respStmt>
                   <resp n="editor of compilation"/>
                   <persName>Stearns, Michael</persName>
@@ -6353,7 +6473,7 @@
                <trait ref="#tag.owned" from-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:steinbec.j.canneryrow">
                <author>
                   <persName>Steinbeck, John</persName>
                </author>
@@ -6370,7 +6490,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:steinbec.j.ofmicemen">
                <author>
                   <persName>Steinbeck, John</persName>
                </author>
@@ -6407,13 +6527,12 @@
                   <persName>Stine, R.L.</persName>
                </author>
                <title>It Came from Ohio!: My Life as a Writer</title>
-               <note>See Jacobus, Tim</note>
                <trait ref="#tag.memoir"/>
                <trait ref="#tag.nonfiction"/>
                <trait ref="#tag.owned" when-custom="ash:child"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:stoker.b.dracula">
                <author>
                   <persName>Stoker, Bram</persName>
                </author>
@@ -6447,7 +6566,7 @@
                <author>
                   <persName>Stroud, Johnathan</persName>
                </author>
-               <title>The Bartimaeus Trilogy: The Amulet of Samarkand</title>
+               <title>The Amulet of Samarkand</title>
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
                <series>
                   <title>The Bartimaeus Trilogy</title>
@@ -6458,7 +6577,7 @@
                <author>
                   <persName>Stroud, Johnathan</persName>
                </author>
-               <title>The Bartimaeus Trilogy: The Golem’s Eye</title>
+               <title>The Golem’s Eye</title>
                <series>
                   <title>The Bartimaeus Trilogy</title>
                </series>
@@ -6629,7 +6748,7 @@
                <title>Welcome to the Ark</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:tolkien.jrr.hobbit">
                <author>
                   <persName>Tolkien, J.R.R.</persName>
                </author>
@@ -6640,7 +6759,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:tolkien.jrr.fellowshipring">
                <author>
                   <persName>Tolkien, J.R.R.</persName>
                </author>
@@ -6654,7 +6773,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:tolkien.jrr.twotowers">
                <author>
                   <persName>Tolkien, J.R.R.</persName>
                </author>
@@ -6668,7 +6787,7 @@
                </series>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:tolkien.jrr.returnking">
                <author>
                   <persName>Tolkien, J.R.R.</persName>
                </author>
@@ -6777,7 +6896,7 @@
                <title>Curses, Inc. and Other Stories</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:velde.vv.heirapparent">
                <author>
                   <persName>Vande Velde, Vivian</persName>
                </author>
@@ -6865,6 +6984,7 @@
                </author>
                <title>The Writer’s Journey</title>
                <edition>2nd ed.</edition>
+               <trait ref="#tag.nonfiction"/>
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
             </bibl>
 
@@ -6896,7 +7016,7 @@
                <trait ref="#tag.class" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:vonnegut.k.breakfastchampions">
                <author>
                   <persName>Vonnegut, Kurt</persName>
                </author>
@@ -6985,6 +7105,7 @@
                   <persName>Wells, Rebecca</persName>
                </author>
                <title>Divine Secrets of the Ya-Ya Sisterhood</title>
+               <trait ref="#tag.owned" from-custom="ash:youngadult" to="ash:bachelor"/>
                <series>
                   <title>Ya-Yas</title>
                </series>
@@ -7115,6 +7236,8 @@
                   <persName>Winchester, Simon</persName>
                </author>
                <title>The Professor and the Madman</title>
+               <trait ref="#tag.memoir"/>
+               <trait ref="#tag.nonfiction"/>
             </bibl>
 
             <bibl>
@@ -7257,7 +7380,7 @@
                <title>The Devil’s Arithmetic</title>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:yolen.j.dragonsblood">
                <author>
                   <persName>Yolen, Jane</persName>
                </author>
@@ -7294,11 +7417,10 @@
                   <persName>Bruce Coville</persName>
                </author>
                <title>Armageddon Summer</title>
-               <note>See Coville, Bruce</note>
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl>
+            <bibl sameAs="b:zafόn.cr.shadowwind">
                <author>
                   <persName>Zafón, Carlos Ruiz</persName>
                </author>
