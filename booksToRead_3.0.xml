@@ -238,6 +238,11 @@
         </bibl>
         <bibl>
           <author ref="a:austen.j">Austen, Jane</author>.
+          <title>Lady Susan</title>.
+          <date type="added" when="2019-03-25"/>
+        </bibl>
+        <bibl>
+          <author ref="a:austen.j">Austen, Jane</author>.
           <title>Sense and Sensibility</title>.
         </bibl>
         <bibl>

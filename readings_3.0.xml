@@ -30,7 +30,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-03-23">
+        <event from="2019-04-07">
+          <p>Reread <ref target="b:mcguire.s.rosemaryrue">Rosemary and Rue</ref>.</p>
+        </event>
+        <event when="2019-04-06">
+          <p>Read <ref target="b:gillen.k.wickeddivine.5.imperialphase1">The Wicked and the Divine Vol. 
+            5: Imperial Phase Part 1</ref>.</p>
+        </event>
+        <event from="2019-03-23" to="2019-04-05">
           <p>Read <ref target="b:kingsolver.b.flightbehavior">Flight Behavior</ref>.</p>
         </event>
         <event when="2019-03-21">

@@ -121,6 +121,15 @@
               <editor>
                 <persName ref="a:william.c"/>
               </editor>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:wada.k"/>
+                <persName ref="a:alexander.l"/>
+                <persName ref="a:lynskey.d"/>
+                <persName ref="a:penny.l"/>
+                <persName ref="a:choi.mhk"/>
+                <persName ref="a:kewku.e"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
                 <date type="copyright" when="2017"/>
