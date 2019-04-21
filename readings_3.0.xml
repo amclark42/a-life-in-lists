@@ -30,7 +30,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-04-07">
+        <event from="2019-04-18">
+          <p>Read <ref target="b:palwick.s.shelter">Shelter</ref>.</p>
+        </event>
+        <event from="2019-04-07" to="2019-04-18">
           <p>Reread <ref target="b:mcguire.s.rosemaryrue">Rosemary and Rue</ref>.</p>
         </event>
         <event when="2019-04-06">

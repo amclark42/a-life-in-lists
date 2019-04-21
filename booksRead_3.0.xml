@@ -68,6 +68,238 @@
           
           
           
+          <biblStruct xml:id="simone.g.cleanroom.1.immaculateconception">
+            <monogr>
+              <title>Clean Room Vol. 1: Immaculate Conception</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="creator"/>
+                <persName ref="a:simone.g"/>
+              </respStmt>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:davishunt.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:winter.q"/>
+                <persName ref="a:davishunt.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:klein.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="cover designer"/>
+                <persName ref="a:frison.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" from="2015" to="2016"/>
+                <publisher>
+                  <orgName>Vertigo</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Clean Room</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="gillen.k.wickeddivine.6.imperialphase2">
+            <monogr>
+              <title>The Wicked and the Divine Vol. 6: Imperial Phase Part 2</title>
+              <author>
+                <persName ref="a:gillen.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:mckelvie.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wilson.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="flatter"/>
+                <persName ref="a:cunniffe.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:william.c"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Wicked and the Divine</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="king.lr.ojerusalem">
+            <monogr>
+              <title>O Jerusalem</title>
+              <author>
+                <persName ref="a:king.lr"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="1999"/>
+                <publisher>
+                  <orgName>Bantam Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Mary Russell</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="gloss.m.dazzleday">
+            <monogr>
+              <title>The Dazzle of Day</title>
+              <author>
+                <persName ref="a:gloss.m"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="1997"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="palwick.s.shelter">
+            <monogr>
+              <title>Shelter</title>
+              <author>
+                <persName ref="a:palwick.s"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="2007"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="melançon.i.valor.1.swords">
+            <monogr>
+              <title>Valor 1: Swords</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:melançon.i"/>
+                <persName ref="a:laveyheaton.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:aïdkaci.j"/>
+                <persName ref="a:barbarich.e"/>
+                <persName ref="a:barnes.a"/>
+                <persName ref="a:beem.m"/>
+                <persName ref="a:brown.c"/>
+                <persName ref="a:brown.a"/>
+                <persName ref="a:carter.m"/>
+                <persName ref="a:chartrand.n"/>
+                <persName ref="a:fedoruk.k"/>
+                <persName ref="a:ferrara.t"/>
+                <persName ref="a:goetter.s"/>
+                <persName ref="a:hann.e"/>
+                <persName ref="a:kearney.m"/>
+                <persName ref="a:krivanek.m"/>
+                <persName ref="a:lanjil.j"/>
+                <persName ref="a:lopez.am"/>
+                <persName ref="a:neubert.l"/>
+                <persName ref="a:singer.a"/>
+                <persName ref="a:shanahan.k"/>
+                <persName ref="a:shanahan.s"/>
+                <persName ref="a:stoll.a"/>
+                <persName ref="a:webster.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2019-04-16"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Fairylogue Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Valor</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="melançon.i.valor.2.wands">
+            <monogr>
+              <title>Valor 2: Wands</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:melançon.i"/>
+                <persName ref="a:laveyheaton.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:ametalias"/>
+                <persName ref="a:capp"/>
+                <persName ref="a:chartrand.n"/>
+                <persName ref="a:davies.s"/>
+                <persName ref="a:fortson.a"/>
+                <persName ref="a:fortuna.c"/>
+                <persName ref="a:goetter.s"/>
+                <persName ref="a:hann.e"/>
+                <persName ref="a:howard.a"/>
+                <persName ref="a:huh.d"/>
+                <persName ref="a:kingsley.r"/>
+                <persName ref="a:lanjil.j"/>
+                <persName ref="a:layne.a"/>
+                <persName ref="a:lin"/>
+                <persName ref="a:lopez.am"/>
+                <persName ref="a:louis.m"/>
+                <persName ref="a:matthews.k"/>
+                <persName ref="a:matthews.n"/>
+                <persName ref="a:frey.jm"/>
+                <persName ref="a:rasmussensilverstein.r"/>
+                <persName ref="a:riess.n"/>
+                <persName ref="a:simms.f"/>
+                <persName ref="a:singer.a"/>
+                <persName ref="a:stern.s"/>
+                <persName ref="a:weaver.g"/>
+                <persName ref="a:webster.j"/>
+                <persName ref="a:wells.j"/>
+                <persName ref="a:xu.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2018-02-10"/>
+                <catRef target="#tag.owned" from="2019-04-16"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Fairylogue Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Valor</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="alder.a.dream">
             <monogr>
               <title>Dream Askew &amp; Dream Apart</title>
