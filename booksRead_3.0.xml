@@ -68,6 +68,59 @@
           
           
           
+          <biblStruct xml:id="lafrenais.a.sexmachine">
+            <monogr>
+              <title>Sex Machine</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:lafrenai.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="cover designer"/>
+                <persName ref="a:maamar.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:anderjack"/>
+                <persName ref="a:koch.a"/>
+                <persName ref="a:delliqua.b"/>
+                <persName ref="a:hicks.fe"/>
+                <persName ref="a:staples.f"/>
+                <persName ref="a:ghostgreen"/>
+                <persName ref="a:harlotin"/>
+                <persName ref="a:cairns.j"/>
+                <persName ref="a:matthews.k"/>
+                <persName ref="a:matthews.n"/>
+                <persName ref="a:mcclaren.m"/>
+                <persName ref="a:haynes.m"/>
+                <persName ref="a:thunderhug.r"/>
+                <persName ref="a:ganucheau.s"/>
+                <persName ref="a:robin.t"/>
+                <persName ref="a:mcgee.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="copyright holder"/>
+                <persName ref="a:trotman.cs"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.kickstarted" when="2018-08-29"/>
+                <catRef target="#tag.owned" from="2019-05-03"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Iron Circus</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Smut Peddler Presents</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="simone.g.cleanroom.1.immaculateconception">
             <monogr>
               <title>Clean Room Vol. 1: Immaculate Conception</title>
@@ -504,7 +557,8 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned" from="2019-02-14"/>
+                <catRef target="#tag.owned" from="2019-02-14" to="2019-04"/>
+                <!-- Accidentally "returned" my copy with a bunch of library books. -->
                 <date type="copyright" when="2017"/>
                 <publisher>
                   <orgName>Marvel Comics</orgName>

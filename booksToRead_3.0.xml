@@ -2152,11 +2152,6 @@
           <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
-          <author>Palwick, Susan</author>.
-          <title>Shelter</title>.
-          <date type="added" when="2017-06-29"/>
-        </bibl>
-        <bibl>
           <author ref="a:parker.j">Parker, Jeff</author>.
           <title>Mysterius the Unfathomable</title>.
           <trait ref="#tag.comics"/>

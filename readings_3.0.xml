@@ -30,7 +30,20 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-04-18">
+        <event from="2019-05-03" to="2019-05-04">
+          <p>Read <ref target="b:lafrenais.a.sexmachine">Sex Machine</ref>.</p>
+        </event>
+        <event from="2019-04-30" to="2019-05-01">
+          <p>Read <ref target="b:gillen.k.wickeddivine.6.imperialphase2">The Wicked and the Divine Vol. 
+            6: Imperial Phase Part 2</ref>.</p>
+        </event>
+        <event from="2019-04-28">
+          <p>Read <ref target="b:king.lr.ojerusalem">O Jerusalem</ref>.</p>
+        </event>
+        <event from="2019-04-27" to="2019-04-28">
+          <p>Read <ref target="b:melançon.i.valor.1.swords">Valor 1: Swords</ref>.</p>
+        </event>
+        <event from="2019-04-18" to="2019-04-26">
           <p>Read <ref target="b:palwick.s.shelter">Shelter</ref>.</p>
         </event>
         <event from="2019-04-07" to="2019-04-18">

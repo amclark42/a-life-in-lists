@@ -44,6 +44,81 @@
         
         
         
+        <person xml:id="maamar.a">
+          <persName>
+            <forename>Anaïs</forename>
+            <surname>Maamar</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="anderjack">
+          <persName>
+            <name>Anderjack</name>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="koch.a">
+          <persName>
+            <forename>Aud</forename>
+            <surname>Koch</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ghostgreen">
+          <persName type="pseudonym">
+            <name>ghostgreen</name>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="harlotin">
+          <persName type="pseudonym">
+            <name>Harlotin</name>
+          </persName>
+        </person>
+        
+        <person xml:id="haynes.m">
+          <persName>
+            <forename>Myisha</forename>
+            <surname>Haynes</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="thunderhug.r">
+          <persName type="pseudonym">
+            <forename>Roxie</forename>
+            <surname>Thunderhug</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ganucheau.s">
+          <persName>
+            <forename>Savannah</forename>
+            <surname>Ganucheau</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="robin.t">
+          <persName>
+            <forename>Taylor</forename>
+            <surname>Robin</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="mcgee.t">
+          <persName type="pseudonym">
+            <forename>Tits</forename>
+            <surname>Mcgee</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="ametalias">
           <persName>
             <name>Ametalias</name>
