@@ -66,7 +66,103 @@
           
           <!-- Break lines at column 100. -->
           
+
           
+          <biblStruct xml:id="ward.j.singunburied">
+            <monogr>
+              <title>Sing, Unburied, Sing</title>
+              <author>
+                <persName ref="a:ward.j"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-05-19"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Scribner</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="brennan.m.naturalhistorydragons">
+            <monogr>
+              <title>A Natural History of Dragons: A Memoir by Lady Trent</title>
+              <author>
+                <persName ref="a:brennan.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <date type="added" when="2016-07-29"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Memoirs of Lady Trent</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="ortberg.dm.merryspinster">
+            <monogr>
+              <title>The Merry Spinster: Tales of Everyday Horror</title>
+              <author>
+                <persName ref="a:ortberg.dm"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-03-13"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Henry Holt and Company</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="sheehan.a.anxietyeverydayobjects">
+            <monogr>
+              <title>The Anxiety of Everyday Objects</title>
+              <author>
+                <persName ref="a:sheehan.a"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:youngadult"/>
+                <date type="copyright" when="2004"/>
+                <publisher>
+                  <orgName>Penguin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="dini.p.canaryzatanna.bloodspell">
+            <monogr>
+              <title>Black Canary and Zatanna: Bloodspell</title>
+              <author>
+                <persName ref="a:dini.p"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:quinones.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:mccaig.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cipriano.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           
           <biblStruct xml:id="lafrenais.a.sexmachine">
             <monogr>

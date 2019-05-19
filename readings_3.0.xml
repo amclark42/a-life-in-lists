@@ -30,6 +30,9 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2019-05-18">
+          <p>Read <ref target="b:sheehan.a.anxietyeverydayobjects">The Anxiety of Everyday Objects</ref>.</p>
+        </event>
         <event from="2019-05-03" to="2019-05-04">
           <p>Read <ref target="b:lafrenais.a.sexmachine">Sex Machine</ref>.</p>
         </event>

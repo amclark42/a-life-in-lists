@@ -144,10 +144,6 @@
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
-          <author ref="a:alighier.d">Alighieri, Dante</author>.
-          <title>Paradiso</title>.
-        </bibl>
-        <bibl>
           <author>Allen, Sarah Addison</author>.
           <title>Garden Spells</title>.
           <date type="added" when="2016-10-01"/>
@@ -396,7 +392,7 @@
           <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
-          <author>Brennan, Marie</author>.
+          <author ref="brennan.m">Brennan, Marie</author>.
           <title>A Natural History of Dragons: A Memoir by Lady Trent</title>.
           <series><title>The Memoirs of Lady Trent</title></series>
           <date type="added" when="2016-07-29"/>
@@ -1497,11 +1493,6 @@
         </bibl>
         <bibl>
           <author ref="a:king.lr">King, Laurie R.</author>
-          <title>O Jerusalem</title>.
-          <series><title>Mary Russell</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:king.lr">King, Laurie R.</author>
           <title>Justice Hall</title>.
           <series><title>Mary Russell</title></series>
         </bibl>
@@ -1534,11 +1525,6 @@
           <author ref="a:kingfisher.t">Kingfisher, T.</author>
           <title>Summer in Orcus</title>.
           <date type="added" when="2018-03-03"/>
-        </bibl>
-        <bibl>
-          <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
-          <title>Flight Behavior</title>.
-          <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
           <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
@@ -2100,13 +2086,6 @@
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
-          <author>O’Neil, Cathy</author>.
-          <title>Weapons of Math Destruction: How Big Data Increases Inequality and 
-            Threatens Democracy</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2018-03-10"/>
-        </bibl>
-        <bibl>
           <author>O’Neill, Eugene</author>.
           <title>Long Day’s Journey Into Night</title>.
         </bibl>
@@ -2118,7 +2097,7 @@
           <date type="added" when="2017-09-10"/>
         </bibl>
         <bibl>
-          <author>Ortberg, Daniel Mallory</author>.
+          <author ref="a:ortberg.dm">Ortberg, Daniel Mallory</author>.
           <title>The Merry Spinster: Tales of Everyday Horror</title>.
           <date type="added" when="2018-03-13"/>
         </bibl>
@@ -2473,7 +2452,7 @@
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
-          <author>Sheehan, Aurelie</author>.
+          <author ref="a:sheehan.a">Sheehan, Aurelie</author>.
           <title>The Anxiety of Everyday Objects</title>.
         </bibl>
         <bibl>
@@ -2749,7 +2728,7 @@
           <date type="added" when="2018-08-16"/>
         </bibl>
         <bibl>
-          <author>Ward, Jesmyn</author>.
+          <author ref="ward.j">Ward, Jesmyn</author>.
           <title>Sing, Unburied, Sing</title>.
           <date type="added" when="2018-05-19"/>
         </bibl>

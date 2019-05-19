@@ -42,7 +42,59 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+
         
+        <person xml:id="ward.j">
+          <persName>
+            <forename>Jesmyn</forename>
+            <surname>Ward</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="brennan.m">
+          <persName type="pseudonym">
+            <forename>Marie</forename>
+            <surname>Brennan</surname>
+          </persName>
+          <persName>
+            <forename>Bryn</forename>
+            <surname>Neuenschwander</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ortberg.dm">
+          <persName>
+            <forename>Daniel Mallory</forename>
+            <surname>Ortberg</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="sheehan.a">
+          <persName>
+            <forename>Aurelie</forename>
+            <surname>Sheehan</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="mccaig.d">
+          <persName>
+            <forename>Dave</forename>
+            <surname>McCaig</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="cipriano.s">
+          <persName>
+            <forename>Sal</forename>
+            <surname>Cipriano</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="maamar.a">
           <persName>
