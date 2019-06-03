@@ -71,6 +71,22 @@
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>
+
+        <person xml:id="alphona.a">
+          <persName>
+            <forename>Adrian</forename>
+            <surname>Alphona</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="herring.i">
+          <persName>
+            <forename>Ian</forename>
+            <surname>Herring</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="sheehan.a">
           <persName>
@@ -92,6 +108,30 @@
           <persName>
             <forename>Sal</forename>
             <surname>Cipriano</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+
+        <person xml:id="caramagna.j">
+          <persName>
+            <forename>Joe</forename>
+            <surname>Caramagna</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="pichelli.s">
+          <persName>
+            <forename>Sara</forename>
+            <surname>Pichelli</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ponsor.j">
+          <persName>
+            <forename>Justin</forename>
+            <surname>Ponsor</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
         </person>

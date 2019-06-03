@@ -33,6 +33,19 @@
         <event from="2019-05-18">
           <p>Read <ref target="b:sheehan.a.anxietyeverydayobjects">The Anxiety of Everyday Objects</ref>.</p>
         </event>
+        <event from="2019-05-16" to="2019-05-18">
+          <p>Read <ref target="b:melançon.i.valor.2.wands">Valor 2: Wands</ref>.</p>
+        </event>
+        <event when="2019-05-16">
+          <p>Read <ref target="b:simone.g.cleanroom.1.immaculateconception">Clean Room Vol. 1: 
+            Immaculate Conception</ref>.</p>
+        </event>
+        <event from="2019-05-11" to="2019-05-16">
+          <p>Read <ref target="b:gloss.m.dazzleday">The Dazzle of Day</ref>.</p>
+        </event>
+        <event from="2019-05-07" to="2019-05-09">
+          <p>Read <ref target="b:wilson.gw.msmarvel.1.nonormal">Ms. Marvel Vol. 1: No Normal</ref>.</p>
+        </event>
         <event from="2019-05-03" to="2019-05-04">
           <p>Read <ref target="b:lafrenais.a.sexmachine">Sex Machine</ref>.</p>
         </event>
@@ -40,7 +53,7 @@
           <p>Read <ref target="b:gillen.k.wickeddivine.6.imperialphase2">The Wicked and the Divine Vol. 
             6: Imperial Phase Part 2</ref>.</p>
         </event>
-        <event from="2019-04-28">
+        <event from="2019-04-28" to="2019-05-11">
           <p>Read <ref target="b:king.lr.ojerusalem">O Jerusalem</ref>.</p>
         </event>
         <event from="2019-04-27" to="2019-04-28">

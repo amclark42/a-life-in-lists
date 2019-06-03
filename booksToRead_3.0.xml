@@ -570,6 +570,11 @@
         </bibl>
         <bibl>
           <author ref="a:chiang.t">Chiang, Ted</author>.
+          <title>Exhalation: Stories</title>.
+          <date type="added" when="2019-05-11"/>
+        </bibl>
+        <bibl>
+          <author ref="a:chiang.t">Chiang, Ted</author>.
           <title>Stories of Your Life and Others</title>.
         </bibl>
         <bibl>
@@ -628,6 +633,11 @@
           <title>The Boundaries of Blackness: AIDS and the Breakdown of Black Politics</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
+        </bibl>
+        <bibl>
+          <author>Collins, Bridget</author>.
+          <title>The Binding</title>.
+          <date type="added" when="2019-05-11"/>
         </bibl>
         <bibl>
           <author ref="a:constanti.s">Constantine, Storm</author>.
@@ -1082,9 +1092,9 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Gloss, Molly</author>.
-          <title>The Dazzle of Day</title>.
-          <date type="added" when="2017-06-29"/>
+          <author ref="b:gloss.m">Gloss, Molly</author>.
+          <title>The Jump-Off Creek</title>.
+          <date type="added" when="2019-05-16"/>
         </bibl>
         <bibl>
           <author>Goldberg Sloan, Holly</author> and
@@ -1388,6 +1398,14 @@
           <author>Jama-Everett, Ayize</author>.
           <title>The Liminal People</title>.
           <date type="added" when="2018-06-02"/>
+        </bibl>
+        <bibl>
+          <author>James, Marlon</author>.
+          <title>Black Leopard, Red Wolf</title>.
+          <series>
+            <title>The Dark Star Trilogy</title>
+          </series>
+          <date type="added" when="2019-05-12"/>
         </bibl>
         <bibl>
           <author>Jeffreys, Sheila</author>.
@@ -1818,6 +1836,11 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>Letters to the Pumpkin King</title>.
           <date type="added" when="2018-02-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Middlegame</title>.
+          <date type="added" when="2019-05-11"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2313,6 +2336,11 @@
         </bibl>
         <bibl>
           <author>Russell, Karen</author>.
+          <title>Orange World and Other Stories</title>.
+          <date type="added" when="2019-05-11"/>
+        </bibl>
+        <bibl>
+          <author>Russell, Karen</author>.
           <title>St. Lucy’s Home for Girls Raised by Wolves</title>.
           <date type="added" when="2018-08-26"/>
         </bibl>
@@ -2679,6 +2707,12 @@
           <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
+          <author>Ulrich, Laurel Thatcher</author>.
+          <title>Well-Behaved Women Seldom Make History</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-05-11"/>
+        </bibl>
+        <bibl>
           <author>Unsworth, Barry</author>.
           <title>Sacred Hunger</title>.
         </bibl>
@@ -2749,7 +2783,10 @@
         </bibl>
         <bibl>
           <author>Wellington, David</author>.
-          <title>13 Bullets</title>.
+          <title>13 Bullets: A Vampire Tale</title>.
+          <series>
+            <title>Laura Caxton</title>
+          </series>
         </bibl>
         <bibl>
           <author>Wells, Ida B.</author>
