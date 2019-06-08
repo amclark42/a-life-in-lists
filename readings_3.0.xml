@@ -30,7 +30,20 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-05-18">
+        <event from="2019-06-06">
+          <p>Read <ref target="b:ortberg.dm.merryspinster">The Merry Spinster: Tales of Everyday Horror</ref>.</p>
+        </event>
+        <event when="2019-06-05">
+          <p>Read <ref target="b:dini.p.canaryzatanna.bloodspell">Black Canary and Zatanna: Bloodspell</ref>.</p>
+        </event>
+        <event from="2019-05-24" to="2019-06-05">
+          <p>Read <ref target="b:ward.j.singunburied">Sing, Unburied, Sing</ref>.</p>
+        </event>
+        <event from="2019-05-22" to="2019-05-24">
+          <p>Read <ref target="b:brennan.m.naturalhistorydragons">A Natural History of Dragons: A Memoir by Lady 
+            Trent</ref>.</p>
+        </event>
+        <event from="2019-05-18" to="2019-05-21">
           <p>Read <ref target="b:sheehan.a.anxietyeverydayobjects">The Anxiety of Everyday Objects</ref>.</p>
         </event>
         <event from="2019-05-16" to="2019-05-18">
