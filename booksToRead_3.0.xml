@@ -393,9 +393,9 @@
         </bibl>
         <bibl>
           <author ref="brennan.m">Brennan, Marie</author>.
-          <title>A Natural History of Dragons: A Memoir by Lady Trent</title>.
+          <title>The Tropic of Serpents</title>.
           <series><title>The Memoirs of Lady Trent</title></series>
-          <date type="added" when="2016-07-29"/>
+          <date type="added" when="2019-06-08"/>
         </bibl>
         <bibl>
           <author ref="a:briggs.p">Briggs, Patricia</author>.
@@ -2480,10 +2480,6 @@
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
-          <author ref="a:sheehan.a">Sheehan, Aurelie</author>.
-          <title>The Anxiety of Everyday Objects</title>.
-        </bibl>
-        <bibl>
           <author>Sherman, Delia</author>.
           <title>The Freedom Maze</title>.
         </bibl>
@@ -2760,11 +2756,6 @@
           <title>Necessity</title>.
           <series><title>Thessaly</title></series>
           <date type="added" when="2018-08-16"/>
-        </bibl>
-        <bibl>
-          <author ref="ward.j">Ward, Jesmyn</author>.
-          <title>Sing, Unburied, Sing</title>.
-          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Waugh, Evelyn</author>.

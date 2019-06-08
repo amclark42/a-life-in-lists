@@ -42,7 +42,14 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
-
+        
+        <person xml:id="dini.p">
+          <persName>
+            <forename>Paul</forename>
+            <surname>Dini</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="ward.j">
           <persName>
