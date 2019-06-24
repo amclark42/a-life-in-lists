@@ -30,7 +30,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-06-06">
+        <event from="2019-06-09">
+          <p>Read <ref target="b:roy.a.ministryutmosthappiness">The Ministry of Utmost Happiness</ref>.</p>
+        </event>
+        <event when="2019-06-09">
+          <p>Read <ref target="b:griffith.n.solucky">So Lucky</ref>.</p>
+        </event>
+        <event when="2019-06-09">
+          <p>Read <ref target="b:ikeda.r.claudine">Claudine</ref>.</p>
+        </event>
+        <event from="2019-06-06" to="2019-06-08">
           <p>Read <ref target="b:ortberg.dm.merryspinster">The Merry Spinster: Tales of Everyday Horror</ref>.</p>
         </event>
         <event when="2019-06-05">

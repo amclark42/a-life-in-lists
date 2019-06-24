@@ -1153,11 +1153,6 @@
           <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
-          <author ref="a:griffith.n">Griffith, Nicola</author>.
-          <title>So Lucky</title>.
-          <date type="added" when="2018-10-07"/>
-        </bibl>
-        <bibl>
           <editor>Guay, Rebecca</editor>.
           <title>A Flight of Angels</title>.
           <trait ref="#tag.comics"/>
@@ -1307,6 +1302,12 @@
           <trait ref="#tag.nonfiction"/>
           <trait ref="#tag.queer"/>
           <date type="added" when="2016-10-29"/>
+        </bibl>
+        <bibl>
+          <author>Holmes, Kat</author>.
+          <title>Mismatch: How Inclusion Shapes Design</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-06-09"/>
         </bibl>
         <bibl>
           <author ref="a:homer">Homer</author>.
@@ -2118,11 +2119,6 @@
             the United States, 1900–1965</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
-        </bibl>
-        <bibl>
-          <author ref="a:ortberg.dm">Ortberg, Daniel Mallory</author>.
-          <title>The Merry Spinster: Tales of Everyday Horror</title>.
-          <date type="added" when="2018-03-13"/>
         </bibl>
         <bibl>
           <author>Otsuka, Julie</author>.
