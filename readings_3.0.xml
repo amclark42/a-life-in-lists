@@ -30,7 +30,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-06-09">
+        <event from="2019-06-29">
+          <p>Read <ref target="b:sindu.sj.marriagethousandlies">Marriage of a Thousand Lies</ref>.</p>
+        </event>
+        <event from="2019-06-09" to="2019-06-29">
           <p>Read <ref target="b:roy.a.ministryutmosthappiness">The Ministry of Utmost Happiness</ref>.</p>
         </event>
         <event when="2019-06-09">
