@@ -43,6 +43,38 @@
         </person>-->
         
         
+        <person xml:id="sato.s">
+          <persName>
+            <forename>Sachiko</forename>
+            <surname>Sato</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lacuna.w">
+          <persName>
+            <forename>Wilbert</forename>
+            <surname>Lacuna</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="marshall.m">
+          <persName>
+            <forename>Megan</forename>
+            <surname>Marshall</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="macleod.k">
+          <persName>
+            <forename>Ken</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="roy.a">
           <persName>
             <forename>Arundahati</forename>

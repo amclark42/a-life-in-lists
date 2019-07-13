@@ -658,6 +658,12 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <editor>Crabb, Cindy</editor>.
+          <title>Learning Good Consent: On Healthy Relationships and Survivor 
+            Support</title>.
+          <date type="added" when="2018-02-12"/>
+        </bibl>
+        <bibl>
           <author>CrimethInc.</author>
           <title>No Wall They Can Build: A Guide to Border &amp; Migration Across 
             North America</title>.
@@ -665,15 +671,14 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
-          <editor>Crabb, Cindy</editor>.
-          <title>Learning Good Consent: On Healthy Relationships and Survivor 
-            Support</title>.
-          <date type="added" when="2018-02-12"/>
-        </bibl>
-        <bibl>
           <author>Croggon, Alison</author>.
           <title>The Naming: The First Book of Pellinor</title>.
           <series><title>The Books of Pellinor</title></series>
+        </bibl>
+        <bibl>
+          <author>Crouch, Blake</author>.
+          <title>Recursion</title>.
+          <date type="added" when="2019-07-09"/>
         </bibl>
         <bibl>
           <author ref="a:cunningha.m">Cunningham, Michael</author>.
@@ -1636,11 +1641,6 @@
           <title>Rent</title>.
         </bibl>
         <bibl>
-          <author ref="a:leckie.a">Leckie, Ann</author>.
-          <title>Provenance</title>.
-          <date type="added" when="2018-09-16"/>
-        </bibl>
-        <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>
           <title>The Dispossessed</title>.
           <date type="added" when="2016-07-09"/>
@@ -1740,7 +1740,7 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <author>MacLeod, Ken</author>.
+          <author ref="a:macleod.k">MacLeod, Ken</author>.
           <title>The Sky Road</title>.
           <date type="added" when="2017-06-29"/>
           <series>
@@ -1773,7 +1773,7 @@
           <title>The Maquisarde</title>.
         </bibl>
         <bibl>
-          <author>Marshall, Megan</author>.
+          <author ref="marshall.m">Marshall, Megan</author>.
           <title>Margaret Fuller: A New American Life</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-08-20"/>
@@ -2498,11 +2498,6 @@
         <bibl>
           <author>Shinn, Sharon</author>.
           <title>The Shape-Changer’s Wife</title>.
-        </bibl>
-        <bibl>
-          <author>Sindu, S.J.</author>
-          <title>Marriage of a Thousand Lies</title>.
-          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author ref="a:slonczews.j">Slonczewski, Joan</author>.

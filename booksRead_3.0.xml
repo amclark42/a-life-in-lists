@@ -68,6 +68,145 @@
           
           
           
+          <biblStruct xml:id="marshall.m.margaretfuller">
+            <monogr>
+              <title>Margaret Fuller: A New American Life</title>
+              <author>
+                <persName ref="a:marshall.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2017-08-20"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Houghton Mifflin Harcourt</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="scott.m.shadowman">
+            <monogr>
+              <title>Shadow Man</title>
+              <author>
+                <persName ref="a:scott.m"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-10-07"/>
+                <date type="copyright" when="1995"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="macleod.k.skyroad">
+            <monogr>
+              <title>The Sky Road</title>
+              <author>
+                <persName ref="a:macleod.k"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="1999"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Fall Revolution</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.12">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 12</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta?</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2017"/>
+                <date type="first-publication" when="2016"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="gillen.k.wickeddivine.7.motheringinvention">
+            <monogr>
+              <title>The Wicked and the Divine Vol. 7: Mothering Invention</title>
+              <author>
+                <persName ref="a:gillen.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:mckelvie.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wilson.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="flatter"/>
+                <persName ref="a:cunniffe.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:william.c"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Wicked and the Divine</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="wang.j.princedressmaker">
+            <monogr>
+              <title>The Prince and the Dressmaker</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:wang.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="vaughan.bk.saga.5">
             <monogr>
               <title>Saga Vol. 5</title>
@@ -14866,10 +15005,22 @@
                 <resp n="artist"/>
                 <persName ref="a:yoshinag.f"/>
               </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:sato.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:lacuna.w"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.queer"/>
-                <publisher/>
+                <date type="copyright" when="2000"/>
+                <date type="translation-copyright" when="2005"/>
+                <publisher>
+                  <orgName>Digital Media Publishing</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
