@@ -1,7 +1,11 @@
 xquery version "3.0";
 
 (:  NAMESPACES  :)
+  declare default element namespace "http://www.tei-c.org/ns/1.0";
   declare namespace tei="http://www.tei-c.org/ns/1.0";
+  declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
+(:  OPTIONS  :)
+  declare option output:omit-xml-declaration "yes";
 
 (:  VARIABLES  :)
   declare variable $authorsWithEntries := 
@@ -26,30 +30,32 @@ let $missingAuthors :=
   return
     if ( $idref = $authorsWithEntries ) then ()
     else $idref
-return
-  <listPerson xmlns="http://www.tei-c.org/ns/1.0">
-    {
-      for $id in $missingAuthors
-      let $surname := substring-before($id, '.')
-      return
-      (
-        <person xml:id="{$id}">
-          <persName>
-            {
-              if ( $surname ) then
-              (
-                <forename></forename>,
-                <surname>{ local:capitalize($surname) }</surname>
-              )
-              else
-                <name>{ local:capitalize($id) }</name>
-            }
-          </persName>
-          <gender value="" evidence="conjecture"/>
-        </person>,
-        "
+let $persons :=
+  for $id in $missingAuthors
+  let $surname := substring-before($id, '.')
+  return
+  (
+    <person xml:id="{$id}">
+      <persName>
+        {
+          if ( $surname ) then
+          (
+            <forename></forename>,
+            <surname>{ local:capitalize($surname) }</surname>
+          )
+          else
+            <name>{ local:capitalize($id) }</name>
+        }
+      </persName>
+      <gender value="" evidence="conjecture"/>
+    </person>
+    ,
+    "
 
-"
-      )
-    }
-  </listPerson>
+")
+return
+  if ( $persons ) then
+    <listPerson xmlns="http://www.tei-c.org/ns/1.0">
+      { $persons }
+    </listPerson>
+  else ()
