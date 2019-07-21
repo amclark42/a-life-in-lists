@@ -30,13 +30,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2019-07-21">
+          <p>Read <ref target="b:yoshinag.f.whatdidyoueat.12">What Did You Eat Yesterday? Vol. 12</ref>.</p>
+        </event>
+        <event from="2019-07-13">
+          <p>Read <ref target="b:marshall.m.margaretfuller">Margaret Fuller: A New American Life</ref>.</p>
+        </event>
         <event when="2019-07-13">
           <p>Read <ref target="b:wang.j.princedressmaker">The Prince and the Dressmaker</ref>.</p>
         </event>
         <event when="2019-07-09">
           <p>Reread <ref target="b:yoshinag.f.antiquebakery.1">Antique Bakery Vol. 1</ref>.</p>
         </event>
-        <event from="2019-07-09">
+        <event from="2019-07-09" to="2019-07-13">
           <p>Reread <ref target="b:mcguire.s.localhabitation">A Local Habitation</ref>.</p>
         </event>
         <event from="2019-07-03" to="2019-07-09">
