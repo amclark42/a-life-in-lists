@@ -43,6 +43,18 @@
         </person>-->
         
         
+        <person xml:id="fuller.m">
+          <persName type="alternate">
+            <forename>Margaret</forename>
+            <surname>Fuller</surname>
+          </persName>
+          <persName>
+            <forename>Sarah Margaret</forename>
+            <surname>Fuller Ossoli</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="sato.s">
           <persName>
             <forename>Sachiko</forename>

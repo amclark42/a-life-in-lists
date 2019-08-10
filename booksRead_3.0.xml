@@ -74,6 +74,10 @@
               <author>
                 <persName ref="a:marshall.m"/>
               </author>
+              <respStmt>
+                <resp n="depicted"/>
+                <persName ref="a:fuller.m"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>

@@ -75,6 +75,11 @@
           <date type="added" when="2018-08-25"/>
         </bibl>
         <bibl>
+          <author>Abbott, Edwin A.</author>
+          <title>Flatland: A Romance of Many Dimensions</title>.
+          <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil 
             War</title>.
@@ -335,6 +340,12 @@
         <bibl>
           <author ref="a:beukes.l">Beukes, Lauren</author>.
           <title>Moxyland</title>.
+        </bibl>
+        <bibl>
+          <author>Bhargava, Aditya Y.</author>
+          <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
           <author>Bisson, Terry</author>.
@@ -1026,6 +1037,11 @@
           <title>The Jane Austen Book Club</title>.
         </bibl>
         <bibl>
+          <author>Fox, Hester</author>.
+          <title>The Witch of Willow Hall</title>.
+          <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
           <editor>Fox, Rose</editor> and
           <editor>Daniel José Elder</editor>.
           <title>Long Hidden: Speculative Fiction from the Margins of History</title>.
@@ -1043,6 +1059,12 @@
           <author>French, Tana</author>.
           <title>The Witch Elm</title>.
           <date type="added" when="2018-10-14"/>
+        </bibl>
+        <bibl>
+          <author ref="a:fuller.m">Fuller, Margaret</author>.
+          <title>Woman in the Nineteenth Century</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author ref="a:funke.c">Funke, Cornelia</author>.
@@ -1773,12 +1795,6 @@
           <title>The Maquisarde</title>.
         </bibl>
         <bibl>
-          <author ref="marshall.m">Marshall, Megan</author>.
-          <title>Margaret Fuller: A New American Life</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2017-08-20"/>
-        </bibl>
-        <bibl>
           <author ref="a:marz.r">Marz, Ron</author> and
           <author>Karl Kesel</author>.
           <title>The Final Night</title>.
@@ -1798,6 +1814,12 @@
             Pursuit of Happiness</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
+        </bibl>
+        <bibl>
+          <author>McCulloch, Gretchen</author>.
+          <title>Because Internet: Understanding the New Rules of Language</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -1891,7 +1913,7 @@
             <title>The Vorkosigan Saga</title>
           </series>
           <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
-          <!-- I neglected to add this after reading The Warrior's Apprentice. -->
+          <note>I neglected to add this after reading The Warrior's Apprentice.</note>
         </bibl>
         <bibl>
           <author>McRobbie, Linda Rodriguez</author>.
@@ -1920,6 +1942,11 @@
           <title>Kiki Strike: Inside the Shadow City</title>.
         </bibl>
         <bibl>
+          <author>Miller, Louise</author>.
+          <title>The Late Bloomers’ Club</title>.
+          <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
           <author>Miller, Madeline</author>.
           <title>Circe: A Novel</title>.
           <date type="added" when="2018-12-01"/>
@@ -1934,6 +1961,16 @@
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Miranda, Lin-Manuel</author>.
+          <respStmt>
+            <resp n="illustrator"/>
+            <persName>Jonny Sun</persName>
+          </respStmt>
+          <title>Gmorning, Gnight!: Little Pep Talks for Me &amp; You</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Mock, Janet</author>.
@@ -1965,6 +2002,11 @@
           <author>Mosley, Walter</author>.
           <title>Down the River Unto the Sea</title>.
           <date type="added" when="2018-09-23"/>
+        </bibl>
+        <bibl>
+          <author>Moss, Sarah</author>.
+          <title>Ghost Wall</title>.
+          <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author ref="a:murakami.h">Murakami, Haruki</author>.
@@ -2117,6 +2159,12 @@
         <bibl>
           <author>O’Neill, Eugene</author>.
           <title>Long Day’s Journey Into Night</title>.
+        </bibl>
+        <bibl>
+          <author>Orlean, Susan</author>.
+          <title>The Library Book</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Orleck, Annelise</author>.
@@ -2749,6 +2797,12 @@
           <date type="added" when="2018-08-16"/>
         </bibl>
         <bibl>
+          <editor>The Washington Post</editor>.
+          <title>The Mueller Report</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
           <author>Waugh, Evelyn</author>.
           <title>Decline and Fall</title>.
           <date type="added" when="2019-02-16"/>
@@ -2803,6 +2857,11 @@
           <author>Winters, Cat</author>.
           <title>The Steep &amp; Thorny Way</title>.
           <date type="added" when="2018-09-03"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wolitzer.m">Wolitzer, Meg</author>.
+          <title>The Wife</title>.
+          <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Womack, Jack</author>.
