@@ -6,7 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>Quotes</title>
-        <editor><persName>Ashley M. Clark</persName></editor>
+        <editor>
+          <persName>Ashley M. Clark</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <p></p>
@@ -19,9 +21,11 @@
       <listChange>
         <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
-        <change when="2016-11-12">Replaced double quotation marks with <gi>said</gi>, <gi>soCalled</gi>, and <gi>quote</gi>.</change>
+        <change when="2016-11-12">Replaced double quotation marks with <gi>said</gi>, <gi>soCalled</gi>, and 
+          <gi>quote</gi>.</change>
         <change when="2016-03-29">Completed re-encoding after OxGarage’s conversion from DOCX.</change>
-        <change when="2016-02-24">Changed <code>//bibl/persName</code> to <code>//bibl/author</code>, and began using <gi>series</gi> to refer to some titles.</change>
+        <change when="2016-02-24">Changed <code>//bibl/persName</code> to <code>//bibl/author</code>, and began 
+          using <gi>series</gi> to refer to some titles.</change>
         <change when="2016-02-23">Reversed order of items so that the first are the most recently added.</change>
         <change when="2016-02-22">Itemized quotes and their bibls, but did not otherwise reformat.</change>
       </listChange>
@@ -48,10 +52,10 @@
           <quote>
             <p>As if he had woken up that morning and thought it would be really funny to try that whole <q>being 
               gay</q> thing out and seeing how it felt. As if he hadn’t agonized and second guessed himself every 
-              step of the way until finally - finally - accepting who he was. Who was he kidding. He hadn’t 
-              accepted who he was. He was pretty sure you never did. You either denied yourself and hid what you 
-              were, or you spent your whole life exploring and learning as much as you could about yourself. Every 
-              day was a chance to learn.</p>
+              step of the way until finally—finally—accepting who he was. Who was he kidding. He hadn’t accepted 
+              who he was. He was pretty sure you never did. You either denied yourself and hid what you were, or 
+              you spent your whole life exploring and learning as much as you could about yourself. Every day was 
+              a chance to learn.</p>
           </quote>
           <bibl>
             <author>Acantha_Echo</author>,
@@ -2157,10 +2161,12 @@
               masculine lay so deep in this period’s metaphysical fabric that it did
               not seem surprising to argue that women who aspired to the Rights of
               Man had also, by definition, to be masculine.
-              <note n="34" anchored="true">In a Catch-22, pointing to talented women
-                did not help anyone arguing that women and men have the same
-                capabilities, since the counter-argument would be that it was the
-                male elements in their bodies that generated the talent.</note>
+              <note n="34" anchored="true">
+                <p>In a Catch-22, pointing to talented women did not help anyone 
+                  arguing that women and men have the same capabilities, since the 
+                  counter-argument would be that it was the male elements in their 
+                  bodies that generated the talent.</p>
+              </note>
             </p>
           </quote>
           <bibl>

@@ -1762,14 +1762,6 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <author ref="a:macleod.k">MacLeod, Ken</author>.
-          <title>The Sky Road</title>.
-          <date type="added" when="2017-06-29"/>
-          <series>
-            <title>Fall Revolution</title>
-          </series>
-        </bibl>
-        <bibl>
           <author>Maddow, Rachel</author>.
           <title>Drift: The Unmooring of American Military Power</title>.
           <trait ref="#tag.nonfiction"/>
