@@ -1822,22 +1822,6 @@
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="adapter"/>
-            <resp n="creator"/>
-            <persName ref="a:mcelroy.c">McElroy, Clint</persName>
-          </respStmt> and
-          <respStmt>
-            <resp n="adapter"/>
-            <resp n="artist"/>
-            <persName ref="a:pietsch.c">Carey Pietsch</persName>
-          </respStmt>.
-          <title>The Adventure Zone: Murder on the Rockport Limited!</title>
-          <series><title>The Adventure Zone</title></series>
-          <trait ref="#tag.comics"/>
-          <date type="added" when="2018-12-28"/>
-        </bibl>
-        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>

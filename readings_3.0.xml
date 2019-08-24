@@ -30,6 +30,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2019-08-24">
+          <p>Read <ref target="b:mcelroy.c.theadventurezone.2.rockportlimited">The Adventure Zone: Murder on the 
+            Rockport Limited!</ref></p>
+        </event>
         <event from="2019-08-22">
           <p>Reread <ref target="b:mcguire.s.artificialnight">An Artificial Night</ref>.</p>
         </event>

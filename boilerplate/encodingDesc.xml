@@ -3,7 +3,7 @@
     <taxonomy xml:id="tag">
       <bibl>Tags</bibl>
       <category xml:id="tag.anthology">
-        <catDesc>anthology</catDesc>
+        <catDesc>anthology of commissioned works</catDesc>
       </category>
       <category xml:id="tag.artbook">
         <catDesc>art book</catDesc>
@@ -13,6 +13,9 @@
       </category>
       <category xml:id="tag.comics">
         <catDesc>comics</catDesc>
+      </category>
+      <category xml:id="tag.compilation">
+        <catDesc>compilation of selected short works</catDesc>
       </category>
       <category xml:id="tag.cookbook">
         <catDesc>cookbook</catDesc>
