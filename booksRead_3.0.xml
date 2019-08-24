@@ -68,6 +68,127 @@
           
           
           
+          <biblStruct xml:id="springer.n.oddlingprince">
+            <monogr>
+              <title>The Oddling Prince</title>
+              <author>
+                <persName ref="a:springer.n"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-12-02"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Tachyon Publications</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="lorde.a.sisteroutsider">
+            <monogr>
+              <title>Sister Outsider</title>
+              <author>
+                <persName ref="a:lorde.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when-custom="ash:developer"/>
+                <date type="copyright" when="1984"/>
+                <publisher>
+                  <orgName>The Crossing Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="lemire.j.underwaterwelder">
+            <monogr>
+              <title>The Underwater Welder</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:lemire.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:wands.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Top Shelf Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="gillen.k.wickeddivine.8.newnew">
+            <monogr>
+              <title>The Wicked and the Divine Vol. 8: Old is the New New</title>
+              <author>
+                <persName ref="a:gillen.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:araújo.a"/>
+                <persName ref="a:kelly.r"/>
+                <persName ref="a:hans.s"/>
+                <persName ref="a:koch.a"/>
+                <persName ref="a:anka.k"/>
+                <persName ref="a:bartel.j"/>
+                <persName ref="a:stott.r"/>
+                <persName ref="a:clugstonflores.c"/>
+                <persName ref="a:mcneil.cs"/>
+                <persName ref="a:vieceli.e"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wilson.m"/>
+                <persName ref="a:bonvillain.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="flatter"/>
+                <persName ref="a:cunniffe.d"/>
+                <persName ref="a:olimba.l"/>
+                <persName ref="a:daniels.b"/>
+                <persName ref="a:argüello.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:william.c"/>
+              </editor>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:henderso.e"/>
+                <persName ref="a:castro.j"/>
+                <persName ref="a:lunney.l"/>
+                <persName ref="a:zdarsky.c"/>
+                <persName ref="a:kinzie.b"/>
+                <persName ref="a:william.c"/>
+                <persName ref="a:ranganathan.r"/>
+                <persName ref="a:madrigal.j"/>
+                <persName ref="a:steele.h"/>
+                <persName ref="a:curran.k"/>
+                <persName ref="a:zageris.l"/>
+                <persName ref="a:leth.k"/>
+                <persName ref="a:saltel.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Wicked and the Divine</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="marshall.m.margaretfuller">
             <monogr>
               <title>Margaret Fuller: A New American Life</title>
@@ -97,6 +218,7 @@
                 <persName ref="a:scott.m"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2016-10-07"/>
                 <date type="copyright" when="1995"/>
                 <publisher>

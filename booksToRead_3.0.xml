@@ -1594,6 +1594,14 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author ref="a:knisley.l">Knisley, Lucy</author>.
+          <title>Kid Gloves: Nine Months of Careful Chaos</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-24"/>
+        </bibl>
+        <bibl>
           <author>Kochman, Thomas</author>.
           <title>Black and White Styles in Conflict</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1721,13 +1729,13 @@
           <title>The Kalevala: An Epic Poem After Oral Tradition</title>.
         </bibl>
         <bibl>
-          <author>Lorde, Audre</author>.
+          <author ref="a:lorde.a">Lorde, Audre</author>.
           <title>Sister Outsider</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Lorde, Audre</author>.
+          <author ref="a:lorde.a">Lorde, Audre</author>.
           <title>Zami: A New Spelling of My Name – A Biomythology</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
@@ -1868,6 +1876,17 @@
           <title>The Brightest Fell</title>.
           <series><title>October Daye</title></series>
           <date type="added" when="2018-01-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>, and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Rosi Kämpe</persName>
+          </respStmt>.
+          <title>Spider-Gwen: Ghost-Spider Vol. 1: Spider-Geddon</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Spider-Gwen: Ghost-Spider</title></series>
+          <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2138,6 +2157,17 @@
           <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Leonardo Romero</persName>
+          </respStmt>
+          <title>Shuri Vol. 1: The Search for Black Panther</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Shuri</title></series>
+          <date type="added" when="2019-08-24"/>
+        </bibl>
+        <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Zahrah the Windseeker</title>.
           <date type="added" when="2016-06-05"/>
@@ -2263,6 +2293,12 @@
         <bibl>
           <author>Pinto, Ricardo</author>.
           <title>The Chosen</title>.
+        </bibl>
+        <bibl>
+          <author>Postman, Neil</author>.
+          <title>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-08-17"/>
         </bibl>
         <bibl>
           <author>Potok, Chaim</author>.
@@ -2468,8 +2504,8 @@
         </bibl>
         <bibl>
           <author ref="a:scott.m">Scott, Melissa</author>.
-          <title>Shadow Man</title>.
-          <date type="added" when="2016-10-07"/>
+          <title>Trouble and Her Friends</title>.
+          <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
           <author ref="a:sebold.a">Sebold, Alice</author>.
