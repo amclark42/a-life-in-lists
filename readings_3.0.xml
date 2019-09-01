@@ -30,11 +30,21 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2019-08-31">
+          <p>Read <ref target="b:gillen.k.wickeddivine.8.newnew">The Wicked and the Divine Vol. 8: Old is the New 
+            New</ref>.</p>
+        </event>
+        <event from="2019-08-31">
+          <p>Read <ref target="b:lorde.a.sisteroutsider">Sister Outsider</ref>.</p>
+        </event>
+        <event when="2019-08-27">
+          <p>Read <ref target="b:carroll.e.throughthewoods">Through the Woods</ref>.</p>
+        </event>
         <event when="2019-08-24">
           <p>Read <ref target="b:mcelroy.c.theadventurezone.2.rockportlimited">The Adventure Zone: Murder on the 
             Rockport Limited!</ref></p>
         </event>
-        <event from="2019-08-22">
+        <event from="2019-08-22" to="2019-08-27">
           <p>Reread <ref target="b:mcguire.s.artificialnight">An Artificial Night</ref>.</p>
         </event>
         <event from="2019-08-15" to="2019-08-21">

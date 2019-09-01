@@ -238,6 +238,14 @@
           <title>The Robber Bride</title>.
         </bibl>
         <bibl>
+          <author ref="a:atwood.m">Atwood, Margaret</author>.
+          <title>The Testaments</title>.
+          <series>
+            <title>The Handmaid’s Tale</title>
+          </series>
+          <date type="added" when="2019-09-01"/>
+        </bibl>
+        <bibl>
           <author ref="a:austen.j">Austen, Jane</author>.
           <title>Lady Susan</title>.
           <date type="added" when="2019-03-25"/>
@@ -626,6 +634,11 @@
         <bibl>
           <author ref="a:christie.a">Christie, Agatha</author>.
           <title>Mousetrap</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
+          <title>The Water Dancer</title>.
+          <date type="added" when="2019-09-01"/>
         </bibl>
         <bibl>
           <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
@@ -2002,6 +2015,12 @@
           <author>Moss, Sarah</author>.
           <title>Ghost Wall</title>.
           <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
+          <author ref="a:munroe.r">Munroe, Randall</author>.
+          <title>How To: Absurd Scientific Advice for Common Real-World Problems</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-01"/>
         </bibl>
         <bibl>
           <author ref="a:murakami.h">Murakami, Haruki</author>.
