@@ -194,7 +194,8 @@
         <bibl>
           <author>Anzaldúa, Gloria E.</author> and
           <editor>AnaLouise Keating</editor>.
-          <title>Light in the Dark/Luz en lo Oscuro: Rewriting Identity, Spirituality, Reality</title>.
+          <title>Light in the Dark/Luz en lo Oscuro: Rewriting Identity, 
+            Spirituality, Reality</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
@@ -351,7 +352,8 @@
         </bibl>
         <bibl>
           <author>Bhargava, Aditya Y.</author>
-          <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People</title>.
+          <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other 
+            Curious People</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2019-08-03"/>
         </bibl>
@@ -654,7 +656,8 @@
         </bibl>
         <bibl>
           <author>Cohen, Cathy</author>.
-          <title>The Boundaries of Blackness: AIDS and the Breakdown of Black Politics</title>.
+          <title>The Boundaries of Blackness: AIDS and the Breakdown of Black 
+            Politics</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
@@ -912,6 +915,11 @@
           <author ref="a:ellis.w">Ellis, Warren</author>.
           <title>Normal</title>.
           <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
+          <author>Ellman, Lucy</author>.
+          <title>Ducks, Newburyport</title>.
+          <date type="added" when="2019-09-08"/>
         </bibl>
         <bibl>
           <author>Emrys, Ruthanna</author>.
@@ -1336,6 +1344,13 @@
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
+          <title>Small, Sharp, Software Tools: Harness the Combinatoric Power of 
+            Command-Line Tools and Utilities</title>.
+          <author>Hogan, Brian P.</author>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-08"/>
+        </bibl>
+        <bibl>
           <author>Hogan, Kristen</author>.
           <title>The Feminist Bookstore Movement: Lesbian Antiracism and Feminist
             Accountability</title>.
@@ -1740,12 +1755,6 @@
         <bibl>
           <author>Lonnrot, Elias</author>.
           <title>The Kalevala: An Epic Poem After Oral Tradition</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:lorde.a">Lorde, Audre</author>.
-          <title>Sister Outsider</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:lorde.a">Lorde, Audre</author>.
@@ -2637,11 +2646,6 @@
           <author>Spolsky, Joel</author>.
           <title>Joel on Software</title>.
           <trait ref="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author ref="a:springer.n">Springer, Nancy</author>.
-          <title>The Oddling Prince</title>.
-          <date type="added" when="2018-12-02"/>
         </bibl>
         <bibl>
           <author ref="a:stephens.n">Stephenson, Neal</author>.
