@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +20,8 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2019-09-15">Added <att>xml:lang</att> for the entire document. Added 
+          renditional information.</change>
         <change when="2019-02-24">Created this list. I referenced the Massachusetts Independent 
           Comics Expo (MICE) exhibitor lists via the Wayback Machine to figure out years:
           <list>

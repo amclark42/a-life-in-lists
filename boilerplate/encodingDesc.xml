@@ -58,6 +58,10 @@
       </category>
     </taxonomy>
   </classDecl>
+  <tagsDecl xml:id="listsTagsDecl">
+    <rendition scheme="css" selector="title">font-style: italic;</rendition>
+    <rendition scheme="css" selector="title[rend='quoted']">font-style: normal;</rendition>
+  </tagsDecl>
   <listPrefixDef>
     <prefixDef ident="ash" matchPattern="([\w\.]+)" replacementPattern="timeline.xml#$1">
       <p></p>

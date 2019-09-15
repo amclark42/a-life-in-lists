@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
         <change when="2017-02-04">Added list heading.</change>
       </listChange>
     </revisionDesc>
@@ -30,6 +31,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2019-09-10">
+          <p>Reread <ref target="b:mcguire.s.lateeclipses">Late Eclipses</ref>.</p>
+        </event>
+        <event when="2019-09-09">
+          <p>Read <ref target="b:lemire.j.underwaterwelder">The Underwater Welder</ref>.</p>
+        </event>
         <event from="2019-09-07" to="2019-09-08">
           <p>Read <ref target="b:springer.n.oddlingprince">The Oddling Prince</ref>.</p>
         </event>

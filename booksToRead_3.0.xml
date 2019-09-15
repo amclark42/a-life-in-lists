@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +20,8 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2019-09-15">Added <att>xml:lang</att> for the entire document. 
+          Added renditional information.</change>
         <change when="2018-02-19">Added "owned" tags to books I own but have not yet 
           read. Tags include a pointer to the book's catalog entry.</change>
         <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code>
@@ -1344,9 +1346,9 @@
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
+          <author>Hogan, Brian P.</author>.
           <title>Small, Sharp, Software Tools: Harness the Combinatoric Power of 
             Command-Line Tools and Utilities</title>.
-          <author>Hogan, Brian P.</author>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2019-09-08"/>
         </bibl>
@@ -1628,6 +1630,14 @@
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2019-08-24"/>
+        </bibl>
+        <bibl>
+          <author>Kobabe, Maia</author>.
+          <title>Gender Queer</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-15"/>
         </bibl>
         <bibl>
           <author>Kochman, Thomas</author>.

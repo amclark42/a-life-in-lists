@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -23,6 +23,7 @@
       <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
       <revisionDesc>
          <listChange>
+            <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
             <change when="2017-06-25">Added <gi>series</gi> where applicable, as well as any known 
                <gi>trait</gi>s. Included some contibutors who were left out, though this is far 
                from complete as far as anthologies and comics go.</change>
@@ -3373,7 +3374,7 @@
                <trait ref="#tag.owned" when-custom="ash:youngadult"/>
             </bibl>
 
-            <bibl saemAs="b:jones.dw.derkholm">
+            <bibl sameAs="b:jones.dw.derkholm">
                <author>
                   <persName>Jones, Diana Wynne</persName>
                </author>
@@ -7105,7 +7106,7 @@
                   <persName>Wells, Rebecca</persName>
                </author>
                <title>Divine Secrets of the Ya-Ya Sisterhood</title>
-               <trait ref="#tag.owned" from-custom="ash:youngadult" to="ash:bachelor"/>
+               <trait ref="#tag.owned" from-custom="ash:youngadult" to-custom="ash:bachelor"/>
                <series>
                   <title>Ya-Yas</title>
                </series>

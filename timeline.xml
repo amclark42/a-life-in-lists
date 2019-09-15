@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,6 +15,11 @@
         <p>Created from scratch on <date when="2017-03-11">March 11th, 2017</date>.</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
