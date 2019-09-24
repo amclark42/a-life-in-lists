@@ -360,7 +360,7 @@
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
-          <author>Bisson, Terry</author>.
+          <author ref="a:bisson.t">Bisson, Terry</author>.
           <title>Fire on the Mountain</title>.
           <date type="added" when="2017-06-29"/>
         </bibl>
@@ -632,7 +632,7 @@
           <date type="added" when="2018-07-15"/>
         </bibl>
         <bibl>
-          <author>Cleage, Pearl</author>.
+          <author ref="a:cleage.p">Cleage, Pearl</author>.
           <title>What Looks Like Crazy on an Ordinary Day</title>.
         </bibl>
         <bibl>
@@ -762,17 +762,6 @@
           <title>Babel-17</title>.
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:delliqua.b">Delliquanti, Blue</persName>
-          </respStmt> and
-          <author>Soleil Ho</author>.
-          <title>Meal: Adventures in Entomophagy</title>.
-          <trait ref="#tag.comics"/>
-          <date type="added" when="2018-10-13"/>
-        </bibl>
-        <bibl>
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Intimate Matters: A History of Sexuality in America</title>.
@@ -789,6 +778,13 @@
           <author ref="a:diamant.a">Diamant, Anita</author>.
           <title>The Boston Girl</title>.
           <date type="added" when="2019-03-02"/>
+        </bibl>
+        <bibl>
+          <author>Díaz, Jaquira</author>.
+          <title>Ordinary Girls</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
           <author>Dick, Phillip K.</author>
@@ -812,6 +808,11 @@
         <bibl>
           <author>Dorst, Doug</author>.
           <title>Alive in Necropolis</title>.
+        </bibl>
+        <bibl>
+          <author>Drayden, Nicky</author>.
+          <title>Escaping Exodus</title>.
+          <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
           <author>Drayden, Nicky</author>.
@@ -845,6 +846,14 @@
           <author ref="a:durham.da">Durham, David Anthony</author>.
           <title>Acacia: The Other Lands</title>.
           <series><title>Acacia</title></series>
+        </bibl>
+        <bibl>
+          <author>Eason, K.</author>
+          <title>How Rory Thorne Destroyed the Multiverse</title>.
+          <series>
+            <title>The Thorne Chronicles</title>
+          </series>
+          <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
           <author>Eddo-Lodge, Reni</author>.
@@ -1208,6 +1217,14 @@
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Hackwith, A.J.</author>
+          <title>The Library of the Unwritten</title>.
+          <series>
+            <title>A Novel from Hell’s Library</title>
+          </series>
+          <date type="added" when="2019-09-24"/>
+        </bibl>
+        <bibl>
           <author>Hagio, Moto</author>.
           <title>A Drunken Dream and Other Stories</title>.
           <trait ref="#tag.comics"/>
@@ -1359,12 +1376,6 @@
           <trait ref="#tag.nonfiction"/>
           <trait ref="#tag.queer"/>
           <date type="added" when="2016-10-29"/>
-        </bibl>
-        <bibl>
-          <author>Holmes, Kat</author>.
-          <title>Mismatch: How Inclusion Shapes Design</title>.
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2019-06-09"/>
         </bibl>
         <bibl>
           <author ref="a:homer">Homer</author>.
@@ -1918,6 +1929,7 @@
           <author>McIntyre, Vonda</author>.
           <title>Dreamsnake</title>.
           <date type="added" when="2017-01-29"/>
+          <!-- available as an eBook from BPL -->
         </bibl>
         <bibl>
           <author>McKay, Ami</author>.
@@ -2216,6 +2228,7 @@
             the United States, 1900–1965</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
+          <!-- in-library use only; available as an eBook from BPL -->
         </bibl>
         <bibl>
           <author>Otsuka, Julie</author>.
@@ -2829,6 +2842,16 @@
           <title>Them Bones</title>.
           <date type="added" when="2017-06-29"/>
           <trait ref="#tag.outofprint"/>
+        </bibl>
+        <bibl>
+          <author>Walker, Suzanne</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Wendy Xu</persName>
+          </respStmt>.
+          <title>Mooncakes</title>.
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
           <author ref="a:walton.j">Walton, Jo</author>.

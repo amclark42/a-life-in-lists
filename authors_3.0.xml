@@ -43,6 +43,47 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        
+        <person xml:id="wood.d">
+          <persName>
+            <forename>Daniel</forename>
+            <surname>Wood</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="ho.s">
+          <persName>
+            <forename>Soleil</forename>
+            <surname>Ho</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="holmes.k">
+          <persName>
+            <forename>Kat</forename>
+            <surname>Holmes</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="maeda.j">
+          <persName>
+            <forename>John</forename>
+            <surname>Maeda</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="li.y">
+          <persName>
+            <forename>Yishan</forename>
+            <surname>Li</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="carroll.e">
           <persName>
             <forename>Emily</forename>

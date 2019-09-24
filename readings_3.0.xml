@@ -31,7 +31,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-09-10">
+        <event when="2019-09-22">
+          <p>Read <ref target="b:gedris.mr.spectacle.1">Spectacle Book One</ref>.</p>
+        </event>
+        <event from="2019-09-21">
+          <p>Read <ref target="b:cleage.p.crazyordinaryday">What Looks Like Crazy on an Ordinary Day…</ref></p>
+        </event>
+        <event from="2019-09-17" to="2019-09-20">
+          <p>Read <ref target="b:holmes.k.mismatch">Mismatch: How Inclusion Shapes Design</ref>.</p>
+        </event>
+        <event when="2019-09-15">
+          <p>Read <ref target="b:delliqua.b.meal">Meal</ref>.</p>
+        </event>
+        <event from="2019-09-10" to="2019-09-16">
           <p>Reread <ref target="b:mcguire.s.lateeclipses">Late Eclipses</ref>.</p>
         </event>
         <event when="2019-09-09">

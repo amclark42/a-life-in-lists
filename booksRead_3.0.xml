@@ -70,6 +70,152 @@
           
           
           
+          <biblStruct xml:id="kingfisher.t.clockworkboys">
+            <monogr>
+              <title>Clockwork Boys</title>
+              <author>
+                <persName ref="a:kingfisher.t"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-03-03"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Argyll Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Clocktaur War</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="cleage.p.crazyordinaryday">
+            <monogr>
+              <title>What Looks Like Crazy on an Ordinary Day…</title>
+              <author>
+                <persName ref="a:cleage.p"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:youngadult"/>
+                <date type="copyright" when="1997"/>
+                <publisher>
+                  <orgName>Avon Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="bisson.t.fireonthemountain">
+            <monogr>
+              <title>Fire on the Mountain</title>
+              <author>
+                <persName ref="a:bisson.t"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-06-29"/>
+                <date type="copyright" when="1988"/>
+                <publisher>
+                  <orgName>Arbor House</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="holmes.k.mismatch">
+            <monogr>
+              <title>Mismatch: How Inclusion Shapes Design</title>
+              <author>
+                <persName ref="a:holmes.k"/>
+              </author>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:maeda.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2019-06-09"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>The MIT Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Simplicity: Design, Technology, Business, Life</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="delliqua.b.meal">
+            <monogr>
+              <title>Meal</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:delliqua.b"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="author of afterword, colophon, etc."/>
+                <persName ref="a:ho.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-10-13"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="gedris.mr.spectacle.1">
+            <monogr>
+              <title>Spectacle Book One</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:gedris.mr"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Spectacle</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="novik.n.libertyvocational.1.supervillainsfinal">
+            <monogr>
+              <title>Will Supervillains Be on the Final?</title>
+              <author>
+                <persName ref="a:novik.n"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:li.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Del Rey</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Liberty Vocational</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="carroll.e.throughthewoods">
             <monogr>
               <title>Through the Woods</title>
@@ -984,7 +1130,7 @@
                 <persName ref="a:rose.e"/>
               </respStmt>
               <editor>
-                <persName ref="wood.d"/>
+                <persName ref="a:wood.d"/>
               </editor>
               <imprint>
                 <catRef target="#tag.kickstart" when="2018-06-17"/>
@@ -4041,7 +4187,7 @@
               </respStmt>
               <respStmt>
                 <resp n="author of introduction, etc."/>
-                <persName ref="swanwick.m"/>
+                <persName ref="a:swanwick.m"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.compilation"/>
@@ -5204,7 +5350,7 @@
               <respStmt>
                 <resp n="author"/>
                 <resp n="artist"/>
-                <persName ref="tanaka.s"/>
+                <persName ref="a:tanaka.s"/>
               </respStmt>
               <respStmt>
                 <resp n="translator"/>
@@ -6376,7 +6522,7 @@
             <monogr>
               <title>Words of Radiance</title>
               <author>
-                <persName ref="sanderso.b"/>
+                <persName ref="a:sanderso.b"/>
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2016-07-29"/>
@@ -7239,7 +7385,7 @@
               </author>
               <respStmt>
                 <resp n="translator"/>
-                <persName ref="blackbur.p"/>
+                <persName ref="a:blackbur.p"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.class" datingPoint="ash:youngadult ash:bachelor"/>
