@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<revisionDesc xmlns="http://www.tei-c.org/ns/1.0">
+  <listChange xml:id="books-2.0">
+    <change when="2016-03-29">Used custom XML data to generate three TEI files: 
+      <title type="filename" ref="./authors_3.0.xml">authors_3.0.xml</title>, 
+      <title type="filename" ref="./booksRead_3.0.xml">booksRead_3.0.xml</title>, and 
+      <title type="filename" ref="./readings_3.0.xml">readings_3.0.xml</title>.</change>
+    <change when="2015-11-28">Up-converted custom XML into a version with keyed entities:
+      <title type="filename" ref="legacy/conversion-files/booksI%27veRead_2.1.xml">booksI'veRead_2.1.xml</title>.</change>
+    <change when="2015-10-12">Up-converted TEI into a custom XML file 
+      <title type="filename" ref="legacy/conversion-files/booksI%27veRead_2.0.xml">booksI'veRead_2.0.xml</title>. 
+      Began augmenting data and cleaning up transformation errors.</change>
+    <change notBefore="2015-08-20" notAfter="2015-10-12">Using OxGarage, converted ODT document into TEI.</change>
+    <change when="2015-08-20T21:14:41.27">Last known revision of the ODT document.</change>
+    <change when="2008-03-07T00:39:00">Created 
+      <title type="filename">Books I've Read 2.0 (start Mar. 2008).odt</title> in OpenOffice.</change>
+  </listChange>
+</revisionDesc>

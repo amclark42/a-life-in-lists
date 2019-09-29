@@ -23,10 +23,11 @@
     </encodingDesc>
     <revisionDesc>
       <listChange>
-        <change when="2019-09-29">Changed <code lang="xpath">//list/item[quote]</code> into <gi>cit</gi>, removing 
-          the wrapper <gi>list</gi>. Reduced indentation to reflect the new tree structure, but decided against 
+        <change when="2019-09-29">Changed <code lang="xpath">//list/item</code> into <gi>cit</gi>, removing the 
+          wrapper <gi>list</gi>. Reduced indentation to reflect the new tree structure, but decided against 
           re-formatting inside the <gi>quote</gi>s themselves. Going forward, the cap on characters per line will 
-          remain at 115. Added rendition information for <gi>cit</gi>.</change>
+          remain at 115. Added rendition information for <gi>cit</gi>. Added changelog entries for the conversion 
+          of the DOC file into this XML.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document. Added renditional 
           information via XInclude.</change>
         <change when="2017-03-04">Added newlines between entries.</change>

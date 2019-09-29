@@ -19,12 +19,16 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2019-09-29">Added XIncluded changelog entries for the 
+          generation of this file from the source ODT.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
         <change when="2017-03-04">Added newlines between entries.</change>
         <change when="2017-02-04">Added list heading.</change>
         <change when="2016-04-03">Added <att>evidence</att> to all gender elements.
           Default is "conjecture." There weren't many I was comfortable claiming as
           "self-identification."</change>
+        <include xmlns="http://www.w3.org/2001/XInclude" 
+          href="boilerplate/revisionDesc_books-read-2.0.xml" xpointer="element(books-2.0)"/>
       </listChange>
     </revisionDesc>
   </teiHeader>
