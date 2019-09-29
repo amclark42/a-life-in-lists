@@ -31,10 +31,20 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2019-09-29">
+          <p>Read <ref target="b:hicks.fe.dividedearth">The Divided Earth</ref>.</p>
+        </event>
+        <event from="2019-09-28">
+          <p>Read <ref target="b:kingfisher.t.clockworkboys">Clockwork Boys</ref>.</p>
+        </event>
+        <event when="2019-09-26">
+          <p>Read <ref target="b:novik.n.libertyvocational.1.supervillainsfinal">Will Supervillains Be on the 
+            Final?</ref></p>
+        </event>
         <event when="2019-09-22">
           <p>Read <ref target="b:gedris.mr.spectacle.1">Spectacle Book One</ref>.</p>
         </event>
-        <event from="2019-09-21">
+        <event from="2019-09-21" to="2019-09-28">
           <p>Read <ref target="b:cleage.p.crazyordinaryday">What Looks Like Crazy on an Ordinary Day…</ref></p>
         </event>
         <event from="2019-09-17" to="2019-09-20">

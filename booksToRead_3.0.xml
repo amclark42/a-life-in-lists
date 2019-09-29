@@ -601,6 +601,18 @@
           <title>Stories of Your Life and Others</title>.
         </bibl>
         <bibl>
+          <author>Chisholm, Wendy</author> and
+          <author>Matt May</author>.
+          <title>Universal Design for Web Applications: Web Applications that Reach 
+            Everyone</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-29"/>
+        </bibl>
+        <bibl>
+          <author ref="a:christie.a">Christie, Agatha</author>.
+          <title>Mousetrap</title>.
+        </bibl>
+        <bibl>
           <author>Chugh, Dolly</author>.
           <title>The Person You Mean to Be: How Good People Fight Bias</title>.
           <trait ref="#tag.nonfiction"/>
@@ -633,11 +645,8 @@
         </bibl>
         <bibl>
           <author ref="a:cleage.p">Cleage, Pearl</author>.
-          <title>What Looks Like Crazy on an Ordinary Day</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:christie.a">Christie, Agatha</author>.
-          <title>Mousetrap</title>.
+          <title>Seen It All and Done the Rest</title>.
+          <date type="added" when="2019-09-28"/>
         </bibl>
         <bibl>
           <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
@@ -1025,6 +1034,13 @@
           <series><title>Nightrunner</title></series>
         </bibl>
         <bibl>
+          <author>Flint, Anthony</author>.
+          <title>Wrestling with Moses: How Jane Jacobs Took On New York’s Master 
+            Builder and Transformed the American City</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-29"/>
+        </bibl>
+        <bibl>
           <author>Foer, Joshua</author>,
           <author>Dylan Thuras</author>, and
           <author>Ella Morton</author>.
@@ -1310,19 +1326,6 @@
           <series><title>Dune Chronicles</title></series>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:hicks.fe"/>
-          </respStmt>.
-          <title>The Divided Earth</title>.
-          <trait ref="#tag.comics"/>
-          <series>
-            <title>The Nameless City</title>
-          </series>
-          <date type="added" when="2018-12-02"/>
-        </bibl>
-        <bibl>
           <author>Hicks, Marie</author>.
           <title>Programmed Inequality: How Britain Discarded Women Technologists 
             and Lost Its Edge in Computing</title>.
@@ -1404,6 +1407,13 @@
           <author>Horowitz, Anthony</author>.
           <title>The Word is Murder</title>.
           <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
+          <author>Horton, Sarah</author> and
+          <author>Whitney Quesenbery</author>.
+          <title>A Web for Everyone: Designing Accessible User Experiences</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
           <author>Hoyt, Sarah</author>.
@@ -1975,6 +1985,14 @@
           <author ref="a:miéville.c">Miéville, China</author>.
           <title>The Scar</title>.
           <series><title>New Crobuzon</title></series>
+        </bibl>
+        <bibl>
+          <author>Milan, Courtney</author>.
+          <title>Trade Me</title>.
+          <series>
+            <title>Cyclone</title>
+          </series>
+          <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
           <author>Miller, Kirsten</author>.
