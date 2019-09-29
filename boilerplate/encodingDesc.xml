@@ -59,6 +59,9 @@
     </taxonomy>
   </classDecl>
   <tagsDecl xml:id="listsTagsDecl">
+    <rendition scheme="css" selector="cit">display: flex; flex-direction: column;</rendition>
+    <rendition scheme="css" selector="said, series, title[rend='quoted']" scope="before">“</rendition>
+    <rendition scheme="css" selector="said, series, title[rend='quoted']" scope="after">”</rendition>
     <rendition scheme="css" selector="title">font-style: italic;</rendition>
     <rendition scheme="css" selector="title[rend='quoted']">font-style: normal;</rendition>
   </tagsDecl>
