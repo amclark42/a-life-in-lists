@@ -360,11 +360,6 @@
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
-          <author ref="a:bisson.t">Bisson, Terry</author>.
-          <title>Fire on the Mountain</title>.
-          <date type="added" when="2017-06-29"/>
-        </bibl>
-        <bibl>
           <author>Blake, Katherine</author>.
           <title>The Interior Life</title>.
           <date type="added" when="2017-06-29"/>
@@ -1614,14 +1609,14 @@
         </bibl>
         <bibl>
           <author ref="a:kingfisher.t">Kingfisher, T.</author>
-          <title>Clockwork Boys</title>.
+          <title>Summer in Orcus</title>.
           <date type="added" when="2018-03-03"/>
-          <series><title>Clocktaur War</title></series>
         </bibl>
         <bibl>
           <author ref="a:kingfisher.t">Kingfisher, T.</author>
-          <title>Summer in Orcus</title>.
-          <date type="added" when="2018-03-03"/>
+          <title>The Wonder Engine</title>.
+          <date type="added" when="2019-10-05"/>
+          <series><title>Clocktaur War</title></series>
         </bibl>
         <bibl>
           <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
@@ -2048,6 +2043,11 @@
           <author>Moreno-Garcia, Silvia</author>.
           <title>Gods of Jade and Shadow</title>.
           <date type="added" when="2019-06-30"/>
+        </bibl>
+        <bibl>
+          <author>Morgenstern, Erin</author>.
+          <title>The Starless Sea</title>.
+          <date type="added" when="2019-10-04"/>
         </bibl>
         <bibl>
           <author>Morton, Kati</author>.
