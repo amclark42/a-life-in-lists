@@ -36,7 +36,7 @@
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
         <event from="2019-10-07">
-          <p>Read <ref>People of the Book</ref>.</p>
+          <p>Read <ref target="b:brooks.g.peopleofthebook">People of the Book</ref>.</p>
         </event>
         <event from="2019-09-30" to="2019-10-05">
           <p>Read <ref target="b:bisson.t.fireonthemountain">Fire on the Mountain</ref>.</p>
