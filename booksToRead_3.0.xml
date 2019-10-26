@@ -425,11 +425,6 @@
           <title>Hotel du Lac</title>.
         </bibl>
         <bibl>
-          <author ref="a:brooks.g">Brooks, Geraldine</author>.
-          <title>People of the Book</title>.
-          <date type="added" when="2017-08-20"/>
-        </bibl>
-        <bibl>
           <author>Brooks, Jayde</author>.
           <title>Daughter of Gods and Shadows</title>.
         </bibl>
@@ -1631,13 +1626,6 @@
           <author>Kirstein, Rosemary</author>.
           <title>The Steerswoman’s Road</title>.
           <date type="added" when="2018-07-21"/>
-        </bibl>
-        <bibl>
-          <author ref="a:knisley.l">Knisley, Lucy</author>.
-          <title>An Age of License: A Travelogue</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:knisley.l">Knisley, Lucy</author>.

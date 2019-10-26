@@ -35,7 +35,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-10-07">
+        <event from="2019-10-23">
+          <p>Read <ref target="b:solnit.r.farawaynearby">The Faraway Nearby</ref>.</p>
+        </event>
+        <event from="2019-10-21" to="2019-10-22">
+          <p>Read <ref target="b:knisley.l.ageoflicense">An Age of License</ref>.</p>
+        </event>
+        <event from="2019-10-07" to="2019-10-20">
           <p>Read <ref target="b:brooks.g.peopleofthebook">People of the Book</ref>.</p>
         </event>
         <event from="2019-09-30" to="2019-10-05">

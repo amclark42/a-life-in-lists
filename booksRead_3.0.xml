@@ -74,6 +74,27 @@
           
           
           
+          <biblStruct xml:id="hart.h.mydrunkkitchen.holidays">
+            <monogr>
+              <title>My Drunk Kitchen Holidays!: How to Savor and Celebrate the Year</title>
+              <author>
+                <persName ref="a:hart.h"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.owned" from="2019-10-21"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Plume</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>My Drunk Kitchen</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="gedris.mr.spectacle.2">
             <monogr>
               <title>Spectacle Book Two</title>
