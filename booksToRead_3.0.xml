@@ -2654,10 +2654,16 @@
         </bibl>
         <bibl>
           <author ref="a:solnit.r">Solnit, Rebecca</author>.
-          <title>The Faraway Nearby</title>.
+          <title>Men Explain Things to Me</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2018-11-18"/>
+          <date type="added" when="2019-11-03"/>
+        </bibl>
+        <bibl>
+          <author ref="a:solnit.r">Solnit, Rebecca</author>.
+          <title>A Paradise Built in Hell: The Everyday Communities That Arise in Disaster</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-11-03"/>
         </bibl>
         <bibl>
           <author>Solomon, River</author>.
