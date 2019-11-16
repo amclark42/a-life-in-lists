@@ -74,6 +74,158 @@
           
           
           
+          <biblStruct xml:id="abbott.ea.flatland">
+            <monogr>
+              <title>Flatland</title>
+              <title type="sub">An Edition with Notes and Commentary</title>
+              <author>
+                <persName ref="a:abbott.ea"/>
+              </author>
+              <respStmt>
+                <resp n="editor"/>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:lindgren.wf"/>
+                <persName ref="a:banchoff.tf"/>
+              </respStmt>
+              <imprint>
+                <date type="first-publication" when="1884"/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>Cambridge University Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="bull.e.waroaks">
+            <monogr>
+              <title>War for the Oaks</title>
+              <author>
+                <persName ref="a:bull.e"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-09-23"/>
+                <date type="copyright" when="1987"/>
+                <date type="copyright" when="2001"/>
+                <publisher>
+                  <orgName>Tom Doherty Associates</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.discountarmageddon">
+            <monogr>
+              <title>Discount Armageddon</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>InCryptid</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="harris.j.differentclass">
+            <monogr>
+              <title>Different Class</title>
+              <author>
+                <persName ref="a:harris.j"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2016"/>
+                <date type="first-american-edition" when="2017-01"/>
+                <publisher>
+                  <orgName>Touchstone</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="kowal.mr.withoutsummer">
+            <monogr>
+              <title>Without a Summer</title>
+              <author>
+                <persName ref="a:kowal.mr"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:developer"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Glamourist Histories</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="cliff.t.delilahdirk.pillarshercules">
+            <monogr>
+              <title>Delilah Dirk and the Pillars of Hercules</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:cliff.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:airriess.s"/>
+                <persName ref="a:greene.j"/>
+                <persName ref="a:morrell.b"/>
+                <persName ref="a:scurti.a"/>
+                <persName ref="a:cliff.b"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Delilah Dirk</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mori.k.emma.2">
+            <monogr>
+              <title>Emma Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:mori.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:drzka.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blackman.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" from="2003" to="2004"/>
+                <date type="translation-copyright" when="2015"/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Emma</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="hart.h.mydrunkkitchen.holidays">
             <monogr>
               <title>My Drunk Kitchen Holidays!: How to Savor and Celebrate the Year</title>
@@ -141,6 +293,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <date type="added" when="2019-08-24"/>
                 <date type="copyright" when="2019"/>
                 <publisher>
                   <orgName>Marvel Comics</orgName>
@@ -1890,7 +2043,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>Glamour in Glass</title>
+              <title>The Glamourist Histories</title>
             </series>
           </biblStruct>
           
@@ -2877,7 +3030,7 @@
                 <date type="added" when="2018-01-07"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
-                  <orgName>Daw Books</orgName>
+                  <orgName>DAW Books</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -3290,7 +3443,7 @@
                 <catRef target="#tag.owned" from="2017-12-05"/>
                 <date type="copyright" when="2014"/>
                 <publisher>
-                  <orgName>Daw Books</orgName>
+                  <orgName>DAW Books</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -16577,7 +16730,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Yen Press</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -21142,7 +21297,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>Glamourist Histories</title>
+              <title>The Glamourist Histories</title>
             </series>
           </biblStruct>
 
@@ -21900,7 +22055,7 @@
               <imprint>
                 <catRef target="#tag.owned" from="2018-02-17"/>
                 <date type="copyright" when="2011"/>
-                <publisher>Daw Books</publisher>
+                <publisher>DAW Books</publisher>
               </imprint>
             </monogr>
             <series>

@@ -20,23 +20,30 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2019-11-16">Converted some <gi>author</gi>s into <gi>persName</gi> 
+          inside <gi>respStmt</gi>, highlighting artists in particular. Added many 
+          new entries for graphic novels, because I have a bad habit of forgetting 
+          where I left off in a series (a problem I've already solved by using this 
+          document).</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document. 
           Added renditional information.</change>
         <change when="2018-02-19">Added "owned" tags to books I own but have not yet 
           read. Tags include a pointer to the book's catalog entry.</change>
         <change when="2017-10-01">Changed <code lang="xpath">//resp/@relation</code>
           to <att>n</att>.</change>
-        <change when="2017-09-03">Added personography references to the authors already
-          represented in <ptr target="authors_3.0.xml"/>.</change>
+        <change when="2017-09-03">Added personography references to the authors 
+          already represented in <ptr target="authors_3.0.xml"/>.</change>
         <change when="2017-07-22">Added "outofprint", "queer", and "rpg" tags.</change>
         <change when="2017-02-04">Added list heading.</change>
-        <change when="2016-12-11">Added <gi>series</gi> to most books that needed them.</change>
+        <change when="2016-12-11">Added <gi>series</gi> to most books that needed 
+          them.</change>
         <change when="2016-05-15">
           <list>
             <item>Added XIncluded <gi>encodingDesc</gi>;</item>
-            <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; and </item>
-            <item>started using <gi>date</gi> with <att>type</att> of "added" to keep
-              track of how long items stay on this list.</item>
+            <item>changed <gi>catRef</gi> to <gi>trait</gi> for validation purposes; 
+              and </item>
+            <item>started using <gi>date</gi> with <att>type</att> of "added" to 
+              keep track of how long items stay on this list.</item>
           </list>
         </change>
         <change when="2016-05-07">Generated conversion TEI from OxGarage.</change>
@@ -119,7 +126,11 @@
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
-          <author>Akihito, Tomi</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Akihito, Tomi</persName>
+          </respStmt>.
           <title xml:lang="ja">Reiroukan Kenzai Nariya</title>
           <title xml:lang="en">Is Reiroukan Still Alive?</title>
           <trait ref="#tag.comics"/>
@@ -189,7 +200,11 @@
           <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
-          <author>Annable, Graham</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"></resp>
+            <persName>Annable, Graham</persName>
+          </respStmt>.
           <title>Book of Grickle</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -213,7 +228,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Asano, Inio</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Asano, Inio</persName>
+          </respStmt>.
           <title>Solanin</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -259,7 +278,10 @@
         </bibl>
         <bibl>
           <author ref="a:azzarello.b">Azzarello, Brian</author> and
-          <author ref="a:chiang.c">Cliff Chiang</author>.
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:chiang.c">Cliff Chiang</persName>
+          </respStmt>.
           <title>Doctor 13: Architecture and Mortality</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -275,7 +297,11 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author ref="a:baker.k">Baker, Kyle</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:baker.k">Baker, Kyle</persName>
+          </respStmt>.
           <title>Plastic Man: Rubber Bandits</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -1015,6 +1041,13 @@
           <title>Nobody’s Family is Going to Change</title>.
         </bibl>
         <bibl>
+          <author ref="a:fletcher.b">Fletcher, Brenden</author>.
+          <title>Gotham Academy Vol. 3: Yearbook</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Gotham Academy</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author>Fletcher, Jane</author>.
           <title>The Exile and the Sorceress</title>.
         </bibl>
@@ -1049,7 +1082,11 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
-          <author>Forney, Ellen</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Forney, Ellen</persName>
+          </respStmt>.
           <title>Marbles: Mania, Depression, Michelangelo, and Me</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
@@ -1084,6 +1121,17 @@
           <editor>Daniel José Elder</editor>.
           <title>Long Hidden: Speculative Fiction from the Margins of History</title>.
           <trait ref="#tag.anthology"/>
+        </bibl>
+        <bibl>
+          <author ref="a:fraction.m">Fraction, Matt</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="zdarsky.c">Chip Zdarsky</persName>
+          </respStmt>.
+          <title>Sex Criminals Vol. 5: Five-Fingered Discount</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Sex Criminals</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author>Francis, Patry</author>.
@@ -1125,6 +1173,22 @@
           <title>Interworld</title>.
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:gedris.mr">Gedris, Megan Rose</persName>
+          </respStmt>.
+          <title>Spectacle Vol. 3</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.queer"/>
+          <series><title>Spectacle</title></series>
+          <date type="added" when="2019-11-16"/>
+          <note>
+            <p><title>Spectacle</title> is a webcomic, and has not yet been 
+              collected into a third volume.</p>
+          </note>
+        </bibl>
+        <bibl>
           <author>Gibson, William</author>.
           <title>Neuromancer</title>.
         </bibl>
@@ -1133,6 +1197,30 @@
           <title>Ida: A Sword Among Lions</title>.
           <trait ref="#tag.memoir"/>
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author ref="a:gillen.k">Gillen, Kieron</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
+          </respStmt>.
+          <title>The Wicked and the Divine Vol. 9: “Okay”</title>
+          <trait ref="#tag.comics"/>
+          <series>
+            <title>The Wicked and the Divine</title>
+          </series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author ref="a:gillen.k">Gillen, Kieron</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
+          </respStmt>.
+          <title>Young Avengers Vol. 2: Alternative Culture</title>
+          <trait ref="#tag.comics"/>
+          <series><title>Young Avengers</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author>Gladman, Renee</author>.
@@ -1218,7 +1306,19 @@
           <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
-          <editor>Guay, Rebecca</editor>.
+          <respStmt>
+            <resp n="artist"/>
+            <resp n="creator"/>
+            <persName>Guay, Rebecca</persName>
+          </respStmt> and
+          <respStmt>
+            <resp n="author"/>
+            <persName ref="a:black.h">Holly Black</persName>
+            <persName>Louise Hawes</persName>
+            <persName>Todd Mitchell</persName>
+            <persName>Alisa Kwitney</persName>
+            <persName ref="a:willingh.b">Bill Willingham</persName>
+          </respStmt>
           <title>A Flight of Angels</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -1231,7 +1331,11 @@
           <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
-          <author>Hagio, Moto</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Hagio, Moto</persName>
+          </respStmt>.
           <title>A Drunken Dream and Other Stories</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -1392,6 +1496,17 @@
         <bibl>
           <author ref="a:hopkinso.n">Hopkinson, Nalo</author>.
           <title>Midnight Robber</title>.
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:horikoshi.k">Horikoshi, K</persName>
+          </respStmt>.
+          <title>My Hero Academia Vol. 2</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>My Hero Academia</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author>Horowitz, Anthony</author>.
@@ -1565,6 +1680,17 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
+          </respStmt>.
+          <title>Amulet Book 3: The Cloud Searchers</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Amulet</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author ref="a:kiernan.cr">Kiernan, Caitlín R.</author>
           <title>The Red Tree</title>.
           <date type="added" when="2016-04-01"/>
@@ -1628,7 +1754,11 @@
           <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
-          <author ref="a:knisley.l">Knisley, Lucy</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:knisley.l">Knisley, Lucy</persName>
+          </respStmt>.
           <title>Kid Gloves: Nine Months of Careful Chaos</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
@@ -1636,7 +1766,11 @@
           <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
-          <author>Kobabe, Maia</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Kobabe, Maia</persName>
+          </respStmt>.
           <title>Gender Queer</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
@@ -1665,17 +1799,17 @@
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
           <title>Without a Summer</title>.
-          <series><title>Glamour in Glass</title></series>
+          <series><title>The Glamourist Histories</title></series>
         </bibl>
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
           <title>Valour and Vanity</title>.
-          <series><title>Glamour in Glass</title></series>
+          <series><title>The Glamourist Histories</title></series>
         </bibl>
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
           <title>Of Noble Family</title>.
-          <series><title>Glamour in Glass</title></series>
+          <series><title>The Glamourist Histories</title></series>
         </bibl>
         <bibl>
           <author>Koyanagi, Jacqueline</author>.
@@ -1747,6 +1881,17 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
+          <author ref="a:leth.k">Leth, Kate</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:williams.b">Brittney Williams</persName>
+          </respStmt>.
+          <title>Patsy Walker, A.K.A. Hellcat! Vol. 2: Don’t Stop Me-ow</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Patsy Walker, A.K.A. Hellcat!</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1760,7 +1905,10 @@
         <bibl>
           <author>Long, Mark</author>,
           <author>Jim Demonakos</author> and
-          <author ref="a:powell.n">Nate Powell</author>.
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:powell.n">Nate Powell</persName>
+          </respStmt>.
           <title>The Silence of Our Friends</title>.
           <trait ref="#tag.comics"/>
           <trait ref="#tag.memoir"/>
@@ -1801,9 +1949,14 @@
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
-          <author>Mack, David</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Mack, David</persName>
+          </respStmt>.
           <title>Kabuki: Circle of Blood</title>.
           <trait ref="#tag.comics"/>
+          <series><title>Kabuki</title></series>
         </bibl>
         <bibl>
           <author>Maddow, Rachel</author>.
@@ -1901,12 +2054,12 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>, and
           <respStmt>
             <resp n="artist"/>
-            <persName>Rosi Kämpe</persName>
+            <persName>Takeshi Miyazawa</persName>
           </respStmt>.
-          <title>Spider-Gwen: Ghost-Spider Vol. 1: Spider-Geddon</title>.
+          <title>Spider-Gwen: Ghost-Spider Vol. 2: Impossible Year</title>.
           <trait ref="#tag.comics"/>
           <series><title>Spider-Gwen: Ghost-Spider</title></series>
-          <date type="added" when="2019-08-24"/>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -1945,7 +2098,9 @@
             <title>The Vorkosigan Saga</title>
           </series>
           <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
-          <note>I neglected to add this after reading The Warrior's Apprentice.</note>
+          <note>
+            <p>I neglected to add this after reading The Warrior's Apprentice.</p>
+          </note>
         </bibl>
         <bibl>
           <author>McRobbie, Linda Rodriguez</author>.
@@ -2038,6 +2193,17 @@
           <date type="added" when="2019-10-04"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:mori.k">Mori, Kaoru</persName>
+          </respStmt>.
+          <title>A Bride’s Story Vol. 6</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>A Bride’s Story</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author>Morton, Kati</author>.
           <title>Are u ok?: A Guide to Caring for Your Mental Health</title>.
           <trait ref="#tag.nonfiction"/>
@@ -2092,7 +2258,22 @@
           <title>Shooter</title>.
         </bibl>
         <bibl>
-          <author>Nagpal, Saraswati</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:nagabe">Nagabe</persName>
+          </respStmt>.
+          <title>The Girl from the Other Side: Siúil, a Rún Vol. 2</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>The Girl from the Other Side: Siúil, a Rún</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Nagpal, Saraswati</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Manikandan</persName>
+          </respStmt>.
           <title>Sita: Daughter of the Earth</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -2151,6 +2332,18 @@
           <title>The Design of Everyday Things</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2017-12-29"/>
+        </bibl>
+        <bibl>
+          <author ref="a:north.r">North, Ryan</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:henderso.e">Erica Henderson</persName>
+          </respStmt>.
+          <title>The Unbeatable Squirrel Girl Vol. 5: Like I’m the Only Squirrel in 
+            the World</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>The Unbeatable Squirrel Girl</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
@@ -2271,12 +2464,20 @@
           <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
-          <author ref="a:parker.j">Parker, Jeff</author>.
+          <author ref="a:parker.j">Parker, Jeff</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:fowler.t">Tom Fowler</persName>
+          </respStmt>.
           <title>Mysterius the Unfathomable</title>.
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
-          <author ref="a:parker.j">Parker, Jeff</author>.
+          <author ref="a:parker.j">Parker, Jeff</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:lieber.s">Steve Lieber</persName>
+          </respStmt>.
           <title>Underground</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -2287,6 +2488,17 @@
         <bibl>
           <author>Peace, David</author>.
           <title>Tokyo Year Zero</title>.
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <name ref="a:peachpit">Peach-Pit</name>
+          </respStmt>.
+          <title>Shugo Chara! Vol. 11</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Shugo Chara!</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author ref="a:peake.m">Peake, Mervyn</author>.
@@ -2416,6 +2628,17 @@
           <author ref="a:rucka.g">Rucka, Greg</author>.
           <title>Keeper</title>.
           <series><title>Atticus Kodiak</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:rucka.g">Rucka, Greg</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:lark.m">Michael Lark</persName>
+          </respStmt>.
+          <title>Lazarus Vol. 3: Conclave</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Lazarus</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author>Ruff, Mark</author>.
@@ -2607,7 +2830,11 @@
           <date type="added" when="2019-03-20"/>
         </bibl>
         <bibl>
-          <author>Shiga, Jason</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Shiga, Jason</persName>
+          </respStmt>.
           <title>Bookhunter</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -2661,7 +2888,8 @@
         </bibl>
         <bibl>
           <author ref="a:solnit.r">Solnit, Rebecca</author>.
-          <title>A Paradise Built in Hell: The Everyday Communities That Arise in Disaster</title>.
+          <title>A Paradise Built in Hell: The Everyday Communities That Arise in 
+            Disaster</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2019-11-03"/>
         </bibl>
@@ -2704,6 +2932,17 @@
           <title>Snow Crash</title>.
         </bibl>
         <bibl>
+          <author ref="a:stevenso.n">Stevenson, Noelle</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:watters.s">Shannon Watters</persName>
+          </respStmt>.
+          <title>Lumberjanes Vol. 4: Out of Time</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Lumberjanes</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author>Stewart, Sean</author>.
           <title>Perfect Circle</title>.
           <date type="added" when="2017-06-29"/>
@@ -2723,14 +2962,32 @@
           <title>Lightborn</title>.
         </bibl>
         <bibl>
-          <author ref="a:talbot.b">Talbot, Bryan</author>.
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:tagame.g">Tagame, Gengoroh</persName>
+          </respStmt>.
+          <title>My Brother’s Husband Vol. 2</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>My Brother’s Husband</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:talbot.b">Talbot, Bryan</persName>
+          </respStmt>.
           <title>Alice in Sunderland</title>.
           <trait ref="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Talbot, Mary M.</author>,
-          <author>Kate Charlesworth</author>, and
-          <author ref="a:talbot.b">Bryan Talbot</author>.
+          <author ref="a:talbot.b">Bryan Talbot</author>, and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Kate Charlesworth</persName>
+          </respStmt>.
           <title>Sally Heathcote: Suffragette</title>.
           <trait ref="#tag.comics"/>
         </bibl>
@@ -2851,6 +3108,17 @@
           <date type="added" when="2017-04-08"/>
         </bibl>
         <bibl>
+          <author ref="a:vaughan.bk">Vaughan, Brian K.</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:staples.f">Fiona Staples</persName>
+          </respStmt>.
+          <title>Saga Vol. 6</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Saga</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author>Vinge, Joan D.</author>
           <title>The Snow Queen</title>.
         </bibl>
@@ -2904,6 +3172,7 @@
           <author>Way, Gerard</author>.
           <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
           <trait ref="#tag.comics"/>
+          <series><title>The Umbrella Academy</title></series>
         </bibl>
         <bibl>
           <author>Wecker, Helene</author>.
@@ -2942,6 +3211,13 @@
           <date type="added" when="2018-12-09"/>
         </bibl>
         <bibl>
+          <author ref="a:wilson.gw">Wilson, G. Willow</author>.
+          <title>Ms. Marvel Vol. 2: Generation Why</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Ms. Marvel</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
           <author>Windling, Terri</author>.
           <title>The Wood Wife</title>.
           <date type="added" when="2017-06-29"/>
@@ -2961,6 +3237,13 @@
           <title>Random Acts of Senseless Violence</title>.
           <date type="added" when="2017-06-29"/>
           <trait ref="#tag.outofprint"/>
+        </bibl>
+        <bibl>
+          <author ref="wood.b">Wood, Brian</author>.
+          <title>The Massive Vol. 2: Subcontinental</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>The Massive</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <author>Yancey, Richard</author>.
@@ -2985,6 +3268,52 @@
           </respStmt>
           <title>Kitchen</title>.
           <date type="added" when="2018-02-04"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
+          </respStmt>.
+          <title>Antique Bakery Vol. 3</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Antique Bakery</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
+          </respStmt>.
+          <title>Ôoku: The Inner Chambers Vol. 9</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Ôoku: The Inner Chambers</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
+          </respStmt>.
+          <title>What Did You Eat Yesterday? Vol. 13</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.queer"/>
+          <series><title>What Did You Eat Yesterday?</title></series>
+          <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author ref="a:zdarsky.c">Zdarsky, Chip</author>,
+          <author ref="a:north.r">Ryan North</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Derek Charm</persName>
+          </respStmt>.
+          <title>Jughead Vol. 2</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Jughead</title></series>
+          <date type="added" when="2019-11-16"/>
         </bibl>
       </listBibl>
     </body>
