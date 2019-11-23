@@ -431,6 +431,12 @@
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
         </bibl>
         <bibl>
+          <editor>Bravo, Kyle</editor>.
+          <title>Making Stuff and Doing Things: DIY Guides to Just About Everything</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-11-22"/>
+        </bibl>
+        <bibl>
           <author ref="a:bray.l">Bray, Libba</author>.
           <title>Beauty Queens</title>.
           <date type="added" when="2016-06-04"/>
@@ -1025,6 +1031,12 @@
         <bibl>
           <author>Ferrante, Elena</author>.
           <title>The Days of Abandonment</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:fine.c">Fine, Cordelia</author>.
+          <title>Testosterone Rex: Myths of Sex, Science, and Society</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-11-22"/>
         </bibl>
         <bibl>
           <author>Fisher, Carrie</author>.

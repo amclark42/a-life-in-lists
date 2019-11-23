@@ -37,7 +37,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-11-13">
+        <event from="2019-11-23">
+          <p>Read <ref target="b:harris.j.differentclass">Different Class</ref>.</p>
+        </event>
+        <event from="2019-11-13" to="2019-11-23">
           <p>Read <ref target="b:bull.e.waroaks">War for the Oaks</ref>.</p>
         </event>
         <event from="2019-11-12" to="2019-11-13">
