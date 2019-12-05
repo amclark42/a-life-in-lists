@@ -88,6 +88,7 @@
                 <persName ref="a:banchoff.tf"/>
               </respStmt>
               <imprint>
+                <date type="added" when="2019-08-10"/>
                 <date type="first-publication" when="1884"/>
                 <date type="copyright" when="2010"/>
                 <publisher>
@@ -139,6 +140,8 @@
                 <persName ref="a:harris.j"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2017-01-15"/>
                 <date type="copyright" when="2016"/>
                 <date type="first-american-edition" when="2017-01"/>
                 <publisher>
@@ -198,7 +201,7 @@
           
           <biblStruct xml:id="mori.k.emma.2">
             <monogr>
-              <title>Emma Vol. 1</title>
+              <title>Emma Vol. 2</title>
               <respStmt>
                 <resp n="author"/>
                 <resp n="artist"/>

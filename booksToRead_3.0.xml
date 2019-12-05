@@ -1381,11 +1381,6 @@
         </bibl>
         <bibl>
           <author ref="a:harris.j">Harris, Joanne</author>.
-          <title>Different Class</title>.
-          <date type="added" when="2017-01-15"/>
-        </bibl>
-        <bibl>
-          <author ref="a:harris.j">Harris, Joanne</author>.
           <title>Runemarks</title>.
         </bibl>
         <bibl>
@@ -2214,6 +2209,17 @@
           <trait ref="#tag.comics"/>
           <series><title>A Bride’s Story</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:mori.k">Mori, Kaoru</persName>
+          </respStmt>.
+          <title>Emma Vol. 3</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Emma</title></series>
+          <date type="added" when="2019-11-30"/>
         </bibl>
         <bibl>
           <author>Morton, Kati</author>.

@@ -37,7 +37,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-11-23">
+        <event from="2019-12-04">
+          <p>Read <ref target="b:mcguire.s.discountarmageddon">Discount Armageddon</ref>.</p>
+        </event>
+        <event when="2019-12-01">
+          <p>Reread <ref target="b:trotman.cs.ftlyall">FTL Y’all! Tales from the Age of the $200 Warp Drive</ref>.</p>
+        </event>
+        <event when="2019-11-28">
+          <p>Read <ref target="b:mori.k.emma.2">Emma Vol. 2</ref>.</p>
+        </event>
+        <event from="2019-11-23" to="2019-12-04">
           <p>Read <ref target="b:harris.j.differentclass">Different Class</ref>.</p>
         </event>
         <event from="2019-11-13" to="2019-11-23">
