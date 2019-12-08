@@ -386,6 +386,13 @@
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
+          <author>Bird, Jackson</author>.
+          <title>Sorted: Growing Up, Coming Out, and Finding My Place</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
           <author>Blake, Katherine</author>.
           <title>The Interior Life</title>.
           <date type="added" when="2017-06-29"/>
@@ -476,9 +483,10 @@
           <title>Rogue Moon</title>.
         </bibl>
         <bibl>
-          <author ref="a:bull.e">Bull, Emma</author>.
-          <title>War for the Oaks</title>.
-          <date type="added" when="2018-09-23"/>
+          <author>Burroughs, Augusten</author>.
+          <title>Toil &amp; Trouble</title>.
+          <trait ref="#tag.memoir"/>
+          <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
           <author>Butler, Isaac</author>, and
@@ -1966,6 +1974,11 @@
           <series><title>Kabuki</title></series>
         </bibl>
         <bibl>
+          <author>MacLaughlin, Nina</author>.
+          <title>Wake, Siren: Ovid Resung</title>.
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
           <author>Maddow, Rachel</author>.
           <title>Drift: The Unmooring of American Military Power</title>.
           <trait ref="#tag.nonfiction"/>
@@ -2044,6 +2057,42 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>Middlegame</title>.
           <date type="added" when="2019-05-11"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Midnight Blue-Light Special</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Half-Off Ragnarok</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Pocket Apocalypse</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Chaos Choreography</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Magic for Nothing</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Tricks for Free</title>.
+          <series><title>InCryptid</title></series>
+          <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2571,6 +2620,11 @@
           <title>The Chosen</title>.
         </bibl>
         <bibl>
+          <author>Polack, Gillian</author>.
+          <title>The Year of the Fruit Cake</title>.
+          <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
           <author>Postman, Neil</author>.
           <title>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</title>.
           <trait ref="#tag.nonfiction"/>
@@ -2641,6 +2695,11 @@
           <author>Rubinstein, Gillian</author>.
           <title>Tales of the Otori: Across the Nightingale Floor</title>.
           <series><title>Tales of the Otori</title></series>
+        </bibl>
+        <bibl>
+          <author>Ruby, Laura</author>.
+          <title>Thirteen Doorways, Wolves Behind Them All</title>.
+          <date type="added" when="2019-12-08"></date>
         </bibl>
         <bibl>
           <author ref="a:rucka.g">Rucka, Greg</author>.
@@ -3174,6 +3233,12 @@
           <title>Necessity</title>.
           <series><title>Thessaly</title></series>
           <date type="added" when="2018-08-16"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wang.j">Wang, Jen</author>.
+          <title>Stargazing</title>.
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
           <editor>The Washington Post</editor>.
