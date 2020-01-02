@@ -37,7 +37,27 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2019-12-07">
+        <event when="2020-01-01">
+          <p>Read <ref target="b:kibuishi.k.amulet.3.cloudsearchers">Amulet Book Three: The Cloud Searchers</ref>.</p>
+        </event>
+        <event from="2019-12-27">
+          <p>Read <ref target="b:mcculloch.g.becauseinternet">Because Internet: Understanding the New Rules of 
+            Language</ref>.</p>
+        </event>
+        <event when="2019-12-20">
+          <p>Listened to the audiobook for <ref target="b:pierce.t.bekacooperterrier">Beka Cooper: Terrier</ref>. 
+            Reread. Did not finish.</p>
+        </event>
+        <event when="2019-12-15">
+          <p>Read <ref target="b:kobabe.m.genderqueer">Gender Queer</ref>.</p>
+        </event>
+        <event from="2019-12-15" to="2019-12-27">
+          <p>Read <ref target="b:abbott.ea.flatland">Flatland</ref>.</p>
+        </event>
+        <event when="2019-12-15">
+          <p>Read <ref target="b:cliff.t.delilahdirk.pillarshercules">Delilah Dirk and the Pillars of Hercules</ref>.</p>
+        </event>
+        <event from="2019-12-07" to="2019-12-15">
           <p>Read <ref target="b:kowal.mr.withoutsummer">Without a Summer</ref>.</p>
         </event>
         <event from="2019-12-04" to="2019-12-07">

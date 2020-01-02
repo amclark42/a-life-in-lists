@@ -84,11 +84,6 @@
           <date type="added" when="2018-08-25"/>
         </bibl>
         <bibl>
-          <author>Abbott, Edwin A.</author>
-          <title>Flatland: A Romance of Many Dimensions</title>.
-          <date type="added" when="2019-08-10"/>
-        </bibl>
-        <bibl>
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil 
             War</title>.
@@ -320,6 +315,7 @@
         <bibl>
           <author ref="a:barnes.j">Barnes, John</author>.
           <title>Orbital Resonance</title>.
+          <trait ref="#tag.owned" corresp="b:barnes.j.orbitalresonance"/>
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
@@ -1122,10 +1118,10 @@
           <title>A Room with a View</title>.
         </bibl>
         <bibl>
-          <author>Forsyth, Kate</author>.
+          <author ref="a:forsyth.k">Forsyth, Kate</author>.
           <title>The Witches of Eileanan</title>.
           <series><title>The Witches of Eileanan</title></series>
-          <!-- Available as an e-book from BPL -->
+          <trait ref="#tag.owned" corresp="b:forsyth.k.witchesofeileanan"/>
         </bibl>
         <bibl>
           <author>Fowler, Karen Joy</author>.
@@ -1265,7 +1261,7 @@
           <trait ref="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author ref="b:gloss.m">Gloss, Molly</author>.
+          <author ref="a:gloss.m">Gloss, Molly</author>.
           <title>The Jump-Off Creek</title>.
           <date type="added" when="2019-05-16"/>
         </bibl>
@@ -1700,10 +1696,54 @@
             <resp n="artist"/>
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
-          <title>Amulet Book 3: The Cloud Searchers</title>.
+          <title>Amulet Book Four: The Last Council</title>.
           <trait ref="#tag.comics"/>
           <series><title>Amulet</title></series>
-          <date type="added" when="2019-11-16"/>
+          <date type="added" when="2020-01-01"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
+          </respStmt>.
+          <title>Amulet Book Five: Prince of the Elves</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Amulet</title></series>
+          <date type="added" when="2020-01-01"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
+          </respStmt>.
+          <title>Amulet Book Six: Escape from Lucien</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Amulet</title></series>
+          <date type="added" when="2020-01-01"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
+          </respStmt>.
+          <title>Amulet Book Seven: Firelight</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Amulet</title></series>
+          <date type="added" when="2020-01-01"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
+          </respStmt>.
+          <title>Amulet Book Eight: Supernova</title>.
+          <trait ref="#tag.comics"/>
+          <series><title>Amulet</title></series>
+          <date type="added" when="2020-01-01"/>
         </bibl>
         <bibl>
           <author ref="a:kiernan.cr">Kiernan, Caitlín R.</author>
@@ -1781,18 +1821,6 @@
           <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName>Kobabe, Maia</persName>
-          </respStmt>.
-          <title>Gender Queer</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
-          <date type="added" when="2019-09-15"/>
-        </bibl>
-        <bibl>
           <author>Kochman, Thomas</author>.
           <title>Black and White Styles in Conflict</title>.
           <trait ref="#tag.nonfiction"/>
@@ -1810,11 +1838,6 @@
           <title>The Calculating Stars</title>.
           <series><title>Lady Astronaut</title></series>
           <date type="added" when="2018-06-26"/>
-        </bibl>
-        <bibl>
-          <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
-          <title>Without a Summer</title>.
-          <series><title>The Glamourist Histories</title></series>
         </bibl>
         <bibl>
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
@@ -2025,9 +2048,10 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
-          <author>McCulloch, Gretchen</author>.
+          <author ref="a:mcculloch.g">McCulloch, Gretchen</author>.
           <title>Because Internet: Understanding the New Rules of Language</title>.
           <trait ref="#tag.nonfiction"/>
+          <trait ref="#tag.owned" corresp="b:mcculloch.g.becauseinternet"/>
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
