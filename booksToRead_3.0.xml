@@ -2048,13 +2048,6 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
-          <author ref="a:mcculloch.g">McCulloch, Gretchen</author>.
-          <title>Because Internet: Understanding the New Rules of Language</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.owned" corresp="b:mcculloch.g.becauseinternet"/>
-          <date type="added" when="2019-08-03"/>
-        </bibl>
-        <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <trait ref="#tag.cookbook"/>
@@ -3061,17 +3054,6 @@
         <bibl>
           <author>Sullivan, Tricia</author>.
           <title>Lightborn</title>.
-        </bibl>
-        <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:tagame.g">Tagame, Gengoroh</persName>
-          </respStmt>.
-          <title>My Brother’s Husband Vol. 2</title>.
-          <trait ref="#tag.comics"/>
-          <series><title>My Brother’s Husband</title></series>
-          <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
           <respStmt>

@@ -48,6 +48,14 @@
         </person>-->
         
         
+        <person xml:id="rosenberg.r">
+          <persName>
+            <forename>Rachelle</forename>
+            <surname>Rosenberg</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="flaming.m">
           <persName>
             <forename>Matthew</forename>

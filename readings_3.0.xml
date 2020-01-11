@@ -37,10 +37,22 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2020-01-11">
+          <p>Read <ref target="b:amano.h.letsmakeramen">Let’s Make Ramen!</ref>.</p>
+        </event>
+        <event when="2020-01-09">
+          <p>Read <ref target="b:tagame.g.brothershusband.2">My Brother’s Husband Vol. 2</ref>.</p>
+        </event>
+        <event when="2020-01-01">
+          <p>Read <ref target="b:leth.k.spellonwheels">Spell on Wheels</ref>.</p>
+        </event>
+        <event when="2020-01-01">
+          <p>Read <ref target="b:sykes.s.bravechefbrianna">Brave Chef Brianna</ref>.</p>
+        </event>
         <event when="2020-01-01">
           <p>Read <ref target="b:kibuishi.k.amulet.3.cloudsearchers">Amulet Book Three: The Cloud Searchers</ref>.</p>
         </event>
-        <event from="2019-12-27">
+        <event from="2019-12-27" to="2020-01-11">
           <p>Read <ref target="b:mcculloch.g.becauseinternet">Because Internet: Understanding the New Rules of 
             Language</ref>.</p>
         </event>
