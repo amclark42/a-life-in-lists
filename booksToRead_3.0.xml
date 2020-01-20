@@ -1118,12 +1118,6 @@
           <title>A Room with a View</title>.
         </bibl>
         <bibl>
-          <author ref="a:forsyth.k">Forsyth, Kate</author>.
-          <title>The Witches of Eileanan</title>.
-          <series><title>The Witches of Eileanan</title></series>
-          <trait ref="#tag.owned" corresp="b:forsyth.k.witchesofeileanan"/>
-        </bibl>
-        <bibl>
           <author>Fowler, Karen Joy</author>.
           <title>The Jane Austen Book Club</title>.
         </bibl>
@@ -3196,10 +3190,10 @@
             <resp n="artist"/>
             <persName ref="a:staples.f">Fiona Staples</persName>
           </respStmt>.
-          <title>Saga Vol. 6</title>.
+          <title>Saga Vol. 7</title>.
           <trait ref="#tag.comics"/>
           <series><title>Saga</title></series>
-          <date type="added" when="2019-11-16"/>
+          <date type="added" when="2020-01-19"/>
         </bibl>
         <bibl>
           <author>Vinge, Joan D.</author>

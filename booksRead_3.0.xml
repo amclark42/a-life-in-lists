@@ -153,6 +153,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2019-11-16"/>
                 <date type="copyright" when="2016"/>
                 <publisher>

@@ -37,6 +37,15 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-01-19">
+          <p>Reread <ref target="b:mcguire.s.onesaltsea">One Salt Sea</ref>.</p>
+        </event>
+        <event when="2020-01-19">
+          <p>Read <ref target="b:vaughan.bk.saga.6">Saga Vol. 6</ref>.</p>
+        </event>
+        <event from="2020-01-11" to="2020-01-19">
+          <p>Read <ref target="b:forsyth.k.witchesofeileanan">The Witches of Eileanan</ref>.</p>
+        </event>
         <event when="2020-01-11">
           <p>Read <ref target="b:amano.h.letsmakeramen">Let’s Make Ramen!</ref>.</p>
         </event>
