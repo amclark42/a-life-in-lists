@@ -37,7 +37,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-01-19">
+        <event from="2020-01-25">
+          <p>Reread <ref target="b:gaiman.n.goodomens">Good Omens</ref>.</p>
+        </event>
+        <event from="2020-01-19" to="2020-01-25">
           <p>Reread <ref target="b:mcguire.s.onesaltsea">One Salt Sea</ref>.</p>
         </event>
         <event when="2020-01-19">
