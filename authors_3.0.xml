@@ -48,6 +48,14 @@
         </person>-->
         
         
+        <person xml:id="heikkilä.o">
+          <persName>
+            <forename>Otava</forename>
+            <surname>Heikkilä</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="rosenberg.r">
           <persName>
             <forename>Rachelle</forename>
@@ -4023,14 +4031,6 @@
           <persName>
             <name>Scary-T</name>
           </persName>
-        </person>
-
-        <person xml:id="heikkilä.n">
-          <persName>
-            <forename>Noora</forename>
-            <surname>Heikkilä</surname>
-          </persName>
-          <gender value="female" evidence="conjecture"/>
         </person>
 
         <person xml:id="blackman.a">

@@ -37,7 +37,21 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-01-25">
+        <event from="2020-02-01">
+          <p>Read <ref target="b:powell.n.comeagain">Come Again</ref>.</p>
+        </event>
+        <event when="2020-01-31">
+          <p>Read <ref target="b:heikkilä.o.letterslucardo.2.fortunatebeasts">Letters for Lucardo: Fortunate 
+            Beasts</ref>.</p>
+        </event>
+        <event when="2020-01-31">
+          <p>Read <ref target="b:heikkilä.o.letterslucardo.1">Letters for Lucardo</ref>.</p>
+        </event>
+        <event when="2020-01-29">
+          <p>Read <ref target="b:leth.k.patsywalkerhellcat.2.dontstopmeow">Patsy Walker, A.K.A. Hellcat! Vol. 2: 
+            Don’t Stop Me-ow</ref>.</p>
+        </event>
+        <event from="2020-01-25" to="2020-02-08">
           <p>Reread <ref target="b:gaiman.n.goodomens">Good Omens</ref>.</p>
         </event>
         <event from="2020-01-19" to="2020-01-25">

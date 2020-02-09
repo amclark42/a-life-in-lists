@@ -74,6 +74,115 @@
           
           
           
+          <biblStruct xml:id="kingfisher.t.wonderengine">
+            <monogr>
+              <title>The Wonder Engine</title>
+              <author>
+                <persName ref="a:kingfisher.t"/>
+              </author>
+              <imprint>
+                <date type="added" when="2019-10-05"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Argyll Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Clocktaur War</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.absentdream">
+            <monogr>
+              <title>In an Absent Dream</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-12-27"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="heikkilä.o.letterslucardo.2.fortunatebeasts">
+            <monogr>
+              <title>Letters for Lucardo: Fortunate Beasts</title>
+              <author>
+                <persName ref="a:heikkilä.o"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Letters for Lucardo</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="heikkilä.o.letterslucardo.1">
+            <monogr>
+              <title>Letters for Lucardo</title>
+              <author>
+                <persName ref="a:heikkilä.o"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Letters for Lucardo</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="vaughan.bk.saga.7">
+            <monogr>
+              <title>Saga Vol. 7</title>
+              <author>
+                <persName ref="a:vaughan.bk"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:staples.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <orgName n="fonografiks"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-01-19"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Image</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Saga</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="tagame.g.brothershusband.2">
             <monogr>
               <title>My Brother’s Husband Vol. 2</title>
@@ -125,6 +234,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2019-11-16"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
@@ -1568,7 +1678,7 @@
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2019"/>
                 <publisher>
-                  <orgName>Iron Circus</orgName>
+                  <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
@@ -5955,7 +6065,7 @@
                 <persName ref="a:hes.s"/>
                 <persName ref="a:simone.g"/>
                 <persName ref="a:cooper.t"/>
-                <persName ref="a:heikkilä.n"/>
+                <persName ref="a:heikkilä.o"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.anthology"/>

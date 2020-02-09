@@ -566,6 +566,15 @@
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
+          <editor ref="a:chabon.m">Chabon, Michael</editor> and
+          <editor>Ayelet Waldman</editor>.
+          <title>Fight of the Century: Writers Reflect on 100 Years of Landmark 
+            ACLU Cases</title>.
+          <trait ref="#tag.anthology"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
           <editor ref="a:chabon.m">Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
           <trait ref="#tag.anthology"/>
@@ -1173,6 +1182,12 @@
           <series><title>Outlander</title></series>
         </bibl>
         <bibl>
+          <author>Gailey, Sarah</author>.
+          <title>Upright Women Wanted</title>.
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:gaiman.n">Gaiman, Neil</author>.
           <title>The View from the Cheap Seats</title>.
           <date type="added" when="2016-10-01"/>
@@ -1331,6 +1346,11 @@
           </respStmt>
           <title>A Flight of Angels</title>.
           <trait ref="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Gyasi, Yaa</author>.
+          <title>Transcendent Kingdom</title>.
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author>Hackwith, A.J.</author>
@@ -1603,8 +1623,18 @@
         </bibl>
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
+          <title>The City We Became</title>.
+          <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
+          <author ref="a:jemisin.nk">Jemisin, N.K.</author>
           <title>How Long ‘til Black Future Month?: Stories</title>.
           <date type="added" when="2018-10-26"/>
+        </bibl>
+        <bibl>
+          <author ref="a:jen.g">Jen, Gish</author>.
+          <title>The Resisters</title>.
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author>Jerkins, Morgan</author>.
@@ -1671,6 +1701,12 @@
         <bibl>
           <author>Kay, Elizabeth</author>.
           <title>The Divide</title>.
+        </bibl>
+        <bibl>
+          <author>Kerr, Katharine</author>.
+          <title>Sword of Fire</title>.
+          <series><title>Deverry</title></series>
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author>Kesey, Ken</author>.
@@ -1821,6 +1857,12 @@
           <date type="added" when="2018-02-04"/>
         </bibl>
         <bibl>
+          <author>Kolbert, Elizabeth</author>.
+          <title>The Sixth Extinction: An Unnatural History</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
           <author>Koul, Scaachi</author>.
           <title>One Day We’ll All Be Dead and None of This Will Matter</title>.
           <trait ref="#tag.memoir"/>
@@ -1918,15 +1960,22 @@
             <resp n="artist"/>
             <persName ref="a:williams.b">Brittney Williams</persName>
           </respStmt>.
-          <title>Patsy Walker, A.K.A. Hellcat! Vol. 2: Don’t Stop Me-ow</title>.
+          <title>Patsy Walker, A.K.A. Hellcat! Vol. 3: Careless Whiskers</title>.
           <trait ref="#tag.comics"/>
+          <trait ref="#tag.queer"/>
           <series><title>Patsy Walker, A.K.A. Hellcat!</title></series>
-          <date type="added" when="2019-11-16"/>
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <trait ref="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author ref="a:leyh.k">Leyh, Kat</author>.
+          <title>Snapdragon</title>.
+          <trait ref="#tag.comics"/>
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author ref="liu.k">Liu, Ken</author>
@@ -3206,6 +3255,12 @@
         <bibl>
           <author ref="a:vonnegut.k">Vonnegut, Kurt</author>.
           <title>Slaughterhouse Five</title>.
+        </bibl>
+        <bibl>
+          <author>Wade, Juliette</author>.
+          <title>Mazes of Power</title>.
+          <series><title>The Broken Trust</title></series>
+          <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author>Waldrop, Howard</author>.
