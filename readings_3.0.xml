@@ -37,8 +37,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-02-01">
-          <p>Read <ref target="b:powell.n.comeagain">Come Again</ref>.</p>
+        <event from="2020-02-12">
+          <p>Read <ref target="b:kingfisher.t.wonderengine">The Wonder Engine</ref>.</p>
+        </event>
+        <event from="2020-02-09" to="2020-02-11">
+          <p>Read <ref target="b:mcguire.s.absentdream">In an Absent Dream</ref>.</p>
+        </event>
+        <event from="2020-02-01" to="2020-02-11">
+          <p>Read <ref target="b:powell.n.comeagain">Come Again</ref>. Left unfinished.</p>
         </event>
         <event when="2020-01-31">
           <p>Read <ref target="b:heikkilä.o.letterslucardo.2.fortunatebeasts">Letters for Lucardo: Fortunate 
