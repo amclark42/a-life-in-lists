@@ -1819,12 +1819,6 @@
           <date type="added" when="2018-03-03"/>
         </bibl>
         <bibl>
-          <author ref="a:kingfisher.t">Kingfisher, T.</author>
-          <title>The Wonder Engine</title>.
-          <date type="added" when="2019-10-05"/>
-          <series><title>Clocktaur War</title></series>
-        </bibl>
-        <bibl>
           <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
           <title>The Poisonwood Bible</title>.
           <date type="added" when-custom="ash:youngadult"/>
