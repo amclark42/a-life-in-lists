@@ -313,12 +313,6 @@
           <title>Weaveworld</title>.
         </bibl>
         <bibl>
-          <author ref="a:barnes.j">Barnes, John</author>.
-          <title>Orbital Resonance</title>.
-          <trait ref="#tag.owned" corresp="b:barnes.j.orbitalresonance"/>
-          <date type="added" when="2017-06-29"/>
-        </bibl>
-        <bibl>
           <author>Bartlett, Allison Hoover</author>.
           <title>The Man Who Loved Books Too Much: The True Story of a Thief, a
             Detective, and a World of Literary Obsession</title>.
@@ -3063,6 +3057,14 @@
           <title>Snow Crash</title>.
         </bibl>
         <bibl>
+          <author ref="a:stevenso.n">Stevenson, Noelle</author>.
+          <title>The Fire Never Goes Out: A Memoir in Pictures</title>.
+          <trait ref="#tag.comics"/>
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2020-02-29"/>
+        </bibl>
+        <bibl>
           <author ref="a:stevenso.n">Stevenson, Noelle</author> and
           <respStmt>
             <resp n="artist"/>
@@ -3233,10 +3235,10 @@
             <resp n="artist"/>
             <persName ref="a:staples.f">Fiona Staples</persName>
           </respStmt>.
-          <title>Saga Vol. 7</title>.
+          <title>Saga Vol. 8</title>.
           <trait ref="#tag.comics"/>
           <series><title>Saga</title></series>
-          <date type="added" when="2020-01-19"/>
+          <date type="added" when="2020-02-29"/>
         </bibl>
         <bibl>
           <author>Vinge, Joan D.</author>
@@ -3290,10 +3292,21 @@
           <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
+          <author>Washburn, Kawai Strong</author>.
+          <title>Sharks in the Time of Saviors</title>.
+          <date type="added" when="2020-02-29"/>
+        </bibl>
+        <bibl>
           <editor>The Washington Post</editor>.
           <title>The Mueller Report</title>.
           <trait ref="#tag.nonfiction"/>
           <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
+          <author>Watson, Julia</author>.
+          <title>Lo—TEK: Design by Radical Indigenism</title>.
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2020-02-29"/>
         </bibl>
         <bibl>
           <author>Waugh, Evelyn</author>.

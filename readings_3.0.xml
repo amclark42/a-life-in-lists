@@ -39,7 +39,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-02-18">
+        <event when="2020-02-29">
+          <p>Read <title ref="b:vaughan.bk.saga.7">Saga Vol. 7</title>.</p>
+        </event>
+        <event from="2020-02-26" to="2020-02-29">
+          <p>Read <title ref="b:barnes.j.orbitalresonance">Orbital Resonance</title>.</p>
+        </event>
+        <event from="2020-02-18" to="2020-02-25">
           <p>Read <title ref="b:flaming.m.kingdomofohio">The Kingdom of Ohio</title>.</p>
         </event>
         <event from="2020-02-12" to="2020-02-17">
