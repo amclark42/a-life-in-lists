@@ -20,6 +20,9 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2020-03-07">Converted <gi>trait</gi> to <gi>catRef</gi>. My 
+          customization has allowed <code lang="xpath">//bibl/catRef</code> since 
+          <date when="2019-02-24"/>.</change>
         <change when="2019-11-16">Converted some <gi>author</gi>s into <gi>persName</gi> 
           inside <gi>respStmt</gi>, highlighting artists in particular. Added many 
           new entries for graphic novels, because I have a bad habit of forgetting 
@@ -64,7 +67,7 @@
             <persName ref="a:dauterma.r">Russell Dauterman</persName>
           </respStmt>.
           <title>Thor Vol. 2: Who Holds the Hammer?</title>
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series>
             <title>Thor</title>
           </series>
@@ -77,7 +80,7 @@
             <persName ref="a:dauterma.r">Russell Dauterman</persName>
           </respStmt>.
           <title>The Mighty Thor Vol. 1: Thunder in Her Veins</title>
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series>
             <title>The Mighty Thor</title>
           </series>
@@ -87,8 +90,8 @@
           <author>Abbott, Karen</author>.
           <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil 
             War</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Abraham, Daniel</author>.
@@ -101,7 +104,7 @@
         <bibl>
           <author>Ackerman, Jennifer</author>.
           <title>The Genius of Birds</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-01-19"/>
         </bibl>
         <bibl>
@@ -117,7 +120,7 @@
         <bibl>
           <author>Ahmed, Sara</author>.
           <title>The Promise of Happiness</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
@@ -128,7 +131,7 @@
           </respStmt>.
           <title xml:lang="ja">Reiroukan Kenzai Nariya</title>
           <title xml:lang="en">Is Reiroukan Still Alive?</title>
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <date type="added" when="2017-05-07"/>
         </bibl>
         <bibl>
@@ -143,17 +146,17 @@
         <bibl>
           <author>Alexander, Christopher</author>.
           <title>A Pattern Language: Towns, Buildings, Constructions</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Alexander, Christopher</author>.
           <title>The Timeless Way of Building</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Alexander, Michelle</author>.
           <title>The New Jim Crow</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
@@ -167,7 +170,7 @@
           <author>Michele DiPietro</author>.
           <title>How Learning Works: Seven Research-Based Principles for Smart
             Teaching</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Anders, Charlie Jane</author>.
@@ -201,26 +204,26 @@
             <persName>Annable, Graham</persName>
           </respStmt>.
           <title>Book of Grickle</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Anzaldúa, Gloria E.</author> and
           <editor>AnaLouise Keating</editor>.
           <title>Light in the Dark/Luz en lo Oscuro: Rewriting Identity, 
             Spirituality, Reality</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
           <author ref="a:arendt.h">Arendt, Hannah</author>.
           <title>The Origins of Totalitarianism</title>.
           <date type="added" when="2016-11-21"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Armstrong, Karen</author>.
           <title>Holy War: The Crusades and Their Impact on Today’s World</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -229,7 +232,7 @@
             <persName>Asano, Inio</persName>
           </respStmt>.
           <title>Solanin</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Ashby, Madeline</author>.
@@ -278,7 +281,7 @@
             <persName ref="a:chiang.c">Cliff Chiang</persName>
           </respStmt>.
           <title>Doctor 13: Architecture and Mortality</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Babb, Sanora</author>.
@@ -288,8 +291,8 @@
         <bibl>
           <author ref="a:baker.k">Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -298,7 +301,7 @@
             <persName ref="a:baker.k">Baker, Kyle</persName>
           </respStmt>.
           <title>Plastic Man: Rubber Bandits</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Baker, L.J.</author>
@@ -316,7 +319,7 @@
           <author>Bartlett, Allison Hoover</author>.
           <title>The Man Who Loved Books Too Much: The True Story of a Thief, a
             Detective, and a World of Literary Obsession</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:bear.e">Bear, Elizabeth</author>.
@@ -335,8 +338,8 @@
           <author>Beatrice, Allyson</author>.
           <title>Will the Vampire People Please Leave the Lobby? True Adventures
             in Cult Fandom</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Bell, Clare</author>.
@@ -350,15 +353,15 @@
         <bibl>
           <author>Bergemann, Rosalind A.</author>
           <title>An Asperger’s Guide to Public Speaking</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
           <author>Berube, Allan</author>.
           <title>Coming Out Under Fire: The History of Gay Men and Women in
             World War Two</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
         </bibl>
         <bibl>
           <author>Bester, Alfred</author>.
@@ -372,14 +375,14 @@
           <author>Bhargava, Aditya Y.</author>
           <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other 
             Curious People</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
           <author>Bird, Jackson</author>.
           <title>Sorted: Growing Up, Coming Out, and Finding My Place</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
@@ -391,14 +394,14 @@
         <bibl>
           <author>Blight, David W.</author>
           <title>Race and Reunion: The Civil War in American Memory</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-12-08"/>
         </bibl>
         <bibl>
           <author>Bongiovanni, Archie</author> and
           <author>Tristan Jimerson</author>.
           <title>A Quick &amp; Easy Guide to They/Them Pronouns</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
@@ -416,8 +419,8 @@
         <bibl>
           <author>Bornstein, Kate</author>.
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
         </bibl>
         <bibl>
           <author ref="a:bradbury.r">Bradbury, Ray</author>.
@@ -430,7 +433,7 @@
         <bibl>
           <editor>Bravo, Kyle</editor>.
           <title>Making Stuff and Doing Things: DIY Guides to Just About Everything</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-22"/>
         </bibl>
         <bibl>
@@ -460,7 +463,7 @@
         <bibl>
           <author>Brumberg, Joan Jacobs</author>.
           <title>The Body Project: An Intimate History of American Girls</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:brust.s">Brust, Steven</author>.
@@ -475,7 +478,7 @@
         <bibl>
           <author>Burroughs, Augusten</author>.
           <title>Toil &amp; Trouble</title>.
-          <trait ref="#tag.memoir"/>
+          <catRef target="#tag.memoir"/>
           <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
@@ -483,13 +486,13 @@
           <author>Dan Kois</author>.
           <title>The World Only Spins Forward: The Ascent of <title>Angels in 
             America</title></title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Butler, Judith</author>.
           <title>Gender Trouble</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
@@ -509,7 +512,7 @@
         <bibl>
           <author>Cadigan, Pat</author>.
           <title>Tea from an Empty Cup</title>.
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Calvin, Effie</author>.
@@ -546,7 +549,7 @@
           <author>Carter, Raphael</author>.
           <title>The Fortunate Fall</title>.
           <date type="added" when="2017-06-29"/>
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author ref="a:casey.j">Casey, Jane</author>.
@@ -564,14 +567,14 @@
           <editor>Ayelet Waldman</editor>.
           <title>Fight of the Century: Writers Reflect on 100 Years of Landmark 
             ACLU Cases</title>.
-          <trait ref="#tag.anthology"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.anthology"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <editor ref="a:chabon.m">Chabon, Michael</editor>.
           <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
-          <trait ref="#tag.anthology"/>
+          <catRef target="#tag.anthology"/>
         </bibl>
         <bibl>
           <author ref="a:chabon.m">Chabon, Michael</author>.
@@ -587,14 +590,14 @@
           <author>Chauncey, George</author>.
           <title>Gay New York: Gender, Urban Culture and the Making of the Gay
             Male World</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Chemaly, Sorora</author>.
           <title>Rage Becomes Her: The Power of Women’s Anger</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -618,7 +621,7 @@
           <author>Chesnoff, Richard Z.</author>
           <title>Pack of Thieves: How Hitler and Europe Plundered the Jews and
             Committed the Greatest Theft in History</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:chiang.t">Chiang, Ted</author>.
@@ -634,7 +637,7 @@
           <author>Matt May</author>.
           <title>Universal Design for Web Applications: Web Applications that Reach 
             Everyone</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -644,7 +647,7 @@
         <bibl>
           <author>Chugh, Dolly</author>.
           <title>The Person You Mean to Be: How Good People Fight Bias</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -685,7 +688,7 @@
         <bibl>
           <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
           <title>We Were Eight Years in Power</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
@@ -698,7 +701,7 @@
           <author>Cohen, Cathy</author>.
           <title>The Boundaries of Blackness: AIDS and the Breakdown of Black 
             Politics</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
@@ -721,7 +724,7 @@
         <bibl>
           <author>Cooper, Brittney</author>.
           <title>Eloquent Rage: A Black Feminist Discovers Her Superpower</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -734,7 +737,7 @@
           <author>CrimethInc.</author>
           <title>No Wall They Can Build: A Guide to Border &amp; Migration Across 
             North America</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -762,18 +765,18 @@
         <bibl>
           <editor>Datlow, Ellen</editor>.
           <title>Mad Hatter and March Hares</title>.
-          <trait ref="#tag.anthology"/>
+          <catRef target="#tag.anthology"/>
           <date type="added" when="2018-02-17"/>
         </bibl>
         <bibl>
           <author>David, Peter</author>.
           <title>Young Justice: Sins of Youth</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Davis, Alan</author>.
           <title>JLA: Another Nail</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Day, David</author>.
@@ -803,7 +806,7 @@
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Intimate Matters: A History of Sexuality in America</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
@@ -820,8 +823,8 @@
         <bibl>
           <author>Díaz, Jaquira</author>.
           <title>Ordinary Girls</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
@@ -840,7 +843,7 @@
         <bibl>
           <author>Dorsey, Candas Jane</author>.
           <title>Black Wine</title>.
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
@@ -869,7 +872,7 @@
         <bibl>
           <author>Dunbar-Ortiz, Roxanne</author>.
           <title>An Indigenous Peoples’ History of the United States</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <series>
             <title>ReVisioning American History</title>
           </series>
@@ -896,13 +899,13 @@
         <bibl>
           <author>Eddo-Lodge, Reni</author>.
           <title>Why I’m No Longer Talking to White People About Race</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Edington, Ian</author>.
           <title>Kingdom of the Wicked</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Edun, Terah</author>.
@@ -929,13 +932,13 @@
         <bibl>
           <author>Ehrenreich, Barbara</author>.
           <title>The Hearts of Men: American Dreams and the Flight from Commitment</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>Eichenwald, Kurt</author>.
           <title>500 Days: Secrets and Lies in the Terror Wars</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Eliot, T.S.</author>
@@ -973,7 +976,7 @@
         <bibl>
           <author ref="a:emrys.r">Emrys, Ruthanna</author>.
           <title>Deep Roots</title>.
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.queer"/>
           <series>
             <title>The Innsmouth Legacy</title>
           </series>
@@ -991,7 +994,7 @@
         <bibl>
           <author>Ensler, Eve</author>.
           <title>The Vagina Monologues</title>.
-          <trait ref="#tag.drama"/>
+          <catRef target="#tag.drama"/>
         </bibl>
         <bibl>
           <author>Erdrich, Louise</author>.
@@ -1000,15 +1003,15 @@
         <bibl>
           <author>Evans, Cheryl B.</author>
           <title>I Promised Not to Tell: Raising a Transgender Child</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Everett, Mik (Kim Longhofer)</author>.
           <title>Self-Published Kindling: The Memoirs of a Homeless Bookstore Owner</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-01-07"/>
         </bibl>
         <bibl>
@@ -1022,13 +1025,13 @@
         <bibl>
           <author>Faust, Drew Gilpin</author>.
           <title>This Republic of Suffering: Death and the American Civil War</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-12-08"/>
         </bibl>
         <bibl>
           <author ref="a:faustost.a">Fausto-Sterling, Anne</author>.
           <title>The Myths of Gender</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Feintuch, David</author>.
@@ -1042,13 +1045,13 @@
         <bibl>
           <author ref="a:fine.c">Fine, Cordelia</author>.
           <title>Testosterone Rex: Myths of Sex, Science, and Society</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-22"/>
         </bibl>
         <bibl>
           <author>Fisher, Carrie</author>.
           <title>The Princess Diarist</title>.
-          <trait ref="#tag.memoir"/>
+          <catRef target="#tag.memoir"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
@@ -1062,7 +1065,7 @@
         <bibl>
           <author ref="a:fletcher.b">Fletcher, Brenden</author>.
           <title>Gotham Academy Vol. 3: Yearbook</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Gotham Academy</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -1079,7 +1082,7 @@
           <author>Flint, Anthony</author>.
           <title>Wrestling with Moses: How Jane Jacobs Took On New York’s Master 
             Builder and Transformed the American City</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -1087,7 +1090,7 @@
           <author>Dylan Thuras</author>, and
           <author>Ella Morton</author>.
           <title>Atlas Obscura: An Explorer’s Guide to the World’s Hidden Wonders</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
@@ -1107,9 +1110,9 @@
             <persName>Forney, Ellen</persName>
           </respStmt>.
           <title>Marbles: Mania, Depression, Michelangelo, and Me</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-02-21"/>
         </bibl>
         <bibl>
@@ -1133,7 +1136,7 @@
           <editor>Fox, Rose</editor> and
           <editor>Daniel José Elder</editor>.
           <title>Long Hidden: Speculative Fiction from the Margins of History</title>.
-          <trait ref="#tag.anthology"/>
+          <catRef target="#tag.anthology"/>
         </bibl>
         <bibl>
           <author ref="a:fraction.m">Fraction, Matt</author> and
@@ -1142,7 +1145,7 @@
             <persName ref="zdarsky.c">Chip Zdarsky</persName>
           </respStmt>.
           <title>Sex Criminals Vol. 5: Five-Fingered Discount</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Sex Criminals</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -1162,7 +1165,7 @@
         <bibl>
           <author ref="a:fuller.m">Fuller, Margaret</author>.
           <title>Woman in the Nineteenth Century</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
@@ -1178,7 +1181,7 @@
         <bibl>
           <author>Gailey, Sarah</author>.
           <title>Upright Women Wanted</title>.
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
@@ -1198,8 +1201,8 @@
             <persName ref="a:gedris.mr">Gedris, Megan Rose</persName>
           </respStmt>.
           <title>Spectacle Vol. 3</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
           <series><title>Spectacle</title></series>
           <date type="added" when="2019-11-16"/>
           <note>
@@ -1214,8 +1217,8 @@
         <bibl>
           <author>Giddings, Paula J.</author>
           <title>Ida: A Sword Among Lions</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:gillen.k">Gillen, Kieron</author> and
@@ -1224,7 +1227,7 @@
             <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
           </respStmt>.
           <title>The Wicked and the Divine Vol. 9: “Okay”</title>
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series>
             <title>The Wicked and the Divine</title>
           </series>
@@ -1237,7 +1240,7 @@
             <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
           </respStmt>.
           <title>Young Avengers Vol. 2: Alternative Culture</title>
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Young Avengers</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -1252,7 +1255,7 @@
         <bibl>
           <author>Glassman, Shira</author>.
           <title>The Second Mango</title>.
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2019-03-02"/>
           <series>
             <title>Mangoverse</title>
@@ -1261,7 +1264,7 @@
         <bibl>
           <author>Gleick, James</author>.
           <title>Chaos: Making a New Science</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:gloss.m">Gloss, Molly</author>.
@@ -1282,7 +1285,7 @@
           <author>Gordon, Charlotte</author>.
           <title>Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft 
             and Mary Shelley</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-02-28"/>
         </bibl>
         <bibl>
@@ -1339,7 +1342,7 @@
             <persName ref="a:willingh.b">Bill Willingham</persName>
           </respStmt>
           <title>A Flight of Angels</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Gyasi, Yaa</author>.
@@ -1361,19 +1364,19 @@
             <persName>Hagio, Moto</persName>
           </respStmt>.
           <title>A Drunken Dream and Other Stories</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Hahn, Steven</author>.
           <title>A Nation Under Our Feet: Black Political Struggles in the Rural
             South from Slavery to the Great Migration</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Halse Anderson, Laurie</author>.
           <title>Shout</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-03-03"/>
         </bibl>
         <bibl>
@@ -1389,7 +1392,7 @@
         <bibl>
           <author>Harras, Bob</author>.
           <title>JLA: World Without a Justice League</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author ref="a:harris.j">Harris, Joanne</author>.
@@ -1398,13 +1401,13 @@
         <bibl>
           <author>Harris, Malcolm</author>.
           <title>Kids These Days: Human Capital and the Making of Millenials</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-01-07"/>
         </bibl>
         <bibl>
           <author>Harris-Perry, Melissa V.</author>
           <title>Sister Citizen: Shame, Stereotypes, and Black Women in America</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Haruf, Kent</author>.
@@ -1416,7 +1419,7 @@
           <editor>Karin A. Case</editor> and
           <editor>Robin Hawley Gorsline</editor>.
           <title>Disrupting White Supremacy from Within</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
@@ -1442,7 +1445,7 @@
           <author>Hicks, Marie</author>.
           <title>Programmed Inequality: How Britain Discarded Women Technologists 
             and Lost Its Edge in Computing</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
@@ -1454,7 +1457,7 @@
         <bibl>
           <author>Hill, Daniel</author>.
           <title>White Awake: An Honest Look at What It Means to Be White</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -1470,8 +1473,8 @@
         <bibl>
           <author>Hodges, Andrew</author>.
           <title>Alan Turing: The Enigma</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Hoffman, Alice</author>.
@@ -1482,15 +1485,15 @@
           <author>Hogan, Brian P.</author>.
           <title>Small, Sharp, Software Tools: Harness the Combinatoric Power of 
             Command-Line Tools and Utilities</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-08"/>
         </bibl>
         <bibl>
           <author>Hogan, Kristen</author>.
           <title>The Feminist Bookstore Movement: Lesbian Antiracism and Feminist
             Accountability</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2016-10-29"/>
         </bibl>
         <bibl>
@@ -1509,7 +1512,7 @@
         <bibl>
           <author>hooks, bell</author>.
           <title>Killing Rage: Ending Racism</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
@@ -1523,7 +1526,7 @@
             <persName ref="a:horikoshi.k">Horikoshi, K</persName>
           </respStmt>.
           <title>My Hero Academia Vol. 2</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>My Hero Academia</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -1536,7 +1539,7 @@
           <author>Horton, Sarah</author> and
           <author>Whitney Quesenbery</author>.
           <title>A Web for Everyone: Designing Accessible User Experiences</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -1556,12 +1559,12 @@
         <bibl>
           <author ref="a:hurley.k">Hurley, Kameron</author>.
           <title>The Geek Feminist Revolution</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Hyde, Lewis</author>.
           <title>Trickster Makes This World: Mischief, Myth, and Art</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
@@ -1594,8 +1597,8 @@
         <bibl>
           <author>Jacobs, Harriet</author>.
           <title>Incidents in the Life of a Slave Girl</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Jama-Everett, Ayize</author>.
@@ -1613,7 +1616,7 @@
         <bibl>
           <author>Jeffreys, Sheila</author>.
           <title>The Spinster and Her Enemies</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:jemisin.nk">Jemisin, N.K.</author>
@@ -1634,8 +1637,8 @@
           <author>Jerkins, Morgan</author>.
           <title>This Will Be My Undoing: Living at the Intersection of Black, 
             Female, and Feminist in (White) America</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
@@ -1655,7 +1658,7 @@
         <bibl>
           <author>Johnston, E.K.</author>
           <title>The Afterward</title>.
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
@@ -1679,8 +1682,8 @@
             <persName>Kamatani, Yuhki</persName>
           </respStmt>
           <title>Our Dreams at Dusk: Shimanami Tasogare Vol. 1</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2019-03-22"/>
         </bibl>
         <bibl>
@@ -1710,8 +1713,8 @@
           <author>Khan-Cullors, Patrisse</author> and
           <author>asha bandele</author>.
           <title>When They Call You a Terrorist: A Black Lives Matter Memoir</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -1721,7 +1724,7 @@
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
           <title>Amulet Book Four: The Last Council</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Amulet</title></series>
           <date type="added" when="2020-01-01"/>
         </bibl>
@@ -1732,7 +1735,7 @@
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
           <title>Amulet Book Five: Prince of the Elves</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Amulet</title></series>
           <date type="added" when="2020-01-01"/>
         </bibl>
@@ -1743,7 +1746,7 @@
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
           <title>Amulet Book Six: Escape from Lucien</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Amulet</title></series>
           <date type="added" when="2020-01-01"/>
         </bibl>
@@ -1754,7 +1757,7 @@
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
           <title>Amulet Book Seven: Firelight</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Amulet</title></series>
           <date type="added" when="2020-01-01"/>
         </bibl>
@@ -1765,7 +1768,7 @@
             <persName ref="a:kibuishi.k">Kibuishi, Kazu</persName>
           </respStmt>.
           <title>Amulet Book Eight: Supernova</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Amulet</title></series>
           <date type="added" when="2020-01-01"/>
         </bibl>
@@ -1833,28 +1836,28 @@
             <persName ref="a:knisley.l">Knisley, Lucy</persName>
           </respStmt>.
           <title>Kid Gloves: Nine Months of Careful Chaos</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
           <author>Kochman, Thomas</author>.
           <title>Black and White Styles in Conflict</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-02-04"/>
         </bibl>
         <bibl>
           <author>Kolbert, Elizabeth</author>.
           <title>The Sixth Extinction: An Unnatural History</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author>Koul, Scaachi</author>.
           <title>One Day We’ll All Be Dead and None of This Will Matter</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
@@ -1892,7 +1895,7 @@
         <bibl>
           <author>Larson, Erik</author>.
           <title>The Devil in the White City</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Larson, Hope</author> and
@@ -1901,7 +1904,7 @@
             <persName>Brittney Williams</persName>
           </respStmt>
           <title>Goldie Vance</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
@@ -1949,20 +1952,20 @@
             <persName ref="a:williams.b">Brittney Williams</persName>
           </respStmt>.
           <title>Patsy Walker, A.K.A. Hellcat! Vol. 3: Careless Whiskers</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
           <series><title>Patsy Walker, A.K.A. Hellcat!</title></series>
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:leyh.k">Leyh, Kat</author>.
           <title>Snapdragon</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
@@ -1979,9 +1982,9 @@
             <persName ref="a:powell.n">Nate Powell</persName>
           </respStmt>.
           <title>The Silence of Our Friends</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lonnrot, Elias</author>.
@@ -1990,20 +1993,20 @@
         <bibl>
           <author ref="a:lorde.a">Lorde, Audre</author>.
           <title>Zami: A New Spelling of My Name – A Biomythology</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Lowery, Wesley</author>.
           <title>They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in
             Americas’s Racial Justice Movement</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
           <author>Luiselli, Valeria</author>.
           <title>Tell Me How It Ends: An Essay in Forty Questions</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
@@ -2024,7 +2027,7 @@
             <persName>Mack, David</persName>
           </respStmt>.
           <title>Kabuki: Circle of Blood</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Kabuki</title></series>
         </bibl>
         <bibl>
@@ -2035,7 +2038,7 @@
         <bibl>
           <author>Maddow, Rachel</author>.
           <title>Drift: The Unmooring of American Military Power</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-02-23"/>
         </bibl>
         <bibl>
@@ -2045,7 +2048,7 @@
         <bibl>
           <author>Mann, Charles C.</author>
           <title>1491: New Revelations of the Americas Before Columbus</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Marks, Laurie J.</author>
@@ -2061,7 +2064,7 @@
           <author ref="a:marz.r">Marz, Ron</author> and
           <author>Karl Kesel</author>.
           <title>The Final Night</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Matarese, Jennifer</author>.
@@ -2075,14 +2078,14 @@
           <author>May, Elaine T.</author>
           <title>Barren in the Promised Land: Childless Americans and the
             Pursuit of Happiness</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
           <author>McGee, Harold</author>.
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
-          <trait ref="#tag.cookbook"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2014-09-30"/>
         </bibl>
         <bibl>
@@ -2161,7 +2164,7 @@
             <persName>Takeshi Miyazawa</persName>
           </respStmt>.
           <title>Spider-Gwen: Ghost-Spider Vol. 2: Impossible Year</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Spider-Gwen: Ghost-Spider</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2210,13 +2213,13 @@
           <author>McRobbie, Linda Rodriguez</author>.
           <title>Princesses Behaving Badly: Real Stories from History Without the
             Fairy-Tale Endings</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>McRuer, Robert</author>.
           <title>Crip Theory: Cultural Signs of Queerness and Disability</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
@@ -2259,7 +2262,7 @@
           <author>Minnick, Fred</author>.
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Miranda, Lin-Manuel</author>.
@@ -2268,13 +2271,13 @@
             <persName ref="a:sun.j">Jonny Sun</persName>
           </respStmt>
           <title>Gmorning, Gnight!: Little Pep Talks for Me &amp; You</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Mock, Janet</author>.
           <title>Surpassing Certainty: What My Twenties Taught Me</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -2303,7 +2306,7 @@
             <persName ref="a:mori.k">Mori, Kaoru</persName>
           </respStmt>.
           <title>A Bride’s Story Vol. 6</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>A Bride’s Story</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2314,14 +2317,14 @@
             <persName ref="a:mori.k">Mori, Kaoru</persName>
           </respStmt>.
           <title>Emma Vol. 3</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Emma</title></series>
           <date type="added" when="2019-11-30"/>
         </bibl>
         <bibl>
           <author>Morton, Kati</author>.
           <title>Are u ok?: A Guide to Caring for Your Mental Health</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
@@ -2337,7 +2340,7 @@
         <bibl>
           <author ref="a:munroe.r">Munroe, Randall</author>.
           <title>How To: Absurd Scientific Advice for Common Real-World Problems</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-09-01"/>
         </bibl>
         <bibl>
@@ -2361,7 +2364,7 @@
           <author>Murray, Janet H.</author>
           <title>Inventing the Medium: Principles of Interaction Design as a 
             Cultural Practice</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-02-23"/>
         </bibl>
         <bibl>
@@ -2379,7 +2382,7 @@
             <persName ref="a:nagabe">Nagabe</persName>
           </respStmt>.
           <title>The Girl from the Other Side: Siúil, a Rún Vol. 2</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>The Girl from the Other Side: Siúil, a Rún</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2390,7 +2393,7 @@
             <persName>Manikandan</persName>
           </respStmt>.
           <title>Sita: Daughter of the Earth</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Napoli, Donna Jo</author>.
@@ -2403,13 +2406,13 @@
         <bibl>
           <author>Nelson, Advid</author>.
           <title>Rex Mundi: The Guardian of the Temple</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Nelson, Maggie</author>.
           <title>The Argonauts</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
@@ -2430,22 +2433,22 @@
         <bibl>
           <author>Noah, Trevor</author>.
           <title>Born a Crime: Stories From a South African Childhood</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
           <author>Norman, Abby</author>.
           <title>Ask Me About My Uterus: A Quest to Make Doctors Believe in Women’s 
             Pain</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author>Norman, Don</author>.
           <title>The Design of Everyday Things</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-12-29"/>
         </bibl>
         <bibl>
@@ -2456,7 +2459,7 @@
           </respStmt>.
           <title>The Unbeatable Squirrel Girl Vol. 5: Like I’m the Only Squirrel in 
             the World</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>The Unbeatable Squirrel Girl</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2511,7 +2514,7 @@
             <persName>Leonardo Romero</persName>
           </respStmt>
           <title>Shuri Vol. 1: The Search for Black Panther</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Shuri</title></series>
           <date type="added" when="2019-08-24"/>
         </bibl>
@@ -2538,14 +2541,14 @@
         <bibl>
           <author>Orlean, Susan</author>.
           <title>The Library Book</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Orleck, Annelise</author>.
           <title>Common Sense and a Little Fire: Women and Working-Class Politics in
             the United States, 1900–1965</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
           <!-- in-library use only; available as an eBook from BPL -->
         </bibl>
@@ -2562,7 +2565,7 @@
         <bibl>
           <author>Painter, Nell Irvin</author>.
           <title>The History of White People</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -2585,7 +2588,7 @@
             <persName ref="a:fowler.t">Tom Fowler</persName>
           </respStmt>.
           <title>Mysterius the Unfathomable</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author ref="a:parker.j">Parker, Jeff</author> and
@@ -2594,7 +2597,7 @@
             <persName ref="a:lieber.s">Steve Lieber</persName>
           </respStmt>.
           <title>Underground</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Parks, Tim</author>.
@@ -2611,7 +2614,7 @@
             <name ref="a:peachpit">Peach-Pit</name>
           </respStmt>.
           <title>Shugo Chara! Vol. 11</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Shugo Chara!</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2631,7 +2634,7 @@
             <persName ref="a:blake.q">Quentin Blake</persName>
           </respStmt>
           <title>The Rights of the Reader</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Philbrick, Rodman</author>.
@@ -2656,12 +2659,12 @@
         <bibl>
           <author>Pinker, Steven</author>.
           <title>The Language Instinct: How the Mind Creates Language</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Pinker, Steven</author>.
           <title>The Stuff of Thought: Language as a Window into Human Nature</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Pinto, Ricardo</author>.
@@ -2675,7 +2678,7 @@
         <bibl>
           <author>Postman, Neil</author>.
           <title>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-17"/>
         </bibl>
         <bibl>
@@ -2685,7 +2688,7 @@
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
           <title>Once More* With Footnotes</title>.
-          <trait ref="#tag.outofprint"/><!-- Published by NEFSA Press. -->
+          <catRef target="#tag.outofprint"/><!-- Published by NEFSA Press. -->
         </bibl>
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
@@ -2720,13 +2723,13 @@
         <bibl>
           <author ref="a:roach.m">Roach, Mary</author>.
           <title>Bonk: The Curious Coupling of Science and Sex</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-08-04"/>
         </bibl>
         <bibl>
           <author ref="a:roach.m">Roach, Mary</author>.
           <title>Packing for Mars: The Curious Science of Life in the Void</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-08-04"/>
         </bibl>
         <bibl>
@@ -2761,7 +2764,7 @@
             <persName ref="a:lark.m">Michael Lark</persName>
           </respStmt>.
           <title>Lazarus Vol. 3: Conclave</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Lazarus</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -2773,7 +2776,7 @@
         <bibl>
           <editor ref="a:rusch.kk">Rusch, Kristine Kathryn</editor>.
           <title>Women of Futures Past: Classic Stories</title>.
-          <trait ref="#tag.anthology"/>
+          <catRef target="#tag.anthology"/>
           <date type="added" when="2017-01-07"/>
         </bibl>
         <bibl>
@@ -2787,7 +2790,7 @@
         <bibl>
           <author>Rushkoff, Douglas</author>.
           <title>Program or Be Programmed: Ten Commands for a Digital Age</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-02-23"/>
         </bibl>
         <bibl>
@@ -2875,7 +2878,7 @@
           <author>Schulman, Sarah</author>.
           <title>Conflict is not Abuse: Overstating Harm, Community Responsibility, 
             and the Duty of Repair</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
@@ -2908,14 +2911,14 @@
         <bibl>
           <author ref="a:sedaris.d">Sedaris, David</author>.
           <title>Dress Your Family in Corduroy and Denim</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:sedaris.d">Sedaris, David</author>.
           <title>Naked</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Senna, Danzy</author>.
@@ -2925,15 +2928,15 @@
           <author ref="a:serano.j">Serano, Julia</author>.
           <title>Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating 
             of Femininity</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
           <author>Shakur, Assata</author>.
           <title>Assata: An Autobiography</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Shannon, Samantha</author>.
@@ -2957,8 +2960,8 @@
         <bibl>
           <author>Shetterly, Margot Lee</author>.
           <title>Hidden Figures</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-03-07"/>
         </bibl>
         <bibl>
@@ -2968,12 +2971,12 @@
             <persName>Shiga, Jason</persName>
           </respStmt>.
           <title>Bookhunter</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Shilts, Randy</author>.
           <title>And the Band Played On: Politics, People, and the AIDS Epidemic</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-12-20"/>
         </bibl>
         <bibl>
@@ -3014,15 +3017,15 @@
         <bibl>
           <author ref="a:solnit.r">Solnit, Rebecca</author>.
           <title>Men Explain Things to Me</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-03"/>
         </bibl>
         <bibl>
           <author ref="a:solnit.r">Solnit, Rebecca</author>.
           <title>A Paradise Built in Hell: The Everyday Communities That Arise in 
             Disaster</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-03"/>
         </bibl>
         <bibl>
@@ -3033,7 +3036,7 @@
         <bibl>
           <author>Somtow, S.P.</author>
           <title>Jasmine Nights</title>.
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
@@ -3043,7 +3046,7 @@
         <bibl>
           <author>Spelman, Elizabeth V.</author>
           <title>Inessential Woman: Problems of Exclusion in Feminist Thought</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
@@ -3053,7 +3056,7 @@
         <bibl>
           <author>Spolsky, Joel</author>.
           <title>Joel on Software</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:stephens.n">Stephenson, Neal</author>.
@@ -3066,9 +3069,9 @@
         <bibl>
           <author ref="a:stevenso.n">Stevenson, Noelle</author>.
           <title>The Fire Never Goes Out: A Memoir in Pictures</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-02-29"/>
         </bibl>
         <bibl>
@@ -3078,7 +3081,7 @@
             <persName ref="a:watters.s">Shannon Watters</persName>
           </respStmt>.
           <title>Lumberjanes Vol. 4: Out of Time</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Lumberjanes</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3095,7 +3098,7 @@
         <bibl>
           <author>Stoppard, Tom</author>.
           <title>Rosencrantz and Guildenstern Are Dead</title>.
-          <trait ref="#tag.drama"/>
+          <catRef target="#tag.drama"/>
         </bibl>
         <bibl>
           <author>Sullivan, Tricia</author>.
@@ -3108,7 +3111,7 @@
             <persName ref="a:talbot.b">Talbot, Bryan</persName>
           </respStmt>.
           <title>Alice in Sunderland</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Talbot, Mary M.</author>,
@@ -3118,7 +3121,7 @@
             <persName>Kate Charlesworth</persName>
           </respStmt>.
           <title>Sally Heathcote: Suffragette</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Tanzer, Molly</author>.
@@ -3134,8 +3137,8 @@
         <bibl>
           <author>Taylor, John H.</author>
           <title>Death and the Afterlife in Ancient Egypt</title>.
-          <trait ref="#tag.nonfiction"/>
-          <trait ref="#tag.owned"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned"/>
         </bibl>
         <bibl>
           <author>Tea, Michelle</author>.
@@ -3149,7 +3152,7 @@
         <bibl>
           <author>Thích Nhất Hạnh</author>.
           <title>How to Relax</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <series>
             <title>Mindfulness Essentials</title>
           </series>
@@ -3158,8 +3161,8 @@
         <bibl>
           <author ref="a:thom.kc">Thom, Kai Cheng</author>.
           <title>Fierce Femmes and Notorious Liars: A Dangerous Trans Girl’s Confabulous Memoir</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2020-03-07"/>
         </bibl>
         <bibl>
@@ -3174,7 +3177,7 @@
         <bibl>
           <author>Thompson, Christina</author>.
           <title>Sea People: The Puzzle of Polynesia</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-03-03"/>
         </bibl>
         <bibl>
@@ -3189,17 +3192,17 @@
           <author>Trivers, Robert</author>.
           <title>The Folly of Fools: The Logic of Deceit and Self-Deception in Human
             Life</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author>Tyson, Niel deGrasse</author>.
           <title>Astrophysics for People in a Hurry</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
@@ -3207,20 +3210,20 @@
           <author>Michael A. Strauss</author>, and
           <author>J. Richard Gott</author>.
           <title>Welcome to the Universe: An Astrophysical Tour</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-10-15"/>
         </bibl>
         <bibl>
           <author>Ullman, Ellen</author>.
           <title>Life in Code: A Personal History of Technology</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
           <author>Ulrich, Laurel Thatcher</author>.
           <title>Well-Behaved Women Seldom Make History</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-05-11"/>
         </bibl>
         <bibl>
@@ -3250,7 +3253,7 @@
             <persName ref="a:staples.f">Fiona Staples</persName>
           </respStmt>.
           <title>Saga Vol. 8</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Saga</title></series>
           <date type="added" when="2020-02-29"/>
         </bibl>
@@ -3276,7 +3279,7 @@
           <author>Waldrop, Howard</author>.
           <title>Them Bones</title>.
           <date type="added" when="2017-06-29"/>
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author>Walker, Suzanne</author> and
@@ -3285,7 +3288,7 @@
             <persName>Wendy Xu</persName>
           </respStmt>.
           <title>Mooncakes</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
@@ -3302,7 +3305,7 @@
         <bibl>
           <author ref="a:wang.j">Wang, Jen</author>.
           <title>Stargazing</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
@@ -3313,13 +3316,13 @@
         <bibl>
           <editor>The Washington Post</editor>.
           <title>The Mueller Report</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-10"/>
         </bibl>
         <bibl>
           <author>Watson, Julia</author>.
           <title>Lo—TEK: Design by Radical Indigenism</title>.
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-02-29"/>
         </bibl>
         <bibl>
@@ -3330,7 +3333,7 @@
         <bibl>
           <author>Way, Gerard</author>.
           <title>The Umbrella Academy Vol. 1: Apocalypse Suite</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>The Umbrella Academy</title></series>
         </bibl>
         <bibl>
@@ -3348,8 +3351,8 @@
         <bibl>
           <author>Wells, Ida B.</author>
           <title>Crusade for Justice: The Autobiography of Ida B. Wells</title>.
-          <trait ref="#tag.memoir"/>
-          <trait ref="#tag.nonfiction"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <author ref="a:westerfe.s">Westerfeld, Scott</author>.
@@ -3372,7 +3375,7 @@
         <bibl>
           <author ref="a:wilson.gw">Wilson, G. Willow</author>.
           <title>Ms. Marvel Vol. 2: Generation Why</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Ms. Marvel</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3395,12 +3398,12 @@
           <author>Womack, Jack</author>.
           <title>Random Acts of Senseless Violence</title>.
           <date type="added" when="2017-06-29"/>
-          <trait ref="#tag.outofprint"/>
+          <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
           <author ref="wood.b">Wood, Brian</author>.
           <title>The Massive Vol. 2: Subcontinental</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>The Massive</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3435,7 +3438,7 @@
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
           <title>Antique Bakery Vol. 3</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Antique Bakery</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3446,7 +3449,7 @@
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
           <title>Ôoku: The Inner Chambers Vol. 9</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Ôoku: The Inner Chambers</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3457,8 +3460,8 @@
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
           <title>What Did You Eat Yesterday? Vol. 13</title>.
-          <trait ref="#tag.comics"/>
-          <trait ref="#tag.queer"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
@@ -3470,7 +3473,7 @@
             <persName>Derek Charm</persName>
           </respStmt>.
           <title>Jughead Vol. 2</title>.
-          <trait ref="#tag.comics"/>
+          <catRef target="#tag.comics"/>
           <series><title>Jughead</title></series>
           <date type="added" when="2019-11-16"/>
         </bibl>
