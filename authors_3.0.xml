@@ -48,6 +48,102 @@
         </person>-->
         
         
+        <person xml:id="sun.j">
+          <persName>
+            <forename>Jonny</forename>
+            <forename type="pseudonym">Jomny</forename>
+            <surname>Sun</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="benaway.g">
+          <persName>
+            <forename>Gwen</forename>
+            <surname>Benaway</surname>
+          </persName>
+          <gender value="trans girl" evidence="self-identification"/><!-- she/her -->
+        </person>
+        
+        <person xml:id="vest.a">
+          <persName>
+            <forename>Audrey</forename>
+            <surname>Vest</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="wasserstein.i">
+          <persName>
+            <forename>Izzy</forename>
+            <surname>Wasserstein</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="gwynception">
+          <persName>
+            <name>gwynception</name>
+          </persName>
+          <gender value="trans femme" evidence="self-identification"/><!-- they/them -->
+        </person>
+        
+        <person xml:id="mellor.e">
+          <persName>
+            <forename>Ellen</forename>
+            <surname>Mellor</surname>
+          </persName>
+          <gender value="trans woman" evidence="self-identification"/><!-- she/her -->
+        </person>
+        
+        <person xml:id="mcdaniel.af">
+          <persName>
+            <forename>Alexa Fae</forename>
+            <surname>McDaniel</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="sturges.l">
+          <persName>
+            <forename>Lilah</forename>
+            <surname>Sturges</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="thom.kc">
+          <persName>
+            <forename>Kai Cheng</forename>
+            <surname>Thom</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="bemis.ka">
+          <persName>
+            <forename>Kylie Ariel</forename>
+            <surname>Bemis</surname>
+          </persName>
+          <gender value="trans woman, two-spirit" evidence="self-identification"/><!-- she/her -->
+        </person>
+        
+        <person xml:id="plett.c">
+          <persName>
+            <forename>Casey</forename>
+            <surname>Plett</surname>
+          </persName>
+          <!--<gender value="" evidence="conjecture"/>--><!-- she/her -->
+        </person>
+        
+        <person xml:id="ullman.e">
+          <persName>
+            <forename>Ellen</forename>
+            <surname>Ullman</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="heikkilä.o">
           <persName>
             <forename>Otava</forename>

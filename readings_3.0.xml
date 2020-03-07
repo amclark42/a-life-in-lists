@@ -39,6 +39,9 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-02-29">
+          <p>Reread <title ref="b:leckie.a.ancillaryjustice">Ancillary Justice</title>.</p>
+        </event>
         <event when="2020-02-29">
           <p>Read <title ref="b:vaughan.bk.saga.7">Saga Vol. 7</title>.</p>
         </event>

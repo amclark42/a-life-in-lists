@@ -74,6 +74,93 @@
           
           
           
+          <biblStruct xml:id="sun.j.everyonesaliebn">
+            <monogr>
+              <title>everyone’s a aliebn when ur a aliebn too</title>
+              <title type="sub">a book</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:sun.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>HarperCollins Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="oates.jc.hazardsoftimetravel">
+            <monogr>
+              <title>The Hazards of Time Travel</title>
+              <author>
+                <persName ref="a:oates.jc"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-10-26"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>HarperCollins Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="benaway.g.maidenmothercrone">
+            <monogr>
+              <title>Maiden, Mother, Crone: Fantastical Trans Femmes</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:benaway.g"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:benaway.g"/>
+                <persName ref="a:vest.a"/>
+                <persName ref="a:wasserstein.i"/>
+                <persName ref="a:gwynception"/>
+                <persName ref="a:mellor.e"/>
+                <persName ref="a:mcdaniel.af"/>
+                <persName ref="a:sturges.l"/>
+                <persName ref="a:thom.kc"/>
+                <persName ref="a:bemis.ka"/>
+                <persName ref="a:plett.c"/>
+                <persName ref="a:frasier.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-03-10"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Bedside Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="ullman.e.lifeincode">
+            <monogr>
+              <title>Life in Code: A Personal History of Technology</title>
+              <author>
+                <persName ref="a:ullman.e"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>MCD</orgName>
+                  <orgName>Farrar, Straus and Giroux</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="kingfisher.t.wonderengine">
             <monogr>
               <title>The Wonder Engine</title>

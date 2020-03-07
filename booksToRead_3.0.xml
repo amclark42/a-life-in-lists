@@ -2265,7 +2265,7 @@
           <author>Miranda, Lin-Manuel</author>.
           <respStmt>
             <resp n="illustrator"/>
-            <persName>Jonny Sun</persName>
+            <persName ref="a:sun.j">Jonny Sun</persName>
           </respStmt>
           <title>Gmorning, Gnight!: Little Pep Talks for Me &amp; You</title>.
           <trait ref="#tag.nonfiction"/>
@@ -2955,6 +2955,13 @@
           <date type="added" when="2019-03-20"/>
         </bibl>
         <bibl>
+          <author>Shetterly, Margot Lee</author>.
+          <title>Hidden Figures</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.nonfiction"/>
+          <date type="added" when="2020-03-07"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -3147,6 +3154,13 @@
             <title>Mindfulness Essentials</title>
           </series>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author ref="a:thom.kc">Thom, Kai Cheng</author>.
+          <title>Fierce Femmes and Notorious Liars: A Dangerous Trans Girl’s Confabulous Memoir</title>.
+          <trait ref="#tag.memoir"/>
+          <trait ref="#tag.queer"/>
+          <date type="added" when="2020-03-07"/>
         </bibl>
         <bibl>
           <author>Thomas, Angie</author>.
