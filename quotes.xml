@@ -64,6 +64,99 @@
       
       <cit>
         <quote>
+          <p>Every single computer program has at least one bug. If you are a programmer, it is 
+            guaranteed that your work has errors. These errors will be discovered over time, most coming 
+            to light after you’ve moved on to a new job. But your name is on the program. The code 
+            library software keeps a permanent record card of who did what and when. At the old job, 
+            they will say terrible things about you after you’ve gone. This is normal life for a 
+            programmer: problems trailing behind you through time, humiliation in absentia.</p>
+        </quote>
+        <bibl>
+          <author>Ellen Ullman</author>,
+          <title rend="quoted">Outside of Time</title>,
+          <title>Life in Code: A Personal History of Technology</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>These systems did not see <soCalled>it</soCalled> coming because the future comes 
+            step-by-step. One day we are amazed that we can keep a general ledger without papers and 
+            pens, the next we want all financial data always available; then, in no time, we want to 
+            query great masses of data. We start with joy that a single person can experiment with a 
+            computer. Soon we want to connect that computer to another, and another, and another, until 
+            we are perpetually and ubiquitously connected. The human reaction to the technology 
+            itself—our using it, imagining what else we can do with it—determines what the future will 
+            be. Technology is not the driver of change; what drives technology is human desire.</p>
+        </quote>
+        <bibl>
+          <author>Ellen Ullman</author>,
+          <title rend="quoted">What We Were Afraid Of as We Feared Y2K</title>,
+          <title>Life in Code: A Personal History of Technology</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>All that remained now was to decide where to put the old machines. Though I knew I did not 
+            want their contents perpetually before me on my ever-renewing machines, threatening to jump 
+            out at me at the click of a mouse, I also felt they did not belong on the floor of the guest 
+            closet—or cast out on the curb with the dead stereos and forlorn monitors.</p>
+          <p>For I understood that each was a sort of diary, a record of time bounded by the writing of 
+            a book. The arrangements of the folders, the feel of the keyboards, the look of the 
+            screens—these were as particular as handwriting, able to stun me back in time. What they 
+            held was not <soCalled>data</soCalled> but experience. And I knew they should be saved the 
+            way you save those other records of experience, journals, which is to say carefully but not 
+            ceremoniously, neither thrown away nor read too often, opened only on those mysterious 
+            days—and they are always mysterious—when you can bear, and suddenly need, the shock of 
+            remembering.</p>
+          <p>So I cleared a space for them on the bookshelf and stood them up, vertically, like the 
+            notebooks they are. And they took their place among the other diaries and journals, 
+            treacherously holding the past, their power units crouched behind them like small, sleeping 
+            rats.</p>
+        </quote>
+        <bibl>
+          <author>Ellen Ullman</author>,
+          <title rend="quoted">Memory and Megabytes</title>,
+          <title>Life in Code: A Personal History of Technology</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p><gap extent="one word" reason="omitted"/> novice that I was, I was pulled into the dark 
+            corners of anything I’d ever tried to do with a computer, which was the allure. It was 
+            better than something that might be easy. It was irresistable.</p>
+        </quote>
+        <bibl>
+          <author>Ellen Ullman</author>,
+          <title rend="quoted">Programming for the Millions</title>,
+          <title>Life in Code: A Personal History of Technology</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>Over the twenty-odd years I worked as a technology practitioner, I came to realize that my 
+            wrestling with the TRS-80 was not just a beginner’s experience; it was a paradigm for all 
+            the work ahead. That state of not-knowing proved permanent as I moved from machine to 
+            machine, operating system to operating system, language to language, each move a 
+            re-encounter with bafflement, as was my introduction to the mainframe. Failing was also a 
+            permanent state of affairs. Programs crash. The causes of bugs hide from discovery. Designs 
+            lead to dead ends. Goals are ill-conceived. Deadlines are absurd. One must develop a high 
+            tolerance for failure, learn to move forward from discouragement, find a ferocious 
+            determination, a near-passionate obsession to solve a problem, meanwhile summoning the 
+            pleasures of the hunt.</p>
+        </quote>
+        <bibl>
+          <author>Ellen Ullman</author>,
+          <title rend="quoted">Programming for the Millions</title>,
+          <title>Life in Code: A Personal History of Technology</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
           <ab>If a chain is only as strong as its weakest link, then a family is more like a <emph 
             rend="allcaps">rope.</emph></ab>
           <ab>We’re lots of fragile little strands, and we survive by becoming hopelessly intertwined with each 

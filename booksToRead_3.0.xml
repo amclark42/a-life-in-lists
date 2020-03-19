@@ -1893,6 +1893,12 @@
           <title>Thomas the Rhymer</title>.
         </bibl>
         <bibl>
+          <author>Lakoff, George</author>.
+          <title>The All New Don’t Think of an Elephant!: Know Your Values and Frame the Debate</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-03-14"/>
+        </bibl>
+        <bibl>
           <author>Larson, Erik</author>.
           <title>The Devil in the White City</title>.
           <catRef target="#tag.nonfiction"/>
@@ -3212,13 +3218,6 @@
           <title>Welcome to the Universe: An Astrophysical Tour</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-10-15"/>
-        </bibl>
-        <bibl>
-          <author>Ullman, Ellen</author>.
-          <title>Life in Code: A Personal History of Technology</title>.
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
           <author>Ulrich, Laurel Thatcher</author>.

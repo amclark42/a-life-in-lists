@@ -74,6 +74,24 @@
           
           
           
+          <biblStruct xml:id="powell.n.anyempire">
+            <monogr>
+              <title>Any Empire</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:powell.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Top Shelf Productions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="sun.j.everyonesaliebn">
             <monogr>
               <title>everyone’s a aliebn when ur a aliebn too</title>
@@ -152,6 +170,7 @@
               <imprint>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2018-03-10"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
                   <orgName>MCD</orgName>
