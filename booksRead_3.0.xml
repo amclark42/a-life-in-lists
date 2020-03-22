@@ -74,6 +74,25 @@
           
           
           
+          <biblStruct xml:id="dignazio.c.datafeminism">
+            <monogr>
+              <title>Data Feminism</title>
+              <author>
+                <persName ref="a:dignazio.c"/>
+                <persName ref="a:klein.lf"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2020-03-11"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>The MIT Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="powell.n.anyempire">
             <monogr>
               <title>Any Empire</title>

@@ -53,6 +53,22 @@
         </person>-->
         
         
+        <person xml:id="dignazio.c">
+          <persName>
+            <forename>Catherine</forename>
+            <surname>D’Ignazio</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="klein.lf">
+          <persName>
+            <forename>Lauren F.</forename>
+            <surname>Klein</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="sun.j">
           <persName>
             <forename>Jonny</forename>

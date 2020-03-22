@@ -837,6 +837,13 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
+          <author>D’Ignazio, Catherine</author> and
+          <author>Lauren F. Klein</author>.
+          <title>Data Feminism</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned" corresp="b:dignazio.c.datafeminism"/>
+        </bibl>
+        <bibl>
           <author>Doctorow, Cory</author>.
           <title>Little Brother</title>.
         </bibl>
@@ -954,7 +961,7 @@
           <author ref="a:elliott.k">Elliott, Kate</author>.
           <title>The Law of Becoming</title>.
           <series><title>Jaran</title></series>
-          <trait ref="#tag.owned" corresp="b:elliott.k.lawbecoming"/>
+          <catRef target="#tag.owned" corresp="b:elliott.k.lawbecoming"/>
           <date type="added" when="2016-02-11"/>
         </bibl>
         <bibl>
@@ -2210,7 +2217,7 @@
           <series>
             <title>The Vorkosigan Saga</title>
           </series>
-          <trait ref="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
+          <catRef target="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
           <note>
             <p>I neglected to add this after reading The Warrior's Apprentice.</p>
           </note>

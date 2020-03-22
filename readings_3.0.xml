@@ -39,7 +39,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-03-16">
+        <event from="2020-03-20">
+          <p>Read <title ref="b:huff.t.summonkeeper">Summon the Keeper</title>.</p>
+        </event>
+        <event from="2020-03-16" to="2020-03-21">
           <p>Read <title ref="b:benaway.g.maidenmothercrone">Maiden, Mother, Crone: Fantastical Trans Femmes</title>.</p>
         </event>
         <event when="2020-03-13">
