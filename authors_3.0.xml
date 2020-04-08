@@ -19,6 +19,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2020-03-26">Changed <att>persPronouns</att> to <gi>persPronouns</gi>.</change>
         <change when="2020-03-07">With an update to Perspectography, I added information about 
           people's pronouns to <gi>gender</gi> using the custom attribute 
           <att>persPronouns</att>. This information was not applied systematically; I had 
@@ -52,6 +53,53 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        
+        
+        <person xml:id="carriger.g">
+          <persName type="pseudonym">
+            <forename>Gail</forename>
+            <surname>Carriger</surname>
+          </persName>
+          <persName>
+            <forename>Tofa</forename>
+            <surname>Borregaard</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="anderson.cb">
+          <persName>
+            <forename>Clifford B.</forename>
+            <surname>Anderson</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+          <persPronouns value="he/him/his" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="wicentowski.jc">
+          <persName>
+            <forename>Joseph C.</forename>
+            <surname>Wicentowski</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+          <persPronouns value="he/him/his" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="ansari.a">
+          <persName>
+            <forename>Aziz</forename>
+            <surname>Ansari</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="klinenberg.e">
+          <persName>
+            <forename>Eric</forename>
+            <surname>Klinenberg</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
         
         <person xml:id="dignazio.c">
           <persName>

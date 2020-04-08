@@ -39,14 +39,26 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-03-20">
+        <event from="2020-04-06">
+          <p>Read <title ref="b:anderson.cb.xqueryforhumanists">XQuery for Humanists</title>.</p>
+        </event>
+        <event from="2020-04-05">
+          <p>Read <title ref="b:carriger.g.soulless">Soulless</title>. Digital copy.</p>
+        </event>
+        <event from="2020-04-03" to="2020-04-04">
+          <p>Listened to <title ref="b:ansari.a.modernromance">Modern Romance</title>.</p>
+        </event>
+        <event from="2020-04-02" to="2020-04-04">
+          <p>Read <title ref="b:sun.j.everyonesaliebn">everyone’s a aliebn when ur a aliebn too</title>.</p>
+        </event>
+        <event from="2020-03-20" to="2020-04-02">
           <p>Read <title ref="b:huff.t.summonkeeper">Summon the Keeper</title>.</p>
         </event>
         <event from="2020-03-16" to="2020-03-21">
           <p>Read <title ref="b:benaway.g.maidenmothercrone">Maiden, Mother, Crone: Fantastical Trans Femmes</title>.</p>
         </event>
         <event when="2020-03-13">
-          <p>Read <title ref="b:powell.n.anyempire">Any Empire</title>.</p>
+          <p>Read <title ref="b:powell.n.anyempire">Any Empire</title>. Digital copy.</p>
         </event>
         <event from="2020-03-08" to="2020-03-15">
           <p>Read <title ref="b:ullman.e.lifeincode">Life in Code: A Personal History of Technology</title>.</p>

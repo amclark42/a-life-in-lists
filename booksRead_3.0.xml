@@ -74,6 +74,64 @@
           
           
           
+          <biblStruct xml:id="carriger.g.soulless">
+            <monogr>
+              <title>Soulless</title>
+              <author>
+                <persName ref="a:carriger.g"/>
+              </author>
+              <imprint>
+                <date type="added" when="2017-05-19"/>
+                <date type="copyright" when="2009"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Parasol Protectorate</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="anderson.cb.xqueryforhumanists">
+            <monogr>
+              <title>XQuery for Humanists</title>
+              <author>
+                <persName ref="a:anderson.cb"/>
+                <persName ref="a:wicentowski.jc"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <!--<catRef target="#tag.owned" from="2020-03-19"/> Do I own this copy...? -->
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Texas A&amp;M University Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="ansari.a.modernromance">
+            <monogr>
+              <title>Modern Romance</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="voice actor"/>
+                <persName ref="a:ansari.a"/>
+              </respStmt>
+              <author>
+                <persName ref="a:klinenberg.e"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Penguin Random House Audio Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="dignazio.c.datafeminism">
             <monogr>
               <title>Data Feminism</title>

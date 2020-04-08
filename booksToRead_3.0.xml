@@ -1397,6 +1397,12 @@
           <title>The Maltese Falcon</title>.
         </bibl>
         <bibl>
+          <author>Hamraie, Aimi</author>.
+          <title>Building Access: Universal Design and the Politics of Disability</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-04-07"/>
+        </bibl>
+        <bibl>
           <author>Harras, Bob</author>.
           <title>JLA: World Without a Justice League</title>.
           <catRef target="#tag.comics"/>
@@ -1553,6 +1559,18 @@
           <author>Hoyt, Sarah</author>.
           <title>Heart of Light</title>.
           <series><title>Magical British Empire</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:huff.t">Huff, Tanya</author>.
+          <title>The Second Summoning</title>.
+          <series><title>The Keeper’s Chronicles</title></series>
+          <date type="added" when="2020-04-03"/>
+        </bibl>
+        <bibl>
+          <author ref="a:huff.t">Huff, Tanya</author>.
+          <title>Long Hot Summoning</title>.
+          <series><title>The Keeper’s Chronicles</title></series>
+          <date type="added" when="2020-04-03"/>
         </bibl>
         <bibl>
           <author>Hugo, Victor</author>.
@@ -2451,6 +2469,12 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author>Noble, Safiya</author>.
+          <title>Algorithms of Oppression: How Search Engines Reinforce Racism</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-04-07"/>
+        </bibl>
+        <bibl>
           <author>Norman, Abby</author>.
           <title>Ask Me About My Uterus: A Quest to Make Doctors Believe in Women’s 
             Pain</title>.
@@ -3078,6 +3102,12 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Srinivasan, Ramesh</author>.
+          <title>Whose Global Village? Rethinking How Technology Shapes Our World</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-04-07"/>
+        </bibl>
+        <bibl>
           <author ref="a:stephens.n">Stephenson, Neal</author>.
           <title>Anathem</title>.
         </bibl>
@@ -3378,6 +3408,12 @@
         <bibl>
           <author>Williams, Tad</author>.
           <title>Mirror World</title>.
+        </bibl>
+        <bibl>
+          <author>Williamson, Bess</author>.
+          <title>Accessible America: A History of Disability and Design</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-04-07"/>
         </bibl>
         <bibl>
           <author ref="a:wilson.gw">Wilson, G. Willow</author>.
