@@ -74,6 +74,71 @@
           
           
           
+          <biblStruct xml:id="homer.odyssey.wilson">
+            <monogr>
+              <title>The Odyssey</title>
+              <author>
+                <persName ref="a:homer"/>
+              </author>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:wilson.e"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2020-04-16"/>
+                <date type="added" when="2018-02-19"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>W. W. Norton &amp; Company, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="bravo.k.makingstuffdoingthings">
+            <monogr>
+              <title>Making Stuff &amp; Doing Things</title>
+              <title type="sub">DIY Guides to Just About Everything!</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="contributor"/>
+                <persName ref="a:bravo.k"/>
+              </respStmt>
+              <edition>4th Edition</edition>
+              <imprint>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2020-04-16"/>
+                <catRef target="#tag.zine"/>
+                <date type="added" when="2019-11-22"/>
+                <date type="copyright" from="2003" to="2017"/>
+                <publisher>
+                  <orgName>Microcosm Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="thomas.a.hateugive">
+            <monogr>
+              <title>The Hate U Give</title>
+              <author>
+                <persName ref="a:thomas.a"/>
+              </author>
+              <respStmt>
+                <resp n="voice actor"/>
+                <persName ref="a:turpin.b"/>
+              </respStmt>
+              <imprint>
+                <date type="added" when="2017-08-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Balzer + Bray</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="carriger.g.soulless">
             <monogr>
               <title>Soulless</title>
@@ -8142,7 +8207,7 @@
                 <catRef target="#tag.nonfiction"/>
                 <date when="2015"/>
                 <publisher>
-                  <orgName>W.W. Norton &amp; Company</orgName>
+                  <orgName>W. W. Norton &amp; Company</orgName>
                 </publisher>
               </imprint>
             </monogr>

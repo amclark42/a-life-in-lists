@@ -55,6 +55,39 @@
         
         
         
+        <person xml:id="wilson.e">
+          <persName>
+            <forename>Emily</forename>
+            <surname>Wilson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="bravo.k">
+          <persName>
+            <forename>Kyle</forename>
+            <surname>Bravo</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="thomas.a">
+          <persName>
+            <forename>Angie</forename>
+            <surname>Thomas</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="turpin.b">
+          <persName>
+            <forename>Bahni</forename>
+            <surname>Turpin</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="carriger.g">
           <persName type="pseudonym">
             <forename>Gail</forename>

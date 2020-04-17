@@ -431,9 +431,10 @@
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
         </bibl>
         <bibl>
-          <editor>Bravo, Kyle</editor>.
+          <editor ref="a:bravo.k">Bravo, Kyle</editor>.
           <title>Making Stuff and Doing Things: DIY Guides to Just About Everything</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned" corresp="b:bravo.k.makingstuffdoingthings"/>
           <date type="added" when="2019-11-22"/>
         </bibl>
         <bibl>
@@ -537,9 +538,9 @@
         </bibl>
         <bibl>
           <author>Carriger, Gail</author>.
-          <title>Soulless</title>.
+          <title>Changeless</title>.
           <series><title>The Parasol Protectorate</title></series>
-          <date type="added" when="2017-05-19"/>
+          <date type="added" when="2020-04-12"/>
         </bibl>
         <bibl>
           <author ref="a:carter.a">Carter, Angela</author>.
@@ -1380,6 +1381,13 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Halberstam, Jack</author>.
+          <title>Trans*: A Quick and Quirky Account of Gender Variability</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-04-09"/>
+        </bibl>
+        <bibl>
           <author>Halse Anderson, Laurie</author>.
           <title>Shout</title>.
           <catRef target="#tag.memoir"/>
@@ -1517,9 +1525,10 @@
           <author ref="a:homer">Homer</author>.
           <respStmt>
             <resp n="translator"/>
-            <persName>Emily Wilson</persName>
+            <persName ref="a:wilson.e">Emily Wilson</persName>
           </respStmt>
           <title>The Odyssey</title>.
+          <catRef target="#tag.owned" corresp="b:homer.odyssey.wilson"/>
           <date type="added" when="2018-02-19"/>
         </bibl>
         <bibl>
@@ -1919,7 +1928,8 @@
         </bibl>
         <bibl>
           <author>Lakoff, George</author>.
-          <title>The All New Don’t Think of an Elephant!: Know Your Values and Frame the Debate</title>.
+          <title>The All New Don’t Think of an Elephant!: Know Your Values and Frame 
+            the Debate</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-03-14"/>
         </bibl>
