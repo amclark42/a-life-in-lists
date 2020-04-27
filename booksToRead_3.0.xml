@@ -431,13 +431,6 @@
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
         </bibl>
         <bibl>
-          <editor ref="a:bravo.k">Bravo, Kyle</editor>.
-          <title>Making Stuff and Doing Things: DIY Guides to Just About Everything</title>.
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:bravo.k.makingstuffdoingthings"/>
-          <date type="added" when="2019-11-22"/>
-        </bibl>
-        <bibl>
           <author ref="a:bray.l">Bray, Libba</author>.
           <title>Beauty Queens</title>.
           <date type="added" when="2016-06-04"/>
@@ -1311,8 +1304,17 @@
         </bibl>
         <bibl>
           <author ref="a:grant.m">Grant, Mira</author>.
-          <title>Feed</title>.
+          <title>Deadline</title>.
           <series><title>Newsflesh Trilogy</title></series>
+          <series><title>Newsflesh</title></series>
+          <date type="added" when="2020-04-27"/>
+        </bibl>
+        <bibl>
+          <author ref="a:grant.m">Grant, Mira</author>.
+          <title>Blackout</title>.
+          <series><title>Newsflesh Trilogy</title></series>
+          <series><title>Newsflesh</title></series>
+          <date type="added" when="2020-04-27"/>
         </bibl>
         <bibl>
           <author ref="a:grant.m">Grant, Mira</author>.
@@ -1528,7 +1530,7 @@
             <persName ref="a:wilson.e">Emily Wilson</persName>
           </respStmt>
           <title>The Odyssey</title>.
-          <catRef target="#tag.owned" corresp="b:homer.odyssey.wilson"/>
+          <catRef target="#tag.owned" corresp="b:homer.wilson.odyssey"/>
           <date type="added" when="2018-02-19"/>
         </bibl>
         <bibl>
@@ -3223,11 +3225,6 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2020-03-07"/>
-        </bibl>
-        <bibl>
-          <author>Thomas, Angie</author>.
-          <title>The Hate U Give</title>.
-          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author ref="a:thomas.s">Thomas, Scarlett</author>.

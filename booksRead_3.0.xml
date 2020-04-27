@@ -74,7 +74,29 @@
           
           
           
-          <biblStruct xml:id="homer.odyssey.wilson">
+          <biblStruct xml:id="grant.m.feed">
+            <monogr>
+              <title>Feed</title>
+              <author>
+                <persName ref="a:grant.m"/>
+              </author>
+              <imprint>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Newsflesh Trilogy</title>
+            </series>
+            <series>
+              <title>Newsflesh</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="homer.wilson.odyssey">
             <monogr>
               <title>The Odyssey</title>
               <author>

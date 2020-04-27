@@ -39,7 +39,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-04-12">
+        <event from="2020-04-27">
+          <p>Reread <title ref="b:novik.n.uprooted">Uprooted</title>.</p>
+        </event>
+        <event from="2020-04-24" to="2020-04-26">
+          <p>Skimmed <title ref="b:bravo.k.makingstuffdoingthings">Making Stuff &amp; Doing Things!</title></p>
+        </event>
+        <event from="2020-04-17" to="2020-04-26">
+          <p>Read <title ref="b:grant.m.feed">Feed</title>.</p>
+        </event>
+        <event from="2020-04-12" to="2020-04-17">
           <p>Listened to <title ref="thomas.a.hateugive">The Hate U Give</title>.</p>
         </event>
         <event from="2020-04-06">
