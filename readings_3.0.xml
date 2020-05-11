@@ -39,7 +39,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-04-27">
+        <event from="2020-05-10">
+          <p>Read <title ref="b:mcguire.s.midnightbluelight">Midnight Blue-Light Special</title>.</p>
+        </event>
+        <event from="2020-05-10">
+          <p>Read <title ref="b:hudgins.v.materiallycrafted">Materially Crafted</title>.</p>
+        </event>
+        <event from="2020-05-09" to="2020-05-10">
+          <p>Read <title ref="b:richardson.m.nativenewenglandgardens">Native Plants for New England Gardens</title>.</p>
+        </event>
+        <event from="2020-05-09">
+          <p>Reread <title ref="b:weaver.ek.tjandamal.omnibus">The Less Than Epic Adventures of T.J. and Amal</title>.</p>
+        </event>
+        <event from="2020-04-27" to="2020-05-07">
           <p>Reread <title ref="b:novik.n.uprooted">Uprooted</title>.</p>
         </event>
         <event from="2020-04-24" to="2020-04-26">

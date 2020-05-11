@@ -293,6 +293,7 @@
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <catRef target="#tag.comics"/>
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -449,6 +450,11 @@
         <bibl>
           <author>Brookner, Anita</author>.
           <title>Hotel du Lac</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:brooks.g">Brooks, Geraldine</author>.
+          <title>Caleb’s Crossing</title>.
+          <date type="added" when="2020-05-11"/>
         </bibl>
         <bibl>
           <author>Brooks, Jayde</author>.
@@ -632,6 +638,7 @@
           <title>Universal Design for Web Applications: Web Applications that Reach 
             Everyone</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -1509,6 +1516,7 @@
           <title>Small, Sharp, Software Tools: Harness the Combinatoric Power of 
             Command-Line Tools and Utilities</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2019-09-08"/>
         </bibl>
         <bibl>
@@ -1564,6 +1572,7 @@
           <author>Whitney Quesenbery</author>.
           <title>A Web for Everyone: Designing Accessible User Experiences</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -1933,6 +1942,7 @@
           <title>The All New Don’t Think of an Elephant!: Know Your Values and Frame 
             the Debate</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2020-03-14"/>
         </bibl>
         <bibl>
@@ -2129,6 +2139,7 @@
           <title>On Food and Cooking: The Science and Lore of the Kitchen</title>.
           <catRef target="#tag.cookbook"/>
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2014-09-30"/>
         </bibl>
         <bibl>
@@ -2243,6 +2254,12 @@
         </bibl>
         <bibl>
           <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
+          <title>Penric’s Demon</title>.
+          <series><title>Penric &amp; Desdemona</title></series>
+          <date type="added" when="2020-04-06"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
           <title>The Vor Game</title>.
           <series>
             <title>The Vorkosigan Saga</title>
@@ -2324,6 +2341,12 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author>Montell, Amanda</author>.
+          <title>Wordslut: A Feminist Guide to Taking Back the English Language</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-05-11"/>
+        </bibl>
+        <bibl>
           <author ref="a:moore.l">Moore, Lorrie</author>.
           <title>Anagrams</title>.
           <date type="added" when="2016-10-01"/>
@@ -2368,6 +2391,7 @@
           <author>Morton, Kati</author>.
           <title>Are u ok?: A Guide to Caring for Your Mental Health</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
@@ -2798,6 +2822,13 @@
           <date type="added" when="2018-06-30"/>
         </bibl>
         <bibl>
+          <author>Rossi Armfield, Gina</author>.
+          <title>No Excuses Art Journaling: Making Time for Creativity</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-05-11"/>
+        </bibl>
+        <bibl>
           <author>Rubinstein, Gillian</author>.
           <title>Tales of the Otori: Across the Nightingale Floor</title>.
           <series><title>Tales of the Otori</title></series>
@@ -3214,6 +3245,7 @@
           <author>Thích Nhất Hạnh</author>.
           <title>How to Relax</title>.
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
           <series>
             <title>Mindfulness Essentials</title>
           </series>

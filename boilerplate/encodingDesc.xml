@@ -47,6 +47,9 @@
       <category xml:id="tag.owned">
         <catDesc>owned</catDesc>
       </category>
+      <category xml:id="tag.reference">
+        <catDesc>reference</catDesc>
+      </category>
       <category xml:id="tag.queer">
         <catDesc>queer</catDesc>
       </category>

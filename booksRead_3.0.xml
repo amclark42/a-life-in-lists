@@ -74,6 +74,67 @@
           
           
           
+          
+          <biblStruct xml:id="mcguire.s.midnightbluelight">
+            <monogr>
+              <title>Midnight Blue-Light Special</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>InCryptid</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="hudgins.v.materiallycrafted">
+            <monogr>
+              <title>Materially Crafted: A DIY Primer for the Design Obsessed</title>
+              <author>
+                <persName ref="a:hudgins.v"/>
+              </author>
+              <respStmt>
+                <resp n="photographer"/>
+                <persName ref="a:noel.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Stewart, Tabori &amp; Chang</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="richardson.m.nativenewenglandgardens">
+            <monogr>
+              <title>Native Plants for New England Gardens</title>
+              <author>
+                <persName ref="a:richardson.m"/>
+              </author>
+              <respStmt>
+                <resp n="photographer"/>
+                <persName ref="a:jaffe.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Globe Pequot</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="grant.m.feed">
             <monogr>
               <title>Feed</title>
@@ -131,6 +192,7 @@
                 <catRef target="#tag.compilation"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2020-04-16"/>
+                <catRef target="#tag.reference"/>
                 <catRef target="#tag.zine"/>
                 <date type="added" when="2019-11-22"/>
                 <date type="copyright" from="2003" to="2017"/>
@@ -745,6 +807,7 @@
                 <catRef target="#tag.cookbook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2019-12-27"/>
+                <catRef target="#tag.reference"/>
                 <date type="copyright" when="2019"/>
                 <publisher>
                   <orgName>Ten Speed Press</orgName>
@@ -3978,6 +4041,7 @@
               <imprint>
                 <catRef target="#tag.cookbook"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
                 <date type="added" when="2014-09-30"/>
                 <date type="copyright" when="2009"/>
                 <publisher>
@@ -4771,6 +4835,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
                   <orgName>Princeton Architectural Press</orgName>
@@ -6009,6 +6074,7 @@
               <imprint>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2017-04-16"/>
+                <catRef target="#tag.reference"/>
                 <date type="first-publication" when="2016-12"/>
                 <date type="added" when="2016-11-21"/>
                 <publisher>
@@ -8225,8 +8291,9 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.cookbook"/>
-                <catRef target="#tag.owned" from="2015-12-25"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2015-12-25"/>
+                <catRef target="#tag.reference"/>
                 <date when="2015"/>
                 <publisher>
                   <orgName>W. W. Norton &amp; Company</orgName>
@@ -12502,6 +12569,7 @@
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -14651,10 +14719,14 @@
                 <persName ref="a:potter.j"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.cookbook"/>
                 <catRef target="#tag.nonfiction"/>
-                <publisher/>
+                <catRef target="#tag.owned" from-custom="ash:master"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>O’Reilly Media</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -19680,14 +19752,21 @@
           <biblStruct xml:id="mccloud.s.makingcomics">
             <monogr>
               <title>Making Comics</title>
-              <author>
+              <title type="sub">Storytelling Secrets of Comics, Manga and Graphic Novels</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
                 <persName ref="a:mccloud.s"/>
-              </author>
+              </respStmt>
               <imprint>
-                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
-                <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2006"/>
+                <publisher>
+                  <orgName>Harper</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>
@@ -23931,7 +24010,7 @@
           
           <biblStruct xml:id="bellingha.r.fate.secretscats">
             <monogr>
-              <title>Fate Core System</title>
+              <title>Fate: The Secrets of Cats</title>
               <respStmt>
                 <resp n="lead"/>
                 <resp n="author"/>
