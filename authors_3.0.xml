@@ -54,6 +54,22 @@
         </person>-->
         
         
+        <person xml:id="jones.ge">
+          <persName>
+            <forename>Gerard</forename>
+            <surname>Jones</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="thorn.m">
+          <persName>
+            <forename>Matt</forename>
+            <surname>Thorn</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="hudgins.v">
           <persName>
             <forename>Victoria</forename>

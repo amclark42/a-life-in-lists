@@ -39,10 +39,16 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-05-10">
+        <event when="2020-05-23">
+          <p>Reread <title ref="b:takahash.r.ranmaonehalf.1">Ranma 1/2 Vol. 1</title>.</p>
+        </event>
+        <event from="2020-05-23">
+          <p>Read <title ref="b:oates.jc.hazardsoftimetravel">The Hazards of Time Travel</title>.</p>
+        </event>
+        <event from="2020-05-10" to="2020-05-22">
           <p>Read <title ref="b:mcguire.s.midnightbluelight">Midnight Blue-Light Special</title>.</p>
         </event>
-        <event from="2020-05-10">
+        <event from="2020-05-10" to="2020-05-23">
           <p>Read <title ref="b:hudgins.v.materiallycrafted">Materially Crafted</title>.</p>
         </event>
         <event from="2020-05-09" to="2020-05-10">

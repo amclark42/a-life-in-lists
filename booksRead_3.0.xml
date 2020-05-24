@@ -75,6 +75,34 @@
           
           
           
+          <biblStruct xml:id="takahash.r.ranmaonehalf.1">
+            <monogr>
+              <title>Ranma 1/2 Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:takahash.r"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <catRef target="#tag.comics"/>
+                <date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ranma 1/2</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="mcguire.s.midnightbluelight">
             <monogr>
               <title>Midnight Blue-Light Special</title>
@@ -82,6 +110,7 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
+                <date type="added" when="2019-12-08"/>
                 <date type="copyright" when="2013"/>
                 <publisher>
                   <orgName>DAW Books</orgName>
@@ -16688,9 +16717,13 @@
                 <persName ref="a:takahash.r"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <!--<date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>-->
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -16772,9 +16805,13 @@
                 <persName ref="a:takahash.r"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <!--<date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>-->
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
@@ -22100,9 +22137,13 @@
                 <persName ref="a:takahash.r"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <!--<date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>-->
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
