@@ -523,6 +523,12 @@
           <date type="added" when="2018-12-16"/>
         </bibl>
         <bibl>
+          <author>Capetta, Amy Rose</author>.
+          <title>The Brilliant Death</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-05-25"/>
+        </bibl>
+        <bibl>
           <author ref="a:carey.m">Carey, Mike</author>.
           <title>The Devil You Know</title>.
         </bibl>
@@ -1013,6 +1019,7 @@
           <title>I Promised Not to Tell: Raising a Transgender Child</title>.
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -1060,6 +1067,7 @@
           <author>Fisher, Carrie</author>.
           <title>The Princess Diarist</title>.
           <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
@@ -1745,6 +1753,12 @@
           <title>The Divide</title>.
         </bibl>
         <bibl>
+          <author>Kendi, Ibram X.</author>
+          <title>How to Be an Antiracist</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-06-09"/>
+        </bibl>
+        <bibl>
           <author>Kerr, Katharine</author>.
           <title>Sword of Fire</title>.
           <series><title>Deverry</title></series>
@@ -2361,6 +2375,11 @@
           <date type="added" when="2019-06-30"/>
         </bibl>
         <bibl>
+          <author>Moreno-Garcia, Silvia</author>.
+          <title>Mexican Gothic</title>.
+          <date type="added" when="2020-05-28"/>
+        </bibl>
+        <bibl>
           <author>Morgenstern, Erin</author>.
           <title>The Starless Sea</title>.
           <date type="added" when="2019-10-04"/>
@@ -2393,6 +2412,13 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2018-12-01"/>
+        </bibl>
+        <bibl>
+          <author>Mosco, Rosemary</author>.
+          <title>Birding Is My Favorite Video Game</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.compilation"/>
+          <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>
           <author>Mosley, Walter</author>.
@@ -2448,10 +2474,10 @@
             <resp n="artist"/>
             <persName ref="a:nagabe">Nagabe</persName>
           </respStmt>.
-          <title>The Girl from the Other Side: Siúil, a Rún Vol. 2</title>.
+          <title>The Girl from the Other Side: Siúil, a Rún Vol. 3</title>.
           <catRef target="#tag.comics"/>
           <series><title>The Girl from the Other Side: Siúil, a Rún</title></series>
-          <date type="added" when="2019-11-16"/>
+          <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>
           <author>Nagpal, Saraswati</author> and
@@ -2562,11 +2588,6 @@
           <date type="added" when="2018-06-26"/>
         </bibl>
         <bibl>
-          <author ref="a:oates.jc">Oates, Joyce Carol</author>.
-          <title>Hazards of Time Travel</title>.
-          <date type="added" when="2018-10-26"/>
-        </bibl>
-        <bibl>
           <author>O’Dell, Claire</author> and
           <author>Beth Bernobich</author>.
           <title>A Study in Honor</title>.
@@ -2626,6 +2647,16 @@
           <!-- in-library use only; available as an eBook from BPL -->
         </bibl>
         <bibl>
+          <author ref="a:ostertag.mk">Ostertag, Molly</author>.
+          <title>The Witch Boy</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <series>
+            <title>The Witch Boy</title>
+          </series>
+          <date type="added" when="2020-06-06"/>
+        </bibl>
+        <bibl>
           <author>Otsuka, Julie</author>.
           <title>The Buddha in the Attic</title>.
           <date type="added" when="2017-01-29"/>
@@ -2653,6 +2684,20 @@
           <author>Palmer, Dexter</author>.
           <title>Version Control</title>.
           <date type="added" when="2017-03-10"/>
+        </bibl>
+        <bibl>
+          <author ref="a:panetta.k">Panetta, Kevin</author>
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:ganucheau.p"/>
+          </respStmt>
+          <title>Zodiac Starforce Vol. 2: Cries of the Fire Prince</title>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <series>
+            <title>Zodiac Starforce</title>
+          </series>
+          <date type="added" when="2020-06-06"/>
         </bibl>
         <bibl>
           <author ref="a:parker.j">Parker, Jeff</author> and
@@ -3486,6 +3531,14 @@
           <title>Random Acts of Senseless Violence</title>.
           <date type="added" when="2017-06-29"/>
           <catRef target="#tag.outofprint"/>
+        </bibl>
+        <bibl>
+          <editor>Wong, Alice</editor>.
+          <title>Disability Visibility : First-Person Stories from the Twenty-first 
+            Century</title>.
+          <catRef target="#tag.compilation"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>
           <author ref="wood.b">Wood, Brian</author>.

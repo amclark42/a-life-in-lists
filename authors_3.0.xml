@@ -54,6 +54,49 @@
         </person>-->
         
         
+        
+        <person xml:id="rossiarmfield.g">
+          <persName>
+            <forename>Gail</forename>
+            <surname>Rossi Armfield</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="panetta.k">
+          <persName>
+            <forename>Kevin</forename>
+            <surname>Panetta</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="acampora.k">
+          <persName>
+            <forename>Kristen</forename>
+            <surname>Acampora</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="freeman.t">
+          <persName>
+            <forename>Tabby</forename>
+            <surname>Freeman</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="tarr.b">
+          <persName>
+            <forename>Barbara</forename>
+            <forename type="nickname">Babs</forename>
+            <surname>Tarr</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="jones.ge">
           <persName>
             <forename>Gerard</forename>

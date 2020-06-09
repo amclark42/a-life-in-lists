@@ -74,6 +74,102 @@
           
           
           
+          <biblStruct xml:id="rossiarmfield.g.noexcusesartjournal">
+            <monogr>
+              <title>No Excuses Art Journaling</title>
+              <author>
+                <persName ref="a:rossiarmfield.g"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2013"/>
+                <date type="ebook-edition" when="2014"/>
+                <publisher>
+                  <orgName>North Light Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>No Excuses</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="panetta.k.panetta.k.zodiacstarforce.1.powerastra">
+            <monogr>
+              <title>Zodiac Starforce Vol. 1: By the Power of Astra</title>
+              <author>
+                <persName ref="a:panetta.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <resp n="colorist"/>
+                <resp n="letterer"/>
+                <persName ref="a:ganucheau.p"/>
+              </respStmt>
+              <respStmt>
+                <resp n="flatter"/>
+                <persName ref="a:ganucheau.s"/>
+                <persName ref="a:acampora.k"/>
+                <persName ref="a:freeman.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:sauvage.m"/>
+                <persName ref="a:wada.k"/>
+                <persName ref="a:wyatt.j"/>
+                <persName ref="a:tarr.b"/>
+                <persName ref="a:stevenso.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" from="2015" to="2016"/>
+                <publisher>
+                  <orgName>Dark Horse Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Zodiac Starforce</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="nagabe.girlfromotherside.2">
+            <monogr>
+              <title>The Girl from the Other Side: Siúil, a Rún Vol. 2</title>
+              <title type="alt" xml:lang="ja">Totsuku ni no Shōjo</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:nagabe"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:beck.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <persName ref="a:macfarlane.yr"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:blakeslee.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="added" when="2019-11-16"/>
+                <date type="copyright" when="2016"/>
+                <date type="edition" when="2017"/>
+                <publisher>
+                  <orgName>Seven Seas Entertainment</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Girl from the Other Side: Siúil, a Rún</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="takahash.r.ranmaonehalf.1">
             <monogr>
@@ -3811,7 +3907,7 @@
                 <persName ref="a:beck.a"/>
               </respStmt>
               <respStmt>
-                <resp n=""/>
+                <resp n="adapter"/>
                 <persName ref="a:macfarlane.yr"/>
               </respStmt>
               <respStmt>
