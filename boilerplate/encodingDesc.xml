@@ -67,10 +67,10 @@
     <rendition scheme="css" selector="*[rend='italic']">font-style: italic;</rendition>
     <rendition scheme="css" selector="*[rend='underline']">text-decoration: underline;</rendition>
     <rendition scheme="css" selector="cit">display: flex; flex-direction: column;</rendition>
-    <rendition scheme="css" selector="said, series, *[rend='quoted']" scope="before">“</rendition>
-    <rendition scheme="css" selector="said, series, *[rend='quoted']" scope="after">”</rendition>
+    <rendition scheme="css" selector="said, series, soCalled, *[rend='quoted']" scope="before">content: "“";</rendition>
+    <rendition scheme="css" selector="said, series, soCalled, *[rend='quoted']" scope="after">content: "”";</rendition>
     <rendition scheme="css" selector="title">font-style: italic;</rendition>
-    <rendition scheme="css" selector="title[rend='quoted']">font-style: normal;</rendition>
+    <rendition scheme="css" selector="title[rend='quoted'], title[rend='none']">font-style: normal;</rendition>
   </tagsDecl>
   <listPrefixDef>
     <prefixDef ident="ash" matchPattern="([\w\.]+)" replacementPattern="timeline.xml#$1">
