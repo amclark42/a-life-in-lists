@@ -1405,13 +1405,6 @@
           <date type="added" when="2020-04-09"/>
         </bibl>
         <bibl>
-          <author>Halse Anderson, Laurie</author>.
-          <title>Shout</title>.
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2019-03-03"/>
-        </bibl>
-        <bibl>
           <author ref="a:hambly.b">Hambly, Barbara</author>.
           <title>Fever Season</title>.
           <series><title>Benjamin January</title></series>
@@ -1538,16 +1531,6 @@
         <bibl>
           <author ref="a:homer">Homer</author>.
           <title>The Iliad</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:homer">Homer</author>.
-          <respStmt>
-            <resp n="translator"/>
-            <persName ref="a:wilson.e">Emily Wilson</persName>
-          </respStmt>
-          <title>The Odyssey</title>.
-          <catRef target="#tag.owned" corresp="b:homer.wilson.odyssey"/>
-          <date type="added" when="2018-02-19"/>
         </bibl>
         <bibl>
           <author>hooks, bell</author>.
@@ -1840,6 +1823,13 @@
           <author>Killjoy, Margaret</author>.
           <title>A Country of Ghosts</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Kimmerer, Robin Wall</author>.
+          <title>Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and 
+            the Teachings of Plants</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-07-08"/>
         </bibl>
         <bibl>
           <author>Kincaid, Jamaica</author>.
@@ -2507,6 +2497,14 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-19"/>
+        </bibl>
+        <bibl>
+          <author>Nevins, Joseph</author>,
+          <author>Suren Moodliar</author> and
+          <author>Eleni Macrakis</author>.
+          <title>A People’s Guide to Greater Boston</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-07-08"/>
         </bibl>
         <bibl>
           <author>Niven, Larry</author>.

@@ -55,6 +55,30 @@
         
         
         
+        <person xml:id="fisher.c">
+          <persName>
+            <forename>Carrie</forename>
+            <surname>Fisher</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="lourde.b">
+          <persName>
+            <forename>Billie</forename>
+            <surname>Lourde</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="halseanderson.l">
+          <persName>
+            <forename>Laurie</forename>
+            <surname>Halse Anderson</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="rossiarmfield.g">
           <persName>
             <forename>Gail</forename>
@@ -150,7 +174,7 @@
             <forename>Emily</forename>
             <surname>Wilson</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <gender value="female" evidence="self-identification"/>
           <persPronouns value="she/her/hers" evidence="self-identification"/>
         </person>
         
@@ -4685,6 +4709,7 @@
             <forename>Kate</forename>
             <surname>Leth</surname>
           </persName>
+          <gender value="non-binary" evidence="self-identification"/>
         </person>
 
         <person xml:id="anderson.jl">
@@ -4712,7 +4737,8 @@
             <forename>Megan Rose</forename>
             <surname>Gedris</surname>
           </persName>
-          <gender value="female" evidence="self-identification"/>
+          <gender value="non-binary" evidence="conjecture"/>
+          <persPronouns value="they/them/theirs" evidence="self-identification"/>
         </person>
 
         <person xml:id="scarboro.d">

@@ -39,10 +39,26 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-07-14">
+          <p>Read <title rend="quoted" ref="b:mcmasterbujold.l.mountainsmourning">Mountains of Mourning</title> in 
+            <title ref="b:mcmasterbujold.l.youngmiles">Young Miles</title>.</p>
+        </event>
+        <event from="2020-07-13" to="2020-07-14">
+          <p>Reread <title ref="b:bechdel.a.funhome">Fun Home: A Family Tragicomic</title>.</p>
+        </event>
+        <event from="2020-07-07">
+          <p>Listened to <title ref="b:fisher.c.princessdiarist">The Princess Diarist</title>.</p>
+        </event>
+        <event from="2020-06-17" to="2020-07-13">
+          <p>(Re)read <title ref="b:homer.wilson.odyssey">The Odyssey</title>.</p>
+        </event>
+        <event from="2020-06-12" to="2020-06-14">
+          <p>Listened to <title ref="b:halseanderson.l.shout">Shout</title>.</p>
+        </event>
         <event when="2020-06-08">
           <p>Read <title ref="b:rossiarmfield.g.noexcusesartjournal">No Excuses Art Journaling</title>.</p>
         </event>
-        <event from="2020-06-06">
+        <event from="2020-06-06" to="2020-06-17">
           <p>Reread <title ref="b:mcguire.s.asheshonor">Ashes of Honor</title>.</p>
         </event>
         <event from="2020-06-03" to="2020-06-06">
