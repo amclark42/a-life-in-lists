@@ -64,6 +64,35 @@
       
       <cit>
         <quote>
+          <p>By all means simplify citizen facing services and hide some of the details of how the state operates, 
+            but there should always be a <hi rend="quoted">view source</hi> button. A properly informed society 
+            requires clear and accessible means by which people can see how services are used to drive adherence 
+            to duties—and why the criteria imposed exist.</p>
+          <p>Taking the marriage and civil partnership guide as an example: I can use it to find out if I can 
+            enter into a civil partnership in England and Wales. If all I want is a <said>yes, no, maybe</said> 
+            answer, it’s fine—but it doesn’t tell me why. There is no link to the 
+            <ref target="http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/contents">Marriage Act 1949</ref>, 
+            to the <ref target="http://www.legislation.gov.uk/ukpga/2004/33/contents">Civil Partnership Act 2004</ref> 
+            or to the <ref target="http://www.legislation.gov.uk/ukpga/2013/30/contents/enacted">Marriage (Same 
+            Sex Couples) Act 2013</ref>.</p>
+          <p>Service design in this form is inherently conservative. Failing to expose the ruleset underpinning 
+            the service obscures any mechanism for change. If I’d visited a similar service in 2012 as part of a 
+            same-sex couple wanting to marry, I’d have been told no. Not why. Just no. Not how that might be 
+            changed. It’s service design for passive consumers rather than for active citizens. Our friends in UX 
+            often talk of affordances, but a system that hides its seams and underlying ruleset offers no 
+            affordance for change.</p>
+        </quote>
+        <bibl>
+          <author>Michael Smethurst</author>,
+          <title rend="quoted">Missing connections from government platforms</title>
+          <title>Smethurst</title> (blog)
+          <date when="2020-04-02"/>
+          <ptr target="https://smethur.st/posts/176135871"/>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
           <p>What if Icarus hadn’t hurtled into the sea? What if he’d inherited his father’s inventive bent? What 
             might he have wrought?</p>
         </quote>
@@ -76,7 +105,7 @@
       <cit>
         <quote>
           <p>It is traditional in statements like this <title rend="none">Translator’s Note</title> to bewail 
-            one’s own inadequacy when trying to be faithful to the original. Like many contemorary translation 
+            one’s own inadequacy when trying to be faithful to the original. Like many contemporary translation 
             theorists, I believe that we need to rethink the terms in which we talk about translation. My 
             translation is, like all translations, an entirely different text from the original poem. Translation 
             always, necessarily, involves interpretation; there is no such thing as a translation that provides 

@@ -275,6 +275,12 @@
           <title>Sense and Sensibility</title>.
         </bibl>
         <bibl>
+          <author>Aveyard, Victoria</author>.
+          <title>Red Queen</title>.
+          <series><title>Red Queen</title></series>
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
           <author ref="a:azzarello.b">Azzarello, Brian</author> and
           <respStmt>
             <resp n="artist"/>
@@ -2061,6 +2067,12 @@
           <date type="added" when="2016-12-03"/>
         </bibl>
         <bibl>
+          <author>Lu, Marie</author>.
+          <title>The Young Elites</title>.
+          <series><title>The Young Elites</title></series>
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
           <author>Luiselli, Valeria</author>.
           <title>Tell Me How It Ends: An Essay in Forty Questions</title>.
           <catRef target="#tag.nonfiction"/>
@@ -2130,6 +2142,11 @@
         <bibl>
           <author>Maxey, James</author>.
           <title>Nobody Gets the Girl</title>.
+        </bibl>
+        <bibl>
+          <author>Maxwell, Everina</author>.
+          <title>Winter’s Orbit</title>.
+          <date type="added" when="2020-07-26"/>
         </bibl>
         <bibl>
           <author>May, Elaine T.</author>
@@ -2264,14 +2281,35 @@
         </bibl>
         <bibl>
           <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
-          <title>The Vor Game</title>.
+          <title>Shards of Honor</title>.
           <series>
             <title>The Vorkosigan Saga</title>
           </series>
-          <catRef target="#tag.owned" corresp="b:mcmasterbujold.l.vorgame"/>
-          <note>
-            <p>I neglected to add this after reading The Warrior's Apprentice.</p>
-          </note>
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
+          <title>Barrayar</title>.
+          <series>
+            <title>The Vorkosigan Saga</title>
+          </series>
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
+          <title>Cetaganda</title>.
+          <series>
+            <title>The Vorkosigan Saga</title>
+          </series>
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcmasterbujold.l">McMaster Bujold, Lois</author>.
+          <title>Ethan of Athos</title>.
+          <series>
+            <title>The Vorkosigan Saga</title>
+          </series>
+          <date type="added" when="2020-07-26"/>
         </bibl>
         <bibl>
           <author>McRobbie, Linda Rodriguez</author>.
@@ -3113,6 +3151,11 @@
           <title>The Shape-Changer’s Wife</title>.
         </bibl>
         <bibl>
+          <author>Slaughter, Karin</author>.
+          <title>Pretty Girls</title>.
+          <date type="added" when="2020-07-26"/>
+        </bibl>
+        <bibl>
           <author ref="a:slonczews.j">Slonczewski, Joan</author>.
           <title>Daughter of Elysium</title>.
           <series><title>Elysium Cycle</title></series>
@@ -3518,6 +3561,14 @@
           <author>Winters, Cat</author>.
           <title>The Steep &amp; Thorny Way</title>.
           <date type="added" when="2018-09-03"/>
+        </bibl>
+        <bibl>
+          <author>Wright, Kai</author>.
+          <title>Drifting Towards Love: Growing Up Black, Brown, and Gay on the 
+            Streets of New York</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-07-26"/>
         </bibl>
         <bibl>
           <author ref="a:wolitzer.m">Wolitzer, Meg</author>.

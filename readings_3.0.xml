@@ -39,8 +39,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-07-14">
-          <p>Read <title rend="quoted" ref="b:mcmasterbujold.l.mountainsmourning">Mountains of Mourning</title> in 
+        <event from="2020-07-25">
+          <p>Read <title ref="b:dignazio.c.datafeminism">Data Feminism</title>.</p>
+        </event>
+        <event from="2020-07-14" to="2020-07-25">
+          <p>Read <title rend="quoted" ref="b:mcmasterbujold.l.mountainsmourning">Mountains of Mourning</title> and 
+            <title ref="b:mcmasterbujold.l.vorgame">The Vor Game</title> in 
             <title ref="b:mcmasterbujold.l.youngmiles">Young Miles</title>.</p>
         </event>
         <event from="2020-07-13" to="2020-07-14">
@@ -85,7 +89,7 @@
           <p>Read <title ref="b:richardson.m.nativenewenglandgardens">Native Plants for New England 
             Gardens</title>.</p>
         </event>
-        <event from="2020-05-09">
+        <event from="2020-05-09" to="2020-07-26">
           <p>Reread <title ref="b:weaver.ek.tjandamal.omnibus">The Less Than Epic Adventures of T.J. and 
             Amal</title>.</p>
         </event>
