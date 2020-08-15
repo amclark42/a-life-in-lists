@@ -74,6 +74,25 @@
           
           
           
+          <biblStruct xml:id="kendi.ix.howtobeantiracist">
+            <monogr>
+              <title>How to Be an Antiracist</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="voice actor"/>
+                <persName ref="a:kendi.ix"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2020-06-09"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Penguin Random House LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="fisher.c.princessdiarist">
             <monogr>
               <title>The Princess Diarist</title>
@@ -92,7 +111,7 @@
                 <date type="added" when="2016-12-03"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
-                  <orgName>Penguin Random House Audio Publishing Group</orgName>
+                  <orgName>Penguin Random House LLC</orgName>
                 </publisher>
               </imprint>
             </monogr>

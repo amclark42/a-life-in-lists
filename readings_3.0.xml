@@ -39,6 +39,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-08-14">
+          <p>Listened to <title ref="b:kendi.ix.howtobeantiracist">How to Be an Antiracist</title>.</p>
+        </event>
+        <event from="2020-08-07" to="2020-08-08">
+          <p>Reread <title ref="b:monster.sr.beyond">Beyond: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>.</p>
+        </event>
         <event from="2020-07-25">
           <p>Read <title ref="b:dignazio.c.datafeminism">Data Feminism</title>.</p>
         </event>
@@ -50,7 +56,7 @@
         <event from="2020-07-13" to="2020-07-14">
           <p>Reread <title ref="b:bechdel.a.funhome">Fun Home: A Family Tragicomic</title>.</p>
         </event>
-        <event from="2020-07-07">
+        <event from="2020-07-07" to="2020-08-01">
           <p>Listened to <title ref="b:fisher.c.princessdiarist">The Princess Diarist</title>.</p>
         </event>
         <event from="2020-06-17" to="2020-07-13">

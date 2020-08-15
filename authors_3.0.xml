@@ -55,6 +55,15 @@
         
         
         
+        <person xml:id="kendi.ix">
+          <persName>
+            <forename>Ibram X.</forename>
+            <surname>Kendi</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+          <persPronouns value="he/him/his" evidence="self-identification"/>
+        </person>
+        
         <person xml:id="fisher.c">
           <persName>
             <forename>Carrie</forename>
