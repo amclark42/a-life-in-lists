@@ -74,6 +74,54 @@
           
           
           
+          <biblStruct xml:id="takahash.r.ranmaonehalf.2">
+            <monogr>
+              <title>Ranma 1/2 Vol. 2</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:takahash.r"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <catRef target="#tag.comics"/>
+                <date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ranma 1/2</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="glassman.s.secondmango">
+            <monogr>
+              <title>The Second Mango</title>
+              <author>
+                <persName ref="a:glassman.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2019-03-02"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Torquere Press Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Mangoverse</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="kendi.ix.howtobeantiracist">
             <monogr>
               <title>How to Be an Antiracist</title>
@@ -83,6 +131,7 @@
                 <persName ref="a:kendi.ix"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="added" when="2020-06-09"/>
                 <date type="copyright" when="2019"/>
@@ -103,7 +152,7 @@
               </respStmt>
               <respStmt>
                 <resp n="voice actor"/>
-                <persName ref="a:lourd.b"/>
+                <persName ref="a:lourde.b"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.memoir"/>
@@ -123,7 +172,7 @@
               <respStmt>
                 <resp n="author"/>
                 <resp n="voice actor"/>
-                <persName ref="a:halseanderson"/>
+                <persName ref="a:halseanderson.l"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.memoir"/>

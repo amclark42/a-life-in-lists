@@ -48,6 +48,7 @@ let $persons :=
         }
       </persName>
       <gender value="" evidence="conjecture"/>
+      <persPronouns value="" evidence="conjecture"/>
     </person>
     ,
     "

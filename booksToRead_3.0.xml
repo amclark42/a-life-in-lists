@@ -1268,15 +1268,6 @@
           </series>
         </bibl>
         <bibl>
-          <author>Glassman, Shira</author>.
-          <title>The Second Mango</title>.
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2019-03-02"/>
-          <series>
-            <title>Mangoverse</title>
-          </series>
-        </bibl>
-        <bibl>
           <author>Gleick, James</author>.
           <title>Chaos: Making a New Science</title>.
           <catRef target="#tag.nonfiction"/>
@@ -1458,6 +1449,14 @@
           <date type="added" when="2016-09-25"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="translator"></resp>
+            <persName>Headley, Maria Dahvana</persName>
+          </respStmt>.
+          <title>Beowulf</title>.
+          <date type="added" when="2020-08-29"/>
+        </bibl>
+        <bibl>
           <author>Healey, Emma</author>.
           <title>Elizabeth is Missing</title>.
           <date type="added" when="2016-05-15"/>
@@ -1512,6 +1511,12 @@
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
+          <author>Hofstadter, Douglas R.</author>
+          <title>I Am a Strange Loop</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-08-29"/>
+        </bibl>
+        <bibl>
           <author>Hogan, Brian P.</author>.
           <title>Small, Sharp, Software Tools: Harness the Combinatoric Power of 
             Command-Line Tools and Utilities</title>.
@@ -1551,6 +1556,12 @@
           <catRef target="#tag.comics"/>
           <series><title>My Hero Academia</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Horowitz, Alexandra</author>.
+          <title>On Looking: A Walker’s Guide to the Art of Observation</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-08-16"/>
         </bibl>
         <bibl>
           <author>Horowitz, Anthony</author>.
@@ -1733,12 +1744,6 @@
         <bibl>
           <author>Kay, Elizabeth</author>.
           <title>The Divide</title>.
-        </bibl>
-        <bibl>
-          <author>Kendi, Ibram X.</author>
-          <title>How to Be an Antiracist</title>.
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2020-06-09"/>
         </bibl>
         <bibl>
           <author>Kerr, Katharine</author>.
@@ -2354,6 +2359,11 @@
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
+          <author>Miller, Walter M., Jr.</author>
+          <title>A Canticle for Leibowitz</title>.
+          <date type="added" when="2020-08-15"/>
+        </bibl>
+        <bibl>
           <author>Minnick, Fred</author>.
           <title>Whiskey Women: The Untold Story of How Women Saved Bourbon,
             Scotch, and Irish Whiskey</title>.
@@ -2884,6 +2894,14 @@
           <title>Packing for Mars: The Curious Science of Life in the Void</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-08-04"/>
+        </bibl>
+        <bibl>
+          <author>Rodabaugh, Katrina</author>.
+          <title>Mending Matters: Stitch, Patch, and Repair Your Favorite Denim &amp; 
+            More</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-08-15"/>
         </bibl>
         <bibl>
           <author ref="a:robinson.ks">Robinson, Kim Stanley</author>.

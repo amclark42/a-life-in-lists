@@ -53,7 +53,14 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
-        
+        <person xml:id="glassman.s">
+          <persName>
+            <forename>Shira</forename>
+            <surname>Glassman</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
+        </person>
         
         <person xml:id="kendi.ix">
           <persName>
@@ -70,6 +77,7 @@
             <surname>Fisher</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
         </person>
         
         <person xml:id="lourde.b">
@@ -78,6 +86,7 @@
             <surname>Lourde</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
         </person>
         
         <person xml:id="halseanderson.l">
@@ -86,6 +95,7 @@
             <surname>Halse Anderson</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
         </person>
         
         <person xml:id="rossiarmfield.g">
