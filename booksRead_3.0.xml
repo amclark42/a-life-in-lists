@@ -74,6 +74,26 @@
           
           
           
+          <biblStruct xml:id="odell.c.studyinhonor">
+            <monogr>
+              <title>A Study in Honor</title>
+              <author>
+                <persName ref="a:odell.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-06-26"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Harper Voyager</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Janet Watson Chronicles</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="takahash.r.ranmaonehalf.2">
             <monogr>
               <title>Ranma 1/2 Vol. 2</title>

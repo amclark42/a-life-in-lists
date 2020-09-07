@@ -39,6 +39,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-09-06">
+          <p>Read <title ref="b:bull.e.doublefeature">Double Feature</title>.</p>
+        </event>
+        <event from="2020-08-29" to="2020-09-06">
+          <p>Read <title ref="b:odell.c.studyinhonor">A Study in Honor</title>.</p>
+        </event>
         <event from="2020-08-24" to="2020-08-29">
           <p>Read <title ref="b:glassman.s.secondmango">The Second Mango</title>.</p>
         </event>
@@ -51,7 +57,7 @@
         <event from="2020-08-07" to="2020-08-08">
           <p>Reread <title ref="b:monster.sr.beyond">Beyond: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>.</p>
         </event>
-        <event from="2020-07-25">
+        <event from="2020-07-25" to="2020-09-05">
           <p>Read <title ref="b:dignazio.c.datafeminism">Data Feminism</title>.</p>
         </event>
         <event from="2020-07-14" to="2020-07-25">

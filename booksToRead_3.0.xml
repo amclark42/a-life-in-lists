@@ -119,6 +119,12 @@
         </bibl>
         <bibl>
           <author>Ahmed, Sara</author>.
+          <title>Living a Feminist Life</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
+          <author>Ahmed, Sara</author>.
           <title>The Promise of Happiness</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
@@ -358,6 +364,13 @@
           <date type="added" when="2018-09-23"/>
         </bibl>
         <bibl>
+          <author>Benjamin, Ruha</author>.
+          <title>Race After Technology: Abolitionist Tools for the New Jim 
+            Code</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
           <author>Bergemann, Rosalind A.</author>
           <title>An Asperger’s Guide to Public Speaking</title>.
           <catRef target="#tag.nonfiction"/>
@@ -430,6 +443,12 @@
           <catRef target="#tag.queer"/>
         </bibl>
         <bibl>
+          <author>Bowker, Geoffery C.</author> and <author>Susan Leigh Star</author>.
+          <title>Sorting Things Out: Classification and Its Consequences</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
           <author ref="a:bradbury.r">Bradbury, Ray</author>.
           <title>Now and Forever</title>.
         </bibl>
@@ -465,6 +484,12 @@
         <bibl>
           <author>Brooks, Jayde</author>.
           <title>Daughter of Gods and Shadows</title>.
+        </bibl>
+        <bibl>
+          <author>Browne, Simone</author>.
+          <title>Dark Matters: On the Surveillance of Blackness</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
         </bibl>
         <bibl>
           <author>Brumberg, Joan Jacobs</author>.
@@ -745,6 +770,13 @@
           <title>Learning Good Consent: On Healthy Relationships and Survivor 
             Support</title>.
           <date type="added" when="2018-02-12"/>
+        </bibl>
+        <bibl>
+          <author>Crenshaw, Kimberlé</author>.
+          <title>On Intersectionality: Essential Writings</title>.
+          <catRef target="#tag.compilation"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
         </bibl>
         <bibl>
           <author>CrimethInc.</author>
@@ -1224,6 +1256,15 @@
             <p><title>Spectacle</title> is a webcomic, and has not yet been 
               collected into a third volume.</p>
           </note>
+        </bibl>
+        <bibl>
+          <author>Gangadharan, Seeta Peña</author>, <author>Tawana Petty</author>,
+          <author>Tamika Lewis</author>, and <author>Mariella Saba</author>.
+          <title>Digital Defense Playbook: Community Power Tools for Reclaiming 
+            Data</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-09-07"/>
         </bibl>
         <bibl>
           <author>Gibson, William</author>.
@@ -2528,6 +2569,12 @@
           <title>The Song of the Magdalene</title>.
         </bibl>
         <bibl>
+          <author>Nash, Jennifer C.</author>
+          <title>Black Feminism Reimagined: After Intersectionality</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
           <author>Nelson, Advid</author>.
           <title>Rex Mundi: The Guardian of the Temple</title>.
           <catRef target="#tag.comics"/>
@@ -2627,10 +2674,10 @@
           <date type="added" when="2018-06-26"/>
         </bibl>
         <bibl>
-          <author>O’Dell, Claire</author> and
-          <author>Beth Bernobich</author>.
-          <title>A Study in Honor</title>.
-          <date type="added" when="2018-06-26"/>
+          <author>O’Dell, Claire</author>.
+          <title>Hound of Justice</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-09-06"/>
           <series>
             <title>The Janet Watson Chronicles</title>
           </series>
@@ -3223,6 +3270,13 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
+          <author>Spade, Dean</author>.
+          <title>Normal Life: Administrative Violence, Critical Trans Politics, and 
+            the Limits of Law</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
           <author>Spangler, K.B.</author>
           <title>Digital Divide</title>.
         </bibl>
@@ -3288,6 +3342,13 @@
           <author>Stoppard, Tom</author>.
           <title>Rosencrantz and Guildenstern Are Dead</title>.
           <catRef target="#tag.drama"/>
+        </bibl>
+        <bibl>
+          <author>Subramaniam, Banu</author>.
+          <title>Ghost Stories for Darwin: The Science of Variation and the Politics 
+            of Diversity</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-07"/>
         </bibl>
         <bibl>
           <author>Sullivan, Tricia</author>.

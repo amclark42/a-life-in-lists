@@ -53,6 +53,16 @@
           <gender value="" evidence="conjecture"/>
         </person>-->
         
+        
+        <person xml:id="odell.c">
+          <persName>
+            <forename>Claire</forename>
+            <surname>O’Dell</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
         <person xml:id="glassman.s">
           <persName>
             <forename>Shira</forename>

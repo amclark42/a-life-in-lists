@@ -64,6 +64,132 @@
       
       <cit>
         <quote>
+          <p><said rend="italic">We had us some dark days back in 2017,</said> my mother had said. <said 
+            rend="italic">All those mainstream newspapers talking about white people this, and white 
+            people that, and woe, their lives were so hard. As if only white people needed jobs, as if 
+            only white people could be Americans. But we got past those dark days. The sun did rise 
+            again. Maybe it wasn’t as bright as we liked, but there it was.</said></p>
+        </quote>
+        <bibl>
+          <author>Claire O’Dell</author>,
+          <title>A Study in Honor</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>In fact, the first step of challenging power is to examine that power. But the next step—and the 
+            reason we have chosen to dedicate two principles to the topic of power—is to take action against an 
+            unjust status quo.</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>Data people, generally speaking, have choices—choices in who they work for, which projects they work 
+            on, and what values they reject. Starting from the assumption that oppression is the problem, equity 
+            is the path, and co-liberation is the desired goal leads to fundamentally different projects that 
+            challenge power at their source. It also leads to different metrics of success. These extend beyond 
+            the efficiency of a database under load, the precision of a classification algorithm, or the size of a 
+            user base one year after launch. The success of a project designed with co-liberation in mind would 
+            also depend on how much trust was built between institutions and communities, how effectively those 
+            with power and resources shared their power and resources, how much learning happened in both 
+            directions, how much the people and organizations were transformed in the process, and how much 
+            inspiration for future work, together, was co-conspired. These metrics are a little more squishy than 
+            the numbers and rankings that we tend to believe are our only option, but utterly and entirely 
+            measurable nonetheless.</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>A simple solution might be to say, <said>Fine then. Let’s just not classify anything or anyone!</said>
+            But the flaw in that plan is that data must be classified in some way to be put to use. In fact, by 
+            the time that information becomes data, it’s already been classified in some way. Data, after all, is 
+            information made <term rend="italic">tractable</term>, to borrow a term from computer science. 
+            <quote>What distinguishes data from other forms of information is that it can be processed by a 
+            computer, or by computer-like operations,</quote> as Lauren has written in an essay coauthored with 
+            information studies scholar Miriam Posner. And to enable those operations, which range from counting 
+            and sorting and from modeling to visualizing, the data must be placed into some kind of category—if 
+            not always into a conceptual category like gender, then at least into a computational category like 
+            <term rend="italic">Boolean</term> (a type of data with only two values, like true or false), 
+            <term rend="italic">integer</term> (a type of number with no decimal points, like 237 or -1), or <term 
+            rend="italic">string</term> (a sequence of letters or words, like <q>this</q>).</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>It’s not that we should reject these classification systems out of hand, or even that we could if we 
+            wanted to. <gap extent="1 sentence" reason="omitted"/> It’s just that once a system is in place, it 
+            becomes naturalized as <quote>the way things are.</quote> This means we don’t question how our 
+            classification systems are constructed, what values or judgments might be encoded into them, or why 
+            they were thought up in the first place. In fact <gap extent="aside" reason="omitted"/> we often 
+            forget to ask these questions until our systems become objects of contention, or completely break down.</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p><gap extent="1 word" reason="omitted"/> what might be lost in the process of dominating and 
+            disciplining data? Whose perspectives might be lost in that process? And, conversely, whose 
+            perspectives might be additionally imposed?</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>The point here is that <emph>one does not need street names for navigation until one has strangers 
+            in the landscape.</emph> Likewise, data do not need cleaning until there are <emph>strangers in the 
+            dataset.</emph> <gap extent="1 sentence" reason="omitted"/> Put more generally, once the data 
+            scientists involved in a project are not from the community, once the place of analysis changes, once 
+            the scale of the project shifts, or once a single dataset needs to be combined with others—then we 
+            have strangers in the dataset.</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
+          <p>Acknowledging that our knowledge is shaped by our own perspectives and limitations (see more in the 
+            About Us section ahead), we strive to be reflexive, transparent, and accountable for our work. We are 
+            on a journey toward justice, and that inevitably involves making mistakes. We are grateful to those 
+            who have shown us generosity in letting us learn up to this point. And we respectfully say to our 
+            future teachers that you will find in us open listeners: we recognize direct and critical words as a 
+            generous offer and a vote of confidence in our ability to hear and be transformed by you.</p>
+        </quote>
+        <bibl>
+          <author>Catherine D’Ignazio</author> and <author>Lauren F. Klein</author>,
+          <title rend="italic">Our Values and Our Metrics for Holding Ourselves Accountable</title>,
+          <title>Data Feminism</title>
+        </bibl>
+      </cit>
+      
+      <cit>
+        <quote>
           <p>We are all curious collages, weird little planetoids that grow by accreting other people’s 
             habits and ideas and styles and tics and jokes and phrases and tunes and hopes and fears as 
             if they were meteorites that came soaring out of the blue, collided with us, and stuck. What 
