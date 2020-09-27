@@ -51,8 +51,47 @@
             <surname></surname>
           </persName>
           <gender value="" evidence="conjecture"/>
+          <persPronouns value="" evidence=""/>
         </person>-->
         
+        
+        <person xml:id="conrad.ba">
+          <persName>
+            <forename>Beni Axia</forename>
+            <surname>Conrad</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="whitesides.s">
+          <persName>
+            <forename>Shanti</forename>
+            <surname>Whitesides</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="chii">
+          <persName type="pseudonym">Chii</persName>
+          <gender value="female" evidence="self-identification"/>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="neilsenhayden.t">
+          <persName>
+            <forename>Teresa</forename>
+            <surname>Neilsen Hayden</surname>
+          </persName>
+          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="neilsenhayden.p">
+          <persName>
+            <forename>Patrick</forename>
+            <surname>Neilsen Hayden</surname>
+          </persName>
+          <gender value="male" evidence="conjecture"/>
+          <persPronouns value="he/him/his" evidence="self-identification"/>
+        </person>
         
         <person xml:id="odell.c">
           <persName>

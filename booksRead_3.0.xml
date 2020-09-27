@@ -74,6 +74,54 @@
           
           
           
+          <biblStruct xml:id="chii.bride">
+            <monogr>
+              <title>The Bride was a Boy</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:chii"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:conrad.ba"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <persName ref="a:whitesides.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2016"/>
+                <date type="first-printing" when="2018-05"/>
+                <publisher>
+                  <orgName>Seven Seas Entertainment</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="baum.lf.wizardofoz">
+            <monogr>
+              <title>The Wonderful Wizard of Oz</title>
+              <author>
+                <persName ref="a:baum.lf"/>
+              </author>
+              <imprint>
+                <date type="first-publication" when="1900"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Duke Classics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Oz</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="odell.c.studyinhonor">
             <monogr>
               <title>A Study in Honor</title>
@@ -4068,12 +4116,17 @@
                 <persName ref="a:shetterly.w"/>
               </author>
               <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:neilsenhayden.p"/>
+                <persName ref="a:neilsenhayden.t"/>
+              </respStmt>
+              <respStmt>
                 <resp n="editor of compilation"/>
                 <persName ref="a:insinga.a"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.compilation"/>
-                <catRef target="#tag.owned"/>
+                <catRef target="#tag.owned" from="2018-02-17"/>
                 <date type="first-publication" when="1994"/>
                 <publisher>
                   <orgName>The NESFA Press</orgName>
@@ -11789,7 +11842,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
-                <date when="2002"/>
+                <date type="copyright" when="2002"/>
                 <publisher>
                   <orgName>HarperCollins</orgName>
                 </publisher>
@@ -16944,11 +16997,16 @@
                 <resp n="artist"/>
                 <persName ref="a:takahash.r"/>
               </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
-                <!--<date type="first-publication" when="1988"/>
-                <date type="translation-copyright" when="2003"/>-->
+                <date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>
                 <publisher>
                   <orgName>VIZ</orgName>
                 </publisher>

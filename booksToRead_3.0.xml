@@ -261,6 +261,11 @@
         </bibl>
         <bibl>
           <author ref="a:atwood.m">Atwood, Margaret</author>.
+          <title>The Penelopiad: The Myth of Penelope and Odysseus</title>.
+          <date type="added" when="2020-09-16"/>
+        </bibl>
+        <bibl>
+          <author ref="a:atwood.m">Atwood, Margaret</author>.
           <title>The Robber Bride</title>.
         </bibl>
         <bibl>
@@ -522,6 +527,12 @@
         </bibl>
         <bibl>
           <author>Butler, Judith</author>.
+          <title>The Force of Nonviolence</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-09-26"/>
+        </bibl>
+        <bibl>
+          <author>Butler, Judith</author>.
           <title>Gender Trouble</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-05-20"/>
@@ -577,6 +588,11 @@
           <title>Changeless</title>.
           <series><title>The Parasol Protectorate</title></series>
           <date type="added" when="2020-04-12"/>
+        </bibl>
+        <bibl>
+          <author>Carson, Anne</author>.
+          <title>Autobiography of Red: A Novel in Verse</title>.
+          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author ref="a:carter.a">Carter, Angela</author>.
@@ -677,6 +693,15 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2019-09-29"/>
+        </bibl>
+        <bibl>
+          <author>Christensen, Inger</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Susanna Nied</persName>
+          </respStmt>.
+          <title>Alphabet</title>.
+          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author ref="a:christie.a">Christie, Agatha</author>.
@@ -1496,6 +1521,11 @@
           </respStmt>.
           <title>Beowulf</title>.
           <date type="added" when="2020-08-29"/>
+        </bibl>
+        <bibl>
+          <author>Headley, Maria Dahvana</author>
+          <title>The Mere Wife</title>.
+          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author>Healey, Emma</author>.
@@ -2395,6 +2425,11 @@
           <date type="added" when="2018-12-01"/>
         </bibl>
         <bibl>
+          <author>Miller, Madeline</author>.
+          <title>A Song of Achilles</title>.
+          <date type="added" when="2020-09-16"/>
+        </bibl>
+        <bibl>
           <author>Miller, Sam J.</author>
           <title>Blackfish City</title>.
           <date type="added" when="2018-12-01"/>
@@ -2559,6 +2594,11 @@
           </respStmt>.
           <title>Sita: Daughter of the Earth</title>.
           <catRef target="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Naïr, Karthika</author>.
+          <title>Until the Lions: Echos from the Mahabharata</title>.
+          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author>Napoli, Donna Jo</author>.
@@ -3065,6 +3105,15 @@
           <author ref="a:sanderso.b">Sanderson, Brandon</author>.
           <title>Warbreaker</title>.
           <series><title>Warbreaker</title></series>
+        </bibl>
+        <bibl>
+          <author>Sappho</author>.
+          <respStmt>
+            <resp n="translator"/>
+            <persName>Anne Carson</persName>
+          </respStmt>.
+          <title>If Not, Winter: Fragments of Sappho</title>.
+          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author ref="a:saramago.j">Saramago, Jose</author>.

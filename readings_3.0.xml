@@ -39,7 +39,25 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-09-06">
+        <event from="2020-09-25">
+          <p>Reread <title ref="b:pratchet.t.nightwatch">Night Watch</title>.</p>
+        </event>
+        <event when="2020-09-24">
+          <p>Read <title ref="b:chii.bride">The Bride Was a Boy</title>.</p>
+        </event>
+        <event from="2020-09-22" to="2020-09-24">
+          <p>Reread <title ref="b:monster.sr.beyond.2">Beyond II: The Queer Sci-Fi &amp; Fantasy Comic Anthology</title>.</p>
+        </event>
+        <event from="2020-09-20" to="2020-09-24">
+          <p>Read <title ref="b:baum.lf.wizardofoz">The Wonderful Wizard of Oz</title>.</p>
+        </event>
+        <event from="2020-09-18" to="2020-09-20">
+          <p>Reread <title ref="b:mcguire.s.chimesmidnight">Chimes at Midnight</title>.</p>
+        </event>
+        <event when="2020-09-17">
+          <p>Reread <title ref="b:takahash.r.ranmaonehalf.3">Ranma 1/2 Vol. 3</title>.</p>
+        </event>
+        <event from="2020-09-06" to="2020-09-17">
           <p>Read <title ref="b:bull.e.doublefeature">Double Feature</title>.</p>
         </event>
         <event from="2020-08-29" to="2020-09-06">
