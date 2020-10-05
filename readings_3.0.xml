@@ -39,7 +39,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-09-25">
+        <event from="2020-10-02">
+          <p>Reread <title ref="b:leckie.a.ancillarysword">Ancillary Sword</title>.</p>
+        </event>
+        <event from="2020-09-25" to="2020-10-02">
           <p>Reread <title ref="b:pratchet.t.nightwatch">Night Watch</title>.</p>
         </event>
         <event when="2020-09-24">

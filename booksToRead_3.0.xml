@@ -1339,6 +1339,17 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Gill, Joel Christian</persName>
+          </respStmt>.
+          <title>Fights: One Boy’s Triumph Over Violence</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <date type="added" when="2020-10-04"/>
+        </bibl>
+        <bibl>
           <author ref="a:gloss.m">Gloss, Molly</author>.
           <title>The Jump-Off Creek</title>.
           <date type="added" when="2019-05-16"/>
