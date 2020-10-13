@@ -611,6 +611,19 @@
           <date type="added" when="2017-02-19"/>
         </bibl>
         <bibl>
+          <author>The Center for Cartoon Studies</author>,
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Dan Nott</persName>
+          </respStmt>.
+          <title>This is What Democracy Looks Like: A Graphic Guide to Governance</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:chabon.m">Chabon, Michael</author>.
           <title>The Amazing Adventures of Kavalier &amp; Clay</title>.
           <date type="added" when="2019-03-02"/>
@@ -1560,6 +1573,14 @@
           <date type="added" when="2018-03-10"/>
         </bibl>
         <bibl>
+          <author>Hidalgo, Silvia</author>.
+          <title>How to Be an American: A Field Guide to Citizenship</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
           <author>Higgins, C. A.</author>.
           <title>Lightless</title>.
           <series><title>Lightless</title></series>
@@ -1813,11 +1834,6 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2019-03-22"/>
-        </bibl>
-        <bibl>
-          <author>Kann, Claire</author>.
-          <title>Let’s Talk About Love</title>.
-          <date type="added" when="2018-03-24"/>
         </bibl>
         <bibl>
           <author>Karr, Mary</author>.
@@ -2104,6 +2120,20 @@
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Levinson, Cynthia</author>,
+          <author>Sanford Levinson</author>, and
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Ally Shwed</persName>
+          </respStmt>.
+          <title>Fault Lines in the Constitution: The Framers, Their Fights, and the 
+            Flaws that Affect Us Today</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-10-12"/>
         </bibl>
         <bibl>
           <author ref="a:leyh.k">Leyh, Kat</author>.
@@ -2932,7 +2962,8 @@
         </bibl>
         <bibl>
           <author>Postman, Neil</author>.
-          <title>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</title>.
+          <title>Amusing Ourselves to Death: Public Discourse in the Age of Show 
+            Business</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-17"/>
         </bibl>
@@ -3267,6 +3298,18 @@
         <bibl>
           <author>Shinn, Sharon</author>.
           <title>The Shape-Changer’s Wife</title>.
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="editor of compilation"/>
+            <persName>Ally Shwed</persName>
+          </respStmt>.
+          <title>Votes for Women: a comics anthology celebrating the centennial of 
+            the 19th amendment</title>.
+          <catRef target="#tag.anthology"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-10-12"/>
         </bibl>
         <bibl>
           <author>Slaughter, Karin</author>.

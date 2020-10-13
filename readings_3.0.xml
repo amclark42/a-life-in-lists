@@ -39,7 +39,23 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-10-02">
+        <event from="2020-10-11" to="2020-10-12">
+          <p>Read <title ref="b:willis.d.dumbingofage.9.mildlysubversiveatworst">Now Let’s Go Commit Something 
+            Mildly Subversive Which, at Worst, Will Serve as a Humanizing Anecdote and Not as Anything Truly 
+            Threatening to the Power Structures at Hand</title>.</p>
+          <p>I only read the first 50 pages or so online. This is the first <title>Dumbing of Age</title> volume 
+            where I didn’t already know what was about to happen.</p>
+        </event>
+        <event from="2020-10-11">
+          <p>Reread <title ref="b:skrutskie.e.bondsofbrass">Bonds of Brass</title>.</p>
+        </event>
+        <event from="2020-10-06" to="2020-10-10">
+          <p>Read <title ref="b:kann.c.letstalkaboutlove">Let’s Talk About Love</title>.</p>
+        </event>
+        <event when="2020-10-06">
+          <p>Read <title ref="b:asercion.c.sorrydidyousaystreetmagic">i’m sorry did you say street magic</title>.</p>
+        </event>
+        <event from="2020-10-02" to="2020-10-06">
           <p>Reread <title ref="b:leckie.a.ancillarysword">Ancillary Sword</title>.</p>
         </event>
         <event from="2020-09-25" to="2020-10-02">

@@ -74,6 +74,89 @@
           
           
           
+          <biblStruct xml:id="skrutskie.e.bondsofbrass">
+            <monogr>
+              <title>Bonds of Brass</title>
+              <author>
+                <persName ref="a:skrutskie.e"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-06-06"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Del Rey</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Bloodright Trilogy</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="kann.c.letstalkaboutlove">
+            <monogr>
+              <title>Let’s Talk About Love</title>
+              <author>
+                <persName ref="a:kann.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-03-24"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Swoon Reads</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="asercion.c.sorrydidyousaystreetmagic">
+            <monogr>
+              <title>i’m sorry did you say street magic</title>
+              <title type="sub">a city-building story game</title>
+              <author>
+                <persName ref="a:asercion.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.kickstart" when="2020-02-26"/>
+                <catRef target="#tag.owned" from="2020-10-06"/>
+                <catRef target="#tag.rpg"/>
+                <catRef target="#tag.zine"/>
+                <date type="first-publication" when="2020"/>
+                <publisher>
+                  <persName ref="a:asercion.c"/>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="willis.d.dumbingofage.9.mildlysubversiveatworst">
+            <monogr>
+              <title>Dumbing of Age Vol. 9: Now Let’s Go Commit Something Mildly Subversive Which, 
+                At Worst, Will Serve As A Humanizing Anecdote And Not As Anything Truly Threatening 
+                To The Power Structures At Hand</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2020-05-26"/>
+                <catRef target="#tag.owned" from="2020-10-08"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="chii.bride">
             <monogr>
               <title>The Bride was a Boy</title>

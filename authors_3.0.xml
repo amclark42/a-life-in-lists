@@ -55,6 +55,30 @@
         </person>-->
         
         
+        <person xml:id="skrutskie.e">
+          <persName>
+            <forename>Emily</forename>
+            <surname>Skrutskie</surname>
+          </persName>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="kann.c">
+          <persName>
+            <forename>Claire</forename>
+            <surname>Kann</surname>
+          </persName>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="asercion.c">
+          <persName>
+            <forename>Caro</forename>
+            <surname>Asercion</surname>
+          </persName>
+          <persPronouns value="they/them/theirs" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="conrad.ba">
           <persName>
             <forename>Beni Axia</forename>
