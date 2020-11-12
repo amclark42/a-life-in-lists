@@ -74,6 +74,69 @@
           
           
           
+          <biblStruct xml:id="chambers.b.smallangryplanet">
+            <monogr>
+              <title>The Long Way to a Small, Angry Planet</title>
+              <author>
+                <persName ref="a:chambers.b"/>
+              </author>
+              <imprint>
+                <date type="added" when="2016-07-26"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Harper Voyager</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayfarers</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="summers.ak.pregnantbutch">
+            <monogr>
+              <title>Pregnant Butch: Nine Long Months Spent in Drag</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:summers.ak"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:hall.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Soft Skulls Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="stevenso.n.nimona">
+            <monogr>
+              <title>Nimona</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:stevenso.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from-custom="ash:developer"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>HarperTeen</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="skrutskie.e.bondsofbrass">
             <monogr>
               <title>Bonds of Brass</title>

@@ -306,6 +306,12 @@
           <date type="added" when="2018-05-31"/>
         </bibl>
         <bibl>
+          <author>Bailey, Moya</author>.
+          <title>Misogynoir Transformed: Black Women’s Digital Resistance</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:baker.k">Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <catRef target="#tag.comics"/>
@@ -397,6 +403,11 @@
           <title>Moxyland</title>.
         </bibl>
         <bibl>
+          <author ref="a:beukes.l">Beukes, Lauren</author>.
+          <title>The Shining Girls</title>.
+          <date type="added" when="2020-11-12"/>
+        </bibl>
+        <bibl>
           <author>Bhargava, Aditya Y.</author>
           <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other 
             Curious People</title>.
@@ -415,6 +426,11 @@
           <title>The Interior Life</title>.
           <date type="added" when="2017-06-29"/>
           <!-- out of print? -->
+        </bibl>
+        <bibl>
+          <author>Blake, Sarah</author>.
+          <title>Naamah</title>.
+          <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
           <author>Blight, David W.</author>
@@ -510,6 +526,12 @@
         <bibl>
           <author>Budrys, Algis</author>.
           <title>Rogue Moon</title>.
+        </bibl>
+        <bibl>
+          <author>Burley, Shane</author>.
+          <title>Fascism Today: What It Is and How to End It</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-10-30"/>
         </bibl>
         <bibl>
           <author>Burroughs, Augusten</author>.
@@ -752,6 +774,11 @@
           <date type="added" when="2018-07-15"/>
         </bibl>
         <bibl>
+          <author ref="a:clarke.s">Clarke, Susanna</author>.
+          <title>Piranesi</title>.
+          <date type="added" when="2020-11-07"/>
+        </bibl>
+        <bibl>
           <author ref="a:cleage.p">Cleage, Pearl</author>.
           <title>Seen It All and Done the Rest</title>.
           <date type="added" when="2019-09-28"/>
@@ -920,13 +947,6 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
-          <author>D’Ignazio, Catherine</author> and
-          <author>Lauren F. Klein</author>.
-          <title>Data Feminism</title>.
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:dignazio.c.datafeminism"/>
-        </bibl>
-        <bibl>
           <author>Doctorow, Cory</author>.
           <title>Little Brother</title>.
         </bibl>
@@ -1054,6 +1074,12 @@
           <title>The Golden Key</title>.
         </bibl>
         <bibl>
+          <author>Ellis, Lindsay</author>.
+          <title>Axiom’s End</title>.
+          <series><title>Noumena</title></series>
+          <date type="added" when="2020-10-26"/>
+        </bibl>
+        <bibl>
           <author ref="a:ellis.w">Ellis, Warren</author>.
           <title>Normal</title>.
           <date type="added" when="2016-12-03"/>
@@ -1097,6 +1123,12 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author>Evans, Danielle</author>.
+          <title>The Office of Historical Corrections</title>.
+          <catRef target="#tag.compilation"/>
+          <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
           <author>Everett, Mik (Kim Longhofer)</author>.
@@ -1519,6 +1551,11 @@
           <author>Harris-Perry, Melissa V.</author>
           <title>Sister Citizen: Shame, Stereotypes, and Black Women in America</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Harrow, Alix E.</author>
+          <title>The Once and Future Witches</title>.
+          <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
           <author>Haruf, Kent</author>.
@@ -1972,6 +2009,13 @@
           <date type="added" when-custom="ash:youngadult"/>
         </bibl>
         <bibl>
+          <author>Kingston, Maxine Hong</author>.
+          <title>The Woman Warrior</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-12"/>
+        </bibl>
+        <bibl>
           <author>Kipling, Rudyard</author>.
           <title>Kim</title>.
         </bibl>
@@ -2134,6 +2178,14 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
+          <author ref="a:lewis.j">Lewis, John</author> and
+          <author>Michael D’Orso</author>.
+          <title>Walking with the Wind: A Memoir of the Movement</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-10-26"/>
         </bibl>
         <bibl>
           <author ref="a:leyh.k">Leyh, Kat</author>.
@@ -2442,6 +2494,11 @@
           <author ref="a:miéville.c">Miéville, China</author>.
           <title>The Scar</title>.
           <series><title>New Crobuzon</title></series>
+        </bibl>
+        <bibl>
+          <author>Milan, Courtney</author>.
+          <title>The Duke Who Didn’t</title>.
+          <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
           <author>Milan, Courtney</author>.
@@ -2755,6 +2812,13 @@
           <date type="added" when="2018-06-26"/>
         </bibl>
         <bibl>
+          <author>Obama, Barack</author>.
+          <title>A Promised Land</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-12"/>
+        </bibl>
+        <bibl>
           <author>O’Dell, Claire</author>.
           <title>Hound of Justice</title>.
           <catRef target="#tag.queer"/>
@@ -3038,16 +3102,16 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
+          <editor>Rose, M.J.</editor> and
+          <editor>Fiona Davis</editor>.
+          <title>Stories from Suffragette City</title>.
+          <catRef target="#tag.anthology"/>
+          <date type="added" when="2020-11-12"/>
+        </bibl>
+        <bibl>
           <author>Rosenberg, Jordy</author>.
           <title>Confession of the Fox</title>.
           <date type="added" when="2018-06-30"/>
-        </bibl>
-        <bibl>
-          <author>Rossi Armfield, Gina</author>.
-          <title>No Excuses Art Journaling: Making Time for Creativity</title>.
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.reference"/>
-          <date type="added" when="2020-05-11"/>
         </bibl>
         <bibl>
           <author>Rubinstein, Gillian</author>.
@@ -3302,7 +3366,7 @@
         <bibl>
           <respStmt>
             <resp n="editor of compilation"/>
-            <persName>Ally Shwed</persName>
+            <persName>Shwed, Ally</persName>
           </respStmt>.
           <title>Votes for Women: a comics anthology celebrating the centennial of 
             the 19th amendment</title>.
@@ -3310,6 +3374,12 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
+          <author>Skrutskie, Emily</author>.
+          <title>Oaths of Legacy</title>.
+          <date type="added" when="2020-11-12"/>
+          <series><title>The Bloodright Trilogy</title></series>
         </bibl>
         <bibl>
           <author>Slaughter, Karin</author>.

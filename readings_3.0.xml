@@ -39,6 +39,21 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2020-11-12">
+          <p>Read <title ref="b:chambers.b.smallangryplanet">The Long Way to a Small, Angry Planet</title>.</p>
+        </event>
+        <event from="2020-11-08" to="2020-11-12">
+          <p>Read <title ref="b:summers.ak.pregnantbutch">Pregnant Butch: Nine Long Months Spent in Drag</title>.</p>
+        </event>
+        <event from="2020-11-02" to="2020-11-11">
+          <p>Reread <title ref="b:mckinley.r.sunshine">Sunshine</title>.</p>
+        </event>
+        <event when="2020-11-01">
+          <p>Reread <title ref="b:stevenso.n.nimona">Nimona</title>.</p>
+        </event>
+        <event from="2020-10-21" to="2020-10-29">
+          <p>Reread <title ref="b:zdarsky.c.jughead.1">Jughead Vol. 1</title>.</p>
+        </event>
         <event from="2020-10-11" to="2020-10-12">
           <p>Read <title ref="b:willis.d.dumbingofage.9.mildlysubversiveatworst">Now Let’s Go Commit Something 
             Mildly Subversive Which, at Worst, Will Serve as a Humanizing Anecdote and Not as Anything Truly 
@@ -46,7 +61,7 @@
           <p>I only read the first 50 pages or so online. This is the first <title>Dumbing of Age</title> volume 
             where I didn’t already know what was about to happen.</p>
         </event>
-        <event from="2020-10-11">
+        <event from="2020-10-11" to="2020-10-31">
           <p>Reread <title ref="b:skrutskie.e.bondsofbrass">Bonds of Brass</title>.</p>
         </event>
         <event from="2020-10-06" to="2020-10-10">
