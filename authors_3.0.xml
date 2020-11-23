@@ -55,6 +55,22 @@
         </person>-->
         
         
+        <person xml:id="headley.md">
+          <persName>
+            <forename>Maria Dahvana</forename>
+            <surname>Headley</surname>
+          </persName>
+          <persPronouns value="she/her/hers" evidence="self-identification"/>
+        </person>
+        
+        <person xml:id="dunbarortiz.r">
+          <persName>
+            <forename>Roxanne</forename>
+            <surname>Dunbar-Ortiz</surname>
+          </persName>
+          <persPronouns value="she/her/hers" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="chambers.b">
           <persName>
             <forename>Becky</forename>

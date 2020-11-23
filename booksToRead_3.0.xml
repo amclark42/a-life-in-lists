@@ -494,6 +494,13 @@
           <series><title>Mercy Thompson</title></series>
         </bibl>
         <bibl>
+          <author>Brock, Kevin</author>.
+          <title>Rhetorical code studies: Discovering arguments in and around 
+            code</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-13"/>
+        </bibl>
+        <bibl>
           <author>Brookner, Anita</author>.
           <title>Hotel du Lac</title>.
         </bibl>
@@ -505,6 +512,12 @@
         <bibl>
           <author>Brooks, Jayde</author>.
           <title>Daughter of Gods and Shadows</title>.
+        </bibl>
+        <bibl>
+          <author>Brown, James J.</author>
+          <title>Ethical programs: Hospitality and the rhetorics of software</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-13"/>
         </bibl>
         <bibl>
           <author>Browne, Simone</author>.
@@ -669,10 +682,16 @@
           <title>Werewolves in Their Youth</title>.
         </bibl>
         <bibl>
-          <author>Chambers, Becky</author>.
-          <title>A Long Way to a Small, Angry Planet</title>.
+          <author ref="a:chambers.b">Chambers, Becky</author>.
+          <title>A Closed and Common Orbit</title>.
           <series><title>Wayfarers</title></series>
-          <date type="added" when="2016-07-26"/>
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
+          <author ref="a:chambers.b">Chambers, Becky</author>.
+          <title>Record of a Spaceborn Few</title>.
+          <series><title>Wayfarers</title></series>
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author>Chauncey, George</author>.
@@ -769,6 +788,11 @@
           <series><title>Space Odyssey</title></series>
         </bibl>
         <bibl>
+          <author>Clarke, Hannah Abigail</author>.
+          <title>The Scapegracers</title>.
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author ref="a:clarke.s">Clarke, Susanna</author>.
           <title>The Ladies of Grace Adieu and Other Stories</title>.
           <date type="added" when="2018-07-15"/>
@@ -829,6 +853,11 @@
           <title>Eloquent Rage: A Black Feminist Discovers Her Superpower</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author>Corcoran, Helen</author>.
+          <title>Queen of Coin and Whispers</title>.
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <editor>Crabb, Cindy</editor>.
@@ -920,6 +949,11 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <author>Deonn, Tracy</author>.
+          <title>Legendborn</title>.
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author>Devenport, Emily</author>.
           <title>Medusa Uploaded</title>.
           <series><title>The Medusa Cycle</title></series>
@@ -980,12 +1014,14 @@
           <title>The Count of Monte Cristo</title>.
         </bibl>
         <bibl>
-          <author>Dunbar-Ortiz, Roxanne</author>.
+          <author ref="a:dunbarortiz.r">Dunbar-Ortiz, Roxanne</author>.
           <title>An Indigenous Peoples’ History of the United States</title>.
           <catRef target="#tag.nonfiction"/>
           <series>
             <title>ReVisioning American History</title>
           </series>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned" corresp="b:dunbarortiz.r.indigenoushistoryunitedstates"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -1066,6 +1102,11 @@
           <series><title>Jaran</title></series>
           <catRef target="#tag.owned" corresp="b:elliott.k.lawbecoming"/>
           <date type="added" when="2016-02-11"/>
+        </bibl>
+        <bibl>
+          <author ref="a:elliot.k">Elliot, Kate</author>.
+          <title>The Unconquerable Sun</title>.
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>,
@@ -1465,6 +1506,12 @@
           <!-- In-library use only at BPL Central Delivery Desk -->
         </bibl>
         <bibl>
+          <author ref="a:griffith.n">Griffith, Nicola</author>.
+          <title>Menewood</title>.
+          <series><title>Hild</title></series>
+          <date type="added" when="2020-11-19"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="artist"/>
             <resp n="creator"/>
@@ -1578,13 +1625,15 @@
         <bibl>
           <respStmt>
             <resp n="translator"></resp>
-            <persName>Headley, Maria Dahvana</persName>
+            <persName ref="a:headley.md">Headley, Maria Dahvana</persName>
           </respStmt>.
           <title>Beowulf</title>.
+          <catRef target="#tag.owned" corresp="b:headley.md.beowulf"/>
+          <catRef target="#tag.poetry"/>
           <date type="added" when="2020-08-29"/>
         </bibl>
         <bibl>
-          <author>Headley, Maria Dahvana</author>
+          <author ref="a:headley.md">Headley, Maria Dahvana</author>
           <title>The Mere Wife</title>.
           <date type="added" when="2020-09-16"/>
         </bibl>
@@ -2025,6 +2074,11 @@
           <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
+          <author>Klune, T.J.</author>
+          <title>The House in the Cerulean Sea</title>.
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -2096,6 +2150,12 @@
           <date type="added" when="2020-03-14"/>
         </bibl>
         <bibl>
+          <author>Larkwood, A.K.</author>
+          <title>The Unspoken Name</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author>Larson, Erik</author>.
           <title>The Devil in the White City</title>.
           <catRef target="#tag.nonfiction"/>
@@ -2133,10 +2193,12 @@
         <bibl>
           <author ref="a:lee.l">Lee, Li-Young</author>.
           <title>Book of My Nights</title>.
+          <catRef target="#tag.poetry"/>
         </bibl>
         <bibl>
           <author ref="a:lee.l">Lee, Li-Young</author>.
           <title>The Winged Seed: A Remembrance</title>.
+          <catRef target="#tag.poetry"/>
         </bibl>
         <bibl>
           <author>Lee, Tanith</author>.
@@ -2280,6 +2342,12 @@
           <author>Mann, Charles C.</author>
           <title>1491: New Revelations of the Americas Before Columbus</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Marino, Mark C.</author>
+          <title>Critical Code Studies</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-11-13"/>
         </bibl>
         <bibl>
           <author>Marks, Laurie J.</author>
@@ -2487,6 +2555,12 @@
           <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
+          <author>Mejia, Tehlor Kay</author> and
+          <author>Anna-Marie McLemore</author>.
+          <title>Miss Meteor</title>.
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author ref="a:meltzer.b">Meltzer, Brad</author>.
           <title>The Book of Lies</title>.
         </bibl>
@@ -2612,6 +2686,11 @@
           <date type="added" when="2019-11-30"/>
         </bibl>
         <bibl>
+          <author>Morrow, Bethany C.</author>
+          <title>A Song Below Water</title>.
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author>Morton, Kati</author>.
           <title>Are u ok?: A Guide to Caring for Your Mental Health</title>.
           <catRef target="#tag.nonfiction"/>
@@ -2634,6 +2713,11 @@
           <author>Moss, Sarah</author>.
           <title>Ghost Wall</title>.
           <date type="added" when="2019-08-10"/>
+        </bibl>
+        <bibl>
+          <author>Muir, Tamsyn</author>.
+          <title>Harrow the Ninth</title>.
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author ref="a:munroe.r">Munroe, Randall</author>.
@@ -2809,6 +2893,7 @@
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Spinning Silver</title>.
+          <catRef target="#tag.owned" corresp="b:novik.n.spinningsilver"/>
           <date type="added" when="2018-06-26"/>
         </bibl>
         <bibl>
@@ -2876,6 +2961,12 @@
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2017-09-10"/>
           <!-- in-library use only; available as an eBook from BPL -->
+        </bibl>
+        <bibl>
+          <author>Oshiro, Mark</author>.
+          <title>Each of Us a Desert</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author ref="a:ostertag.mk">Ostertag, Molly</author>.
@@ -3087,6 +3178,11 @@
           <title>Packing for Mars: The Curious Science of Life in the Void</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-08-04"/>
+        </bibl>
+        <bibl>
+          <author>Roanhorse, Rebecca</author>.
+          <title>Black Sun</title>.
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author>Rodabaugh, Katrina</author>.
@@ -3454,6 +3550,12 @@
           <title>Digital Divide</title>.
         </bibl>
         <bibl>
+          <author>Sparks, Amber</author>.
+          <title>And I Do Not Forgive You: Stories and Other Revenges</title>.
+          <catRef target="#tag.compilation"/>
+          <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
           <author>Spelman, Elizabeth V.</author>
           <title>Inessential Woman: Problems of Exclusion in Feminist Thought</title>.
           <catRef target="#tag.nonfiction"/>
@@ -3702,6 +3804,11 @@
           <title>Mooncakes</title>.
           <catRef target="#tag.comics"/>
           <date type="added" when="2019-09-24"/>
+        </bibl>
+        <bibl>
+          <author>Walschots, Natalie Zina</author>.
+          <title>Hench</title>.
+          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author ref="a:walton.j">Walton, Jo</author>.

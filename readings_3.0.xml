@@ -39,7 +39,11 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-11-12">
+        <event from="2020-11-21">
+          <p>Read <title ref="b:dunbarortiz.r.indigenoushistoryunitedstates">An Indigenous Peoples’ History of the 
+            United States</title>.</p>
+        </event>
+        <event from="2020-11-12" to="2020-11-21">
           <p>Read <title ref="b:chambers.b.smallangryplanet">The Long Way to a Small, Angry Planet</title>.</p>
         </event>
         <event from="2020-11-08" to="2020-11-12">

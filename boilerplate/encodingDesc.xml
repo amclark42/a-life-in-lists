@@ -47,6 +47,9 @@
       <category xml:id="tag.owned">
         <catDesc>owned</catDesc>
       </category>
+      <category xml:id="tag.poetry">
+        <catDesc>poetry</catDesc>
+      </category>
       <category xml:id="tag.reference">
         <catDesc>reference</catDesc>
       </category>

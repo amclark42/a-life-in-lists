@@ -73,6 +73,63 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="novik.n.spinningsilver">
+            <monogr>
+              <title>Spinning Silver</title>
+              <author>
+                <persName ref="a:novik.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2020-11-12"/>
+                <date type="added" when="2018-06-26"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Del Rey</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="headley.md.beowulf">
+            <monogr>
+              <title>Beowulf</title>
+              <title type="sub">A New Translation</title>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:headley.md"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2020-11-12"/>
+                <catRef target="#tag.poetry"/>
+                <date type="added" when="2020-08-29"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>MCD x FSG Originals</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="dunbarortiz.r.indigenoushistoryunitedstates">
+            <monogr>
+              <author>
+                <persName ref="a:dunbarortiz.r"/>
+              </author>
+              <title>An Indigenous Peoples’ History of the United States</title>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2020-11-12"/>
+                <date type="added" when="2018-10-27"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Beacon Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>ReVisioning American History</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="chambers.b.smallangryplanet">
             <monogr>
@@ -81,6 +138,7 @@
                 <persName ref="a:chambers.b"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2016-07-26"/>
                 <date type="copyright" when="2014"/>
                 <publisher>
@@ -8147,6 +8205,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Hild</title>
+            </series>
           </biblStruct>
 
           <biblStruct xml:id="yang.gl.avatarpromise">
