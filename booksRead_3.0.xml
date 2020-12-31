@@ -73,6 +73,60 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="novik.n.deadlyeducation">
+            <monogr>
+              <title>A Deadly Education</title>
+              <author>
+                <persName ref="a:novik.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2020-12-25"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Penguin Random House</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Scholomance</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="robertson.da.barrengrounds">
+            <monogr>
+              <title>The Barren Grounds</title>
+              <author>
+                <persName ref="a:robertson.da"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2020-12-25"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Puffin</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Misewa Saga</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="solomon.r.unkindnessghosts">
+            <monogr>
+              <title>An Unkindness of Ghosts</title>
+              <author>
+                <persName ref="a:solomon.r"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-07-21"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Akashic Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="novik.n.spinningsilver">
             <monogr>
               <title>Spinning Silver</title>

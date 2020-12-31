@@ -708,6 +708,13 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author>Chen, Angela</author>.
+          <title>Ace: What Asexuality Reveals about Desire, Society, and the Meaning 
+            of Sex</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-12-31"/>
+        </bibl>
+        <bibl>
           <author>Chen, Mike</author>.
           <title>Here and Now and Then</title>.
           <date type="added" when="2018-12-27"/>
@@ -1021,7 +1028,8 @@
             <title>ReVisioning American History</title>
           </series>
           <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:dunbarortiz.r.indigenoushistoryunitedstates"/>
+          <catRef target="#tag.owned" 
+            corresp="b:dunbarortiz.r.indigenoushistoryunitedstates"/>
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
@@ -2191,6 +2199,13 @@
           <date type="added" when="2016-07-09"/>
         </bibl>
         <bibl>
+          <author>Lee, Jarena</author>.
+          <title>Religious Experience and Journal of Jarena Lee</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-12-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:lee.l">Lee, Li-Young</author>.
           <title>Book of My Nights</title>.
           <catRef target="#tag.poetry"/>
@@ -2204,6 +2219,11 @@
           <author>Lee, Tanith</author>.
           <title>Biting the Sun</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author>Leicht, Stina</author>.
+          <title>Persephone Station</title>.
+          <date type="added" when="2020-12-31"/>
         </bibl>
         <bibl>
           <author>Lem, Stanislaw</author>.
@@ -2872,6 +2892,12 @@
         </bibl>
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
+          <title>A Deadly Education</title>.
+          <series><title>The Scholomance</title></series>
+          <catRef target="#tag.owned" corresp="b:novik.n.deadlyeducation"/>
+        </bibl>
+        <bibl>
+          <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Empire of Ivory</title>.
           <series><title>Temeraire</title></series>
         </bibl>
@@ -2913,9 +2939,28 @@
           </series>
         </bibl>
         <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>,
+          <respStmt>
+            <resp n="adapter"/>
+            <persName>John Jennings</persName>
+          </respStmt>, and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>David Brame</persName>
+          </respStmt>.
+          <title>After the Rain</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2020-12-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Akata Witch</title>.
           <date type="added" when="2018-09-03"/>
+        </bibl>
+        <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
+          <title>Remote Control</title>.
+          <date type="added" when="2020-12-31"/>
         </bibl>
         <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author> and
@@ -3185,6 +3230,12 @@
           <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
+          <author ref="a:robertson.da">Robertson, David A.</author>
+          <title>The Barren Grounds</title>.
+          <catRef target="#tag.owned" corresp="b:robertson.da.barrengrounds"/>
+          <series><title>The Misewa Saga</title></series>
+        </bibl>
+        <bibl>
           <author>Rodabaugh, Katrina</author>.
           <title>Mending Matters: Stitch, Patch, and Repair Your Favorite Denim &amp; 
             More</title>.
@@ -3381,6 +3432,17 @@
           <date type="added" when="2019-08-24"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Searle, Sarah Winifred</persName>
+          </respStmt>.
+          <title>Patience &amp; Esther: An Edwardian Romance</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-12-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:sebold.a">Sebold, Alice</author>.
           <title>The Almost Moon</title>.
         </bibl>
@@ -3395,6 +3457,14 @@
           <title>Naked</title>.
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Seidule, Ty</author>.
+          <title>Robert E. Lee and Me: A Southerner’s Reckoning with the Myth of the 
+            Lost Cause</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2020-12-31"/>
         </bibl>
         <bibl>
           <author>Senna, Danzy</author>.
@@ -3686,10 +3756,17 @@
         </bibl>
         <bibl>
           <author ref="a:thom.kc">Thom, Kai Cheng</author>.
-          <title>Fierce Femmes and Notorious Liars: A Dangerous Trans Girl’s Confabulous Memoir</title>.
+          <title>Fierce Femmes and Notorious Liars: A Dangerous Trans Girl’s 
+            Confabulous Memoir</title>.
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2020-03-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:thomas.a">Thomas, Angie</author>.
+          <title>Concrete Rose</title>.
+          <series><title>The Hate U Give</title></series>
+          <date type="added" when="2020-12-31"/>
         </bibl>
         <bibl>
           <author ref="a:thomas.s">Thomas, Scarlett</author>.
@@ -3788,6 +3865,12 @@
           <title>Mazes of Power</title>.
           <series><title>The Broken Trust</title></series>
           <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
+          <author>Waggoner, C.M.</author>
+          <title>The Ruthless Lady’s Guide to Wizardry</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2020-12-31"/>
         </bibl>
         <bibl>
           <author>Waldrop, Howard</author>.
