@@ -606,6 +606,12 @@
           <date type="added" when="2020-05-25"/>
         </bibl>
         <bibl>
+          <author>The Care Collective</author>.
+          <title>The Care Manifesto: The Politics of Interdependence</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-01-17"/>
+        </bibl>
+        <bibl>
           <author ref="a:carey.m">Carey, Mike</author>.
           <title>The Devil You Know</title>.
         </bibl>
@@ -1631,16 +1637,6 @@
           <date type="added" when="2016-09-25"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="translator"></resp>
-            <persName ref="a:headley.md">Headley, Maria Dahvana</persName>
-          </respStmt>.
-          <title>Beowulf</title>.
-          <catRef target="#tag.owned" corresp="b:headley.md.beowulf"/>
-          <catRef target="#tag.poetry"/>
-          <date type="added" when="2020-08-29"/>
-        </bibl>
-        <bibl>
           <author ref="a:headley.md">Headley, Maria Dahvana</author>
           <title>The Mere Wife</title>.
           <date type="added" when="2020-09-16"/>
@@ -2246,6 +2242,14 @@
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Levin, Golan</author> and
+          <author>Tega Brain</author>.
+          <title>Code as Creative Medium: A Handbook for Computational Art and Design</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2021-01-17"/>
         </bibl>
         <bibl>
           <author>Levinson, Cynthia</author>,
@@ -3596,11 +3600,6 @@
             Disaster</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-03"/>
-        </bibl>
-        <bibl>
-          <author>Solomon, River</author>.
-          <title>An Unkindness of Ghosts</title>.
-          <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
           <author>Somtow, S.P.</author>

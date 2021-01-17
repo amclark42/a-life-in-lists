@@ -39,10 +39,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2020-12-24">
+        <event from="2021-01-15">
+          <p>Listened to <title ref="b:bray.l.beautyqueens">Beauty Queens</title>.</p>
+        </event>
+        <event from="2020-12-24" to="2021-01-13">
           <p>Read <title ref="b:headley.md.beowulf">Beowulf</title>.</p>
         </event>
-        <event from="2020-12-22">
+        <event from="2020-12-22" to="2021-01-03">
           <p>Read <title ref="b:solomon.r.unkindnessghosts">An Unkindness of Ghosts</title>.</p>
         </event>
         <event from="2020-11-21">

@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2021-01-17">Added long-overdue "audiobook" tag.</change>
         <change when="2019-09-29">Added XIncluded changelog entries for the 
           generation of this file from the source ODT.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
@@ -73,6 +74,25 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="bray.l.beautyqueens">
+            <monogr>
+              <title>Beauty Queens</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="voice actor"/>
+                <persName ref="a:bray.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.audiobook"/>
+                <date type="added" when="2016-06-04"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Scholastic Audio</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="novik.n.deadlyeducation">
             <monogr>
               <title>A Deadly Education</title>
@@ -118,6 +138,7 @@
                 <persName ref="a:solomon.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.queer"/>
                 <date type="added" when="2018-07-21"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
@@ -149,6 +170,7 @@
               <title>Beowulf</title>
               <title type="sub">A New Translation</title>
               <respStmt>
+                <resp n="adapter"/>
                 <resp n="translator"/>
                 <persName ref="a:headley.md"/>
               </respStmt>
@@ -457,6 +479,7 @@
                 <persName ref="a:kendi.ix"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="added" when="2020-06-09"/>
@@ -481,6 +504,7 @@
                 <persName ref="a:lourde.b"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="added" when="2016-12-03"/>
@@ -501,6 +525,7 @@
                 <persName ref="a:halseanderson.l"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="added" when="2019-03-03"/>
@@ -777,6 +802,7 @@
                 <persName ref="a:turpin.b"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <date type="added" when="2017-08-20"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
@@ -835,6 +861,7 @@
                 <persName ref="a:klinenberg.e"/>
               </author>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
@@ -8971,6 +8998,7 @@
                 <persName ref="a:bray.l"/>
               </author>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -10320,6 +10348,7 @@
                 <persName ref="a:carr.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <publisher/>
               </imprint>
             </monogr>
@@ -11092,6 +11121,7 @@
                 <persName ref="a:pierce.t"/>
               </author>
               <imprint>
+                <!--<catRef target="#tag.audiobook"/>-->
                 <publisher/>
               </imprint>
             </monogr>
@@ -15208,6 +15238,7 @@
                 <persName ref="a:cowell.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.audiobook"/>
                 <publisher/>
               </imprint>
             </monogr>

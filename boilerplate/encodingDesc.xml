@@ -8,6 +8,9 @@
       <category xml:id="tag.artbook">
         <catDesc>art book</catDesc>
       </category>
+      <category xml:id="tag.audiobook">
+        <catDesc>audiobook</catDesc>
+      </category>
       <category xml:id="tag.class">
         <catDesc>classroom reading</catDesc>
       </category>
