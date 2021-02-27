@@ -39,8 +39,14 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2021-01-15">
+        <event from="2021-02-21">
           <p>Listened to <title ref="b:bray.l.beautyqueens">Beauty Queens</title>.</p>
+        </event>
+        <event from="2021-01-29" to="2021-02-21">
+          <p>Read <title ref="b:robertson.da.barrengrounds">The Barren Grounds</title>.</p>
+        </event>
+        <event from="2021-01-15" to="2021-01-29">
+          <p>Listened to <title ref="b:bray.l.beautyqueens">Beauty Queens</title>. Left unfinished.</p>
         </event>
         <event from="2020-12-24" to="2021-01-13">
           <p>Read <title ref="b:headley.md.beowulf">Beowulf</title>.</p>

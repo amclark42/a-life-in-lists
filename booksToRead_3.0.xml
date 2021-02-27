@@ -2057,6 +2057,11 @@
           <date type="added" when="2018-03-03"/>
         </bibl>
         <bibl>
+          <author ref="a:kingfisher.t">Kingfisher, T.</author>
+          <title>A Wizard’s Guide to Defensive Baking</title>.
+          <date type="added" when="2021-01-17"/>
+        </bibl>
+        <bibl>
           <author ref="a:kingsolver.b">Kingsolver, Barbara</author>.
           <title>The Poisonwood Bible</title>.
           <date type="added" when-custom="ash:youngadult"/>
@@ -3232,12 +3237,6 @@
           <author>Roanhorse, Rebecca</author>.
           <title>Black Sun</title>.
           <date type="added" when="2020-11-23"/>
-        </bibl>
-        <bibl>
-          <author ref="a:robertson.da">Robertson, David A.</author>
-          <title>The Barren Grounds</title>.
-          <catRef target="#tag.owned" corresp="b:robertson.da.barrengrounds"/>
-          <series><title>The Misewa Saga</title></series>
         </bibl>
         <bibl>
           <author>Rodabaugh, Katrina</author>.
