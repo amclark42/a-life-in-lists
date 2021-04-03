@@ -39,8 +39,32 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2021-02-21">
-          <p>Listened to <title ref="b:bray.l.beautyqueens">Beauty Queens</title>.</p>
+        <event from="2021-03-31">
+          <p>Read <title ref="b:novik.n.deadlyeducation">A Deadly Education</title>.</p>
+        </event>
+        <event from="2021-03-26">
+          <p>Reread <title ref="b:beaton.k.harkavagrant">Hark! A Vagrant</title>.</p>
+        </event>
+        <event from="2021-03-23" to="2021-03-31">
+          <p>Read <title ref="b:andrews.i.magicmourns">Magic Mourns</title>.</p>
+        </event>
+        <event from="2021-03-16" to="2021-03-25">
+          <p>Listened to <title ref="b:tyson.nd.astrophysicspeoplehurry">Astrophysics for People in a Hurry</title>.</p>
+        </event>
+        <event from="2021-03-13" to="2021-03-23">
+          <p>Reread <title ref="b:griffith.n.ammonite">Ammonite</title>.</p>
+        </event>
+        <event when="2021-03-10">
+          <p>Read <title ref="b:ries.as.witchy.1">Witchy Vol. 1</title>.</p>
+        </event>
+        <event from="2021-03-09" to="2021-03-12">
+          <p>Reread <title ref="b:mcguire.s.winterlong">The Winter Long</title>.</p>
+        </event>
+        <event from="2021-02-28" to="2021-03-05">
+          <p>Read <title ref="b:george.z.dogtrainingrevolution">Zak George’s Dog Training Revolution</title>.</p>
+        </event>
+        <event from="2021-02-21" to="2021-03-03">
+          <p>Finished listening to <title ref="b:bray.l.beautyqueens">Beauty Queens</title>.</p>
         </event>
         <event from="2021-01-29" to="2021-02-21">
           <p>Read <title ref="b:robertson.da.barrengrounds">The Barren Grounds</title>.</p>

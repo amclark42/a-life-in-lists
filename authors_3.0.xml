@@ -19,6 +19,10 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2021-03-12">Modified <att>value</att> and <att>evidence</att> contents 
+          on <gi>persPronouns</gi> to match TEI recommendations! Only the subject pronoun is 
+          listed, and "self-identification" is camel-cased instead of hyphenated.</change>
+        <change when="2020-10-12">Stopped recording <gi>gender</gi>.</change>
         <change when="2020-03-26">Changed <att>persPronouns</att> to <gi>persPronouns</gi>.</change>
         <change when="2020-03-07">With an update to Perspectography, I added information about 
           people's pronouns to <gi>gender</gi> using the custom attribute 
@@ -50,17 +54,55 @@
             <forename></forename>
             <surname></surname>
           </persName>
-          <gender value="" evidence="conjecture"/>
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        <person xml:id="tyson.nd">
+          <persName>
+            <forename>Neil deGrasse</forename>
+            <surname>Tyson</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="forna.n">
+          <persName>
+            <forename>Namina</forename>
+            <surname>Forna</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="ries.as">
+          <persName>
+            <forename>Ariel Slamet</forename>
+            <surname>Ries</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="george.z">
+          <persName>
+            <forename>Zak</forename>
+            <surname>George</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="port.dr">
+          <persName>
+            <forename>Dina Roth</forename>
+            <surname>Port</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
         
         <person xml:id="robertson.da">
           <persName>
             <forename>David A.</forename>
             <surname>Robertson</surname>
           </persName>
-          <persPronouns value="he/him/his" evidence="self-identification"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="solomon.r">
@@ -68,7 +110,7 @@
             <forename>River</forename>
             <surname>Solomon</surname>
           </persName>
-          <persPronouns value="fae/faer/faers they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="fae they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="headley.md">
@@ -76,7 +118,7 @@
             <forename>Maria Dahvana</forename>
             <surname>Headley</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="dunbarortiz.r">
@@ -84,7 +126,7 @@
             <forename>Roxanne</forename>
             <surname>Dunbar-Ortiz</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="chambers.b">
@@ -92,7 +134,7 @@
             <forename>Becky</forename>
             <surname>Chambers</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="hall.j">
@@ -100,7 +142,7 @@
             <forename>Justin</forename>
             <surname>Hall</surname>
           </persName>
-          <persPronouns value="he/him/his" evidence="conjecture"/>
+          <persPronouns value="he" evidence="conjecture"/>
         </person>
         
         <person xml:id="summers.ak">
@@ -108,7 +150,7 @@
             <forename>A.K.</forename>
             <surname>Summers</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="skrutskie.e">
@@ -116,7 +158,7 @@
             <forename>Emily</forename>
             <surname>Skrutskie</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="kann.c">
@@ -124,7 +166,7 @@
             <forename>Claire</forename>
             <surname>Kann</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="asercion.c">
@@ -132,7 +174,7 @@
             <forename>Caro</forename>
             <surname>Asercion</surname>
           </persName>
-          <persPronouns value="they/them/theirs" evidence="conjecture"/>
+          <persPronouns value="they" evidence="conjecture"/>
         </person>
         
         <person xml:id="conrad.ba">
@@ -152,7 +194,7 @@
         <person xml:id="chii">
           <persName type="pseudonym">Chii</persName>
           <gender value="female" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="neilsenhayden.t">
@@ -161,7 +203,7 @@
             <surname>Neilsen Hayden</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="neilsenhayden.p">
@@ -170,7 +212,7 @@
             <surname>Neilsen Hayden</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
-          <persPronouns value="he/him/his" evidence="self-identification"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="odell.c">
@@ -179,7 +221,7 @@
             <surname>O’Dell</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="glassman.s">
@@ -188,7 +230,7 @@
             <surname>Glassman</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="kendi.ix">
@@ -197,7 +239,7 @@
             <surname>Kendi</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
-          <persPronouns value="he/him/his" evidence="self-identification"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="fisher.c">
@@ -206,7 +248,7 @@
             <surname>Fisher</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="lourde.b">
@@ -215,7 +257,7 @@
             <surname>Lourde</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="halseanderson.l">
@@ -224,7 +266,7 @@
             <surname>Halse Anderson</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="conjecture"/>
+          <persPronouns value="she" evidence="conjecture"/>
         </person>
         
         <person xml:id="rossiarmfield.g">
@@ -233,7 +275,7 @@
             <surname>Rossi Armfield</surname>
           </persName>
           <gender value="female" evidence="conjecture"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="panetta.k">
@@ -323,7 +365,7 @@
             <surname>Wilson</surname>
           </persName>
           <gender value="female" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="bravo.k">
@@ -368,7 +410,7 @@
             <surname>Anderson</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
-          <persPronouns value="he/him/his" evidence="self-identification"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="wicentowski.jc">
@@ -377,7 +419,7 @@
             <surname>Wicentowski</surname>
           </persName>
           <gender value="male" evidence="conjecture"/>
-          <persPronouns value="he/him/his" evidence="self-identification"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="ansari.a">
@@ -427,7 +469,7 @@
             <surname>Benaway</surname>
           </persName>
           <gender value="trans girl" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="vest.a">
@@ -435,7 +477,7 @@
             <forename>Audrey</forename>
             <surname>Vest</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="wasserstein.i">
@@ -443,7 +485,7 @@
             <forename>Izzy</forename>
             <surname>Wasserstein</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="gwynception">
@@ -451,7 +493,7 @@
             <name>gwynception</name>
           </persName>
           <gender value="trans femme" evidence="self-identification"/>
-          <persPronouns value="they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="mellor.e">
@@ -460,7 +502,7 @@
             <surname>Mellor</surname>
           </persName>
           <gender value="trans woman" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="mcdaniel.af">
@@ -468,7 +510,7 @@
             <forename>Alexa Fae</forename>
             <surname>McDaniel</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="sturges.l">
@@ -476,7 +518,7 @@
             <forename>Lilah</forename>
             <surname>Sturges</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="thom.kc">
@@ -484,7 +526,7 @@
             <forename>Kai Cheng</forename>
             <surname>Thom</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="bemis.ka">
@@ -493,7 +535,7 @@
             <surname>Bemis</surname>
           </persName>
           <gender value="trans woman, two-spirit" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="plett.c">
@@ -501,7 +543,7 @@
             <forename>Casey</forename>
             <surname>Plett</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="ullman.e">
@@ -1334,7 +1376,7 @@
           <persName>
             <name>Ametalias</name>
           </persName>
-          <persPronouns value="she/her/hers"/>
+          <persPronouns value="she"/>
         </person>
         
         <person xml:id="capp">
@@ -1393,7 +1435,7 @@
             <forename>Aliza</forename>
             <surname>Layne</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="lin">
@@ -1434,7 +1476,7 @@
             <forename>Rhiannon</forename>
             <surname>Rasmussen-Silverstein</surname>
           </persName>
-          <persPronouns value="they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="riess.n">
@@ -1450,7 +1492,7 @@
             <forename>Faye</forename>
             <surname>Simms</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="stern.s">
@@ -1466,7 +1508,7 @@
             <forename>Gisele</forename>
             <surname>Weaver</surname>
           </persName>
-          <persPronouns value="they/them/theirs she/her/hers" evidence="self-identification"/>
+          <persPronouns value="they she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="xu.r">
@@ -1770,7 +1812,7 @@
             <surname>Chevat</surname>
           </persName>
           <gender value="non-binary" evidence="self-identification"/>
-          <persPronouns value="he/him/his they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="he they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="murakami.h">
@@ -1914,7 +1956,7 @@
             <surname>Kobabe</surname>
           </persName>
           <gender value="non-binary" evidence="self-identification"/>
-          <persPronouns value="e/em/eirs" evidence="self-identification"/>
+          <persPronouns value="e" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="seago.a">
@@ -1953,7 +1995,7 @@
             <forename>Iris</forename>
             <surname>Jay</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="rubedo.s">
@@ -1961,7 +2003,7 @@
             <forename>Skolli</forename>
             <surname>Rubedo</surname>
           </persName>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="chan.nn">
@@ -1991,7 +2033,7 @@
             <forename>Jay</forename>
             <surname>Eaton</surname>
           </persName>
-          <persPronouns value="they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="wright.jf">
@@ -2419,7 +2461,7 @@
             <surname>Reisman</surname>
           </persName>
           <gender value="non-binary" evidence="self-identification"/>
-          <persPronouns value="she/her/hers they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="she they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="rusch.kk">
@@ -2829,7 +2871,7 @@
             <forename>Meg-John</forename>
             <surname>Barker</surname>
           </persName>
-          <persPronouns value="they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="scheele.j">
@@ -4041,7 +4083,7 @@
             <surname>Alder</surname>
           </persName>
           <gender value="female" evidence="self-identification"/>
-          <persPronouns value="she/her/hers" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="reis.c">
@@ -4886,7 +4928,7 @@
             <surname>Gedris</surname>
           </persName>
           <gender value="non-binary" evidence="conjecture"/>
-          <persPronouns value="they/them/theirs" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="scarboro.d">
@@ -5263,6 +5305,7 @@
             <forename>Blue</forename>
             <surname>Delliquanti</surname>
           </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="maclean.wm">
@@ -8804,11 +8847,11 @@
         </person>
 
         <person xml:id="andrews.i">
-          <persName>
+          <persName type="pseudonym">
             <forename>Ilona</forename>
             <surname>Andrews</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <note>Pseudonym of spouses Ilona and Andrew Gordon.</note>
         </person>
 
         <person xml:id="mckelvie.j">

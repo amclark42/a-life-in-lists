@@ -185,22 +185,20 @@
         </bibl>
         <bibl>
           <author ref="a:andrews.i">Andrews, Ilona</author>.
-          <title>Magic Mourns</title>.
-          <series><title>Kate Daniels</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:andrews.i">Andrews, Ilona</author>.
           <title>Magic Bleeds</title>.
+          <date type="added" when="2014"/>
           <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author ref="a:andrews.i">Andrews, Ilona</author>.
           <title>Magic Dreams</title>.
+          <date type="added" when="2014"/>
           <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
           <author ref="a:andrews.i">Andrews, Ilona</author>.
           <title>Magic Slays</title>.
+          <date type="added" when="2014"/>
           <series><title>Kate Daniels</title></series>
         </bibl>
         <bibl>
@@ -476,11 +474,6 @@
         <bibl>
           <author>Brande, Robin</author>.
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:bray.l">Bray, Libba</author>.
-          <title>Beauty Queens</title>.
-          <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
           <author ref="brennan.m">Brennan, Marie</author>.
@@ -862,6 +855,12 @@
           <date type="added" when="2017-09-28"/>
         </bibl>
         <bibl>
+          <author>Constanza-Chock, Sasha</author>.
+          <title>Design Justice: Community-Led Practices to Build the Worlds We Need</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-03"/>
+        </bibl>
+        <bibl>
           <author>Cooper, Brittney</author>.
           <title>Eloquent Rage: A Black Feminist Discovers Her Superpower</title>.
           <catRef target="#tag.nonfiction"/>
@@ -919,6 +918,17 @@
           <title>Mad Hatter and March Hares</title>.
           <catRef target="#tag.anthology"/>
           <date type="added" when="2018-02-17"/>
+        </bibl>
+        <bibl>
+          <author>David, Arvind Ethan</author>.
+          <respStmt>
+            <resp n="narrator"/>
+            <persName ref="a:gaiman.n">Neil Gaiman</persName>
+            <persName>Jewel Staite</persName>
+          </respStmt>
+          <title>The Neil Gaiman at the End of the Universe</title>.
+          <catRef target="#tag.audiobook"/>
+          <date type="added" when="2021-04-03"/>
         </bibl>
         <bibl>
           <author>David, Peter</author>.
@@ -1235,6 +1245,11 @@
           <title>Nobody’s Family is Going to Change</title>.
         </bibl>
         <bibl>
+          <author>Flake, Sharon</author>.
+          <title>Unstoppable Octobia May</title>.
+          <date type="added" when="2021-04-03"/>
+        </bibl>
+        <bibl>
           <author ref="a:fletcher.b">Fletcher, Brenden</author>.
           <title>Gotham Academy Vol. 3: Yearbook</title>.
           <catRef target="#tag.comics"/>
@@ -1274,6 +1289,12 @@
           <author>Ford, John M.</author>
           <title>Growing Up Weightless</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <author ref="a:forna.n">Forna, Namina</author>.
+          <title>The Gilded Ones</title>.
+          <catRef target="#tag.owned" corresp="b:forna.n.gildedones"/>
+          <date type="added" when="2021-03-14"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -1470,6 +1491,12 @@
             and Mary Shelley</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-02-28"/>
+        </bibl>
+        <bibl>
+          <author>Gorman, Amanda</author>.
+          <title>The Hill We Climb: Poems</title>.
+          <catRef target="#tag.poetry"/>
+          <date type="added" when="2021-03-12"/>
         </bibl>
         <bibl>
           <author>Gorodischer, Angelica</author>.
@@ -1840,6 +1867,13 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Jackson, Katrina</author>.
+          <title>Pink Slip</title>.
+          <catRef target="#tag.queer"/>
+          <series><title>The Spies Who Loved Her</title></series>
+          <date type="added" when="2021-04-03"/>
+        </bibl>
+        <bibl>
           <author>Jama-Everett, Ayize</author>.
           <title>The Liminal People</title>.
           <date type="added" when="2018-06-02"/>
@@ -2083,6 +2117,14 @@
           <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
+          <author>Kitchin, Rob</author> and
+          <author>Martin Dodge</author>.
+          <title>Code/Space: Software and Everyday Life</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-03-12"/>
+          <ptr target="https://direct.mit.edu/books/book/5039/Code-SpaceSoftware-and-Everyday-Life"/>
+        </bibl>
+        <bibl>
           <author>Klune, T.J.</author>
           <title>The House in the Cerulean Sea</title>.
           <date type="added" when="2020-11-23"/>
@@ -2110,6 +2152,12 @@
           <title>The Sixth Extinction: An Unnatural History</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
+          <author>Kondo, Marie</author>.
+          <title>The Life-Changing Magic of Tidying Up</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-03"/>
         </bibl>
         <bibl>
           <author>Koul, Scaachi</author>.
@@ -2283,6 +2331,13 @@
           <title>Snapdragon</title>.
           <catRef target="#tag.comics"/>
           <date type="added" when="2020-01-31"/>
+        </bibl>
+        <bibl>
+          <author>Lipman, Doug</author>.
+          <title>Improving Your Storytelling: Beyond the Basics for All Who Tell 
+            Stories in Work or Play</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-03-12"/>
         </bibl>
         <bibl>
           <author ref="liu.k">Liu, Ken</author>
@@ -3076,6 +3131,13 @@
           <date type="added" when="2020-06-06"/>
         </bibl>
         <bibl>
+          <author>Parker, Alison M.</author>
+          <title>Unceasing Militant: The Life of Mary Church Terrell</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-03-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:parker.j">Parker, Jeff</author> and
           <respStmt>
             <resp n="artist"/>
@@ -3214,6 +3276,13 @@
           <author>Quinn, Kate</author>.
           <title>The Alice Network</title>.
           <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
+          <author>Rameau, Max</author>.
+          <title>Take Back the Land: Land, Gentrification and the Umoja Village 
+            Shantytown</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-03"/>
         </bibl>
         <bibl>
           <author ref="a:reisman.j">Reisman, Jessica</author>.
@@ -3545,6 +3614,13 @@
           <date type="added" when="2020-10-12"/>
         </bibl>
         <bibl>
+          <author>Skloot, Rebecca</author>.
+          <title>The Immortal Life of Henrietta Lacks</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-03"/>
+        </bibl>
+        <bibl>
           <author>Skrutskie, Emily</author>.
           <title>Oaths of Legacy</title>.
           <date type="added" when="2020-11-12"/>
@@ -3794,12 +3870,6 @@
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
           <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Tyson, Niel deGrasse</author>.
-          <title>Astrophysics for People in a Hurry</title>.
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
           <author>Tyson, Neil deGrasse</author>,

@@ -74,12 +74,131 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="andrews.i.magicmourns">
+            <monogr>
+              <title>Magic Mourns</title>
+              <author>
+                <persName ref="a:andrews.i"/>
+              </author>
+              <imprint>
+                <date type="added" when="2014"/>
+                <date type="copyright" when="2011"/>
+                <publisher>Penguin Publishing Group</publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Kate Daniels</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="tyson.nd.astrophysicspeoplehurry">
+            <monogr>
+              <title>Astrophysics for People in a Hurry</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="narrator"/>
+                <persName ref="a:tyson.nd"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.audiobook"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2017-08-20"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Blackstone Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="forna.n.gildedones">
+            <monogr>
+              <title>The Gilded Ones</title>
+              <author>
+                <persName ref="a:forna.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2021-03-10"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Delacorte Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="delliqua.b.ohumanstar.3">
+            <monogr>
+              <title>O Human Star Vol. 3</title>
+              <author>
+                <persName ref="a:delliqua.b"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2020-08-29"/>
+                <catRef target="#tag.owned" from="2021-03-12"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <persName ref="a:delliqua.b"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>O Human Star</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="ries.as.witchy.1">
+            <monogr>
+              <title>Witchy Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:ries.as"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-03-10"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2014"/>
+                <date type="publication" when="2020"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Witchy</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="george.z.dogtrainingrevolution">
+            <monogr>
+              <title>Zak George’s Dog Training Revolution</title>
+              <title type="sub">The Complete Guide to Raising the Perfect Pet with Love</title>
+              <author>
+                <persName ref="a:george.z"/>
+                <persName ref="a:port.dr"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-03-06"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Ten Speed Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="bray.l.beautyqueens">
             <monogr>
               <title>Beauty Queens</title>
               <respStmt>
                 <resp n="author"/>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:bray.l"/>
               </respStmt>
               <imprint>
@@ -475,7 +594,7 @@
               <title>How to Be an Antiracist</title>
               <respStmt>
                 <resp n="author"/>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:kendi.ix"/>
               </respStmt>
               <imprint>
@@ -496,11 +615,11 @@
               <title>The Princess Diarist</title>
               <respStmt>
                 <resp n="author"/>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:fisher.c"/>
               </respStmt>
               <respStmt>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:lourde.b"/>
               </respStmt>
               <imprint>
@@ -521,7 +640,7 @@
               <title>Shout</title>
               <respStmt>
                 <resp n="author"/>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:halseanderson.l"/>
               </respStmt>
               <imprint>
@@ -798,7 +917,7 @@
                 <persName ref="a:thomas.a"/>
               </author>
               <respStmt>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:turpin.b"/>
               </respStmt>
               <imprint>
@@ -854,7 +973,7 @@
               <title>Modern Romance</title>
               <respStmt>
                 <resp n="author"/>
-                <resp n="voice actor"/>
+                <resp n="narrator"/>
                 <persName ref="a:ansari.a"/>
               </respStmt>
               <author>
@@ -16887,10 +17006,13 @@
                 <persName ref="a:beaton.k"/>
               </respStmt>
               <imprint>
-                <catRef target="#tag.compilation"/>
-                <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.owned" from="2015"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Drawn &amp; Quarterly</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
