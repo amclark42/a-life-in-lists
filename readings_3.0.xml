@@ -39,10 +39,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2021-03-31">
+        <event from="2021-04-08">
+          <p>Read <title ref="b:morenogarcia.s.godsjadeshadow">Gods of Jade and Shadow</title>.</p>
+        </event>
+        <event from="2021-03-31" to="2021-04-07">
           <p>Read <title ref="b:novik.n.deadlyeducation">A Deadly Education</title>.</p>
         </event>
-        <event from="2021-03-26">
+        <event from="2021-03-26" to="2021-04-03">
           <p>Reread <title ref="b:beaton.k.harkavagrant">Hark! A Vagrant</title>.</p>
         </event>
         <event from="2021-03-23" to="2021-03-31">

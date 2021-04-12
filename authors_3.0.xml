@@ -57,6 +57,14 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        <person xml:id="morenogarcia.s">
+          <persName>
+            <forename>Silvia</forename>
+            <surname>Moreno-Garcia</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="tyson.nd">
           <persName>
             <forename>Neil deGrasse</forename>

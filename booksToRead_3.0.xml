@@ -364,6 +364,14 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author ref="a:bechdel.a">Bechdel, Alison</author>.
+          <title>The Secret to Superhuman Strength</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-12"/>
+        </bibl>
+        <bibl>
           <author>Bell, Clare</author>.
           <title>The Jaguar Princess</title>.
         </bibl>
@@ -1538,6 +1546,13 @@
         <bibl>
           <author>Green, Henry</author>.
           <title>Living, Loving, Partly Going</title>.
+        </bibl>
+        <bibl>
+          <author>Greene, Daniel</author>.
+          <title>The Promise of Access: Technology, Inequality, and the Political 
+            Economy of Hope</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-12"/>
         </bibl>
         <bibl>
           <author ref="a:griffith.n">Griffith, Nicola</author>.
@@ -2733,12 +2748,12 @@
           <title>Resenting the Hero</title>.
         </bibl>
         <bibl>
-          <author>Moreno-Garcia, Silvia</author>.
+          <author ref="a:morenogarcia.s">Moreno-Garcia, Silvia</author>.
           <title>Gods of Jade and Shadow</title>.
           <date type="added" when="2019-06-30"/>
         </bibl>
         <bibl>
-          <author>Moreno-Garcia, Silvia</author>.
+          <author ref="a:morenogarcia.s">Moreno-Garcia, Silvia</author>.
           <title>Mexican Gothic</title>.
           <date type="added" when="2020-05-28"/>
         </bibl>
@@ -2956,12 +2971,6 @@
         </bibl>
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
-          <title>A Deadly Education</title>.
-          <series><title>The Scholomance</title></series>
-          <catRef target="#tag.owned" corresp="b:novik.n.deadlyeducation"/>
-        </bibl>
-        <bibl>
-          <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Empire of Ivory</title>.
           <series><title>Temeraire</title></series>
         </bibl>
@@ -2979,6 +2988,12 @@
           <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Crucible of Gold</title>.
           <series><title>Temeraire</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:novik.n">Novik, Naomi</author>.
+          <title>The Last Graduate</title>.
+          <series><title>The Scholomance</title></series>
+          <date type="added" when="2021-04-12"></date>
         </bibl>
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
@@ -3243,6 +3258,18 @@
           <title>The Chosen</title>.
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:powell.n">Powell, Nate</persName>
+          </respStmt>.
+          <title>Save It for Later: Promises, Parenthood, and the Urgency of Protest</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-04-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
           <title>Once More* With Footnotes</title>.
           <catRef target="#tag.outofprint"/><!-- Published by NEFSA Press. -->
@@ -3472,13 +3499,6 @@
           </respStmt>
           <title>The Turnip Princess and Other Newly Discovered Fairy Tales</title>.
           <date type="added" when="2018-12-16"/>
-        </bibl>
-        <bibl>
-          <author>Schulman, Sarah</author>.
-          <title>Conflict is not Abuse: Overstating Harm, Community Responsibility, 
-            and the Duty of Repair</title>.
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2017-11-18"/>
         </bibl>
         <bibl>
           <author>Schwab, Victoria</author>.

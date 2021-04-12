@@ -74,6 +74,22 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="morenogarcia.s.godsjadeshadow">
+            <monogr>
+              <title>Gods of Jade and Shadow</title>
+              <author>
+                <persName ref="a:morenogarcia.s"/>
+              </author>
+              <imprint>
+                <date type="added" when="2019-06-30"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Del Rey</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="andrews.i.magicmourns">
             <monogr>
               <title>Magic Mourns</title>
