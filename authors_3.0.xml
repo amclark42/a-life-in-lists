@@ -57,6 +57,49 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        
+        <person xml:id="mided.s">
+          <persName>
+            <forename>Stephanie</forename>
+            <surname>Mided</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="chau.e">
+          <persName>
+            <forename>Ensley</forename>
+            <surname>Chau</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="davis.l">
+          <persName>
+            <forename>Leigh</forename>
+            <surname>Davis</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="geary.s">
+          <persName>
+            <forename>Suzanne</forename>
+            <surname>Geary</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="healy.l">
+          <persName>
+            <forename>Luke</forename>
+            <surname>Healy</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="pham.h">
+          <persName>
+            <forename>Hien</forename>
+            <surname>Pham</surname>
+          </persName>
+        </person>
+        
         <person xml:id="morenogarcia.s">
           <persName>
             <forename>Silvia</forename>

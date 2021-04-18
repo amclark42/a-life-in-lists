@@ -2145,18 +2145,6 @@
           <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:knisley.l">Knisley, Lucy</persName>
-          </respStmt>.
-          <title>Kid Gloves: Nine Months of Careful Chaos</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2019-08-24"/>
-        </bibl>
-        <bibl>
           <author>Kochman, Thomas</author>.
           <title>Black and White Styles in Conflict</title>.
           <catRef target="#tag.nonfiction"/>
@@ -2746,11 +2734,6 @@
         <bibl>
           <author>Moore, Moira</author>.
           <title>Resenting the Hero</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:morenogarcia.s">Moreno-Garcia, Silvia</author>.
-          <title>Gods of Jade and Shadow</title>.
-          <date type="added" when="2019-06-30"/>
         </bibl>
         <bibl>
           <author ref="a:morenogarcia.s">Moreno-Garcia, Silvia</author>.

@@ -74,6 +74,102 @@
           <!-- Break lines at column 100. -->
           
           
+          
+          <biblStruct xml:id="knisley.l.kidgloves">
+            <monogr>
+              <title>Kid Gloves: Nine Months of Careful Chaos</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:knisley.l"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:mided.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-04-16"/>
+                <date type="added" when="2019-08-24"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcelroy.c.theadventurezone.3.petalsmetal">
+            <monogr>
+              <title>The Adventure Zone: Murder on the Rockport Limited!</title>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="artist"/>
+                <persName ref="a:pietsch.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:stone.t"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:brennan.m"/>
+                <persName ref="a:chau.e"/>
+                <persName ref="a:davis.l"/>
+                <persName ref="a:geary.s"/>
+                <persName ref="a:healy.l"/>
+                <persName ref="a:pham.h"/>
+                <persName ref="a:tassoni.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.g"/>
+                <persName ref="a:mcelroy.j"/>
+                <persName ref="a:mcelroy.t"/>
+              </respStmt>
+              <!-- Missing the contributors to the fanart gallery? -->
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-04-16"/>
+                <date type="added" when="2018-12-28"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Adventure Zone</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.oncebrokenfaith">
+            <monogr>
+              <title>Once Broken Faith</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2021-04-16"/>
+                <date type="added" when="2018-01-07"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>October Daye</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="morenogarcia.s.godsjadeshadow">
             <monogr>
               <title>Gods of Jade and Shadow</title>
