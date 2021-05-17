@@ -57,6 +57,13 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        <person xml:id="kreuger.sg">
+          <persName>
+            <forename>Stephen G.</forename>
+            <surname>Kreuger</surname>
+          </persName>
+          <persPronouns value="he they" evidence="selfIdentification"/>
+        </person>
         
         <person xml:id="mided.s">
           <persName>

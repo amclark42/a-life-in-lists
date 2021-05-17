@@ -2193,6 +2193,13 @@
           <!-- available from BPL as an e-book -->
         </bibl>
         <bibl>
+          <author>Kreuger, Stephen G.</author>
+          <title>Supporting Trans People in Libraries</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-04-22"/>
+        </bibl>
+        <bibl>
           <author>Kuhn, Sarah</author>.
           <title>Heroine Complex</title>.
           <date type="added" when="2018-02-17"/>

@@ -39,13 +39,32 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-05-14" to="2021-05-15">
+          <p>Reread <title ref="b:mcelroy.c.theadventurezone.1.gerblins">The Adventure Zone Vol. 1: Here 
+            There Be Gerblins</title>.</p>
+        </event>
+        <event from="2021-05-09">
+          <p>Reread <title ref="b:leckie.a.ancillarymercy">Ancillary Mercy</title>.</p>
+        </event>
+        <event when="2021-05-06">
+          <p>Reread <title ref="b:trotman.cs.poorcraft">Poorcraft</title>.</p>
+        </event>
+        <event from="2021-05-04">
+          <p>Read <title ref="b:kreuger.sg.supportingtranspeoplelibraries">Supporting Trans People in Libraries</title>.</p>
+        </event>
+        <event when="2021-05-04">
+          <p>Reread <title ref="b:lafrenais.a.sexmachine">Sex Machine</title>.</p>
+        </event>
+        <event from="2021-04-23" to="2021-05-06">
+          <p>Read <title ref="b:solnit.r.paradisebuiltinhell">A Paradise Built in Hell</title>. Left unfinished.</p>
+        </event>
         <event when="2021-04-16">
           <p>Read <title ref="b:knisley.l.kidgloves">Kid Gloves: Nine Months of Careful Chaos</title>.</p>
         </event>
         <event when="2021-04-16">
           <p>Read <title ref="b:mcelroy.c.theadventurezone.3.petalsmetal">The Adventure Zone: Petals to the Metal</title>.</p>
         </event>
-        <event from="2021-04-14">
+        <event from="2021-04-14" to="2021-04-17">
           <p>Reread <title ref="b:mcguire.s.redrosechain">A Red-Rose Chain</title>.</p>
         </event>
         <event from="2021-04-08" to="2021-04-14">

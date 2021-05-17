@@ -75,6 +75,65 @@
           
           
           
+          <biblStruct xml:id="kreuger.sg.supportingtranspeoplelibraries">
+            <monogr>
+              <title>Supporting Trans People in Libraries</title>
+              <author>
+                <persName ref="a:kreuger.sg"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2021-04-22"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Libraries Unlimited</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="solnit.r.paradisebuiltinhell">
+            <monogr>
+              <title>A Paradise Built in Hell: The Extraordinary Communities that 
+                Arise in Disaster</title>
+              <author>
+                <persName ref="a:solnit.r"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2009"/>
+                <publisher>
+                  <orgName>Penguin Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="trotman.cs.poorcraft">
+            <monogr>
+              <title>Poorcraft</title>
+              <author>
+                <persName ref="a:trotman.cs"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:nock.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned"/>
+                <catRef target="#tag.reference"/>
+                <catRef target="#tag.comics"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Poorcraft</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="knisley.l.kidgloves">
             <monogr>
               <title>Kid Gloves: Nine Months of Careful Chaos</title>
@@ -3843,7 +3902,7 @@
           
           <biblStruct xml:id="mcelroy.c.theadventurezone.1.gerblins">
             <monogr>
-              <title>The Adventure Zone: Here There Be Gerblins</title>
+              <title>The Adventure Zone Vol. 1: Here There Be Gerblins</title>
               <respStmt>
                 <resp n="adapter"/>
                 <resp n="creator"/>
@@ -23109,14 +23168,18 @@
                 <persName ref="a:nock.d"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.comics"/>
                 <catRef target="#tag.kickstart" when="2014-12-17"/>
                 <catRef target="#tag.owned"/>
-                <catRef target="#tag.comics"/>
+                <catRef target="#tag.reference"/>
                 <publisher>
                   <orgName>Iron Circus Comics</orgName>
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Poorcraft</title>
+            </series>
           </biblStruct>
 
           <biblStruct xml:id="mori.k.bridesstory.2">
