@@ -39,17 +39,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-06-05">
+          <p>Read <title ref="b:munroe.r.howto">How To: Absurd Scientific Advice for Common Real-World Problems</title>.</p>
+        </event>
+        <event from="2021-05-26" to="2021-06-05">
+          <p>Read <title ref="b:palmer.a.toolikelightning">Too Like the Lightning</title>.</p>
+        </event>
+        <event from="2021-05-21" to="2021-05-22">
+          <p>Skimmed <title ref="b:morante.c.essentialinstantpot">The Essential Instant Pot Cookbook</title>.</p>
+        </event>
+        <event from="2021-05-20" to="2021-05-22">
+          <p>Read <title ref="b:mcguire.s.oncebrokenfaith">Once Broken Faith</title>.</p>
+        </event>
         <event from="2021-05-14" to="2021-05-15">
           <p>Reread <title ref="b:mcelroy.c.theadventurezone.1.gerblins">The Adventure Zone Vol. 1: Here 
             There Be Gerblins</title>.</p>
         </event>
-        <event from="2021-05-09">
+        <event from="2021-05-09" to="2021-05-20">
           <p>Reread <title ref="b:leckie.a.ancillarymercy">Ancillary Mercy</title>.</p>
         </event>
         <event when="2021-05-06">
           <p>Reread <title ref="b:trotman.cs.poorcraft">Poorcraft</title>.</p>
         </event>
-        <event from="2021-05-04">
+        <event from="2021-05-04" to="2021-06-01">
           <p>Read <title ref="b:kreuger.sg.supportingtranspeoplelibraries">Supporting Trans People in Libraries</title>.</p>
         </event>
         <event when="2021-05-04">

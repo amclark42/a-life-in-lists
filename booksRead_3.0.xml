@@ -75,6 +75,60 @@
           
           
           
+          <biblStruct xml:id="munroe.r.howto">
+            <monogr>
+              <title>How To: Absurd Scientific Advice for Common Real-World Problems</title>
+              <author>
+                <persName ref="a:munroe.r"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2019-09-01"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Penguin</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="palmer.a.toolikelightning">
+            <monogr>
+              <title>Too Like the Lightning</title>
+              <author>
+                <persName ref="a:palmer.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2018-08-18"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Terra Ignota</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="morante.c.essentialinstantpot">
+            <monogr>
+              <title>The Essential Instant Pot Cookbook</title>
+              <author>
+                <persName ref="a:morante.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Ten Speed Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="kreuger.sg.supportingtranspeoplelibraries">
             <monogr>
               <title>Supporting Trans People in Libraries</title>

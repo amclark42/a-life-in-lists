@@ -57,6 +57,23 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        
+        <person xml:id="palmer.a">
+          <persName>
+            <forename>Ada</forename>
+            <surname>Palmer</surname>
+          </persName>
+          <persPronouns value="she" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="morante.c">
+          <persName>
+            <forename>Coco</forename>
+            <surname>Morante</surname>
+          </persName>
+          <persPronouns value="she" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="kreuger.sg">
           <persName>
             <forename>Stephen G.</forename>
