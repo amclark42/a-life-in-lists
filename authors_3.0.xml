@@ -58,6 +58,22 @@
         </person>-->
         
         
+        <person xml:id="pigza.j">
+          <persName>
+            <forename>Jessica</forename>
+            <surname>Pigza</surname>
+          </persName>
+          <persPronouns value="she" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="stoppard.t">
+          <persName>
+            <forename>Tom</forename>
+            <surname>Stoppard</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="palmer.a">
           <persName>
             <forename>Ada</forename>
@@ -9275,14 +9291,22 @@
             <forename>Seanan</forename>
             <surname>McGuire</surname>
           </persName>
-          <gender value="female" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
 
           <persona xml:id="grant.m">
             <persName type="pseudonym">
               <forename>Mira</forename>
               <surname>Grant</surname>
             </persName>
-            <gender value="female" evidence="self-identification"/>
+            <persPronouns value="she" evidence="selfIdentification"/>
+          </persona>
+          
+          <persona xml:id="baker.ad">
+            <persName type="pseudonym">
+              <forename>A. Deborah</forename>
+              <surname>Grant</surname>
+            </persName>
+            <persPronouns value="she" evidence="conjecture"/>
           </persona>
         </person>
 

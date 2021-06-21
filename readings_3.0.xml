@@ -39,7 +39,13 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2021-06-05">
+        <event from="2021-06-19">
+          <p>Read <title ref="b:pigza.j.bibliocraft">BiblioCraft</title>.</p>
+        </event>
+        <event from="2021-06-18" to="2021-06-19">
+          <p>Read <title ref="b:stoppard.t.rosencrantzandguildenstern">Rosencrantz and Guildenstern Are Dead</title>.</p>
+        </event>
+        <event from="2021-06-05" to="2021-06-18">
           <p>Read <title ref="b:munroe.r.howto">How To: Absurd Scientific Advice for Common Real-World Problems</title>.</p>
         </event>
         <event from="2021-05-26" to="2021-06-05">

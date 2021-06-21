@@ -310,6 +310,14 @@
           <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
+          <author ref="a:baker.ad">Baker, A. Deborah</author>.
+          <title>Over the Woodward Wall</title>.
+          <date type="added" when="2021-06-20"/>
+          <series>
+            <title>The Up-and-Under</title>
+          </series>
+        </bibl>
+        <bibl>
           <author ref="a:baker.k">Baker, Kyle</author>.
           <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
           <catRef target="#tag.comics"/>
@@ -419,6 +427,14 @@
             Curious People</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-03"/>
+        </bibl>
+        <bibl>
+          <author>Biglow, Sarah</author>.
+          <title>Pains and Penalties</title>.
+          <series>
+            <title>Geeks and Things Cozy Mystery</title>
+          </series>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Bird, Jackson</author>.
@@ -540,6 +556,19 @@
         <bibl>
           <author>Budrys, Algis</author>.
           <title>Rogue Moon</title>.
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Burgess, Rebecca</persName>
+          </respStmt>.
+          <title>How to Be Ace: A Memoir of Growing Up Asexual</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Burley, Shane</author>.
@@ -1396,6 +1425,15 @@
           <title>Interworld</title>.
         </bibl>
         <bibl>
+          <author>Gangadharan, Seeta Peña</author>, <author>Tawana Petty</author>,
+          <author>Tamika Lewis</author>, and <author>Mariella Saba</author>.
+          <title>Digital Defense Playbook: Community Power Tools for Reclaiming 
+            Data</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -1412,13 +1450,11 @@
           </note>
         </bibl>
         <bibl>
-          <author>Gangadharan, Seeta Peña</author>, <author>Tawana Petty</author>,
-          <author>Tamika Lewis</author>, and <author>Mariella Saba</author>.
-          <title>Digital Defense Playbook: Community Power Tools for Reclaiming 
-            Data</title>.
+          <author>Gevisser, Mark</author>.
+          <title>The Pink Line: Journeys Across the World’s Queer Frontiers</title>.
           <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.reference"/>
-          <date type="added" when="2020-09-07"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Gibson, William</author>.
@@ -1568,6 +1604,12 @@
           <date type="added" when="2020-11-19"/>
         </bibl>
         <bibl>
+          <author ref="a:griffith.n">Griffith, Nicola</author>.
+          <title>Spear</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="artist"/>
             <resp n="creator"/>
@@ -1620,6 +1662,11 @@
           <date type="added" when="2020-04-09"/>
         </bibl>
         <bibl>
+          <author>Hall, Kerstin</author>.
+          <title>Star Eater</title>.
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author ref="a:hambly.b">Hambly, Barbara</author>.
           <title>Fever Season</title>.
           <series><title>Benjamin January</title></series>
@@ -1639,6 +1686,15 @@
           <author>Harras, Bob</author>.
           <title>JLA: World Without a Justice League</title>.
           <catRef target="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author ref="a:harris.j">Harris, Joanne</author> and
+          <respStmt>
+            <resp n="illustrator"/>
+            <persName ref="a:vess.c">Charles Vess</persName>
+          </respStmt>.
+          <title>Honeycomb</title>.
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author ref="a:harris.j">Harris, Joanne</author>.
@@ -1999,6 +2055,17 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Khor, Shing Yin</persName>
+          </respStmt>.
+          <title>The Legend of Auntie Po</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -2426,6 +2493,14 @@
           <title>The Dream Stealer</title>.
         </bibl>
         <bibl>
+          <author>Manansala, Mia P.</author>
+          <title>Arsenic and Adobo</title>.
+          <series>
+            <title>Tita Rosie’s Kitchen Mystery</title>
+          </series>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Mann, Charles C.</author>
           <title>1491: New Revelations of the Americas Before Columbus</title>.
           <catRef target="#tag.nonfiction"/>
@@ -2471,6 +2546,16 @@
             Pursuit of Happiness</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-05-29"/>
+        </bibl>
+        <bibl>
+          <author ref="mcelroy.c">McElroy, Clint</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:pietsch.c">Carey Pietsch</persName>
+          </respStmt>.
+          <title>The Adventure Zone: The Crystal Kingdom</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>McGee, Harold</author>.
@@ -2664,6 +2749,14 @@
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
+          <author>Miles, Tiya</author>.
+          <title>All That She Carried: The Journey of Ashley’s Sack, a Black Family 
+            Keepsake</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Miller, Kirsten</author>.
           <title>Kiki Strike: Inside the Shadow City</title>.
         </bibl>
@@ -2781,6 +2874,12 @@
           <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>
+          <author>Mosco, Rosemary</author>.
+          <title>A Pocket Guide to Pigeon Watching</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Mosley, Walter</author>.
           <title>Down the River Unto the Sea</title>.
           <date type="added" when="2018-09-23"/>
@@ -2794,12 +2893,6 @@
           <author>Muir, Tamsyn</author>.
           <title>Harrow the Ninth</title>.
           <date type="added" when="2020-11-23"/>
-        </bibl>
-        <bibl>
-          <author ref="a:munroe.r">Munroe, Randall</author>.
-          <title>How To: Absurd Scientific Advice for Common Real-World Problems</title>.
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2019-09-01"/>
         </bibl>
         <bibl>
           <author ref="a:murakami.h">Murakami, Haruki</author>.
@@ -3104,6 +3197,14 @@
           <date type="added" when="2018-10-27"/>
         </bibl>
         <bibl>
+          <author ref="a:palmer.a">Palmer, Ada</author>.
+          <title>Seven Surrenders</title>.
+          <series>
+            <title>Terra Ignota</title>
+          </series>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Palmer, Dexter</author>.
           <title>Version Control</title>.
           <date type="added" when="2017-03-10"/>
@@ -3148,6 +3249,12 @@
           <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
+          <author>Parker-Chan, Shelley</author>.
+          <title>She Who Became the Sun</title>.
+          <series><title>The Radiant Emperor</title></series>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Parks, Tim</author>.
           <title>Cleaver</title>.
         </bibl>
@@ -3183,6 +3290,12 @@
           </respStmt>
           <title>The Rights of the Reader</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Peters, Torrey</author>.
+          <title>Detransition, Baby</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Philbrick, Rodman</author>.
@@ -3426,6 +3539,13 @@
           </series>
         </bibl>
         <bibl>
+          <editor>Sandberg, Jane</editor>.
+          <title>Ethical Questions in Name Authority Control</title>.
+          <catRef target="#tag.anthology"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author ref="a:sanderso.b">Sanderson, Brandon</author>.
           <title>Steelheart</title>.
           <series><title>Reckoners</title></series>
@@ -3510,6 +3630,12 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2020-12-31"/>
+        </bibl>
+        <bibl>
+          <author>Sebela, Christopher</author>.
+          <title>Crowded Vol. 1</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author ref="a:sebold.a">Sebold, Alice</author>.
@@ -3682,6 +3808,11 @@
           <date type="added" when="2019-11-03"/>
         </bibl>
         <bibl>
+          <author ref="a:solomon.r">Solomon, Rivers</author>.
+          <title>Sorrowland</title>.
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author>Somtow, S.P.</author>
           <title>Jasmine Nights</title>.
           <catRef target="#tag.outofprint"/>
@@ -3761,11 +3892,6 @@
           <author>St. John Mandel, Emily</author>.
           <title>Station Eleven</title>.
           <date type="added" when="2019-03-20"/>
-        </bibl>
-        <bibl>
-          <author>Stoppard, Tom</author>.
-          <title>Rosencrantz and Guildenstern Are Dead</title>.
-          <catRef target="#tag.drama"/>
         </bibl>
         <bibl>
           <author>Subramaniam, Banu</author>.
@@ -3911,6 +4037,11 @@
           <date type="added" when="2017-04-08"/>
         </bibl>
         <bibl>
+          <author>Vandermeer, Jeff</author>.
+          <title>Hummingbird Salamander</title>.
+          <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
           <author ref="a:vaughan.bk">Vaughan, Brian K.</author> and
           <respStmt>
             <resp n="artist"/>
@@ -3982,6 +4113,13 @@
           <title>Stargazing</title>.
           <catRef target="#tag.comics"/>
           <date type="added" when="2019-12-08"/>
+        </bibl>
+        <bibl>
+          <author>Warren, Elizabeth</author>.
+          <title>Persist</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Washburn, Kawai Strong</author>.
@@ -4108,6 +4246,16 @@
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:yang.gl">Yang, Gene Luen</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:gurihiru">Gurihiru</persName>
+          </respStmt>.
+          <title>Superman Smashes the Klan</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author ref="a:yolen.j">Yolen, Jane</author>.

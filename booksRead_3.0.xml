@@ -75,6 +75,44 @@
           
           
           
+          <biblStruct xml:id="pigza.j.bibliocraft">
+            <monogr>
+              <title>BiblioCraft</title>
+              <title type="sub">A Modern Crafter’s Guide to Using Library Resources 
+                to Jumpstart Creative Projects</title>
+              <author>
+                <persName ref="a:pigza.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>ABRAMS, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="stoppard.t.rosencrantzandguildenstern">
+            <monogr>
+              <title>Rosencrantz &amp; Guildenstern Are Dead</title>
+              <author>
+                <persName ref="a:stoppard.t"/>
+              </author>
+              <edition>50th Anniversary Edition</edition>
+              <imprint>
+                <catRef target="#tag.drama"/>
+                <date type="added" when-custom="ash:youngadult"/>
+                <date type="publication" when="2017"/>
+                <date type="copyright" when="1967"/>
+                <publisher>
+                  <orgName>Grove Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="munroe.r.howto">
             <monogr>
               <title>How To: Absurd Scientific Advice for Common Real-World Problems</title>
