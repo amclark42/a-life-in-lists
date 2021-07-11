@@ -75,6 +75,64 @@
           
           
           
+          <biblStruct xml:id="leckie.a.raventower">
+            <monogr>
+              <title>The Raven Tower</title>
+              <author>
+                <persName ref="a:leckie.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2021-07-10"/>
+                <date type="added" when="2021-07-10"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="jones.j.masterofone">
+            <monogr>
+              <title>Master of One</title>
+              <author>
+                <persName ref="a:jones.j"/>
+                <persName ref="a:bennett.d"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2021-07-10"/>
+                <date type="added" when="2021-07-10"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>HarperTeen</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="barker.mj.lifeisntbinary">
+            <monogr>
+              <title>Life Isn’t Binary: On Being Both, Beyond, and In-Between</title>
+              <author>
+                <persName ref="a:barker.mj"/>
+                <persName ref="a:iantaffi.a"/>
+              </author>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:lester.cn"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-06-06"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Jessica Kingsley Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="pigza.j.bibliocraft">
             <monogr>
               <title>BiblioCraft</title>

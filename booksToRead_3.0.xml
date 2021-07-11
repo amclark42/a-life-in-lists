@@ -219,6 +219,14 @@
           <date type="added" when="2018-05-20"/>
         </bibl>
         <bibl>
+          <author>Arden, Katherine</author>.
+          <title>The Bear and the Nightingale</title>.
+          <series>
+            <title>The Winternight Trilogy</title>
+          </series>
+          <date type="added" when="2021-07-10"/>
+        </bibl>
+        <bibl>
           <author ref="a:arendt.h">Arendt, Hannah</author>.
           <title>The Origins of Totalitarianism</title>.
           <date type="added" when="2016-11-21"/>
@@ -2006,6 +2014,13 @@
           <date type="added" when="2019-03-02"/>
         </bibl>
         <bibl>
+          <author ref="a:jones.j">Jones, Jaida</author> and
+          <author ref="a:bennett.d">Dani Bennett</author>.
+          <title>Master of One</title>.
+          <catRef target="#tag.owned" corresp="b:jones.j.masterofone"/>
+          <date type="added" when="2021-07-10"/>
+        </bibl>
+        <bibl>
           <author>Jordan, Robert</author>.
           <title>The Eye of the World</title>.
           <series><title>Wheel of Time</title></series>
@@ -2300,6 +2315,12 @@
         <bibl>
           <author>Larson, Jonathan</author>.
           <title>Rent</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:leckie.a">Leckie, Ann</author>.
+          <title>The Raven Tower</title>.
+          <catRef target="#tag.owned" corresp="b:jones.j.masterofone"/>
+          <date type="added" when="2021-07-10"/>
         </bibl>
         <bibl>
           <author ref="a:kleguin.u">K. Le Guin, Ursula</author>

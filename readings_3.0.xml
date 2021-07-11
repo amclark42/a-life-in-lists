@@ -39,6 +39,18 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-07-08">
+          <p>Read <title ref="b:novik.n.spinningsilver">Spinning Silver</title>.</p>
+        </event>
+        <event when="2021-07-06">
+          <p>Reread <title ref="b:delliqua.b.ohumanstar.1">O Human Star Vol. 1</title>.</p>
+        </event>
+        <event when="2021-07-05">
+          <p>Reread <title ref="b:novik.n.deadlyeducation">A Deadly Education</title>.</p>
+        </event>
+        <event from="2021-06-22" to="2021-07-05">
+          <p>Read <title ref="b:barker.mj.lifeisntbinary">Life Isn’t Binary</title>.</p>
+        </event>
         <event from="2021-06-19">
           <p>Read <title ref="b:pigza.j.bibliocraft">BiblioCraft</title>.</p>
         </event>
