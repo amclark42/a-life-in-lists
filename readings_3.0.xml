@@ -39,6 +39,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-07-29" to="2021-08-02">
+          <p>Read <title ref="b:iantaffi.a.understandgender">How to Understand Your Gender</title>. Left 
+            unfinished.</p>
+        </event>
+        <event from="2021-07-29" to="2021-08-03">
+          <p>Read <title ref="b:mejia.tk.missmeteor">Miss Meteor</title>.</p>
+        </event>
+        <event when="2021-07-28">
+          <p>Reread <title ref="b:takahash.r.ranmaonehalf.5">Ranma 1/2 Vol. 5</title>.</p>
+        </event>
+        <event when="2021-07-27">
+          <p>Read <title ref="b:delliqua.b.ohumanstar.3">O Human Star Vol. 3</title>.</p>
+        </event>
+        <event when="2021-07-26">
+          <p>Reread <title ref="b:delliqua.b.ohumanstar.2">O Human Star Vol. 2</title>.</p>
+        </event>
+        <event from="2021-07-13" to="2021-07-28">
+          <p>Read <title ref="b:valente.cm.circumnavigatedfairyland">The Girl Who Circumnavigated Fairyland in a 
+            Ship of Her Own Making</title>.</p>
+        </event>
+        <event when="2021-07-10">
+          <p>Reread <title ref="b:takahash.r.ranmaonehalf.4">Ranma 1/2 Vol. 4</title>.</p>
+        </event>
         <event from="2021-07-08">
           <p>Read <title ref="b:novik.n.spinningsilver">Spinning Silver</title>.</p>
         </event>
@@ -51,7 +74,7 @@
         <event from="2021-06-22" to="2021-07-05">
           <p>Read <title ref="b:barker.mj.lifeisntbinary">Life Isn’t Binary</title>.</p>
         </event>
-        <event from="2021-06-19">
+        <event from="2021-06-19" to="2021-07-11">
           <p>Read <title ref="b:pigza.j.bibliocraft">BiblioCraft</title>.</p>
         </event>
         <event from="2021-06-18" to="2021-06-19">

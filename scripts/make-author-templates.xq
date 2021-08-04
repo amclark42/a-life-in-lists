@@ -47,7 +47,6 @@ let $persons :=
             <name>{ local:capitalize($id) }</name>
         }
       </persName>
-      <gender value="" evidence="conjecture"/>
       <persPronouns value="" evidence="conjecture"/>
     </person>
     ,

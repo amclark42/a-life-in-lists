@@ -58,6 +58,30 @@
         </person>-->
         
         
+        <person xml:id="bergman.sb">
+          <persName>
+            <forename>S. Bear</forename>
+            <surname>Bergman</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="mejia.tk">
+          <persName>
+            <forename>Tehlor Kay</forename>
+            <surname>Mejia</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="mclemore.am">
+          <persName>
+            <forename>Anna-Marie</forename>
+            <surname>McLemore</surname>
+          </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="iantaffi.a">
           <persName>
             <forename>Alex</forename>
@@ -3956,7 +3980,7 @@
             <forename>Catherynne M.</forename>
             <surname>Valente</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="wu.a">

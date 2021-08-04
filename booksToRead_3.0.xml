@@ -171,6 +171,18 @@
           <date type="added" when="2016-10-01"/>
         </bibl>
         <bibl>
+          <author>Allison, John</author>,
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Lissa Treiman,</persName>
+            <persName>Max Sarin</persName>
+          </respStmt>.
+          <title>Giant Days Vol. 1</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Giant Days</title></series>
+          <date type="added" when="2021-08-03"/>
+        </bibl>
+        <bibl>
           <author>Ambrose, Susan A.</author>,
           <author>Michael W. Bridges</author>,
           <author>Michele DiPietro</author>.
@@ -585,6 +597,14 @@
           <date type="added" when="2020-10-30"/>
         </bibl>
         <bibl>
+          <author>Burrough, Bryan</author>,
+          <author>Chris Tomlinson</author>, and
+          <author>Jason Stanford</author>.
+          <title>Forget the Alamo: The Rise and Fall of an American Myth</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-08-03"/>
+        </bibl>
+        <bibl>
           <author>Burroughs, Augusten</author>.
           <title>Toil &amp; Trouble</title>.
           <catRef target="#tag.memoir"/>
@@ -798,6 +818,18 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2019-09-29"/>
+        </bibl>
+        <bibl>
+          <author>Chödrön, Pema</author>.
+          <title>The Places That Scare You: A Guide to Fearlessness</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-31"/>
+        </bibl>
+        <bibl>
+          <author>Chödrön, Pema</author>.
+          <title>The Wisdom of No Escape: And the Path of Loving-Kindness</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-31"/>
         </bibl>
         <bibl>
           <author>Christensen, Inger</author>.
@@ -1280,6 +1312,15 @@
           <title>Testosterone Rex: Myths of Sex, Science, and Society</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-11-22"/>
+        </bibl>
+        <bibl>
+          <author>Fisher, Danyel</author> and
+          <author>Miriah Meyer</author>.
+          <title>Making Data Visual: A Practical Guide to Using Visualization for 
+            Insight</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2021-08-03"/>
         </bibl>
         <bibl>
           <author>Fitten, Marc</author>.
@@ -1834,6 +1875,12 @@
         <bibl>
           <author ref="a:homer">Homer</author>.
           <title>The Iliad</title>.
+        </bibl>
+        <bibl>
+          <author>hooks, bell</author>
+          <title>All About Love: New Visions</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-31"/>
         </bibl>
         <bibl>
           <author>hooks, bell</author>.
@@ -2510,6 +2557,12 @@
           <date type="added" when="2018-02-23"/>
         </bibl>
         <bibl>
+          <author>Magid, Barry</author>.
+          <title>Ending the Pursuit of Happiness</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-31"/>
+        </bibl>
+        <bibl>
           <author ref="a:maguire.g">Maguire, Gregory</author>.
           <title>The Dream Stealer</title>.
         </bibl>
@@ -2520,6 +2573,13 @@
             <title>Tita Rosie’s Kitchen Mystery</title>
           </series>
           <date type="added" when="2021-06-20"/>
+        </bibl>
+        <bibl>
+          <author>Manion, Jen</author>.
+          <title>Female Husbands: A Trans History</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2021-08-03"/>
         </bibl>
         <bibl>
           <author>Mann, Charles C.</author>
@@ -2740,12 +2800,6 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2018-11-11"/>
-        </bibl>
-        <bibl>
-          <author>Mejia, Tehlor Kay</author> and
-          <author>Anna-Marie McLemore</author>.
-          <title>Miss Meteor</title>.
-          <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
           <author ref="a:meltzer.b">Meltzer, Brad</author>.
@@ -3095,12 +3149,6 @@
           <date type="added" when="2021-04-12"></date>
         </bibl>
         <bibl>
-          <author ref="a:novik.n">Novik, Naomi</author>.
-          <title>Spinning Silver</title>.
-          <catRef target="#tag.owned" corresp="b:novik.n.spinningsilver"/>
-          <date type="added" when="2018-06-26"/>
-        </bibl>
-        <bibl>
           <author>Obama, Barack</author>.
           <title>A Promised Land</title>.
           <catRef target="#tag.memoir"/>
@@ -3136,6 +3184,16 @@
           <date type="added" when="2018-09-03"/>
         </bibl>
         <bibl>
+          <author ref="a:okorafor.n">Okorafor, Nnedi</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Tana Ford</persName>
+          </respStmt>.
+          <title>LaGuardia Deluxe Edition</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2021-08-03"/>
+        </bibl>
+        <bibl>
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Remote Control</title>.
           <date type="added" when="2020-12-31"/>
@@ -3155,6 +3213,14 @@
           <author ref="a:okorafor.n">Okorafor, Nnedi</author>.
           <title>Zahrah the Windseeker</title>.
           <date type="added" when="2016-06-05"/>
+        </bibl>
+        <bibl>
+          <author>Okun, T.</author> and
+          <author>Jones, K.</author>
+          <title>Dismantling Racism: A Workbook for Social Change Groups</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2021-07-10"/>
         </bibl>
         <bibl>
           <author>Older, Daniel José</author>.
@@ -3323,6 +3389,13 @@
           <title>Dark Matter</title>.
         </bibl>
         <bibl>
+          <author>Phillips, W.</author>
+          <title>This is Why We Can’t Have Nice Things: Mapping the Relationship 
+            Between Online Trolling and Mainstream Culture</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-10"/>
+        </bibl>
+        <bibl>
           <author ref="a:pierce.t">Pierce, Tamora</author>.
           <title>Beka Cooper: Bloodhound</title>.
           <series><title>Beka Cooper</title></series>
@@ -3427,6 +3500,12 @@
           <title>The Arcana of Maps and Other Stories</title>.
           <catRef target="#tag.compilation"/>
           <date type="added" when="2020-03-25"/>
+        </bibl>
+        <bibl>
+          <author>Renee Taylor, S.</author>
+          <title>The Body is Not an Apology: The Power of Radical Self-Love.</title>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-07-31"/>
         </bibl>
         <bibl>
           <author ref="a:roach.m">Roach, Mary</author>.
@@ -3751,12 +3830,9 @@
           <title>The Shape-Changer’s Wife</title>.
         </bibl>
         <bibl>
-          <author>Sklasko, Davey</author>.
-          <title>Trans Allyship Workbook: Building Skills to Support Trans People in 
-            Our Lives</title>.
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.reference"/>
-          <date type="added" when="2021-06-01"/>
+          <author>Shraya, Vivek</author>.
+          <title>The Subtweet: A Novel</title>.
+          <date type="added" when="2021-08-03"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -3769,6 +3845,14 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
+          <author>Sklasko, Davey</author>.
+          <title>Trans Allyship Workbook: Building Skills to Support Trans People in 
+            Our Lives</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2021-06-01"/>
         </bibl>
         <bibl>
           <author>Skloot, Rebecca</author>.

@@ -75,6 +75,66 @@
           
           
           
+          <biblStruct xml:id="iantaffi.a.understandgender">
+            <monogr>
+              <title>How to Understand Your Gender: A Practical Guide for Exploring 
+                Who You Are</title>
+              <author>
+                <persName ref="a:iantaffi.a"/>
+                <persName ref="a:barker.mj"/>
+              </author>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:bergman.sb"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Jessica Kingsley Publishers</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mejia.tk.missmeteor">
+            <monogr>
+              <title>Miss Meteor</title>
+              <author>
+                <persName ref="a:mejia.tk"/>
+                <persName ref="a:mclemore.am"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-11-23"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>HarperTeen</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="valente.cm.circumnavigatedfairyland">
+            <monogr>
+              <title>The Girl Who Circumnavigated Fairyland in a Ship of Her Own 
+                Making</title>
+              <author>
+                <persName ref="a:valente.cm"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Square Fish</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Fairyland</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="leckie.a.raventower">
             <monogr>
               <title>The Raven Tower</title>
@@ -17825,11 +17885,16 @@
                 <resp n="artist"/>
                 <persName ref="a:takahash.r"/>
               </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
-                <!--<date type="first-publication" when="1988"/>
-                <date type="translation-copyright" when="2003"/>-->
+                <date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>
                 <publisher>
                   <orgName>VIZ</orgName>
                 </publisher>
@@ -23157,6 +23222,11 @@
                 <resp n="artist"/>
                 <persName ref="a:takahash.r"/>
               </respStmt>
+              <!--<respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>-->
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
                 <catRef target="#tag.comics"/>
