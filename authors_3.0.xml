@@ -58,6 +58,13 @@
         </person>-->
         
         
+        <person xml:id="yoshida.t">
+          <persName>
+            <forename>Toshifumi</forename>
+            <surname>Yoshida</surname>
+          </persName>
+        </person>
+        
         <person xml:id="bergman.sb">
           <persName>
             <forename>S. Bear</forename>

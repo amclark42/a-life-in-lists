@@ -75,6 +75,54 @@
           
           
           
+          <biblStruct xml:id="walton.j.necessity">
+            <monogr>
+              <title>Necessity</title>
+              <author>
+                <persName ref="a:walton.j"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-08-16"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Tor Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Thessaly</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="takahash.r.ranmaonehalf.5">
+            <monogr>
+              <title>Ranma 1/2 Vol. 5</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:takahash.r"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:jones.ge"/>
+                <persName ref="a:yoshida.t"/>
+                <persName ref="a:thorn.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <catRef target="#tag.comics"/>
+                <date type="first-publication" when="1988"/>
+                <date type="translation-copyright" when="2003"/>
+                <publisher>
+                  <orgName>VIZ</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Ranma 1/2</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="iantaffi.a.understandgender">
             <monogr>
               <title>How to Understand Your Gender: A Practical Guide for Exploring 
@@ -500,6 +548,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2021-03-10"/>
+                <date type="added" when="2021-03-14"/>
                 <date type="copyright" when="2020"/>
                 <publisher>
                   <orgName>Delacorte Press</orgName>

@@ -39,6 +39,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-08-11">
+          <p>Read <title ref="b:walton.j.necessity">Necessity</title>.</p>
+        </event>
+        <event from="2021-08-03" to="2021-08-10">
+          <p>Read <title ref="b:forna.n.gildedones">The Gilded Ones</title>.</p>
+        </event>
         <event from="2021-07-29" to="2021-08-02">
           <p>Read <title ref="b:iantaffi.a.understandgender">How to Understand Your Gender</title>. Left 
             unfinished.</p>

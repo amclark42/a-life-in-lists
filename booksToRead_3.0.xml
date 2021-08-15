@@ -1377,12 +1377,6 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
-          <author ref="a:forna.n">Forna, Namina</author>.
-          <title>The Gilded Ones</title>.
-          <catRef target="#tag.owned" corresp="b:forna.n.gildedones"/>
-          <date type="added" when="2021-03-14"/>
-        </bibl>
-        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -1481,6 +1475,16 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:garrity.sk">Garrity, Shaenon K.</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Christopher Baldwin</persName>
+          </respStmt>.
+          <title>The Dire Days of Willowweep Manor</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -1798,6 +1802,11 @@
           <title>North</title>.
         </bibl>
         <bibl>
+          <author>Hearne, Kevin</author>.
+          <title>Ink &amp; Sigil</title>.
+          <date type="added" when="2021-08-15"/>
+        </bibl>
+        <bibl>
           <author>Herbert, Frank</author>.
           <title>Dune</title>.
           <series><title>Dune Chronicles</title></series>
@@ -2011,6 +2020,11 @@
             <title>The Dark Star Trilogy</title>
           </series>
           <date type="added" when="2019-05-12"/>
+        </bibl>
+        <bibl>
+          <author>Jeffers, Honorée Fanonne</author>.
+          <title>The Love Songs of W.E.B. Du Bois</title>.
+          <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
           <author>Jeffreys, Sheila</author>.
@@ -2259,6 +2273,7 @@
           <author>Kirstein, Rosemary</author>.
           <title>The Steerswoman’s Road</title>.
           <date type="added" when="2018-07-21"/>
+          <series><title>Steerswoman</title></series>
         </bibl>
         <bibl>
           <author>Kitchin, Rob</author> and
@@ -2455,6 +2470,20 @@
           <catRef target="#tag.comics"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-10-12"/>
+        </bibl>
+        <bibl>
+          <author ref="a:lewis.j">Lewis, John</author>,
+          <author ref="a:aydin.a">Andrew Aydin</author>,
+          <respStmt>
+            <resp n="artist"/>
+            <persName ref="a:powell.n">Nate Powell</persName>
+            <persName>L. Fury</persName>
+          </respStmt>.
+          <title>Run: Book One</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
           <author ref="a:lewis.j">Lewis, John</author> and
@@ -4419,6 +4448,12 @@
           <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Zakaria, Rafia</author>.
+          <title>Against White Feminism: Notes on Disruption</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
           <author ref="a:zdarsky.c">Zdarsky, Chip</author>,
