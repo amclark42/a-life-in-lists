@@ -437,24 +437,11 @@
           <title>Moxyland</title>.
         </bibl>
         <bibl>
-          <author ref="a:beukes.l">Beukes, Lauren</author>.
-          <title>The Shining Girls</title>.
-          <date type="added" when="2020-11-12"/>
-        </bibl>
-        <bibl>
           <author>Bhargava, Aditya Y.</author>
           <title>Grokking Algorithms: An Illustrated Guide for Programmers and Other 
             Curious People</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-03"/>
-        </bibl>
-        <bibl>
-          <author>Biglow, Sarah</author>.
-          <title>Pains and Penalties</title>.
-          <series>
-            <title>Geeks and Things Cozy Mystery</title>
-          </series>
-          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author>Bird, Jackson</author>.
@@ -551,10 +538,23 @@
           <title>Daughter of Gods and Shadows</title>.
         </bibl>
         <bibl>
+          <author>Brosh, Allie</author>.
+          <title>Solutions and Other Problems</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-09-02"/>
+        </bibl>
+        <bibl>
           <author>Brown, James J.</author>
           <title>Ethical programs: Hospitality and the rhetorics of software</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-11-13"/>
+        </bibl>
+        <bibl>
+          <author>Brown, Roseanne A.</author>
+          <title>A Song of Wraiths and Ruin</title>.
+          <date type="added" when="2021-08-30"/>
         </bibl>
         <bibl>
           <author>Browne, Simone</author>.
@@ -687,6 +687,12 @@
           <title>Changeless</title>.
           <series><title>The Parasol Protectorate</title></series>
           <date type="added" when="2020-04-12"/>
+        </bibl>
+        <bibl>
+          <author>Carriger, Gail</author>.
+          <title>Etiquette &amp; Espionage</title>.
+          <series><title>Finishing School</title></series>
+          <date type="added" when="2021-08-30"/>
         </bibl>
         <bibl>
           <author>Carson, Anne</author>.
@@ -1807,6 +1813,11 @@
           <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
+          <author>Henning, Sarah</author>.
+          <title>The Princess Will Save You</title>.
+          <date type="added" when="2021-08-30"/>
+        </bibl>
+        <bibl>
           <author>Herbert, Frank</author>.
           <title>Dune</title>.
           <series><title>Dune Chronicles</title></series>
@@ -1967,6 +1978,13 @@
           <title>Trickster Makes This World: Mischief, Myth, and Art</title>.
           <catRef target="#tag.nonfiction"/>
           <!-- In-library use only at BPL Central Delivery Desk -->
+        </bibl>
+        <bibl>
+          <author>Hyuuga, Natsu</author>.
+          <title>The Apothecary Diaries Vol. 1</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>The Apothecary Diaries</title></series>
+          <date type="added" when="2021-09-02"/>
         </bibl>
         <bibl>
           <author>Ireland, Justina</author>.
@@ -2677,8 +2695,9 @@
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>The Girl in the Green Silk Dress</title>.
-          <date type="added" when="2018-07-22"/>
+          <title>Angel of the Overpass</title>.
+          <series><title>The Ghost Roads</title></series>
+          <date type="added" when="2021-09-18"></date>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2760,10 +2779,9 @@
           <title>Mission Child</title>.
         </bibl>
         <bibl>
-          <author>McIntyre, Vonda</author>.
-          <title>Dreamsnake</title>.
-          <date type="added" when="2017-01-29"/>
-          <!-- available as an eBook from BPL -->
+          <author ref="a:mcintyre.vn">McIntyre, Vonda N.</author>
+          <title>The Moon and the Sun</title>.
+          <date type="added" when="2021-09-18"/>
         </bibl>
         <bibl>
           <author>McKay, Ami</author>.
@@ -2774,6 +2792,11 @@
           <author ref="a:mckinley.r">McKinley, Robin</author>.
           <title>Shadows</title>.
           <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
+          <author>McKinney, L.L.</author>
+          <title>A Blade So Black</title>.
+          <date type="added" when="2021-09-12"/>
         </bibl>
         <bibl>
           <author>McMahon, Jennifer</author>.
@@ -2833,6 +2856,12 @@
         <bibl>
           <author ref="a:meltzer.b">Meltzer, Brad</author>.
           <title>The Book of Lies</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:meyer.m">Meyer, Marissa</author>.
+          <title>Cinder</title>.
+          <catRef target="#tag.audiobook"/>
+          <date type="added" when="2021-08-30"/>
         </bibl>
         <bibl>
           <author ref="a:miéville.c">Miéville, China</author>.
@@ -4078,6 +4107,14 @@
           <title>Death and the Afterlife in Ancient Egypt</title>.
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.owned"/>
+        </bibl>
+        <bibl>
+          <author>Taylor, Laini</author>.
+          <title>Daughter of Smoke &amp; Bone</title>.
+          <series>
+            <title>Daughter of Smoke &amp; Bone</title>.
+          </series>
+          <date type="added" when="2021-09-12"/>
         </bibl>
         <bibl>
           <author>Tea, Michelle</author>.

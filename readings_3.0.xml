@@ -39,7 +39,22 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2021-08-11">
+        <event from="2021-09-13">
+          <p>Read <title ref="b:beukes.l.shininggirls">The Shining Girls</title>.</p>
+        </event>
+        <event from="2021-09-12" to="2021-09-13">
+          <p>Read <title ref="b:biglow.se.painspenalties">Pains and Penalties</title>.</p>
+        </event>
+        <event from="2021-09-03">
+          <p>Listened to <title ref="b:meyer.m.heartless">Heartless</title>.</p>
+        </event>
+        <event from="2021-08-21" to="2021-08-31">
+          <p>Read <title ref="b:mcguire.s.girlgreensilkgown">The Girl in the Green Silk Gown</title>.</p>
+        </event>
+        <event from="2021-08-18" to="2021-08-21">
+          <p>Read <title ref="b:mcintyre.vn.dreamsnake">Dreamsnake</title>.</p>
+        </event>
+        <event from="2021-08-11" to="2021-08-18">
           <p>Read <title ref="b:walton.j.necessity">Necessity</title>.</p>
         </event>
         <event from="2021-08-03" to="2021-08-10">

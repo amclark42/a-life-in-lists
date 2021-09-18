@@ -57,6 +57,37 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        <person xml:id="biglow.se">
+          <persName>
+            <forename>S.E.</forename>
+            <surname>Biglow</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="meyer.m">
+          <persName>
+            <forename>Marissa</forename>
+            <surname>Meyer</surname>
+          </persName>
+          <persPronouns value="she" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="soler.r">
+          <persName>
+            <forename>Rebecca</forename>
+            <surname>Soler</surname>
+          </persName>
+          <persPronouns value="she" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="mcintyre.vn">
+          <persName>
+            <forename>Vonda N.</forename>
+            <surname>Mcintyre</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
         
         <person xml:id="yoshida.t">
           <persName>

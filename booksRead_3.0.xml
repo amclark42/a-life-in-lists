@@ -75,6 +75,98 @@
           
           
           
+          <biblStruct xml:id="beukes.l.shininggirls">
+            <monogr>
+              <title>The Shining Girls</title>
+              <author>
+                <persName ref="a:beukes.l"/>
+              </author>
+              <imprint>
+                <date type="added" when="2020-11-12"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Mulholland Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="biglow.se.painspenalties">
+            <monogr>
+              <title>Pains and Penalties</title>
+              <author>
+                <persName ref="a:biglow.se"/>
+              </author>
+              <imprint>
+                <date type="added" when="2021-06-20"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <persName ref="a:biglow.se"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Geeks and Things Cozy Mysteries</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="meyer.m.heartless">
+            <monogr>
+              <title>Heartless</title>
+              <author>
+                <persName ref="a:meyer.m"/>
+              </author>
+              <respStmt>
+                <resp n="voice actor"/>
+                <persName ref="a:soler.r"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.audiobook"/>
+                <date type="added" when="2021-08-30"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Macmillan Audio</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.girlgreensilkgown">
+            <monogr>
+              <title>The Girl in the Green Silk Gown</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="added" when="2018-07-22"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Ghost Roads</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcintyre.vn.dreamsnake">
+            <monogr>
+              <title>Dreamsnake</title>
+              <author>
+                <persName ref="a:mcintyre.vn"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2017-01-29"/>
+                <date type="copyright" when="1978"/>
+                <publisher>
+                  <orgName>Houghton Mifflin</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="walton.j.necessity">
             <monogr>
               <title>Necessity</title>
@@ -8172,6 +8264,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>The Ghost Roads</title>
+            </series>
           </biblStruct>
 
           <biblStruct xml:id="king.lr.lettermary">
