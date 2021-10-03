@@ -26,6 +26,9 @@
       <category xml:id="tag.drama">
         <catDesc>drama</catDesc>
       </category>
+      <category xml:id="tag.ebook">
+        <catDesc>e-book, PDF, and other digitally-distributed work</catDesc>
+      </category>
       <category xml:id="tag.erotica">
         <catDesc>erotica</catDesc>
       </category>

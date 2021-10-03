@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2021-10-02">Added "ebook" tag.</change>
         <change when="2021-01-17">Added long-overdue "audiobook" tag.</change>
         <change when="2019-09-29">Added XIncluded changelog entries for the 
           generation of this file from the source ODT.</change>
@@ -75,6 +76,141 @@
           
           
           
+          <biblStruct xml:id="theoatmeal.catplottingtokillyou">
+            <monogr>
+              <title>How to tell if your cat is plotting to kill you</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:theoatmeal"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.owned" from="2021-09-08"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Andrews McMeel Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="theoatmeal.5reasonspunchdolphin">
+            <monogr>
+              <title>5 Very Good Reasons to Punch a Dolphin in the Mouth (And Other Useful Guides)</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:theoatmeal"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.owned" from="2021-09-08"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Andrews McMeel Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="watterso.b.calvinandhobbes">
+            <monogr>
+              <title>Calvin and Hobbes</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:watterso.b"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:trudeau.g"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-09-08"/>
+                <date type="first-read" when-custom="ash:child"/>
+                <date type="copyright" when="1987"/>
+                <date type="printing" when="1994"/>
+                <publisher>
+                  <orgName>Andrews and McMeel</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Calvin and Hobbes</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="watterso.b.calvinhobbes.weirdosanotherplanet">
+            <monogr>
+              <title>Calvin and Hobbes: Weirdos from Another Planet!</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:watterso.b"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-09-08"/>
+                <date type="first-read" when-custom="ash:child"/>
+                <date type="copyright" when="1990"/>
+                <publisher>
+                  <orgName>Andrews and McMeel</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Calvin and Hobbes</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="watterso.b.calvinhobbes.revengebabysat">
+            <monogr>
+              <title>Calvin and Hobbes: The Revenge of the Baby-Sat</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:watterso.b"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-09-08"/>
+                <date type="first-read" when-custom="ash:child"/>
+                <date type="copyright" when="1991"/>
+                <publisher>
+                  <orgName>Scholastic Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Calvin and Hobbes</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="flake.sg.unstoppableoctobiamay">
+            <monogr>
+              <title>Unstoppable Octobia May</title>
+              <author>
+                <persName ref="a:flake.sg"/>
+              </author>
+              <respStmt>
+                <resp n="voice actor"/>
+                <persName ref="a:turpin.b"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.audiobook"/>
+                <date type="added" when="2021-04-03"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Scholastic Audio</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="beukes.l.shininggirls">
             <monogr>
               <title>The Shining Girls</title>
@@ -82,6 +218,7 @@
                 <persName ref="a:beukes.l"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2020-11-12"/>
                 <date type="copyright" when="2013"/>
                 <publisher>
@@ -98,6 +235,7 @@
                 <persName ref="a:biglow.se"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2021-06-20"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
@@ -138,6 +276,7 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2018-07-22"/>
                 <date type="copyright" when="2018"/>
                 <publisher>
@@ -157,6 +296,7 @@
                 <persName ref="a:mcintyre.vn"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2017-01-29"/>
                 <date type="copyright" when="1978"/>
@@ -174,6 +314,7 @@
                 <persName ref="a:walton.j"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2018-08-16"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
@@ -228,6 +369,7 @@
                 <persName ref="a:bergman.sb"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2017"/>
@@ -246,6 +388,7 @@
                 <persName ref="a:mclemore.am"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2020-11-23"/>
                 <date type="copyright" when="2020"/>
@@ -264,6 +407,7 @@
                 <persName ref="a:valente.cm"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="copyright" when="2011"/>
                 <publisher>
                   <orgName>Square Fish</orgName>
@@ -322,6 +466,7 @@
                 <persName ref="a:lester.cn"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2020-06-06"/>
@@ -342,6 +487,7 @@
                 <persName ref="a:pigza.j"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.reference"/>
                 <date type="copyright" when="2014"/>
@@ -360,6 +506,7 @@
               </author>
               <edition>50th Anniversary Edition</edition>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.drama"/>
                 <date type="added" when-custom="ash:youngadult"/>
                 <date type="publication" when="2017"/>
@@ -378,6 +525,7 @@
                 <persName ref="a:munroe.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="added" when="2019-09-01"/>
                 <date type="copyright" when="2019"/>
@@ -395,6 +543,7 @@
                 <persName ref="a:palmer.a"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2018-08-18"/>
                 <date type="copyright" when="2016"/>
@@ -415,6 +564,7 @@
                 <persName ref="a:morante.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.cookbook"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="copyright" when="2017"/>
@@ -432,6 +582,7 @@
                 <persName ref="a:kreuger.sg"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2021-04-22"/>
@@ -451,6 +602,7 @@
                 <persName ref="a:solnit.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="copyright" when="2009"/>
                 <publisher>
@@ -586,6 +738,7 @@
                 <persName ref="a:morenogarcia.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2019-06-30"/>
                 <date type="copyright" when="2019"/>
                 <publisher>
@@ -602,6 +755,7 @@
                 <persName ref="a:andrews.i"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2014"/>
                 <date type="copyright" when="2011"/>
                 <publisher>Penguin Publishing Group</publisher>
@@ -779,6 +933,7 @@
                 <persName ref="a:solomon.r"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2018-07-21"/>
                 <date type="copyright" when="2017"/>
@@ -855,6 +1010,7 @@
                 <persName ref="a:chambers.b"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2016-07-26"/>
                 <date type="copyright" when="2014"/>
@@ -882,6 +1038,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.queer"/>
@@ -919,6 +1076,7 @@
                 <persName ref="a:skrutskie.e"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2020-06-06"/>
                 <date type="copyright" when="2020"/>
@@ -939,6 +1097,7 @@
                 <persName ref="a:kann.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2018-03-24"/>
                 <date type="copyright" when="2018"/>
@@ -1013,6 +1172,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2016"/>
@@ -1031,6 +1191,7 @@
                 <persName ref="a:baum.lf"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="first-publication" when="1900"/>
                 <date type="copyright" when="2012"/>
                 <publisher>
@@ -1050,6 +1211,7 @@
                 <persName ref="a:odell.c"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2018-06-26"/>
                 <date type="copyright" when="2018"/>
@@ -1098,6 +1260,7 @@
                 <persName ref="a:glassman.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2019-03-02"/>
                 <date type="copyright" when="2013"/>
@@ -1185,6 +1348,7 @@
                 <persName ref="a:rossiarmfield.g"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.reference"/>
                 <date type="copyright" when="2013"/>
@@ -1227,6 +1391,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.queer"/>
                 <date type="copyright" from="2015" to="2016"/>
                 <publisher>
@@ -1262,6 +1427,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2019-11-16"/>
                 <date type="copyright" when="2016"/>
                 <date type="edition" when="2017"/>
@@ -1310,6 +1476,7 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2019-12-08"/>
                 <date type="copyright" when="2013"/>
                 <publisher>
@@ -1333,6 +1500,7 @@
                 <persName ref="a:noel.j"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.reference"/>
                 <date type="copyright" when="2015"/>
@@ -1354,6 +1522,7 @@
                 <persName ref="a:jaffe.d"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.reference"/>
                 <date type="copyright" when="2018"/>
@@ -1371,6 +1540,7 @@
                 <persName ref="a:grant.m"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when-custom="ash:freelancer"/>
                 <date type="copyright" when="2010"/>
                 <publisher>
@@ -1460,6 +1630,7 @@
                 <persName ref="a:carriger.g"/>
               </author>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <date type="added" when="2017-05-19"/>
                 <date type="copyright" when="2009"/>
                 <publisher>
@@ -1540,6 +1711,7 @@
                 <persName ref="a:powell.n"/>
               </respStmt>
               <imprint>
+                <catRef target="#tag.ebook"/>
                 <catRef target="#tag.comics"/>
                 <date type="copyright" when="2011"/>
                 <publisher>

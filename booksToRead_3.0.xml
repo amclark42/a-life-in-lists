@@ -1337,11 +1337,6 @@
           <title>Nobody’s Family is Going to Change</title>.
         </bibl>
         <bibl>
-          <author>Flake, Sharon</author>.
-          <title>Unstoppable Octobia May</title>.
-          <date type="added" when="2021-04-03"/>
-        </bibl>
-        <bibl>
           <author ref="a:fletcher.b">Fletcher, Brenden</author>.
           <title>Gotham Academy Vol. 3: Yearbook</title>.
           <catRef target="#tag.comics"/>
@@ -3435,6 +3430,14 @@
           </respStmt>
           <title>The Rights of the Reader</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Pennington, Amy</author>.
+          <title>Apartment Gardening: Plants, Projects, and Recipes for Growing Food 
+            in Your Urban Home</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2021-10-02"/>
         </bibl>
         <bibl>
           <author>Peters, Torrey</author>.
