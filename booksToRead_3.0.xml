@@ -434,6 +434,11 @@
         </bibl>
         <bibl>
           <author ref="a:beukes.l">Beukes, Lauren</author>.
+          <title>Broken Monsters</title>.
+          <date type="added" when="2021-10-02"/>
+        </bibl>
+        <bibl>
+          <author ref="a:beukes.l">Beukes, Lauren</author>.
           <title>Moxyland</title>.
         </bibl>
         <bibl>
@@ -762,6 +767,12 @@
           <title>Record of a Spaceborn Few</title>.
           <series><title>Wayfarers</title></series>
           <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
+          <author ref="a:chambers.b">Chambers, Becky</author>.
+          <title>A Psalm for the Wild-Built</title>.
+          <series><title>Monk &amp; Robot</title></series>
+          <date type="added" when="2021-10-17"/>
         </bibl>
         <bibl>
           <author>Chauncey, George</author>.
@@ -3331,6 +3342,13 @@
           <date type="added" when="2019-01-19"/>
         </bibl>
         <bibl>
+          <author>Pacyga, Dominic A.</author>
+          <title>Chicago: A Biography</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-10-02"/>
+        </bibl>
+        <bibl>
           <author>Painter, Nell Irvin</author>.
           <title>The History of White People</title>.
           <catRef target="#tag.nonfiction"/>
@@ -3889,6 +3907,11 @@
         <bibl>
           <author>Shinn, Sharon</author>.
           <title>The Shape-Changer’s Wife</title>.
+        </bibl>
+        <bibl>
+          <author>Shopsin, Tamara</author>.
+          <title>LaserWriter II: A Novel</title>.
+          <date type="added" when="2021-10-17"/>
         </bibl>
         <bibl>
           <author>Shraya, Vivek</author>.
