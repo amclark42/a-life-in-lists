@@ -2131,6 +2131,13 @@
           <date type="added" when="2019-03-22"/>
         </bibl>
         <bibl>
+          <author>Kamei, Susan H.</author>
+          <title>When Can We Go Back to America? Voices of Japanese American 
+            Incarceration During World War II</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-10-29"/>
+        </bibl>
+        <bibl>
           <author>Karr, Mary</author>.
           <title>The Liars’ Club: A Memoir</title>.
         </bibl>
@@ -4373,6 +4380,15 @@
           <author ref="a:westerfe.s">Westerfeld, Scott</author>.
           <title>Uglies</title>.
           <series><title>Uglies</title></series>
+        </bibl>
+        <bibl>
+          <author>Willan, Anne</author>.
+          <title>Women in the Kitchen: Twelve Essential Cookbook Writers Who Defined 
+            the Way We Eat, from 1661 to Today</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2021-10-29"/>
         </bibl>
         <bibl>
           <author>Wharton, Edith</author>.

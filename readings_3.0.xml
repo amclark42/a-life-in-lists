@@ -39,6 +39,12 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2021-10-29">
+          <p>Reread <title ref="b:kidd.sm.secretbees">The Secret Life of Bees</title>.</p>
+        </event>
+        <event from="2021-10-17" to="2021-10-27">
+          <p>Reread <title ref="b:butler.oe.lilithsbrood">Lilith’s Brood</title>.</p>
+        </event>
         <event from="2021-10-11" to="2021-10-17">
           <p>Reread <title ref="b:jemison.nk.fifthseason">The Fifth Season</title>.</p>
         </event>
