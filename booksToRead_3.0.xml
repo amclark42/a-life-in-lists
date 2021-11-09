@@ -1602,7 +1602,7 @@
           <date type="added" when="2018-02-28"/>
         </bibl>
         <bibl>
-          <author>Gorman, Amanda</author>.
+          <author ref="a:gorman.a">Gorman, Amanda</author>.
           <title>The Hill We Climb: Poems</title>.
           <catRef target="#tag.poetry"/>
           <date type="added" when="2021-03-12"/>
@@ -4446,11 +4446,12 @@
           <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
-          <editor>Wong, Alice</editor>.
+          <editor ref="a:wong.a">Wong, Alice</editor>.
           <title>Disability Visibility : First-Person Stories from the Twenty-first 
             Century</title>.
           <catRef target="#tag.compilation"/>
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned" corresp="b:wong.a.disabilityvisibility"/>
           <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>

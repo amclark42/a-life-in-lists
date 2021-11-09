@@ -76,6 +76,102 @@
           
           
           
+          <biblStruct xml:id="jemisin.nk.farsector">
+            <monogr>
+              <title>Far Sector</title>
+              <author>
+                <persName ref="a:jemisin.nk"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:campbell.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:bennett.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:way.g"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-11-08"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Green Lantern</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bergman.sb.specialtopicshuman">
+            <monogr>
+              <title>Special Topics in Being a Human</title>
+              <title type="sub">A Queer and Tender Guide to Things I’ve Learned the 
+                Hard Way About Caring for People, Including Myself</title>
+              <author>
+                <persName ref="a:bergman.sb"/>
+              </author>
+              <respStmt>
+                <resp n="illustrator"/>
+                <persName ref="a:freedmanlawson.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-11-06"/>
+                <catRef target="#tag.queer"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Arsenal Pulp Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="wong.a.disabilityvisibility">
+            <monogr>
+              <title>Disability Visability: First-Person Stories from the 
+                Twenty-First Century</title>
+              <editor>
+                <persName ref="a:wong.a"/>
+              </editor>
+              <!-- List of contributors? -->
+              <imprint>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-11-06"/>
+                <date type="added" when="2020-05-28"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Vintage Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="russell.l.glitchfeminism">
+            <monogr>
+              <title>Glitch Feminism</title>
+              <title type="sub">A Manifesto</title>
+              <author>
+                <persName ref="a:russell.l"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-11-06"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Verso</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="gorman.a.changesings">
             <monogr>
               <title>Change Sings</title>
@@ -9225,6 +9321,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-11-07"/>
                 <date when="2016"/>
                 <date type="added" when="2016-05-15"/>
                 <publisher>

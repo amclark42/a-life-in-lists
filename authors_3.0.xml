@@ -58,6 +58,54 @@
         </person>-->
         
         
+        <person xml:id="way.g">
+          <persName>
+            <forename>Gerard</forename>
+            <surname>Way</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="freedmanlawson.s">
+          <persName>
+            <forename>Saul</forename>
+            <surname>Freedman-Lawson</surname>
+          </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="wong.a">
+          <persName>
+            <forename>Alice</forename>
+            <surname>Wong</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="russell.l">
+          <persName>
+            <forename>Legacy</forename>
+            <surname>Russell</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="gorman.a">
+          <persName>
+            <forename>Amanda</forename>
+            <surname>Gorman</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="long.l">
+          <persName>
+            <forename>Loren</forename>
+            <surname>Long</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="trudeau.g">
           <persName>
             <forename>Garry</forename>
