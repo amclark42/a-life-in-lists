@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
-  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/amclark42/perspectography/main/schema/perspectography.rng" 
+   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -75,6 +75,26 @@
           <!-- Break lines at column 100. -->
           
           
+          
+          <biblStruct xml:id="gorman.a.changesings">
+            <monogr>
+              <title>Change Sings</title>
+              <title type="sub">A Children’s Anthem</title>
+              <author>
+                <persName ref="a:gorman.a"/>
+              </author>
+              <respStmt>
+                <resp n="illustrator"/>
+                <persName ref="a:long.l"/>
+              </respStmt>
+              <imprint>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Viking</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
           
           <biblStruct xml:id="theoatmeal.catplottingtokillyou">
             <monogr>

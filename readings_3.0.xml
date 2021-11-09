@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../perspectography/schema/perspectography.rng" type="application/xml"
-  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/amclark42/perspectography/main/schema/perspectography.rng" 
+   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -39,6 +39,9 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2021-11-07">
+          <p>Read <title ref="b:gorman.a.changesings">Change Sings: A Children’s Anthem</title>.</p>
+        </event>
         <event from="2021-10-29">
           <p>Reread <title ref="b:kidd.sm.secretbees">The Secret Life of Bees</title>.</p>
         </event>
