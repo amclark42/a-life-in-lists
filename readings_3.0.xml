@@ -42,7 +42,7 @@
         <event when="2021-11-07">
           <p>Read <title ref="b:gorman.a.changesings">Change Sings: A Children’s Anthem</title>.</p>
         </event>
-        <event from="2021-11-06">
+        <event from="2021-11-06" to="2021-12-17">
           <p>Read <title ref="b:bergman.sb.specialtopicshuman">Special Topics in Being a Human</title>.</p>
         </event>
         <event from="2021-10-29">
