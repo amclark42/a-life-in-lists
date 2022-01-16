@@ -58,6 +58,29 @@
         </person>-->
         
         
+        <person xml:id="alaswany.a">
+          <persName>
+            <forename>Alaa</forename>
+            <surname>Al Aswany</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="fellowes.sr">
+          <persName>
+            <forename>S. R.</forename>
+            <surname>Fellowes</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="bird.j">
+          <persName>
+            <forename>Jackson</forename>
+            <surname>Bird</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="way.g">
           <persName>
             <forename>Gerard</forename>

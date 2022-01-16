@@ -76,6 +76,95 @@
           
           
           
+          <biblStruct xml:id="gorman.a.calluswhatwecarry">
+            <monogr>
+              <title>Call Us What We Carry</title>
+              <title type="sub">Poems</title>
+              <author>
+                <persName ref="a:gorman.a"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2022-01-09"/>
+                <catRef target="#tag.poetry"/>
+                <date type="added" when="2021-03-12"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Viking</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="alaswany.a.republicfalsetruths">
+            <monogr>
+              <title>The Republic of False Truths</title>
+              <author>
+                <persName ref="a:alaswany.a"/>
+              </author>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:fellowes.sr"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2022-01-03"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Alfred A. Knopf</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="yang.gl.supermansmashestheklan">
+            <monogr>
+              <title>Superman Smashes the Klan</title>
+              <author>
+                <persName ref="a:yang.gl"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:gurihiru"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:chiang.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-12-28"/>
+                <date type="added" when="2021-06-20"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>DC Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Superman</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bird.j.sorted">
+            <monogr>
+              <title>Sorted: Growing Up, Coming Out, and Finding My Place</title>
+              <title type="sub">A Transgender Memoir</title>
+              <author>
+                <persName ref="a:bird.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2021-12-28"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Tiller Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="jemisin.nk.farsector">
             <monogr>
               <title>Far Sector</title>
