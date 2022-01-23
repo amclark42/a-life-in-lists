@@ -39,13 +39,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-01-22">
+          <p>Read <title ref="b:gorman.a.calluswhatwecarry">Call Us What We Carry: Poems</title>.</p>
+        </event>
+        <event when="2022-01-17">
+          <p>Read <title ref="b:yang.gl.supermansmashestheklan">Superman Smashes the Klan</title>.</p>
+        </event>
         <event when="2021-11-07">
           <p>Read <title ref="b:gorman.a.changesings">Change Sings: A Children’s Anthem</title>.</p>
         </event>
         <event from="2021-11-06" to="2021-12-17">
           <p>Read <title ref="b:bergman.sb.specialtopicshuman">Special Topics in Being a Human</title>.</p>
         </event>
-        <event from="2021-10-29">
+        <event from="2021-10-29" to="2022-01-16">
           <p>Reread <title ref="b:kidd.sm.secretbees">The Secret Life of Bees</title>.</p>
         </event>
         <event from="2021-10-17" to="2021-10-27">

@@ -1265,6 +1265,12 @@
           <date type="added" when="2019-09-08"/>
         </bibl>
         <bibl>
+          <author>El-Mohtar, Amal</author>, and
+          <author>Gladstone, Max</author>.
+          <title>This is How You Lose the Time War</title>.
+          <date type="added" when="2022-01-22"/>
+        </bibl>
+        <bibl>
           <author ref="a:emrys.r">Emrys, Ruthanna</author>.
           <title>Deep Roots</title>.
           <catRef target="#tag.queer"/>
@@ -4493,16 +4499,6 @@
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:yang.gl">Yang, Gene Luen</author> and
-          <respStmt>
-            <resp n="artist"/>
-            <persName ref="a:gurihiru">Gurihiru</persName>
-          </respStmt>.
-          <title>Superman Smashes the Klan</title>.
-          <catRef target="#tag.comics"/>
-          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <author ref="a:yolen.j">Yolen, Jane</author>.
