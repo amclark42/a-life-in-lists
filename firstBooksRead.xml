@@ -8,11 +8,11 @@
         <title>My First Books Read</title>
         <title type="sub">List of Bibliographic Entries</title>
         <editor>
-          <persName>Ashley M. Clark</persName>
+          <persName>Ash Clark</persName>
         </editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley.</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Microsoft Word Document
@@ -23,6 +23,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2020-03-07">Changed <gi>trait</gi> to <gi>catRef</gi> since my 
           customization allows it.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>

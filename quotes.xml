@@ -7,11 +7,11 @@
       <titleStmt>
         <title>Quotes</title>
         <editor>
-          <persName>Ashley M. Clark</persName>
+          <persName>Ash Clark</persName>
         </editor>
       </titleStmt>
       <publicationStmt>
-        <p/>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Microsoft Word Document <title type="filename">Quotes.doc</title>.</p>
@@ -23,6 +23,7 @@
     </encodingDesc>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2019-09-29">Changed <code lang="xpath">//list/item</code> into <gi>cit</gi>, removing the 
           wrapper <gi>list</gi>. Reduced indentation to reflect the new tree structure, but decided against 
           re-formatting inside the <gi>quote</gi>s themselves. Going forward, the cap on characters per line will 

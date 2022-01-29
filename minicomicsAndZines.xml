@@ -7,11 +7,11 @@
       <titleStmt>
         <title>Mini-Comics &amp; Zines</title>
         <editor>
-          <persName>Ashley M. Clark</persName>
+          <persName>Ash Clark</persName>
         </editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document. Added 
           renditional information.</change>
         <change when="2019-02-24">Created this list. I referenced the Massachusetts Independent 

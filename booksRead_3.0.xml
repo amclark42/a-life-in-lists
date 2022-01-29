@@ -7,10 +7,10 @@
       <titleStmt>
         <title>Books I’ve Read 3.0</title>
         <title type="sub">List of Bibliographic Entries</title>
-        <editor><persName>Ashley M. Clark</persName></editor>
+        <editor><persName>Ash Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley.</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Open Office Document
@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2021-10-02">Added "ebook" tag.</change>
         <change when="2021-01-17">Added long-overdue "audiobook" tag.</change>
         <change when="2019-09-29">Added XIncluded changelog entries for the 

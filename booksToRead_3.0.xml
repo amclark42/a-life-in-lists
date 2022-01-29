@@ -6,10 +6,10 @@
     <fileDesc>
       <titleStmt>
         <title>Books to Read 3.0</title>
-        <editor><persName>Ashley M. Clark</persName></editor>
+        <editor><persName>Ash Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley.</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Microsoft Word Document
@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2020-03-07">Converted <gi>trait</gi> to <gi>catRef</gi>. My 
           customization has allowed <code lang="xpath">//bibl/catRef</code> since 
           <date when="2019-02-24"/>.</change>

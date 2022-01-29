@@ -6,10 +6,10 @@
     <fileDesc>
       <titleStmt>
         <title>List of Authors and Contributors</title>
-        <editor><persName>Ashley M. Clark</persName></editor>
+        <editor><persName>Ash Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley.</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Generated from the Open Office Document
@@ -19,6 +19,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2021-03-12">Modified <att>value</att> and <att>evidence</att> contents 
           on <gi>persPronouns</gi> to match TEI recommendations! Only the subject pronoun is 
           listed, and "self-identification" is camel-cased instead of hyphenated.</change>

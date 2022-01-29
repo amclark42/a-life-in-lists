@@ -6,10 +6,10 @@
     <fileDesc>
       <titleStmt>
         <title>Personal Timeline and Place List</title>
-        <editor><persName>Ashley M. Clark</persName></editor>
+        <editor><persName>Ash Clark</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <p>Just me, Ashley.</p>
+        <authority>Ash Clark</authority>
       </publicationStmt>
       <sourceDesc>
         <p>Created from scratch on <date when="2017-03-11">March 11th, 2017</date>.</p>
@@ -17,6 +17,7 @@
     </fileDesc>
     <revisionDesc>
       <listChange>
+        <change when="2022-01-29">Updated my name.</change>
         <change when="2019-09-15">Added <att>xml:lang</att> for the entire document.</change>
       </listChange>
     </revisionDesc>
