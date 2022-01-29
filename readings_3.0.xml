@@ -39,6 +39,10 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-01-28" to="2022-01-29">
+          <p>Read <title ref="b:willis.d.dumbingofage.10.embraceempiricalevidence">Dumbing of Age Vol. 10: 
+            Renounce Magical Thinking and Embrace Empirical Evidence</title>.</p>
+        </event>
         <event from="2022-01-22">
           <p>Read <title ref="b:gorman.a.calluswhatwecarry">Call Us What We Carry: Poems</title>.</p>
         </event>

@@ -76,6 +76,35 @@
           
           
           
+          <biblStruct xml:id="willis.d.dumbingofage.10.embraceempiricalevidence">
+            <monogr>
+              <title>Dumbing of Age Vol. 10: Renounce Magical Thinking and Embrace Empirical 
+                Evidence</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:mcguire.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2021-04-27"/>
+                <catRef target="#tag.owned" from="2022-01-28"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="gorman.a.calluswhatwecarry">
             <monogr>
               <title>Call Us What We Carry</title>

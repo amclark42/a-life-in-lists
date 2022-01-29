@@ -2074,6 +2074,14 @@
         </bibl>
         <bibl>
           <author>Jeffers, Honorée Fanonne</author>.
+          <title>The Age of Phillis</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.poetry"/>
+          <date type="added" when="2022-01-29"/>
+        </bibl>
+        <bibl>
+          <author>Jeffers, Honorée Fanonne</author>.
           <title>The Love Songs of W.E.B. Du Bois</title>.
           <date type="added" when="2021-08-15"/>
         </bibl>
