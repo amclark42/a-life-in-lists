@@ -1560,19 +1560,6 @@
             <resp n="artist"/>
             <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
           </respStmt>.
-          <title>The Wicked and the Divine Vol. 9: “Okay”</title>
-          <catRef target="#tag.comics"/>
-          <series>
-            <title>The Wicked and the Divine</title>
-          </series>
-          <date type="added" when="2019-11-16"/>
-        </bibl>
-        <bibl>
-          <author ref="a:gillen.k">Gillen, Kieron</author> and
-          <respStmt>
-            <resp n="artist"/>
-            <persName ref="a:mckelvie.j">Jamie McKelvie</persName>
-          </respStmt>.
           <title>Young Avengers Vol. 2: Alternative Culture</title>
           <catRef target="#tag.comics"/>
           <series><title>Young Avengers</title></series>
@@ -2741,12 +2728,6 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2014-09-30"/>
-        </bibl>
-        <bibl>
-          <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>Angel of the Overpass</title>.
-          <series><title>The Ghost Roads</title></series>
-          <date type="added" when="2021-09-18"></date>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.

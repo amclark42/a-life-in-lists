@@ -4480,11 +4480,12 @@
         </person>
 
         <person xml:id="melick.a">
+          <persName type="pseudonym">jam</persName>
           <persName>
             <forename>Angela</forename>
             <surname>Melick</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="dodson.t">
@@ -6108,7 +6109,7 @@
             <name type="nickname">Allie</name>
             <surname>Brosh</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="diffenba.v">

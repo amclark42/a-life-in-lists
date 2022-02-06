@@ -77,6 +77,61 @@
           
           
           
+          <biblStruct xml:id="mcguire.s.angeloftheoverpass">
+            <monogr>
+              <title>Angel of the Overpass</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="added" when="2021-09-18"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>DAW Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Ghost Roads</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="gillen.k.wickeddivine.9.okay">
+            <monogr>
+              <title>The Wicked + the Divine Vol. 9: “Okay”</title>
+              <author>
+                <persName ref="a:gillen.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:mckelvie.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:wilson.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <editor>
+                <persName ref="a:william.c"/>
+              </editor>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2019-11-16"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <orgName>Image Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Wicked + the Divine</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="willis.d.dumbingofage.10.embraceempiricalevidence">
             <monogr>
               <title>Dumbing of Age Vol. 10: Renounce Magical Thinking and Embrace Empirical 
@@ -3162,7 +3217,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.8.newnew">
             <monogr>
-              <title>The Wicked and the Divine Vol. 8: Old is the New New</title>
+              <title>The Wicked + the Divine Vol. 8: Old is the New New</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -3222,7 +3277,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -3315,7 +3370,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.7.motheringinvention">
             <monogr>
-              <title>The Wicked and the Divine Vol. 7: Mothering Invention</title>
+              <title>The Wicked + the Divine Vol. 7: Mothering Invention</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -3347,7 +3402,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -3721,7 +3776,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.6.imperialphase2">
             <monogr>
-              <title>The Wicked and the Divine Vol. 6: Imperial Phase Part 2</title>
+              <title>The Wicked + the Divine Vol. 6: Imperial Phase Part 2</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -3753,7 +3808,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -3943,7 +3998,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.5.imperialphase1">
             <monogr>
-              <title>The Wicked and the Divine Vol. 5: Imperial Phase Part 1</title>
+              <title>The Wicked + the Divine Vol. 5: Imperial Phase Part 1</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -3984,7 +4039,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -4821,7 +4876,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.4.risingaction">
             <monogr>
-              <title>The Wicked and the Divine Vol. 4: Rising Action</title>
+              <title>The Wicked + the Divine Vol. 4: Rising Action</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -4853,7 +4908,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -4965,7 +5020,7 @@
           
           <biblStruct xml:id="gillen.k.wickeddivine.3.commercialsuicide">
             <monogr>
-              <title>The Wicked and the Divine Vol. 3: Commercial Suicide</title>
+              <title>The Wicked + the Divine Vol. 3: Commercial Suicide</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -5003,7 +5058,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
           
@@ -9789,6 +9844,8 @@
           <biblStruct xml:id="brosh.a.hyperbolehalf">
             <monogr>
               <title>Hyperbole and a Half</title>
+              <title type="sub">Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other 
+                Things That Happened</title>
               <respStmt>
                 <resp n="author"/>
                 <resp n="illustrator"/>
@@ -9797,7 +9854,7 @@
               <imprint>
                 <catRef target="#tag.compilation"/>
                 <catRef target="#tag.owned" from="2016-04-09"/>
-                <date when="2013"/>
+                <date type="copyright" when="2013"/>
                 <publisher>
                   <orgName>Touchstone</orgName>
                 </publisher>
@@ -24747,7 +24804,7 @@
 
           <biblStruct xml:id="gillen.k.wickeddivine.2.fandemonium">
             <monogr>
-              <title>The Wicked and the Divine Vol. 2: Fandemonium</title>
+              <title>The Wicked + the Divine Vol. 2: Fandemonium</title>
               <author>
                 <persName ref="a:gillen.k"/>
               </author>
@@ -24778,7 +24835,7 @@
               </imprint>
             </monogr>
             <series>
-              <title>The Wicked and the Divine</title>
+              <title>The Wicked + the Divine</title>
             </series>
           </biblStruct>
 

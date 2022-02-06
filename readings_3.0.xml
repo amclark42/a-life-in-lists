@@ -40,6 +40,15 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-02-05" to="2022-02-06">
+          <p>Read <title ref="b:mcguire.s.angeloftheoverpass">Angel of the Overpass</title>.</p>
+        </event>
+        <event when="2022-02-05">
+          <p>Read <title ref="b:gillen.k.wickeddivine.9.okay">The Wicked + the Divine Vol. 9: “Okay”</title>.</p>
+        </event>
+        <event from="2022-02-04">
+          <p>Reread <title ref="b:brosh.a.hyperbolehalf">Hyperbole and a Half</title>.</p>
+        </event>
         <event from="2022-01-28" to="2022-01-29">
           <p>Read <title ref="b:willis.d.dumbingofage.10.embraceempiricalevidence">Dumbing of Age Vol. 10: 
             Renounce Magical Thinking and Embrace Empirical Evidence</title>.</p>
