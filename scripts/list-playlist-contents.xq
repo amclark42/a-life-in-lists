@@ -1,11 +1,14 @@
 xquery version "3.1";
 
-  (:declare boundary-space preserve;:)
  (:  LIBRARIES  :)
+  import module namespace ctab="http://www.wwp.northeastern.edu/ns/count-sets/functions"
+    at "https://raw.githubusercontent.com/NEU-DSG/wwp-public-code-share/main/counting_robot/count-sets-library.xql";
   import module namespace proc="http://basex.org/modules/proc";
+  import module namespace file="http://expath.org/ns/file";
  (:  NAMESPACES  :)
   declare namespace array="http://www.w3.org/2005/xpath-functions/array";
   declare namespace Composite="http://ns.exiftool.org/Composite/1.0/";
+  declare namespace ID3v1="http://ns.exiftool.org/ID3/ID3v1/1.0/";
   declare namespace ID3v2_3="http://ns.exiftool.ca/ID3/ID3v2_3/1.0/";
   declare namespace ID3v2_4="http://ns.exiftool.ca/ID3/ID3v2_4/1.0/";
   declare namespace ItemList="http://ns.exiftool.ca/QuickTime/ItemList/1.0/";
@@ -19,10 +22,9 @@ xquery version "3.1";
   (:declare option output:indent "no";:)
 
 (:~
-  Use the utility ExifTool to compile metadata from my music files.
+  Use the utility ExifTool to compile metadata from music files.
   
-  `exiftool -xmlFormat -sep "; " -r -ID3v2_3:Comment -ID3v2_4:Comment ~/Music/ > ~/Documents/inProgress/music-comments_shadowedhills.xml`
-  
+  `exiftool -xmlFormat -r -ID3v2_3:Comment -ID3v2_4:Comment ~/Music/`
   
   @author Ash Clark
   2022
@@ -30,27 +32,53 @@ xquery version "3.1";
  
 (:  VARIABLES  :)
   declare variable $music-directory-path as xs:string := "/home/ash/Music/";
+  declare variable $lists-directory-path as xs:string := "/home/ash/Documents/a-life-in-lists/";
 
 (:  FUNCTIONS  :)
   
   declare function local:get-files-metadata() {
     let $argumentSeq := (
-        (:"-r",:)
+        "-r",
         "-xmlFormat",
-        "-ID3v2_3:Title",
-        "-ID3v2_3:Artist",
-        "-ID3v2_3:Album",
-        "-ID3v2_3:Comment",
-        "-ID3v2_4:Comment",
+        "-ID3v1:Title", "-ID3v2_3:Title",
+        "-ID3v1:Artist", "-ID3v2_3:Artist",
+        "-ID3v1:Album", "-ID3v2_3:Album",
+        "-ID3v2_3:Comment", "-ID3v2_4:Comment",
         "-System:FileName",
         "-Composite:Duration",
         $music-directory-path
       )
-    return
-      proc:system('exiftool', $argumentSeq)
+    let $processOut := proc:execute('exiftool', $argumentSeq)
+    return try {
+        parse-xml($processOut//output/text())
+      } catch * {
+        $processOut//error
+      }
   };
 
 (:  MAIN QUERY  :)
 
-local:get-files-metadata()
-
+let $musicMetadata := local:get-files-metadata()
+let $possiblePlaylistKeys :=
+  let $allPhrases :=
+    $musicMetadata//*:Comment/tokenize(., ';') ! normalize-space()
+  let $countingRobotReport := ctab:get-counts($allPhrases)
+  let $tailless :=
+    let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
+    return 
+      ctab:join-rows($reportByRows) => ctab:report-to-map()
+  return
+    $tailless
+return (
+  (: Save a copy of the ExifTool report. :)
+  if ( $musicMetadata[self::error] ) then ()
+  else
+    let $reportPath := concat($lists-directory-path,'exiftool-music.xml')
+    return file:write($reportPath, $musicMetadata, map { 
+        'method': 'xml',
+        'indent': 'yes'
+      })
+  ,
+  $possiblePlaylistKeys
+  (: $musicMetadata :)
+)
