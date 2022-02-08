@@ -18,6 +18,13 @@
       <include xmlns="http://www.w3.org/2001/XInclude" 
         href="boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)"/>
     </encodingDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2022-02-08">Created this file using a list of possible 
+          playlist values taken from ID3 tags in music files stored on Shadowed 
+          Hills. See <ptr target="./scripts/list-playlist-contents.xq"/>.</change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
