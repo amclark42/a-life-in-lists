@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/amclark42/perspectography/main/schema/perspectography.rng" 
+   type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Smart Playlists</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Ash Clark</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <include xmlns="http://www.w3.org/2001/XInclude" 
+        href="boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)"/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Smart Playlist Keywords</head>
+      
+      
+      <div xml:id="pl-solutions">
+        <head>Solutions to Needs</head>
+        
+        <list>
+          <label>Awake the Day</label>
+          <item>For starting the day.</item>
+          
+          <label>Complicated</label>
+          <item>For getting through the day.</item>
+          
+          <label>The Drive!</label>
+          <item>For long drives.</item>
+          
+          <label>Fun Times</label>
+          <item>For dancing.</item>
+          
+          <label>The Girl in Byakkoya</label>
+          <item>For keeping up energy while focusing on an activity.</item>
+          
+          <label>NOPE</label>
+          <item>For not hearing this song ever again (for a while). The tag is 
+            mostly used for suppressing songs on other smart playlists.</item>
+          
+          <label>Singable</label>
+          <item>For singing.</item>
+          
+          <label>Sleepytimes</label>
+          <item>For winding down the day.</item>
+          
+          <label>Whistle While You Work</label>
+          <item>For cleaning.</item>
+        </list>
+      </div>
+      
+      <div xml:id="pl-projects">
+        <head>Creative Projects</head>
+        
+        <list>
+          <label>Areopagus</label>
+          <item>National Novel Writing Month (NaNoWriMo) endeavor.</item>
+          
+          <label>AT4W Day In, Day Out</label>
+          <item><title rend="quoted">Day In, Day Out of Character</title>, a 
+            fancomic for <title>Atop the Fourth Wall</title>.</item>
+          
+          <label>Blue Period</label>
+          <item>Interactive fiction game which never got out of the planning 
+            stages.</item>
+          
+          <label>JanetTor</label>
+          <item><title rend="quoted">Mad Scientist Wars</title> roleplay character.</item>
+          
+          <label>Li'l Nella and Hagan</label>
+          <item>Fancomic which never got out of the planning stages.</item>
+          
+          <label>Minrei of the Fallen</label>
+          <item>NaNoWriMo endeavor.</item>
+          
+          <label>Multivers'd</label>
+          <item>Webcomic which never got out of the planning stages.</item>
+          
+          <label>Spyder, Spyder</label>
+          <item>NaNoWriMo endeavor.</item>
+        </list>
+      </div>
+      
+      <div xml:id="pl-misc">
+        <head>Miscellaneous</head>
+        
+        <list>
+          <label>Biographies of the Woman</label>
+          <item>Songs which list the attributes of someone, usually nameless and 
+            referred to with she/her pronouns.</item>
+          
+          <label>heart</label>
+          <item>&lt;3</item>
+          
+          <label>Mixed Nuts</label>
+          <item></item>
+          
+          <label>Wanderlust</label>
+          <item>Songs about travel and other places.</item>
+        </list>
+      </div>
+      
+      <div xml:id="pl-temporal">
+        <head>Temporal</head>
+        
+        <list>
+          <item>
+            <list>
+              <head>Christmas</head>
+              
+              <item><label>Christmas</label></item>
+              <item><label>X-mas-ish</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2021</head>
+              
+              <item><label>2021b</label></item>
+              <item><label>2021a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2020</head>
+              
+              <item><label>2021b</label></item>
+              <item><label>2021a</label></item>
+              <item><label>2020 Quarantine</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2019</head>
+              
+              <item><label>2019b</label></item>
+              <item><label>2019a</label></item>
+            </list>
+          </item>
+          
+          <!--Mysteriously, I have nothing for 2018.-->
+          
+          <item>
+            <list>
+              <head>2017</head>
+              
+              <item><label>2017b</label></item>
+              <item><label>2017a</label></item>
+            </list>
+          </item>
+          
+          <item>2016a
+            <list>
+              <head>2016</head>
+              
+              <item><label>2016a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2015</head>
+              
+              <item><label>Finals, Post- 2015b</label></item>
+              <item><label>Finals, Post- 2015a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2014</head>
+              
+              <item><label>Finals, Post- 2014b</label></item>
+              <item><label>Finals, Post- 2014a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2013</head>
+              
+              <item><label>Finals, Post- 2013b</label></item>
+              <item><label>Finals, Post- 2013a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2012</head>
+              
+              <item><label>Finals, Post- 2012b</label></item>
+              <item><label>Finals, Post- 2012a</label></item>
+              <item><label>Finals, 2012</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2011</head>
+              
+              <item><label>Finals 2011b</label></item>
+              <item><label>Finals 2011a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2010</head>
+              
+              <item><label>Finals 2010b</label></item>
+              <item><label>Finals 2010a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2009</head>
+              
+              <item><label>Finals 2009</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2008</head>
+              
+              <item><label>Finals 2008b</label></item>
+              <item><label>Finals 2008a</label></item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>2007</head>
+              
+              <item><label>Finals 2007b</label></item>
+              <item><label>Finals 2007a</label></item>
+            </list>
+          </item>
+        </list>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

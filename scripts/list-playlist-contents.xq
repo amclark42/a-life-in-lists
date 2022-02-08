@@ -59,10 +59,14 @@ xquery version "3.1";
 (:  MAIN QUERY  :)
 
 let $musicMetadata := local:get-files-metadata()
+(: Use the counting robot to find possible playlist keywords stored in "Comment" metadata fields. :)
 let $possiblePlaylistKeys :=
+  (: Playlist phrases are separated by a semicolon, e.g. "The Drive!; Singable" :)
   let $allPhrases :=
     $musicMetadata//*:Comment/tokenize(., ';') ! normalize-space()
   let $countingRobotReport := ctab:get-counts($allPhrases)
+  (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
+    contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
   let $tailless :=
     let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
     return 
