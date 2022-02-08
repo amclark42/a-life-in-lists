@@ -21,8 +21,17 @@
   </teiHeader>
   <text>
     <body>
-      <head>Smart Playlist Keywords</head>
+      <head>Smart Playlists</head>
       
+      <p>These are unique phrases I’ve placed into the ID3 Comment tags of music 
+        files. Creating smart playlists is then as easy as 
+        <code>Comment contains PHRASE</code>.</p>
+      <p>The smart playlist encompassing (most) all of my music uses these rules:
+        <list>
+          <item>Comment does not contain <q>NOPE</q></item>
+          <item>Comment does not contain <q>Christmas</q></item>
+        </list>
+      </p>
       
       <div xml:id="pl-solutions">
         <head>Solutions to Needs</head>
@@ -118,13 +127,16 @@
               <head>Christmas</head>
               
               <item><label>Christmas</label></item>
-              <item><label>X-mas-ish</label></item>
+              <item><label>X-mas-ish</label> (Christmas songs that are fine to play 
+                at other times of the year)</item>
             </list>
           </item>
           
           <item>
             <list>
-              <head>2021</head>
+              <head>
+                <date>2021</date>
+              </head>
               
               <item><label>2021b</label></item>
               <item><label>2021a</label></item>
@@ -133,7 +145,9 @@
           
           <item>
             <list>
-              <head>2020</head>
+              <head>
+                <date>2020</date>
+              </head>
               
               <item><label>2021b</label></item>
               <item><label>2021a</label></item>
@@ -143,18 +157,22 @@
           
           <item>
             <list>
-              <head>2019</head>
+              <head>
+                <date>2019</date>
+              </head>
               
               <item><label>2019b</label></item>
               <item><label>2019a</label></item>
             </list>
           </item>
           
-          <!--Mysteriously, I have nothing for 2018.-->
+          <item>There are no smart playlists marked <date>2018</date>.</item>
           
           <item>
             <list>
-              <head>2017</head>
+              <head>
+                <date>2017</date>
+              </head>
               
               <item><label>2017b</label></item>
               <item><label>2017a</label></item>
@@ -163,7 +181,9 @@
           
           <item>2016a
             <list>
-              <head>2016</head>
+              <head>
+                <date>2016</date>
+              </head>
               
               <item><label>2016a</label></item>
             </list>
@@ -171,7 +191,9 @@
           
           <item>
             <list>
-              <head>2015</head>
+              <head>
+                <date>2015</date>
+              </head>
               
               <item><label>Finals, Post- 2015b</label></item>
               <item><label>Finals, Post- 2015a</label></item>
@@ -180,7 +202,9 @@
           
           <item>
             <list>
-              <head>2014</head>
+              <head>
+                <date>2014</date>
+              </head>
               
               <item><label>Finals, Post- 2014b</label></item>
               <item><label>Finals, Post- 2014a</label></item>
@@ -189,7 +213,9 @@
           
           <item>
             <list>
-              <head>2013</head>
+              <head>
+                <date>2013</date>
+              </head>
               
               <item><label>Finals, Post- 2013b</label></item>
               <item><label>Finals, Post- 2013a</label></item>
@@ -198,7 +224,9 @@
           
           <item>
             <list>
-              <head>2012</head>
+              <head>
+                <date>2012</date>
+              </head>
               
               <item><label>Finals, Post- 2012b</label></item>
               <item><label>Finals, Post- 2012a</label></item>
@@ -208,7 +236,9 @@
           
           <item>
             <list>
-              <head>2011</head>
+              <head>
+                <date>2011</date>
+              </head>
               
               <item><label>Finals 2011b</label></item>
               <item><label>Finals 2011a</label></item>
@@ -217,7 +247,9 @@
           
           <item>
             <list>
-              <head>2010</head>
+              <head>
+                <date>2010</date>
+              </head>
               
               <item><label>Finals 2010b</label></item>
               <item><label>Finals 2010a</label></item>
@@ -226,7 +258,9 @@
           
           <item>
             <list>
-              <head>2009</head>
+              <head>
+                <date>2009</date>
+              </head>
               
               <item><label>Finals 2009</label></item>
             </list>
@@ -234,7 +268,9 @@
           
           <item>
             <list>
-              <head>2008</head>
+              <head>
+                <date>2008</date>
+              </head>
               
               <item><label>Finals 2008b</label></item>
               <item><label>Finals 2008a</label></item>
@@ -243,7 +279,9 @@
           
           <item>
             <list>
-              <head>2007</head>
+              <head>
+                <date>2007</date>
+              </head>
               
               <item><label>Finals 2007b</label></item>
               <item><label>Finals 2007a</label></item>
