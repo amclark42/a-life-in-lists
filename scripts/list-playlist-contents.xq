@@ -34,19 +34,21 @@ xquery version "3.1";
   declare variable $lists-directory-path as xs:string := "/home/ash/Documents/a-life-in-lists/";
   declare variable $music-directory-path as xs:string := "/home/ash/Music/";
   (: The types of output that this script should return. :)
-  declare variable $output := map {
+  declare variable $output as map(xs:string, xs:boolean) := map {
       'musicMetadata': true(),
       'playlistCounts': true()
     };
+  declare variable $playlist-keys as xs:string* :=
+    doc('../smartPlaylists.xml')//tei:text//tei:label/normalize-space(.);
 
 (:  FUNCTIONS  :)
   
-  (: Use the counting robot to find possible playlist keywords stored in "Comment" metadata fields. :)
+  (: Use the counting robot to identify playlist keywords stored in "Comment" metadata fields. :)
   declare function local:count-playlist-keys($metadata) {
     (: Playlist phrases are separated by a semicolon, e.g. "The Drive!; Singable" :)
     let $allPhrases :=
       $metadata//*:Comment/tokenize(., ';') ! normalize-space()
-    let $countingRobotReport := ctab:get-counts($allPhrases)
+    let $countingRobotReport := ctab:get-counts($allPhrases[. = $playlist-keys])
     (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
       contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
     let $tailless :=

@@ -16,7 +16,7 @@
     </fileDesc>
     <encodingDesc>
       <include xmlns="http://www.w3.org/2001/XInclude" 
-        href="boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)"/>
+        href="./boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)"/>
     </encodingDesc>
     <revisionDesc>
       <listChange>
