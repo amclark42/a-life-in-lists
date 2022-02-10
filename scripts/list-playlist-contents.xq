@@ -17,6 +17,7 @@ xquery version "3.1";
   declare namespace rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#";
   declare namespace System="http://ns.exiftool.org/File/System/1.0/";
   declare namespace tei="http://www.tei-c.org/ns/1.0";
+  declare namespace xspf="http://xspf.org/ns/0/";
  
  (:  OPTIONS  :)
   (:declare option output:indent "no";:)
@@ -31,12 +32,15 @@ xquery version "3.1";
  :)
  
 (:  VARIABLES  :)
-  declare variable $lists-directory-path as xs:string := "/home/ash/Documents/a-life-in-lists/";
-  declare variable $music-directory-path as xs:string := "/home/ash/Music/";
+  declare variable $home-directory as xs:string := "/home/ash/";
+  declare variable $lists-directory as xs:string := 
+    concat($home-directory,"Documents/a-life-in-lists/");
+  declare variable $music-directory as xs:string := 
+    concat($home-directory,"Music/");
   (: The types of output that this script should return. :)
   declare variable $output as map(xs:string, xs:boolean) := map {
-      'musicMetadata': true(),
-      'playlistCounts': true()
+      'musicMetadata': false(),
+      'playlistCounts': false()
     };
   declare variable $playlist-keys as xs:string* :=
     doc('../smartPlaylists.xml')//tei:text//tei:label/normalize-space(.);
@@ -49,13 +53,11 @@ xquery version "3.1";
     let $allPhrases :=
       $metadata//*:Comment/tokenize(., ';') ! normalize-space()
     let $countingRobotReport := ctab:get-counts($allPhrases[. = $playlist-keys])
+    let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
     (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
       contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
-    let $tailless :=
-      let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
-      return 
-        ctab:join-rows($reportByRows) => ctab:report-to-map()
-    return $tailless
+    (:let $tailless := ctab:join-rows($reportByRows) => ctab:report-to-map():)
+    return ctab:report-to-map($reportByRows)
   };
   
   declare function local:get-files-metadata() {
@@ -68,7 +70,7 @@ xquery version "3.1";
         "-ID3v2_3:Comment", "-ID3v2_4:Comment",
         "-System:FileName", "-System:FileModifyDate",
         "-Composite:Duration",
-        $music-directory-path
+        $music-directory
       )
     (: ExifTool returns an error code 1 when run in recursive mode, so try to treat the output as XML before 
       falling back on the contents of the error element. :)
@@ -83,15 +85,35 @@ xquery version "3.1";
 (:  MAIN QUERY  :)
 
 let $musicMetadata := local:get-files-metadata()
+let $playlistsFromSmart :=
+  for $smartKey in $playlist-keys
+  let $tracks :=
+    $musicMetadata//rdf:Description[*:Comment[contains(., $smartKey)]]
+  let $xspfPlaylist :=
+    <playlist version="1" xmlns="http://xspf.org/ns/0/">
+      <title>{ $smartKey }</title>
+      <trackList>
+        {
+          for $track in $tracks
+          return
+            <track xmlns="http://xspf.org/ns/0/">
+              <location>{ substring-after($track/@rdf:about, $home-directory) }</location>
+            </track>
+        }
+      </trackList>
+    </playlist>
+  return $xspfPlaylist
 return (
   (: Save a copy of the ExifTool report. :)
   if ( $musicMetadata[self::error] ) then ()
   else
-    let $reportPath := concat($lists-directory-path,'exiftool-music.xml')
+    let $reportPath := concat($lists-directory,'exiftool-music.xml')
     return file:write($reportPath, $musicMetadata, map { 
         'method': 'xml',
         'indent': 'yes'
       })
+  ,
+  $playlistsFromSmart
   ,
   if ( $output?musicMetadata ) then
     $musicMetadata
