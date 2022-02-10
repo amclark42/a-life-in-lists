@@ -31,23 +31,45 @@ xquery version "3.1";
  :)
  
 (:  VARIABLES  :)
-  declare variable $music-directory-path as xs:string := "/home/ash/Music/";
   declare variable $lists-directory-path as xs:string := "/home/ash/Documents/a-life-in-lists/";
+  declare variable $music-directory-path as xs:string := "/home/ash/Music/";
+  (: The types of output that this script should return. :)
+  declare variable $output := map {
+      'musicMetadata': true(),
+      'playlistCounts': true()
+    };
 
 (:  FUNCTIONS  :)
+  
+  (: Use the counting robot to find possible playlist keywords stored in "Comment" metadata fields. :)
+  declare function local:count-playlist-keys($metadata) {
+    (: Playlist phrases are separated by a semicolon, e.g. "The Drive!; Singable" :)
+    let $allPhrases :=
+      $metadata//*:Comment/tokenize(., ';') ! normalize-space()
+    let $countingRobotReport := ctab:get-counts($allPhrases)
+    (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
+      contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
+    let $tailless :=
+      let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
+      return 
+        ctab:join-rows($reportByRows) => ctab:report-to-map()
+    return $tailless
+  };
   
   declare function local:get-files-metadata() {
     let $argumentSeq := (
         "-r",
         "-xmlFormat",
-        "-ID3v1:Title", "-ID3v2_3:Title",
-        "-ID3v1:Artist", "-ID3v2_3:Artist",
-        "-ID3v1:Album", "-ID3v2_3:Album",
+        "-ID3v1:Title", "-ID3v2_3:Title", "-ID3v2_4:Title",
+        "-ID3v1:Artist", "-ID3v2_3:Artist", "-ID3v2_4:Artist",
+        "-ID3v1:Album", "-ID3v2_3:Album", "-ID3v2_4:Album",
         "-ID3v2_3:Comment", "-ID3v2_4:Comment",
-        "-System:FileName",
+        "-System:FileName", "-System:FileModifyDate",
         "-Composite:Duration",
         $music-directory-path
       )
+    (: ExifTool returns an error code 1 when run in recursive mode, so try to treat the output as XML before 
+      falling back on the contents of the error element. :)
     let $processOut := proc:execute('exiftool', $argumentSeq)
     return try {
         parse-xml($processOut//output/text())
@@ -59,20 +81,6 @@ xquery version "3.1";
 (:  MAIN QUERY  :)
 
 let $musicMetadata := local:get-files-metadata()
-(: Use the counting robot to find possible playlist keywords stored in "Comment" metadata fields. :)
-let $possiblePlaylistKeys :=
-  (: Playlist phrases are separated by a semicolon, e.g. "The Drive!; Singable" :)
-  let $allPhrases :=
-    $musicMetadata//*:Comment/tokenize(., ';') ! normalize-space()
-  let $countingRobotReport := ctab:get-counts($allPhrases)
-  (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
-    contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
-  let $tailless :=
-    let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
-    return 
-      ctab:join-rows($reportByRows) => ctab:report-to-map()
-  return
-    $tailless
 return (
   (: Save a copy of the ExifTool report. :)
   if ( $musicMetadata[self::error] ) then ()
@@ -83,6 +91,11 @@ return (
         'indent': 'yes'
       })
   ,
-  $possiblePlaylistKeys
-  (: $musicMetadata :)
+  if ( $output?musicMetadata ) then
+    $musicMetadata
+  else ()
+  ,
+  if ( $output?playlistCounts ) then
+    local:count-playlist-keys($musicMetadata)
+  else ()
 )
