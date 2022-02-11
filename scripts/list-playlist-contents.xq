@@ -64,10 +64,10 @@ xquery version "3.1";
     let $argumentSeq := (
         "-r",
         "-xmlFormat",
-        "-ID3v1:Title", "-ID3v2_3:Title", "-ID3v2_4:Title",
-        "-ID3v1:Artist", "-ID3v2_3:Artist", "-ID3v2_4:Artist",
-        "-ID3v1:Album", "-ID3v2_3:Album", "-ID3v2_4:Album",
-        "-ID3v2_3:Comment", "-ID3v2_4:Comment",
+        "-ID3v2_4:Title", "-ID3v2_3:Title", "-ID3v1:Title",
+        "-ID3v2_4:Artist", "-ID3v2_3:Artist", "-ID3v1:Artist",
+        "-ID3v2_4:Album", "-ID3v2_3:Album", "-ID3v1:Album",
+        "-ID3v2_4:Comment", "-ID3v2_3:Comment",
         "-System:FileName", "-System:FileModifyDate",
         "-Composite:Duration",
         $music-directory
@@ -88,21 +88,30 @@ let $musicMetadata := local:get-files-metadata()
 let $playlistsFromSmart :=
   for $smartKey in $playlist-keys
   let $tracks :=
-    $musicMetadata//rdf:Description[*:Comment[contains(., $smartKey)]]
+    $musicMetadata//rdf:Description[*:Comment[contains(., $smartKey)]
+                                             [$smartKey eq 'NOPE' or not(contains(., 'NOPE'))]
+                                   ]
   let $xspfPlaylist :=
     <playlist version="1" xmlns="http://xspf.org/ns/0/">
       <title>{ $smartKey }</title>
       <trackList>
-        {
-          for $track in $tracks
-          return
-            <track xmlns="http://xspf.org/ns/0/">
-              <location>{ substring-after($track/@rdf:about, $home-directory) }</location>
-            </track>
-        }
+      {
+        for $track in $tracks
+        let $titleTags := $track//*:Title
+        let $artistTags := $track//*:Artist
+        let $albumTags := $track//*:Album
+        return
+          <track xmlns="http://xspf.org/ns/0/">
+            <title>{ $titleTags[1]/text() }</title>
+            <creator>{ $artistTags[1]/text() }</creator>
+            <album>{ $albumTags[1]/text() }</album>
+            <location>{ substring-after($track/@rdf:about, $home-directory) }</location>
+          </track>
+      }
       </trackList>
     </playlist>
-  return $xspfPlaylist
+  return
+    $xspfPlaylist
 return (
   (: Save a copy of the ExifTool report. :)
   if ( $musicMetadata[self::error] ) then ()
