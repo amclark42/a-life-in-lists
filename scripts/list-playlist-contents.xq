@@ -40,7 +40,8 @@ xquery version "3.1";
   (: The types of output that this script should return. :)
   declare variable $output as map(xs:string, xs:boolean) := map {
       'musicMetadata': false(),
-      'playlistCounts': false()
+      'playlistCounts': false(),
+      'xspfPlaylists': true()
     };
   declare variable $playlist-keys as xs:string* :=
     doc('../smartPlaylists.xml')//tei:text//tei:label/normalize-space(.);
@@ -85,6 +86,7 @@ xquery version "3.1";
 (:  MAIN QUERY  :)
 
 let $musicMetadata := local:get-files-metadata()
+(: Generate playlists in XSPF format, using smart playlist criteria. :)
 let $playlistsFromSmart :=
   for $smartKey in $playlist-keys
   let $tracks :=
@@ -97,32 +99,41 @@ let $playlistsFromSmart :=
       <trackList>
       {
         for $track in $tracks
-        let $titleTags := $track//*:Title
-        let $artistTags := $track//*:Artist
-        let $albumTags := $track//*:Album
         return
           <track xmlns="http://xspf.org/ns/0/">
-            <title>{ $titleTags[1]/text() }</title>
-            <creator>{ $artistTags[1]/text() }</creator>
-            <album>{ $albumTags[1]/text() }</album>
+            <title>{ $track//*:Title[1]/text() }</title>
+            <creator>{ $track//*:Artist[1]/text() }</creator>
+            <album>{ $track//*:Album[1]/text() }</album>
             <location>{ substring-after($track/@rdf:about, $home-directory) }</location>
           </track>
       }
       </trackList>
     </playlist>
-  return
-    $xspfPlaylist
+  let $playlistPath :=
+    let $filename := replace(translate($smartKey, ",!''", ''), '\s', '_')
+    return concat($lists-directory,'playlists/',$filename,'.xml')
+  return (
+      file:write($playlistPath, $xspfPlaylist, map {
+          'indent': 'yes',
+          'media-type': 'application/xspf+xml',
+          'method': 'xml'
+        }),
+      $xspfPlaylist
+    )
 return (
   (: Save a copy of the ExifTool report. :)
   if ( $musicMetadata[self::error] ) then ()
   else
-    let $reportPath := concat($lists-directory,'exiftool-music.xml')
+    let $hostname := proc:execute('hostname')//output/normalize-space(.)
+    let $reportPath := concat($lists-directory,'playlists/all-music_',$hostname,'.xml')
     return file:write($reportPath, $musicMetadata, map { 
         'method': 'xml',
         'indent': 'yes'
       })
   ,
-  $playlistsFromSmart
+  if ( $output?xspfPlaylists ) then
+    $playlistsFromSmart
+  else ()
   ,
   if ( $output?musicMetadata ) then
     $musicMetadata
