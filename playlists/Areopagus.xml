@@ -1,0 +1,23 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Areopagus</title>
+  <trackList>
+    <track>
+      <title>World Order</title>
+      <creator>World Order</creator>
+      <album>World Order</album>
+      <location>Music/World Order - World Order.mp3</location>
+    </track>
+    <track>
+      <title>All These Things That I've Done</title>
+      <creator>The Killers</creator>
+      <album>Hot Fuss</album>
+      <location>Music/The Killers - Hot Fuss/07 All These Things That I've Done.mp3</location>
+    </track>
+    <track>
+      <title>Losing My Religion</title>
+      <creator>R.E.M.</creator>
+      <album>In Time: The Best of R.E.M. 1988-2003</album>
+      <location>Music/REM - Losing My Religion.mp3</location>
+    </track>
+  </trackList>
+</playlist>

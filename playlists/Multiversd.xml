@@ -1,0 +1,125 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Multivers'd</title>
+  <trackList>
+    <track>
+      <title>Under Pressure</title>
+      <creator>Queen &amp; David Bowie</creator>
+      <album>Best Of Bowie</album>
+      <location>Music/Queen &amp; David Bowie - Under Pressure.mp3</location>
+    </track>
+    <track>
+      <title>O Green World</title>
+      <creator>Gorillaz</creator>
+      <album>Demon Days</album>
+      <location>Music/Gorillaz - Demon Days/04 O Green World.mp3</location>
+    </track>
+    <track>
+      <title>Face the Promise</title>
+      <creator>Bob Seger</creator>
+      <album>Face the Promise</album>
+      <location>Music/Bob Seger - Face the Promise/03 Face the Promise.mp3</location>
+    </track>
+    <track>
+      <title>The Long Goodbye</title>
+      <creator>Bob Seger</creator>
+      <album>Face the Promise</album>
+      <location>Music/Bob Seger - Face the Promise/12 The Long Goodbye.mp3</location>
+    </track>
+    <track>
+      <title>Against the Wind</title>
+      <creator>Bob Seger</creator>
+      <album>Unknown Albums Collection</album>
+      <location>Music/Bob Seger - Against the Wind.mp3</location>
+    </track>
+    <track>
+      <title>Clocks</title>
+      <creator>Coldplay</creator>
+      <album>A Rush of Blood to the Head</album>
+      <location>Music/Coldplay - Clocks.mp3</location>
+    </track>
+    <track>
+      <title>Across The Universe</title>
+      <creator>Fiona Apple</creator>
+      <album>Pleasantville -Music From The Motion Picture</album>
+      <location>Music/Fiona Apple - Across The Universe.mp3</location>
+    </track>
+    <track>
+      <title>Everything Will Be Alright</title>
+      <creator>The Killers</creator>
+      <album>Hot Fuss</album>
+      <location>Music/The Killers - Hot Fuss/02 Everything Will Be Alright.mp3</location>
+    </track>
+    <track>
+      <title>Save Tonight</title>
+      <creator>Eagle-Eye Cherry</creator>
+      <album>1999 Grammy Nominees: Mainstream</album>
+      <location>Music/Eagle-Eye Cherry - Save Tonight.mp3</location>
+    </track>
+    <track>
+      <title>Hallelujah</title>
+      <creator>John Cale</creator>
+      <album>Basquiat-  Original Soundtrack</album>
+      <location>Music/John Cale - Hallelujah.mp3</location>
+    </track>
+    <track>
+      <title>To The Ends Of The Earth</title>
+      <creator>Blue Sky Black Death</creator>
+      <album>NOIR</album>
+      <location>Music/04. To The Ends Of The Earth.mp3</location>
+    </track>
+    <track>
+      <title>Closing Time</title>
+      <creator>Semisonic</creator>
+      <album>Anne Compilations: When Zombies Attack</album>
+      <location>Music/Semisonic - Closing Time.mp3</location>
+    </track>
+    <track>
+      <title>All About Soul [Remix]</title>
+      <creator>Billy Joel</creator>
+      <album>The Complete Hits Collection 1973-1997: Limited Edition Disc 3</album>
+      <location>Music/Billy Joel - All About Soul [Remix].mp3</location>
+    </track>
+    <track>
+      <title>Belief [*]</title>
+      <creator>Gavin DeGraw</creator>
+      <album>Chariot [Chariot + Chariot Stripped] Disc 2</album>
+      <location>Music/Gavin DeGraw - Chariot/06 Belief [-].mp3</location>
+    </track>
+    <track>
+      <title>Don't Stop Me Now</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits</album>
+      <location>Music/Queen - Don't Stop Me Now.mp3</location>
+    </track>
+    <track>
+      <title>My Mamma Said</title>
+      <creator>Aqua</creator>
+      <album>Greatest Hits</album>
+      <location>Music/Aqua - My Mamma Said.mp3</location>
+    </track>
+    <track>
+      <title>Chasing Cars</title>
+      <creator>Snow Patrol</creator>
+      <album>Eyes Open</album>
+      <location>Music/Snow Patrol - Chasing Cars.mp3</location>
+    </track>
+    <track>
+      <title>Baby Got Back</title>
+      <creator>Jonathan Coulton</creator>
+      <album>Thing a Week One</album>
+      <location>Music/Jonathan Coulton - Baby Got Back.mp3</location>
+    </track>
+    <track>
+      <title>Fire For Light</title>
+      <creator>Blue Sky Black Death</creator>
+      <album>NOIR</album>
+      <location>Music/12. Fire For Light.mp3</location>
+    </track>
+    <track>
+      <title>Cruz</title>
+      <creator>Christina Aguilera</creator>
+      <album>Stripped</album>
+      <location>Music/Christina Aguilera - Stripped/13 Cruz.mp3</location>
+    </track>
+  </trackList>
+</playlist>

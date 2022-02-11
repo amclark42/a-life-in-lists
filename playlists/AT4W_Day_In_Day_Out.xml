@@ -1,0 +1,89 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>AT4W Day In, Day Out</title>
+  <trackList>
+    <track>
+      <title>Moar Ghosts N Stuff</title>
+      <creator>Deadmau5</creator>
+      <album/>
+      <location>Music/deadmau5 - Moar Ghosts N Stuff.mp3</location>
+    </track>
+    <track>
+      <title>Ring Capacity</title>
+      <creator>Kirby Krackle</creator>
+      <album>E For Everyone</album>
+      <location>Music/Kirby Krackle - Ring Capacity.mp3</location>
+    </track>
+    <track>
+      <title>You're Not Here</title>
+      <creator>Akira Yamaoka</creator>
+      <album>Silent Hill 3 (Original Game Soundtracks)</album>
+      <location>Music/Akira Yamaoka - Silent Hill 3 (Original Game Soundtracks)/02 - You're Not Here.mp3</location>
+    </track>
+    <track>
+      <title>Aftermath</title>
+      <creator>Adam Lambert</creator>
+      <album>For Your Entertainment</album>
+      <location>Music/Adam Lambert - For Your Entertainment/Adam Lambert - Aftermath.mp3</location>
+    </track>
+    <track>
+      <title>Consumed (Obsessive-Compulsive)</title>
+      <creator>Spineshank</creator>
+      <album>Self-Destructive Pattern</album>
+      <location>Music/Spineshank - Consumed (Obsessive-Compulsive).mp3</location>
+    </track>
+    <track>
+      <title>Stand My Ground</title>
+      <creator>Within Temptation</creator>
+      <album>Anne Compilations: Don't Blink</album>
+      <location>Music/Within Temptation - Stand My Ground.mp3</location>
+    </track>
+    <track>
+      <title>Weird Science</title>
+      <creator>Oingo Boingo</creator>
+      <album>20th Century Masters: The Millennium Collection: Best Of Oingo Boingo</album>
+      <location>Music/Oingo Boingo - Weird Science.mp3</location>
+    </track>
+    <track>
+      <title>If You Should Want the Moon</title>
+      <creator>Harvey Finevoice</creator>
+      <album>Finevoice: The Legacy Collection</album>
+      <location>Music/Havey Finevoice - If You Should Want the Moon.mp3</location>
+    </track>
+    <track>
+      <title>Here It Goes Again</title>
+      <creator>OK Go</creator>
+      <album>Oh No</album>
+      <location>Music/OK Go - Here It Goes Again.mp3</location>
+    </track>
+    <track>
+      <title>Weapon Of Choice [Explicit]</title>
+      <creator>Fatboy Slim</creator>
+      <album>Halfway Between The Gutter And The Stars [Explicit]</album>
+      <location>Music/Fatboy Slim - Weapon Of Choice [Explicit].mp3</location>
+    </track>
+    <track>
+      <title>White Wine In the Sun (Live)</title>
+      <creator>Tim Minchin</creator>
+      <album>Ready for This?</album>
+      <location>Music/Tim Minchin - White Wine In the Sun (Live).mp3</location>
+    </track>
+    <track>
+      <title>Sweepstakes (Feat. Mos Def And Hypnotic Brass Ensemble)</title>
+      <creator>Gorillaz</creator>
+      <album>Plastic Beach</album>
+      <location>Music/Gorillaz - Plastic Beach/Gorillaz - Sweepstakes (Feat. Mos Def And Hypnotic Brass Ensemble).mp3</location>
+    </track>
+    <track>
+      <title>Iron</title>
+      <creator>Woodkid</creator>
+      <album>Iron EP</album>
+      <location>Music/Woodkid - Iron.mp3</location>
+    </track>
+    <track>
+      <title>Advent: One-Winged-Angel</title>
+      <creator>Nobuo Uematsu</creator>
+      <album>Final Fantasy VII- Advent Children Original Soundtrack, Disc 2</album>
+      <location>Music/Advent- One-Winged Angel.mp3</location>
+    </track>
+  </trackList>
+</playlist>

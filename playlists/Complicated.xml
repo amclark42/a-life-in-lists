@@ -1,0 +1,413 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Complicated</title>
+  <trackList>
+    <track>
+      <title>World Order</title>
+      <creator>World Order</creator>
+      <album>World Order</album>
+      <location>Music/World Order - World Order.mp3</location>
+    </track>
+    <track>
+      <title>Little Jack Frost</title>
+      <creator>Kate Rusby</creator>
+      <album>The Girl Who Couldn't Fly</album>
+      <location>Music/Kate Rusby - Little Jack Frost.mp3</location>
+    </track>
+    <track>
+      <title>Through Heaven's Eyes</title>
+      <creator>Bryan Stokes Mitchell</creator>
+      <album>The Prince of Egypt</album>
+      <location>Music/The Prince of Egypt Soundtrack/07 Through Heaven's Eyes.mp3</location>
+    </track>
+    <track>
+      <title>In Your Time</title>
+      <creator>Bob Seger</creator>
+      <album>Unknown Albums Collection</album>
+      <location>Music/Bob Seger - In Your Time.mp3</location>
+    </track>
+    <track>
+      <title>On the Road Again</title>
+      <creator>Bob Seger</creator>
+      <album>Unknown Albums Collection</album>
+      <location>Music/Bob Seger - On the Road Again.mp3</location>
+    </track>
+    <track>
+      <title>Heaven</title>
+      <creator>目黒将司</creator>
+      <album>Persona 4 side a</album>
+      <location>Music/Persona 4 side a/目黒将司 - Heaven.mp3</location>
+    </track>
+    <track>
+      <title>Pursuing My True Self</title>
+      <creator>目黒将司</creator>
+      <album>Persona 4 side a</album>
+      <location>Music/Persona 4 side a/目黒将司 - Pursuing My True Self.mp3</location>
+    </track>
+    <track>
+      <title>BaBopByeYa</title>
+      <creator>Janelle Monáe</creator>
+      <album>The ArchAndroid</album>
+      <location>Music/Janelle Monáe - The ArchAndroid/Janelle Monáe - BaBopByeYa.mp3</location>
+    </track>
+    <track>
+      <title>Tightrope (Feat. Big Boi)</title>
+      <creator>Janelle Monáe</creator>
+      <album>The ArchAndroid</album>
+      <location>Music/Janelle Monáe - The ArchAndroid/Janelle Monáe -  Tightrope (Feat. Big Boi).mp3</location>
+    </track>
+    <track>
+      <title>Happy (From "Despicable Me 2")</title>
+      <creator>Pharrell Williams</creator>
+      <album>G I R L</album>
+      <location>Music/Pharrell Williams - Happy (From _Despicable Me 2_).mp3</location>
+    </track>
+    <track>
+      <title>The Fear [Explicit]</title>
+      <creator>Lily Allen</creator>
+      <album>It's Not Me, It's You [+Digital Booklet] [Explicit]</album>
+      <location>Music/02 - The Fear [Explicit].mp3</location>
+    </track>
+    <track>
+      <title>You're Not Here</title>
+      <creator>Akira Yamaoka</creator>
+      <album>Silent Hill 3 (Original Game Soundtracks)</album>
+      <location>Music/Akira Yamaoka - Silent Hill 3 (Original Game Soundtracks)/02 - You're Not Here.mp3</location>
+    </track>
+    <track>
+      <title>Painting In the Rain</title>
+      <creator>Todrick Hall</creator>
+      <album>Forbidden [Explicit]</album>
+      <location>Music/Todrick Hall - Forbidden [Explicit]/(Disc 2) 11 - Painting In the Rain.mp3</location>
+    </track>
+    <track>
+      <title>Leave Out All the Rest</title>
+      <creator>Linkin Park</creator>
+      <album>Minutes to Midnight</album>
+      <location>Music/Linkin Park - Leave Out All the Rest.mp3</location>
+    </track>
+    <track>
+      <title>4 O'Clock</title>
+      <creator>Emilie Autumn</creator>
+      <album>4 O'Clock EP</album>
+      <location>Music/01_emilie_autumn-4_oclock.mp3</location>
+    </track>
+    <track>
+      <title>Writing Again</title>
+      <creator>Seanan McGuire</creator>
+      <album>Wicked Girls</album>
+      <location>Music/Seanan McGuire - Wicked Girls/14 Writing Again.mp3</location>
+    </track>
+    <track>
+      <title>Viva La Vida</title>
+      <creator>Coldplay</creator>
+      <album>Viva La Vida Or Death And All His Friends</album>
+      <location>Music/Coldplay - Viva La Vida.mp3</location>
+    </track>
+    <track>
+      <title>Across The Universe</title>
+      <creator>Fiona Apple</creator>
+      <album>Pleasantville -Music From The Motion Picture</album>
+      <location>Music/Fiona Apple - Across The Universe.mp3</location>
+    </track>
+    <track>
+      <title>Sonate d'amour</title>
+      <creator>Samm Neiland</creator>
+      <album>Hustle Cat Original Soundtrack</album>
+      <location>Music/Hustle Cat OST/Samm Neiland - Hustle Cat Original Soundtrack - 08 Sonate d'amour.mp3</location>
+    </track>
+    <track>
+      <title>Nine Lives One Love</title>
+      <creator>Homestuck</creator>
+      <album>coloUrs and mayhem: Universe A</album>
+      <location>Music/Homestuck - coloUrs and mayhem- Universe A/Homestuck - coloUrs and mayhem- Universe A - 31 Nine Lives One Love.mp3</location>
+    </track>
+    <track>
+      <title>Some Nights (Explicit)</title>
+      <creator>Fun.</creator>
+      <album>Some Nights (Explicit)</album>
+      <location>Music/Fun - Some Nights (Explicit).mp3</location>
+    </track>
+    <track>
+      <title>Objects in the Rear View Mirror</title>
+      <creator>Meatloaf</creator>
+      <album>Liz's Those Songs</album>
+      <location>Music/Meatloaf - Objects in the Rear View Mirror.mp3</location>
+    </track>
+    <track>
+      <title>Everything Will Be Alright</title>
+      <creator>The Killers</creator>
+      <album>Hot Fuss</album>
+      <location>Music/The Killers - Hot Fuss/02 Everything Will Be Alright.mp3</location>
+    </track>
+    <track>
+      <title>Carry on My Wayward Son</title>
+      <creator>Kansas</creator>
+      <album/>
+      <location>Music/Kansas Carry on my Wayward son.mp3</location>
+    </track>
+    <track>
+      <title>The Lethal Temptress</title>
+      <creator>Mendoza Line</creator>
+      <album>Full of Light &amp; Full of Fire</album>
+      <location>Music/Mendoza Line - The Lethal Temptress.mp3</location>
+    </track>
+    <track>
+      <title>Gotta Get Up (Another Day) [feat. 4Hero]</title>
+      <creator>Jill Scott</creator>
+      <album>Experience: Jill Scott 826+ [Explicit]</album>
+      <location>Music/Jill Scott - Gotta Get Up (Another Day) [feat. 4Hero].mp3</location>
+    </track>
+    <track>
+      <title>Long Way Home (Radio Edit)</title>
+      <creator>ATB</creator>
+      <album/>
+      <location>Music/ATB - Long Way Home (Radio Edit).mp3</location>
+    </track>
+    <track>
+      <title>Know Who You Are</title>
+      <creator>Auli'i Cravalho &amp; Vai Mahina &amp; Olivia Foa'i &amp; Opetaia Foa'i &amp; Matthew Ineleo</creator>
+      <album>Moana (Original Motion Picture Soundtrack)</album>
+      <location>Music/Moana (Original Motion Picture Soundtrack)/11 - Know Who You Are.mp3</location>
+    </track>
+    <track>
+      <title>Float On</title>
+      <creator>Modest Mouse</creator>
+      <album>Float On</album>
+      <location>Music/Modest Mouse - Float On.mp3</location>
+    </track>
+    <track>
+      <title>Snowdin Town</title>
+      <creator>toby fox</creator>
+      <album>UNDERTALE Soundtrack</album>
+      <location>Music/UNDERTALE Soundtrack/toby fox - UNDERTALE Soundtrack - 22 Snowdin Town.mp3</location>
+    </track>
+    <track>
+      <title>Undertale</title>
+      <creator>toby fox</creator>
+      <album>UNDERTALE Soundtrack</album>
+      <location>Music/UNDERTALE Soundtrack/toby fox - UNDERTALE Soundtrack - 71 Undertale.mp3</location>
+    </track>
+    <track>
+      <title>Home</title>
+      <creator>toby fox</creator>
+      <album>UNDERTALE Soundtrack</album>
+      <location>Music/UNDERTALE Soundtrack/toby fox - UNDERTALE Soundtrack - 12 Home.mp3</location>
+    </track>
+    <track>
+      <title>Stardust</title>
+      <creator>Nat King Cole</creator>
+      <album>Sleepless in Seattle</album>
+      <location>Music/Nat King Cole - Stardust.mp3</location>
+    </track>
+    <track>
+      <title>Candle on the Water [From Pete's Dragon]</title>
+      <creator>Helen Reddy</creator>
+      <album>Classic Disney, Vol. 2</album>
+      <location>Music/Helen Reddy - Candle on the Water [From Pete's Dragon].mp3</location>
+    </track>
+    <track>
+      <title>Awake the Day</title>
+      <creator>Kim Boekbinder and The Secret Knots</creator>
+      <album>Music For Stray Days</album>
+      <location>Music/Kim Boekbinder - Music For Stray Days - 01 Awake the Day.mp3</location>
+    </track>
+    <track>
+      <title>Vienna</title>
+      <creator>Billy Joel</creator>
+      <album>The Stranger</album>
+      <location>Music/Billy Joel - Vienna.mp3</location>
+    </track>
+    <track>
+      <title>The Climb</title>
+      <creator>Miley Cyrus</creator>
+      <album>Liz's Mellow New Favorites</album>
+      <location>Music/Miley Cyrus - The Climb.mp3</location>
+    </track>
+    <track>
+      <title>Shake It Out</title>
+      <creator>Florence + The Machine</creator>
+      <album>Ceremonials (Deluxe Edition) [+Digital Booklet]</album>
+      <location>Music/Florence + The Machine - Ceremonials (Deluxe Edition)/02 - Shake It Out.mp3</location>
+    </track>
+    <track>
+      <title>Sing</title>
+      <creator>Carpenters</creator>
+      <album>Yesterday Once More</album>
+      <location>Music/The Carpenters - Sing.mp3</location>
+    </track>
+    <track>
+      <title>Do It Anyway</title>
+      <creator>Ben Folds Five</creator>
+      <album>The Sound Of The Life Of The Mind</album>
+      <location>Music/Ben Folds Five - Do It Anyway.mp3</location>
+    </track>
+    <track>
+      <title>Ain't No Rest For The Wicked</title>
+      <creator>Cage The Elephant</creator>
+      <album>Ain't No Rest For The Wicked</album>
+      <location>Music/Cage the Elephant - Ain't No Rest For The Wicked.mp3</location>
+    </track>
+    <track>
+      <title>Still Alive</title>
+      <creator>Jonathan Coulton &amp; GLaDOS</creator>
+      <album>The Orange Box (Original Soundtrack)</album>
+      <location>Music/Jonathan Coulton &amp; GLaDOS - Still Alive.mp3</location>
+    </track>
+    <track>
+      <title>We've Only Just Begun</title>
+      <creator>The Carpenters</creator>
+      <album>Yesterday Once More (Disc 2)</album>
+      <location>Music/The Carpenters - We've Only Just Begun.mp3</location>
+    </track>
+    <track>
+      <title>I'll Stand By You (2009 Remastered Version)</title>
+      <creator>Pretenders</creator>
+      <album>The Best Of The Pretenders</album>
+      <location>Music/Pretenders - I'll Stand By You (2009 Remastered Version).mp3</location>
+    </track>
+    <track>
+      <title>The End</title>
+      <creator>SuperGiant Games</creator>
+      <album>Bastion OST</album>
+      <location>Music/Bastion OST/The End.mp3</location>
+    </track>
+    <track>
+      <title>The Singer</title>
+      <creator>SuperGiant Games</creator>
+      <album>Bastion OST</album>
+      <location>Music/Bastion OST/The Singer.mp3</location>
+    </track>
+    <track>
+      <title>My Mamma Said</title>
+      <creator>Aqua</creator>
+      <album>Greatest Hits</album>
+      <location>Music/Aqua - My Mamma Said.mp3</location>
+    </track>
+    <track>
+      <title>You Gotta Be (Album Version)</title>
+      <creator>Des'ree</creator>
+      <album>I Ain'T Movin'</album>
+      <location>Music/Des'ree - You Gotta Be (Album Version).mp3</location>
+    </track>
+    <track>
+      <title>The Show Goes On</title>
+      <creator>Lupe Fiasco</creator>
+      <album>Lasers</album>
+      <location>Music/Lupe Fiasco - The Show Goes On.mp3</location>
+    </track>
+    <track>
+      <title>My December</title>
+      <creator>Josh Groban</creator>
+      <album>Liz's Those Songs</album>
+      <location>Music/Josh Groban - My December.mp3</location>
+    </track>
+    <track>
+      <title>Watch Them Fall Down (Original Mix)</title>
+      <creator>DJ Spoke</creator>
+      <album>Sirup Dance Anthems «Ibiza 2008»</album>
+      <location>Music/DJ Spoke - Watch Them Fall Down (Original Mix).mp3</location>
+    </track>
+    <track>
+      <title>White Wine In the Sun (Live)</title>
+      <creator>Tim Minchin</creator>
+      <album>Ready for This?</album>
+      <location>Music/Tim Minchin - White Wine In the Sun (Live).mp3</location>
+    </track>
+    <track>
+      <title>Do Your Thing</title>
+      <creator>*NSYNC</creator>
+      <album>Celebrity</album>
+      <location>Music/NSYNC - Do Your Thing.mp3</location>
+    </track>
+    <track>
+      <title>The Call</title>
+      <creator>Regina Spektor</creator>
+      <album>Liz's Mellow New Favorites</album>
+      <location>Music/Regina Spektor - The Call.mp3</location>
+    </track>
+    <track>
+      <title>Closer To The Edge</title>
+      <creator>30 Seconds To Mars</creator>
+      <album>This Is War</album>
+      <location>Music/30 Seconds to Mars - Closer To The Edge.mp3</location>
+    </track>
+    <track>
+      <title>Ave Maria</title>
+      <creator>Beyonce</creator>
+      <album>Unknown Album (3/24/2009 6:06:08 PM)</album>
+      <location>Music/Beyonce - Ave Maria.mp3</location>
+    </track>
+    <track>
+      <title>Parallel Universes</title>
+      <creator>Dan Warren</creator>
+      <album>The Scientist</album>
+      <location>Music/Dan Warren - Parallel Universes.mp3</location>
+    </track>
+    <track>
+      <title>To Binge (Feat. Little Dragon)</title>
+      <creator>Gorillaz</creator>
+      <album>Plastic Beach</album>
+      <location>Music/Gorillaz - Plastic Beach/Gorillaz - To Binge (Feat. Little Dragon).mp3</location>
+    </track>
+    <track>
+      <title>On and On and On</title>
+      <creator>Wilco</creator>
+      <album>Sky Blue Sky</album>
+      <location>Music/Wilco - Sky Blue Sky - 12 - On and on and on.mp3</location>
+    </track>
+    <track>
+      <title>Zzyzx Rd.</title>
+      <creator>Stone Sour</creator>
+      <album>Come What(ever) May</album>
+      <location>Music/12 - Zzyzx Rd.mp3</location>
+    </track>
+    <track>
+      <title>Fake It (Explicit Version)</title>
+      <creator>Seether</creator>
+      <album>Finding Beauty In Negative Spaces (Bonus Track Version) [Explicit]</album>
+      <location>Music/Seether - Fake It (Explicit Version).mp3</location>
+    </track>
+    <track>
+      <title>Everythings Just Wonderful</title>
+      <creator>Lily Allen</creator>
+      <album>Alright, Still [Explicit]</album>
+      <location>Music/Lily Allen - Everythings Just Wonderful.mp3</location>
+    </track>
+    <track>
+      <title>Iron</title>
+      <creator>Woodkid</creator>
+      <album>Iron EP</album>
+      <location>Music/Woodkid - Iron.mp3</location>
+    </track>
+    <track>
+      <title>Here Comes a Thought</title>
+      <creator>Steven Universe</creator>
+      <album>Steven Universe, Vol. 1 (Original Soundtrack)</album>
+      <location>Music/Steven Universe - Here Comes a Thought.mp3</location>
+    </track>
+    <track>
+      <title>Total Eclipse of the Heart</title>
+      <creator>Nicki French</creator>
+      <album>Hot Luv</album>
+      <location>Music/Nicki French - Total Eclipse of the Heart.mp3</location>
+    </track>
+    <track>
+      <title>Almost There</title>
+      <creator>Anika Noni Rose</creator>
+      <album>The Princess And The Frog</album>
+      <location>Music/Anika Noni Rose - Almost There.mp3</location>
+    </track>
+    <track>
+      <title>Sally Ride</title>
+      <creator>Janelle Monáe</creator>
+      <album>The Electric Lady</album>
+      <location>Music/Janelle Monáe - The Electric Lady/Janelle Monáe - Sally Ride.mp3</location>
+    </track>
+    <track>
+      <title>Never Give Up on the Good Times</title>
+      <creator>Spice Girls</creator>
+      <album>Spiceworld</album>
+      <location>Music/Spice Girls - Never Give Up on the Good Times.mp3</location>
+    </track>
+  </trackList>
+</playlist>

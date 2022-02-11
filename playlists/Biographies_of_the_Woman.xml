@@ -1,0 +1,35 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Biographies of the Woman</title>
+  <trackList>
+    <track>
+      <title>There She Goes (LP Version)</title>
+      <creator>Sixpence None The Richer</creator>
+      <album>Sixpence None The Richer</album>
+      <location>Music/Sixpence None The Richer - There She Goes (LP Version).mp3</location>
+    </track>
+    <track>
+      <title>She's Always a Woman</title>
+      <creator>Billy Joel</creator>
+      <album>The Complete Hits Collection 1973-1997: Limited Edition Disc 1</album>
+      <location>Music/Billy Joel - She's Always a Woman.mp3</location>
+    </track>
+    <track>
+      <title>Suddenly I See</title>
+      <creator>KT Tunstall</creator>
+      <album>Eye to the Telescope</album>
+      <location>Music/KT Tunstall - 09 - Suddenly I See.mp3</location>
+    </track>
+    <track>
+      <title>Modern Woman</title>
+      <creator>Billy Joel</creator>
+      <album>The Bridge</album>
+      <location>Music/Billy Joel - Modern Woman.mp3</location>
+    </track>
+    <track>
+      <title>Main Street</title>
+      <creator>Bob Seger</creator>
+      <album>Unknown Albums Collection</album>
+      <location>Music/Bob Seger - Main Street.mp3</location>
+    </track>
+  </trackList>
+</playlist>

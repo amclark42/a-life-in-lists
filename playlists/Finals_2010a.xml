@@ -1,0 +1,65 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Finals 2010a</title>
+  <trackList>
+    <track>
+      <title>You Could Be Happy</title>
+      <creator>Snow Patrol</creator>
+      <album>Liz's Those Songs</album>
+      <location>Music/Snow Patrol - You Could Be Happy.mp3</location>
+    </track>
+    <track>
+      <title>Objects in the Rear View Mirror</title>
+      <creator>Meatloaf</creator>
+      <album>Liz's Those Songs</album>
+      <location>Music/Meatloaf - Objects in the Rear View Mirror.mp3</location>
+    </track>
+    <track>
+      <title>Fireflies</title>
+      <creator>Owl City</creator>
+      <album>Ocean Eyes</album>
+      <location>Music/Owl City - Fireflies.mp3</location>
+    </track>
+    <track>
+      <title>Gotta Be Somebody</title>
+      <creator>Nickelback</creator>
+      <album>Dark Horse</album>
+      <location>Music/Nickelback - Gotta Be Somebody.mp3</location>
+    </track>
+    <track>
+      <title>As Long As You're Mine</title>
+      <creator>Stephen Schwartz</creator>
+      <album>Wicked</album>
+      <location>Music/Wicked Soundtrack/Stephen Schwartz - As Long As You're Mine.mp3</location>
+    </track>
+    <track>
+      <title>My December</title>
+      <creator>Josh Groban</creator>
+      <album>Liz's Those Songs</album>
+      <location>Music/Josh Groban - My December.mp3</location>
+    </track>
+    <track>
+      <title>Upular</title>
+      <creator>Pogo</creator>
+      <album>Unknown</album>
+      <location>Music/Pogo - Upular.mp3</location>
+    </track>
+    <track>
+      <title>Never Gonna Give You Up</title>
+      <creator>Rick Astley</creator>
+      <album>Platinum &amp; Gold Collection</album>
+      <location>Music/Rick Astley - Never Gonna Give You Up.mp3</location>
+    </track>
+    <track>
+      <title>Zzyzx Rd.</title>
+      <creator>Stone Sour</creator>
+      <album>Come What(ever) May</album>
+      <location>Music/12 - Zzyzx Rd.mp3</location>
+    </track>
+    <track>
+      <title>Mr. Pitiful</title>
+      <creator>Matt Costa</creator>
+      <album>Unfamiliar Faces</album>
+      <location>Music/Matt Costa - Mr  Pitiful.mp3</location>
+    </track>
+  </trackList>
+</playlist>

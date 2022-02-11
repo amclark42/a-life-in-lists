@@ -1,0 +1,83 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Spyder, Spyder</title>
+  <trackList>
+    <track>
+      <title>Mitternacht (Radio Edit)</title>
+      <creator>E Nomine</creator>
+      <album>Anne Compilations: Playing With the Big Boys</album>
+      <location>Music/E Nomine - Mitternacht (Radio Edit).mp3</location>
+    </track>
+    <track>
+      <title>Read My Mind (Pet Shop Boys Stars Are Blazing Mix)</title>
+      <creator>The Killers</creator>
+      <album>Read My Mind (The Killers VS. The Pet Shop Boys)</album>
+      <location>Music/The Killers - Read My Mind (Pet Shop Boys Stars Are Blazing Mix).mp3</location>
+    </track>
+    <track>
+      <title>Around the World/Harder Better Faster Stronger</title>
+      <creator>Daft Punk</creator>
+      <album>Alive 2007</album>
+      <location>Music/Daft Punk - Around the World-Harder Better Faster Stronger.mp3</location>
+    </track>
+    <track>
+      <title>Stand My Ground</title>
+      <creator>Within Temptation</creator>
+      <album>Anne Compilations: Don't Blink</album>
+      <location>Music/Within Temptation - Stand My Ground.mp3</location>
+    </track>
+    <track>
+      <title>The Doctor's Theme</title>
+      <creator>Murray Gold &amp; BBC National Orchestra of Wales</creator>
+      <album>Doctor Who</album>
+      <location>Music/Murray Gold &amp; BBC National Orchestra of Wales - The Doctor's Theme.mp3</location>
+    </track>
+    <track>
+      <title>Hey Jimmy!</title>
+      <creator>HAV</creator>
+      <album>Peace Maker Kurogane Soundtrack</album>
+      <location>Music/HAV - Hey Jimmy!.mp3</location>
+    </track>
+    <track>
+      <title>House of Wax</title>
+      <creator>Paul McCartney</creator>
+      <album>Memory Almost Full</album>
+      <location>Music/Paul McCartney - House of Wax.mp3</location>
+    </track>
+    <track>
+      <title>Code Monkey</title>
+      <creator>Jonathan Coulton</creator>
+      <album>Thing a Week Three</album>
+      <location>Music/Jonathan Coulton - Code Monkey.mp3</location>
+    </track>
+    <track>
+      <title>Espiritu Del Aire</title>
+      <creator>E Nomine</creator>
+      <album>Anne Compilations: No Expression</album>
+      <location>Music/E Nomine - Espiritu Del Aire.mp3</location>
+    </track>
+    <track>
+      <title>Kiseki no Umi</title>
+      <creator>Maaya Sakamoto</creator>
+      <album>Record of Lodoss War</album>
+      <location>Music/Maaya Sakamoto - Kiseki no Umi.mp3</location>
+    </track>
+    <track>
+      <title>Yakusoku no Basho e</title>
+      <creator>Yonekura Chitose</creator>
+      <album>Kaleido Star</album>
+      <location>Music/Yonekura Chitose - Yakusoku no Basho e.mp3</location>
+    </track>
+    <track>
+      <title>The Girl in Byakkoya</title>
+      <creator>Susumu Hirasawa</creator>
+      <album>Paprika Soundtrack</album>
+      <location>Music/The Girl in Byakkoya - White Tiger Field.mp3</location>
+    </track>
+    <track>
+      <title>The Scientist</title>
+      <creator>Coldplay</creator>
+      <album>A Rush of Blood to the Head</album>
+      <location>Music/Coldplay - The Scientist.mp3</location>
+    </track>
+  </trackList>
+</playlist>

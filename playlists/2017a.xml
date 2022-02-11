@@ -1,0 +1,41 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2017a</title>
+  <trackList>
+    <track>
+      <title>No Diggity</title>
+      <creator>Chet Faker</creator>
+      <album>Thinking In Textures</album>
+      <location>Music/Chet Faker - No Diggity.mp3</location>
+    </track>
+    <track>
+      <title>Writing Again</title>
+      <creator>Seanan McGuire</creator>
+      <album>Wicked Girls</album>
+      <location>Music/Seanan McGuire - Wicked Girls/14 Writing Again.mp3</location>
+    </track>
+    <track>
+      <title>Something Just Like This</title>
+      <creator>The Chainsmokers &amp; Coldplay</creator>
+      <album>Memories...Do Not Open [Explicit]</album>
+      <location>Music/The Chainsmokers - Something Just Like This.mp3</location>
+    </track>
+    <track>
+      <title>Feel It Still</title>
+      <creator>Portugal. The Man</creator>
+      <album>Woodstock</album>
+      <location>Music/Portugal. The Man - Feel It Still.mp3</location>
+    </track>
+    <track>
+      <title>Ghostwriter</title>
+      <creator>RJD2</creator>
+      <album>Deadringer: Deluxe</album>
+      <location>Music/RJD2 - Ghostwriter.mp3</location>
+    </track>
+    <track>
+      <title>Thunder Thighs</title>
+      <creator>Miss Eaves</creator>
+      <album/>
+      <location>Music/Miss Eaves - Thunder Thighs.mp3</location>
+    </track>
+  </trackList>
+</playlist>

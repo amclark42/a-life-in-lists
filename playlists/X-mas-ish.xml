@@ -1,0 +1,11 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>X-mas-ish</title>
+  <trackList>
+    <track>
+      <title>White Wine In the Sun (Live)</title>
+      <creator>Tim Minchin</creator>
+      <album>Ready for This?</album>
+      <location>Music/Tim Minchin - White Wine In the Sun (Live).mp3</location>
+    </track>
+  </trackList>
+</playlist>

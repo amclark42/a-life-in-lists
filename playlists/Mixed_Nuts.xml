@@ -1,0 +1,71 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Mixed Nuts</title>
+  <trackList>
+    <track>
+      <title>Fly Like A Butterfly</title>
+      <creator>Hideki Naganuma</creator>
+      <album>Jet Set Radio Future</album>
+      <location>Music/Hideki Naganuma - Fly Like a Butterfly.mp3</location>
+    </track>
+    <track>
+      <title>Couches in Alleys</title>
+      <creator>Styrofoam</creator>
+      <album>ScoJo Tunes</album>
+      <location>Music/Styrofoam - Couches in Alleys.mp3</location>
+    </track>
+    <track>
+      <title>PLANETARIUM</title>
+      <creator>Ai Otsuka</creator>
+      <album>PLANETARIUM</album>
+      <location>Music/Ai Otsuka - PLANETARIUM.mp3</location>
+    </track>
+    <track>
+      <title>The River of Dreams</title>
+      <creator>Billy Joel</creator>
+      <album>The Complete Hits Collection 1973-1997: Limited Edition Disc 3</album>
+      <location>Music/Billy Joel - The River of Dreams.mp3</location>
+    </track>
+    <track>
+      <title>Oxford Comma (Live)</title>
+      <creator>Vampire Weekend</creator>
+      <album/>
+      <location>Music/Vampire Weekend - Oxford Comma.mp3</location>
+    </track>
+    <track>
+      <title>When You're Evil</title>
+      <creator>Voltaire</creator>
+      <album>The Devil's Bris</album>
+      <location>Music/Voltaire - When You're Evil.mp3</location>
+    </track>
+    <track>
+      <title>Breathe</title>
+      <creator>Telepopmusik</creator>
+      <album>Genetic World</album>
+      <location>Music/Telepopmusik - Breathe.mp3</location>
+    </track>
+    <track>
+      <title>Fool's Paradise</title>
+      <creator>Tsuneo Imahori</creator>
+      <album>Trigun the 1st Donuts</album>
+      <location>Music/Trigun - Fool's Paradise.mp3</location>
+    </track>
+    <track>
+      <title>Funky Bar 100</title>
+      <creator>UbiSoft</creator>
+      <album>Beyond Good and Evil OST</album>
+      <location>Music/Beyond Good and Evil - Funky Bar 100.mp3</location>
+    </track>
+    <track>
+      <title>The Girl in Byakkoya</title>
+      <creator>Susumu Hirasawa</creator>
+      <album>Paprika Soundtrack</album>
+      <location>Music/The Girl in Byakkoya - White Tiger Field.mp3</location>
+    </track>
+    <track>
+      <title>Total Eclipse of the Heart</title>
+      <creator>Nicki French</creator>
+      <album>Hot Luv</album>
+      <location>Music/Nicki French - Total Eclipse of the Heart.mp3</location>
+    </track>
+  </trackList>
+</playlist>

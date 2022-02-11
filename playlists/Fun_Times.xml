@@ -1,0 +1,113 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Fun Times</title>
+  <trackList>
+    <track>
+      <title>Telephone</title>
+      <creator>Lady Gaga</creator>
+      <album>Liz's Music Mix</album>
+      <location>Music/Lady Gaga - Telephone.mp3</location>
+    </track>
+    <track>
+      <title>This Love, This Hate</title>
+      <creator>Hollywood Undead</creator>
+      <album>Swan Songs [Explicit]</album>
+      <location>Music/Hollywood Undead - This Love This Hate.mp3</location>
+    </track>
+    <track>
+      <title>Lone Digger</title>
+      <creator>Caravan Palace</creator>
+      <album>&lt;I°_°I&gt;</album>
+      <location>Music/Caravan Palace - Lone Digger.mp3</location>
+    </track>
+    <track>
+      <title>Evacuate the Dancefloor</title>
+      <creator>Cascada</creator>
+      <album>Liz's Music Mix</album>
+      <location>Music/Cascada - Evacuate the Dancefloor.mp3</location>
+    </track>
+    <track>
+      <title>Airship Pirate</title>
+      <creator>Abney Park</creator>
+      <album>Lost Horizons</album>
+      <location>Music/Abney Park - Airship Pirate.mp3</location>
+    </track>
+    <track>
+      <title>Fireflies</title>
+      <creator>Owl City</creator>
+      <album>Ocean Eyes</album>
+      <location>Music/Owl City - Fireflies.mp3</location>
+    </track>
+    <track>
+      <title>Your Love is My Drug</title>
+      <creator>Kesha</creator>
+      <album>Liz's Music Mix</album>
+      <location>Music/Kesha - Your Love is My Drug.mp3</location>
+    </track>
+    <track>
+      <title>Com64 (Bonus Track)</title>
+      <creator>Jim Guthrie</creator>
+      <album>Sword &amp; Sworcery LP - The Ballad of the Space Babies</album>
+      <location>Music/Jim Guthrie - Sword &amp; Sworcery LP - The Ballad of the Space Babies/19 Com64 (Bonus Track).mp3</location>
+    </track>
+    <track>
+      <title>Get The Party Started</title>
+      <creator>Shirley Bassey</creator>
+      <album>Get The Party Started (US)</album>
+      <location>Music/Shirley Bassey - Get The Party Started.mp3</location>
+    </track>
+    <track>
+      <title>Good Time</title>
+      <creator>Carly Rae Jepsen, Owl City</creator>
+      <album>Kiss</album>
+      <location>Music/Carly Rae Jepsen - Good Time.mp3</location>
+    </track>
+    <track>
+      <title>Ugly Heart</title>
+      <creator>G.R.L.</creator>
+      <album>G.R.L.</album>
+      <location>Music/G.R.L. - Ugly Heart.mp3</location>
+    </track>
+    <track>
+      <title>Don't Stop Me Now</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits</album>
+      <location>Music/Queen - Don't Stop Me Now.mp3</location>
+    </track>
+    <track>
+      <title>Pump It</title>
+      <creator>The Black Eyed Peas</creator>
+      <album>Monkey Business</album>
+      <location>Music/Black Eyed Peas - Pump It.mp3</location>
+    </track>
+    <track>
+      <title>Fuck You [Explicit]</title>
+      <creator>Cee Lo Green</creator>
+      <album>Fuck You [Explicit]</album>
+      <location>Music/Cee Lo Green - Fuck You [Explicit].mp3</location>
+    </track>
+    <track>
+      <title>Break the Ice</title>
+      <creator>Britney Spears</creator>
+      <album>Liz's Music Mix</album>
+      <location>Music/Britney Spears - Break the Ice.mp3</location>
+    </track>
+    <track>
+      <title>Gives You Hell</title>
+      <creator>The All-American Rejects</creator>
+      <album>Unknown Album (3/24/2009 6:06:08 PM)</album>
+      <location>Music/All-American Rejects - Gives You Hell.mp3</location>
+    </track>
+    <track>
+      <title>Mr. Pitiful</title>
+      <creator>Matt Costa</creator>
+      <album>Unfamiliar Faces</album>
+      <location>Music/Matt Costa - Mr  Pitiful.mp3</location>
+    </track>
+    <track>
+      <title>Dance Apocalyptic</title>
+      <creator>Janelle Monáe</creator>
+      <album>The Electric Lady</album>
+      <location>Music/Janelle Monáe - The Electric Lady/Janelle Monáe - Dance Apocalyptic.mp3</location>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,59 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Li'l Nella and Hagan</title>
+  <trackList>
+    <track>
+      <title>Kids With Guns</title>
+      <creator>Gorillaz</creator>
+      <album>Demon Days</album>
+      <location>Music/Gorillaz - Demon Days/03 Kids With Guns.mp3</location>
+    </track>
+    <track>
+      <title>Please Love Me... Once More</title>
+      <creator>Akira Yamaoka</creator>
+      <album>Silent Hill 3 (Original Game Soundtracks)</album>
+      <location>Music/Akira Yamaoka - Silent Hill 3 (Original Game Soundtracks)/08 - Please Love Me... Once More.mp3</location>
+    </track>
+    <track>
+      <title>Liquid Negrocity</title>
+      <creator>Homestuck</creator>
+      <album>Midnight Crew: Drawing Dead</album>
+      <location>Music/Homestuck - Midnight Crew Drawing Dead/06 Liquid Negrocity.mp3</location>
+    </track>
+    <track>
+      <title>Purple Tyrant</title>
+      <creator>Homestuck</creator>
+      <album>coloUrs and mayhem: Universe A</album>
+      <location>Music/Homestuck - coloUrs and mayhem- Universe A/Homestuck - coloUrs and mayhem- Universe A - 11 Purple Tyrant.mp3</location>
+    </track>
+    <track>
+      <title>Olive Rogue</title>
+      <creator>Homestuck</creator>
+      <album>coloUrs and mayhem: Universe A</album>
+      <location>Music/Homestuck - coloUrs and mayhem- Universe A/Homestuck - coloUrs and mayhem- Universe A - 19 Olive Rogue.mp3</location>
+    </track>
+    <track>
+      <title>Oh No! (album version)</title>
+      <creator>Marina And The Diamonds</creator>
+      <album>The Family Jewels [+digital booklet]</album>
+      <location>Music/Marina and The Diamonds - Oh No.mp3</location>
+    </track>
+    <track>
+      <title>Calamity</title>
+      <creator>SuperGiant Games</creator>
+      <album>Bastion OST</album>
+      <location>Music/Bastion OST/Calamity.mp3</location>
+    </track>
+    <track>
+      <title>The Singer</title>
+      <creator>SuperGiant Games</creator>
+      <album>Bastion OST</album>
+      <location>Music/Bastion OST/The Singer.mp3</location>
+    </track>
+    <track>
+      <title>Empire Ants (Feat. Little Dragon)</title>
+      <creator>Gorillaz</creator>
+      <album>Plastic Beach</album>
+      <location>Music/Gorillaz - Plastic Beach/Gorillaz - Empire Ants (Feat. Little Dragon).mp3</location>
+    </track>
+  </trackList>
+</playlist>
