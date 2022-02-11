@@ -1,5 +1,6 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
   <title>Whistle While You Work</title>
+  <annotation>For cleaning.</annotation>
   <trackList>
     <track>
       <title>Canned Heat</title>

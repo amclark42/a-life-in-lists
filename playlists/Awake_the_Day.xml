@@ -1,5 +1,6 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
   <title>Awake the Day</title>
+  <annotation>For starting the day.</annotation>
   <trackList>
     <track>
       <title>Tightrope (Feat. Big Boi)</title>

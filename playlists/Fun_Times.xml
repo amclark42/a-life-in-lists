@@ -1,5 +1,6 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
   <title>Fun Times</title>
+  <annotation>For dancing.</annotation>
   <trackList>
     <track>
       <title>Telephone</title>

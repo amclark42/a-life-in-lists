@@ -23,9 +23,8 @@ xquery version "3.1";
   (:declare option output:indent "no";:)
 
 (:~
-  Use the utility ExifTool to compile metadata from music files.
-  
-  `exiftool -xmlFormat -r -ID3v2_3:Comment -ID3v2_4:Comment ~/Music/`
+  Use the utility ExifTool to compile metadata from music files, then generate playlists in the XSPF format
+  (https://xspf.org) using keys in the ID3 Comment tags.
   
   @author Ash Clark
   2022
@@ -37,14 +36,21 @@ xquery version "3.1";
     concat($home-directory,"Documents/a-life-in-lists/");
   declare variable $music-directory as xs:string := 
     concat($home-directory,"Music/");
-  (: The types of output that this script should return. :)
+  (: The types of output that this script should return:
+       "musicMetadata":  The RDF/XML returned by ExifTool. Whether or not this is returned as output by this 
+                         script, it will be saved to the playlists directory.
+       "playlistCounts": A counting robot report on the number of songs matching each smart playlist key in 
+                         ../smartPlaylists.xml.
+       "xspfPlaylists":  One XSPF playlist per smart playlist key in ../smartPlaylists.xml. Whether or not they are
+                         returned as output by this script, they will be saved to the playlist directory.
+   :)
   declare variable $output as map(xs:string, xs:boolean) := map {
       'musicMetadata': false(),
       'playlistCounts': false(),
       'xspfPlaylists': true()
     };
-  declare variable $playlist-keys as xs:string* :=
-    doc('../smartPlaylists.xml')//tei:text//tei:label/normalize-space(.);
+  declare variable $playlist-keys as element()* :=
+    doc('../smartPlaylists.xml')//tei:text//tei:label;
 
 (:  FUNCTIONS  :)
   
@@ -53,7 +59,7 @@ xquery version "3.1";
     (: Playlist phrases are separated by a semicolon, e.g. "The Drive!; Singable" :)
     let $allPhrases :=
       $metadata//*:Comment/tokenize(., ';') ! normalize-space()
-    let $countingRobotReport := ctab:get-counts($allPhrases[. = $playlist-keys])
+    let $countingRobotReport := ctab:get-counts($allPhrases[. = $playlist-keys/normalize-space(.)])
     let $reportByRows := tokenize($countingRobotReport, $ctab:newlineChar)[not(matches(., '^1\t'))]
     (: There is always more than one instance of a playlist keyword. A report without the long tail will still 
       contain repeated phrases that are not playlist keywords, but there will be significantly fewer of them! :)
@@ -88,14 +94,25 @@ xquery version "3.1";
 let $musicMetadata := local:get-files-metadata()
 (: Generate playlists in XSPF format, using smart playlist criteria. :)
 let $playlistsFromSmart :=
-  for $smartKey in $playlist-keys
+  for $smartKey in $playlist-keys/normalize-space(.)
   let $tracks :=
     $musicMetadata//rdf:Description[*:Comment[contains(., $smartKey)]
+                                             (: Only include NOPE'd songs on the NOPE playlist. :)
                                              [$smartKey eq 'NOPE' or not(contains(., 'NOPE'))]
                                    ]
   let $xspfPlaylist :=
     <playlist version="1" xmlns="http://xspf.org/ns/0/">
       <title>{ $smartKey }</title>
+      {
+        (: If there's a description of this playlist key available, use it in an annotation. :)
+        let $playlistDesc :=
+          $playlist-keys[normalize-space(.) eq $smartKey]
+                        /following-sibling::*[1][self::tei:item]/normalize-space(.)
+        return
+          if ( exists($playlistDesc) ) then
+            <annotation xmlns="http://xspf.org/ns/0/">{ $playlistDesc }</annotation>
+          else ()
+      }
       <trackList>
       {
         for $track in $tracks
@@ -112,6 +129,7 @@ let $playlistsFromSmart :=
   let $playlistPath :=
     let $filename := replace(translate($smartKey, ",!''", ''), '\s', '_')
     return concat($lists-directory,'playlists/',$filename,'.xml')
+  (: Save the playlist to the appropriate directory. :)
   return (
       file:write($playlistPath, $xspfPlaylist, map {
           'indent': 'yes',

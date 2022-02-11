@@ -1,5 +1,6 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
   <title>The Drive!</title>
+  <annotation>For long drives.</annotation>
   <trackList>
     <track>
       <title>I Won't Say (I'm in Love)</title>
