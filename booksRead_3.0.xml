@@ -77,6 +77,54 @@
           
           
           
+          <biblStruct xml:id="mcelroy.c.theadventurezone.4.crystalkingdom">
+            <monogr>
+              <title>The Adventure Zone: The Crystal Kingdom</title>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="artist"/>
+                <persName ref="a:pietsch.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:stone.t"/>
+              </respStmt>
+              <!--<respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:brennan.m"/>
+                <persName ref="a:chau.e"/>
+                <persName ref="a:davis.l"/>
+                <persName ref="a:geary.s"/>
+                <persName ref="a:healy.l"/>
+                <persName ref="a:pham.h"/>
+                <persName ref="a:tassoni.c"/>
+              </respStmt>-->
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:mcelroy.g"/>
+                <persName ref="a:mcelroy.j"/>
+                <persName ref="a:mcelroy.t"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2021-07-12"/>
+                <date type="added" when="2021-06-20"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>First Second</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Adventure Zone</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="mcguire.s.angeloftheoverpass">
             <monogr>
               <title>Angel of the Overpass</title>

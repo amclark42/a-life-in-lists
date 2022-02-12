@@ -373,6 +373,11 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Bayron, Kalynn</author>.
+          <title>This Poison Heart</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:bear.e">Bear, Elizabeth</author>.
           <title>Karen Memory</title>.
           <date type="added" when="2016-10-01"/>
@@ -454,6 +459,7 @@
           <title>Sorted: Growing Up, Coming Out, and Finding My Place</title>.
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned" corresp="b:bird.j.sorted"/>
           <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
@@ -550,6 +556,14 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2021-09-02"/>
+        </bibl>
+        <bibl>
+          <author>Brown, Edward Espe</author>.
+          <title>The Tassajara Bread Book</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Brown, James J.</author>
@@ -847,6 +861,12 @@
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
+          <author>Cho, Zen</author>.
+          <title>Black Water Sister</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Chödrön, Pema</author>.
           <title>The Places That Scare You: A Guide to Fearlessness</title>.
           <catRef target="#tag.nonfiction"/>
@@ -976,6 +996,11 @@
           <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
+          <author>Córdova, Zoraida</author>.
+          <title>The Inheritance of Orquídea Divina</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <editor>Crabb, Cindy</editor>.
           <title>Learning Good Consent: On Healthy Relationships and Survivor 
             Support</title>.
@@ -1069,6 +1094,13 @@
           <title>Babel-17</title>.
         </bibl>
         <bibl>
+          <author ref="a:delliqua.b">Delliquanti, Blue</author>.
+          <title>Across a Field of Starlight</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>D’Emilio, John</author> and
           <author>Estelle B. Freedman</author>.
           <title>Intimate Matters: A History of Sexuality in America</title>.
@@ -1127,6 +1159,11 @@
         <bibl>
           <author>Dorst, Doug</author>.
           <title>Alive in Necropolis</title>.
+        </bibl>
+        <bibl>
+          <author>Dow, Alechia</author>.
+          <title>The Sound of Stars</title>.
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Drayden, Nicky</author>.
@@ -1224,6 +1261,12 @@
         <bibl>
           <author>Eliot, T.S.</author>
           <title>The Waste Land</title>.
+        </bibl>
+        <bibl>
+          <author>Elle, J.</author>
+          <title>Wings of Ebony</title>.
+          <series><title>Wings of Ebony</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author ref="a:elliott.k">Elliott, Kate</author>.
@@ -1337,6 +1380,12 @@
           <author ref="a:faustost.a">Fausto-Sterling, Anne</author>.
           <title>The Myths of Gender</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Fay, Shannon</author>.
+          <title>Innate Magic</title>.
+          <series><title>The Marrowbone Spells</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Feintuch, David</author>.
@@ -1595,6 +1644,17 @@
           <date type="added" when="2019-05-16"/>
         </bibl>
         <bibl>
+          <author>Glover, Nicole</author>.
+          <title>The Conductors</title>.
+          <series><title>Murder and Magic</title></series>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
+          <author>Goddard, Victoria</author>.
+          <title>The Hands of the Emperor</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Goldberg Sloan, Holly</author> and
           <author ref="a:wolitzer.m">Meg Wolitzer</author>.
           <title>To Night Owl from Dogfish</title>.
@@ -1763,6 +1823,16 @@
           <date type="added" when="2020-04-07"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <persName>Hannah-Jones, Nikole</persName>
+            <resp n="creator"/>
+          </respStmt>.
+          <title>The 1619 Project: A New Origin Story</title>.
+          <catRef target="#tag.compilation"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Harras, Bob</author>.
           <title>JLA: World Without a Justice League</title>.
           <catRef target="#tag.comics"/>
@@ -1808,6 +1878,13 @@
           <title>Disrupting White Supremacy from Within</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
+          <author>Hawk, Jordan L.</author>
+          <title>Unhallowed</title>.
+          <catRef target="#tag.queer"/>
+          <series><title>Rath &amp; Rune</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Hawthorne, Nathaniel</author>.
@@ -2008,6 +2085,12 @@
           <date type="added" when="2021-09-02"/>
         </bibl>
         <bibl>
+          <author>Ifueko, Jordan</author>.
+          <title>Raybearer</title>.
+          <series><title>Raybearer</title></series>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Ireland, Justina</author>.
           <title>Dread Nation</title>.
           <date type="added" when="2017-06-29"/>
@@ -2059,6 +2142,12 @@
             <title>The Dark Star Trilogy</title>
           </series>
           <date type="added" when="2019-05-12"/>
+        </bibl>
+        <bibl>
+          <author>Jasinska, Alicia</author>.
+          <title>The Midnight Girls</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Jeffers, Honorée Fanonne</author>.
@@ -2435,7 +2524,7 @@
         <bibl>
           <author ref="a:leckie.a">Leckie, Ann</author>.
           <title>The Raven Tower</title>.
-          <catRef target="#tag.owned" corresp="b:jones.j.masterofone"/>
+          <catRef target="#tag.owned" corresp="b:leckie.a.raventower"/>
           <date type="added" when="2021-07-10"/>
         </bibl>
         <bibl>
@@ -2565,6 +2654,12 @@
           <title>The Grace of Kings</title>
           <series><title>The Dandelion Dynasty</title></series>
           <date type="added" when="2018-01-13"/>
+        </bibl>
+        <bibl>
+          <author>Lo, Malinda</author>.
+          <title>Last Night at the Telegraph Club</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Long, Mark</author>,
@@ -2717,9 +2812,9 @@
             <resp n="artist"/>
             <persName ref="a:pietsch.c">Carey Pietsch</persName>
           </respStmt>.
-          <title>The Adventure Zone: The Crystal Kingdom</title>.
+          <title>The Adventure Zone: The Eleventh Hour</title>.
           <catRef target="#tag.comics"/>
-          <date type="added" when="2021-06-20"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>McGee, Harold</author>.
@@ -2744,12 +2839,6 @@
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
           <title>Middlegame</title>.
           <date type="added" when="2019-05-11"/>
-        </bibl>
-        <bibl>
-          <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>Midnight Blue-Light Special</title>.
-          <series><title>InCryptid</title></series>
-          <date type="added" when="2019-12-08"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -2884,6 +2973,11 @@
           <date type="added" when="2018-11-11"/>
         </bibl>
         <bibl>
+          <author>McWilliams, Kelly</author>.
+          <title>Mirror Girls</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:meltzer.b">Meltzer, Brad</author>.
           <title>The Book of Lies</title>.
         </bibl>
@@ -2986,6 +3080,16 @@
           <title>Resenting the Hero</title>.
         </bibl>
         <bibl>
+          <author>Moore, Scotto</author>.
+          <title>Battle of the Linguist Mages</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
+          <author>Moore, Scotto</author>.
+          <title>Your Favorite Band Cannot Save You</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author ref="a:morenogarcia.s">Moreno-Garcia, Silvia</author>.
           <title>Mexican Gothic</title>.
           <date type="added" when="2020-05-28"/>
@@ -3054,7 +3158,7 @@
         </bibl>
         <bibl>
           <author>Muir, Tamsyn</author>.
-          <title>Harrow the Ninth</title>.
+          <title>Gideon the Ninth</title>.
           <date type="added" when="2020-11-23"/>
         </bibl>
         <bibl>
@@ -3592,6 +3696,16 @@
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
+          <editor>Rajunov, Micah</editor> and
+          <editor>Scott Duane</editor>.
+          <title>Nonbinary: Memoirs of Gender and Identity</title>.
+          <catRef target="#tag.anthology"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Rameau, Max</author>.
           <title>Take Back the Land: Land, Gentrification and the Umoja Village 
             Shantytown</title>.
@@ -3606,9 +3720,16 @@
         </bibl>
         <bibl>
           <author>Renee Taylor, S.</author>
-          <title>The Body is Not an Apology: The Power of Radical Self-Love.</title>
+          <title>The Body is Not an Apology: The Power of Radical Self-Love</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2021-07-31"/>
+        </bibl>
+        <bibl>
+          <author ref="a:ries.as">Ries, Ariel Slamet</author>.
+          <title>Witchy Vol. 2</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Witchy</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author ref="a:roach.m">Roach, Mary</author>.
@@ -3626,6 +3747,12 @@
           <author>Roanhorse, Rebecca</author>.
           <title>Black Sun</title>.
           <date type="added" when="2020-11-23"/>
+        </bibl>
+        <bibl>
+          <author>Robson, Kelly</author>.
+          <title>Alias Space and Other Stories</title>.
+          <catRef target="#tag.compilation"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Rodabaugh, Katrina</author>.
@@ -3745,6 +3872,12 @@
           <series>
             <title>Olondria</title>
           </series>
+        </bibl>
+        <bibl>
+          <author>Sambury, Liselle</author>.
+          <title>Blood Like Magic</title>.
+          <series><title>Blood Like Magic</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <editor>Sandberg, Jane</editor>.
@@ -4130,6 +4263,12 @@
           <title>Lightborn</title>.
         </bibl>
         <bibl>
+          <author>Tahir, Sabaa</author>.
+          <title>An Ember in the Ashes</title>.
+          <series><title>An Ember in the Ashes</title></series>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -4147,6 +4286,12 @@
           </respStmt>.
           <title>Sally Heathcote: Suffragette</title>.
           <catRef target="#tag.comics"/>
+        </bibl>
+        <bibl>
+          <author>Tan, Sue Lynn</author>.
+          <title>Daughter of the Moon Goddess</title>.
+          <series><title>The Celestial Kingdom Duology</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Tanzer, Molly</author>.
@@ -4234,6 +4379,13 @@
           <author>Tufte, Edward R.</author>
           <title>The Visual Display of Quantitative Information</title>.
           <catRef target="#tag.nonfiction"/>
+        </bibl>
+        <bibl>
+          <author>Turnbull, Cadwell</author>.
+          <title>No Gods, No Monsters</title>.
+          <catRef target="#tag.queer"/>
+          <series><title>Convergence Saga</title></series>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Tyson, Neil deGrasse</author>,
@@ -4334,12 +4486,6 @@
           <author ref="a:walton.j">Walton, Jo</author>.
           <title>Among Others</title>.
           <date type="added" when="2017-01-29"/>
-        </bibl>
-        <bibl>
-          <author ref="a:walton.j">Walton, Jo</author>.
-          <title>Necessity</title>.
-          <series><title>Thessaly</title></series>
-          <date type="added" when="2018-08-16"/>
         </bibl>
         <bibl>
           <author ref="a:wang.j">Wang, Jen</author>.
@@ -4486,6 +4632,11 @@
           <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
+          <author>Yanagihara, Hanya</author>.
+          <title>To Paradise</title>.
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
           <author>Yancey, Richard</author>.
           <title>The Highly Effective Detective</title>.
           <series><title>The Highly Effective Detective</title></series>
@@ -4542,6 +4693,20 @@
           <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Zabarsky, Jessi</author>.
+          <title>Coming Back</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
+        </bibl>
+        <bibl>
+          <author>Zabarsky, Jessi</author>.
+          <title>Witchlight</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Zakaria, Rafia</author>.
