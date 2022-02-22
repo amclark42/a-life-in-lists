@@ -77,6 +77,180 @@
           
           
           
+          <biblStruct xml:id="kirstein.r.steerswomansroad">
+            <analytic>
+              <title>The Steerswoman</title>
+              <date type="copyright" when="1989"/>
+            </analytic>
+            <analytic>
+              <title>The Outskirter’s Secret</title>
+              <date type="copyright" when="1992"/>
+            </analytic>
+            <monogr>
+              <title>The Steerswoman’s Road</title>
+              <author>
+                <persName ref="a:kirstein.r"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.omnibus"/>
+                <date type="added" when="2018-07-21"/>
+                <date type="copyright" when="2003"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Steerswoman</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="lewis.j.run.bookone">
+            <monogr>
+              <title>Run: Book One</title>
+              <author>
+                <persName ref="a:lewis.j"/>
+              </author>
+              <author>
+                <persName ref="a:aydin.a"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:fury.l"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:ross.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="artist"/>
+                <resp n="letterer"/>
+                <persName ref="a:powell.n"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2021-08-15"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Abrams ComicArts</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Run</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bongiovanni.a.quickguidetotheythem">
+            <monogr>
+              <title>A Quick &amp; Easy Guide to They/Them Pronouns</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:bongiovanni.a"/>
+              </respStmt>
+              <author>
+                <persName ref="a:jimerson.t"/>
+              </author>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:crank"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <catRef target="#tag.reference"/>
+                <date type="added" when="2018-05-20"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Limerence Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.13">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 13</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta? 13</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2019-11-16"/>
+                <date type="copyright" when="2017"/>
+                <date type="first-publication" when="2017"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.14">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 14</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta? 14</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2018"/>
+                <date type="first-publication" when="2018"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="henning.s.princesswillsaveyou">
+            <monogr>
+              <title>The Princess Will Save You</title>
+              <author>
+                <persName ref="a:henning.s"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="added" when="2021-08-30"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Tor Teen</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Princess Will Save You</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="mcelroy.c.theadventurezone.4.crystalkingdom">
             <monogr>
               <title>The Adventure Zone: The Crystal Kingdom</title>

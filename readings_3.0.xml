@@ -40,14 +40,29 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2022-02-21">
+          <p>Read <title ref="b:yoshinag.f.whatdidyoueat.14">What Did You Eat Yesterday? Vol. 14</title>.</p>
+        </event>
+        <event from="2022-02-20">
+          <p>Read <title ref="b:kirstein.r.steerswomansroad">The Steerswoman’s Road</title>.</p>
+        </event>
+        <event when="2022-02-20">
+          <p>Read <title ref="b:bongiovanni.a.quickguidetotheythem">A Quick &amp; Easy Guide to They/Them Pronouns</title>.</p>
+        </event>
+        <event from="2022-02-19" to="2022-02-20">
+          <p>Read <title ref="b:yoshinag.f.whatdidyoueat.13">What Did You Eat Yesterday? Vol. 13</title>.</p>
+        </event>
+        <event from="2022-02-17" to="2022-02-19">
+          <p>Read <title ref="b:henning.s.princesswillsaveyou">The Princess Will Save You</title>.</p>
+        </event>
         <event from="2022-02-05" to="2022-02-06">
           <p>Read <title ref="b:mcguire.s.angeloftheoverpass">Angel of the Overpass</title>.</p>
         </event>
         <event when="2022-02-05">
           <p>Read <title ref="b:gillen.k.wickeddivine.9.okay">The Wicked + the Divine Vol. 9: “Okay”</title>.</p>
         </event>
-        <event from="2022-02-04">
-          <p>Reread <title ref="b:brosh.a.hyperbolehalf">Hyperbole and a Half</title>.</p>
+        <event when="2022-02-04">
+          <p>Reread <title ref="b:brosh.a.hyperbolehalf">Hyperbole and a Half</title>. Left unfinished.</p>
         </event>
         <event from="2022-01-28" to="2022-01-29">
           <p>Read <title ref="b:willis.d.dumbingofage.10.embraceempiricalevidence">Dumbing of Age Vol. 10: 

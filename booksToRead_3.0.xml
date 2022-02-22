@@ -1911,11 +1911,6 @@
           <date type="added" when="2021-08-15"/>
         </bibl>
         <bibl>
-          <author>Henning, Sarah</author>.
-          <title>The Princess Will Save You</title>.
-          <date type="added" when="2021-08-30"/>
-        </bibl>
-        <bibl>
           <author>Herbert, Frank</author>.
           <title>Dune</title>.
           <series><title>Dune Chronicles</title></series>
@@ -4547,6 +4542,12 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
+          <author>Wells, Martha</author>.
+          <title>All Systems Red</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2022-02-16"/>
+        </bibl>
+        <bibl>
           <author ref="a:westerfe.s">Westerfeld, Scott</author>.
           <title>Uglies</title>.
           <series><title>Uglies</title></series>
@@ -4688,11 +4689,12 @@
             <resp n="artist"/>
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
-          <title>What Did You Eat Yesterday? Vol. 13</title>.
+          <title>What Did You Eat Yesterday? Vol. 15</title>.
           <catRef target="#tag.comics"/>
+          <catRef target="#tag.cookbook"/>
           <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
-          <date type="added" when="2019-11-16"/>
+          <date type="added" when="2022-02-21"/>
         </bibl>
         <bibl>
           <author>Zabarsky, Jessi</author>.
