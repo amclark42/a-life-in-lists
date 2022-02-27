@@ -58,6 +58,143 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        
+        <person xml:id="mitten.c">
+          <persName>
+            <forename>Christopher</forename>
+            <surname>Mitten</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="burchett.r">
+          <persName>
+            <forename>Rick</forename>
+            <surname>Burchett</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="alexander.js">
+          <persName>
+            <forename>Jason Shawn</forename>
+            <surname>Alexander</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="hawthorne.m">
+          <persName>
+            <forename>Mike</forename>
+            <surname>Hawthorne</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="dranski.j">
+          <persName>
+            <forename>John</forename>
+            <surname>Dranski</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="sherwood.d">
+          <persName>
+            <forename>Douglas</forename>
+            <surname>Sherwood</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="rolston.s">
+          <persName>
+            <forename>Steve</forename>
+            <surname>Rolston</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="fernandez.l">
+          <persName>
+            <forename>Leandro</forename>
+            <surname>Fernandez</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="norrie.c">
+          <persName>
+            <forename>Christine</forename>
+            <surname>Norrie</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="dragoon.l">
+          <persName>
+            <forename>Leigh</forename>
+            <surname>Dragoon</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="otsmaneelhaou.h">
+          <persName>
+            <forename>Hassan</forename>
+            <surname>Otsmane-Elhaou</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="long.g">
+          <persName>
+            <forename>Guillaume</forename>
+            <surname>Long</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="roubineau.m">
+          <persName>
+            <forename>Mélanie</forename>
+            <surname>Roubineau</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="badarouxdenizon.c">
+          <persName>
+            <forename>Céline</forename>
+            <surname>Badaroux Denizon</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="hopkins.dc">
+          <persName>
+            <forename>D.C.</forename>
+            <surname>Hopkins</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="melloul.j">
+          <persName>
+            <forename>Jeremy</forename>
+            <surname>Melloul</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="temofonte.s">
+          <persName>
+            <forename>Saida</forename>
+            <surname>Temofonte</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="oneill.ke">
+          <persName>
+            <forename>Kevin</forename>
+            <surname>O’Neill</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="kirstein.r">
           <persName>
             <forename>Rosemary</forename>
@@ -3742,10 +3879,10 @@
 
         <person xml:id="oneill.k">
           <persName>
-            <forename>Katie</forename>
+            <forename>Kay</forename>
             <surname>O’Neill</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="onorato.a">

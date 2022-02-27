@@ -53,6 +53,9 @@
       <category xml:id="tag.owned">
         <catDesc>owned</catDesc>
       </category>
+      <category xml:id="tag.owned-digital">
+        <catDesc>owned in ebook format</catDesc>
+      </category>
       <category xml:id="tag.poetry">
         <catDesc>poetry</catDesc>
       </category>

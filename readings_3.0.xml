@@ -40,6 +40,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2022-02-27">
+          <p>Read <title ref="b:oneill.k.princessprincess">Princess Princess Ever After</title>. Partial reread.</p>
+        </event>
+        <event when="2022-02-27">
+          <p>Reread <title ref="b:oneill.k.teadragonsociety">The Tea Dragon Society</title>.</p>
+        </event>
+        <event from="2022-02-24" to="2022-02-27">
+          <p>Read <title ref="b:long.g.todrinktoeat">To Eat and To Drink: Tastes &amp; Techniques from a French 
+            Kitchen</title>.</p>
+        </event>
+        <event when="2022-02-24">
+          <p>Read <title ref="b:dragoon.l.littlewitches">Little Witches: Magic in Concord</title>.</p>
+        </event>
         <event when="2022-02-21">
           <p>Read <title ref="b:yoshinag.f.whatdidyoueat.14">What Did You Eat Yesterday? Vol. 14</title>.</p>
         </event>

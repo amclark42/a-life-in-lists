@@ -20,6 +20,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-02-27">Added "owned-digital" tag.</change>
         <change when="2022-01-29">Updated my name.</change>
         <change when="2020-03-07">Converted <gi>trait</gi> to <gi>catRef</gi>. My 
           customization has allowed <code lang="xpath">//bibl/catRef</code> since 
@@ -480,11 +481,12 @@
           <date type="added" when="2018-12-08"/>
         </bibl>
         <bibl>
-          <author>Bongiovanni, Archie</author> and
-          <author>Tristan Jimerson</author>.
-          <title>A Quick &amp; Easy Guide to They/Them Pronouns</title>.
+          <author>Blue, Violet</author>.
+          <title>A Smart Girl’s Guide to Privacy</title>.
           <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2018-05-20"/>
+          <catRef target="#tag.owned-digital" from-custom="ash:developer"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2022-02-27"/>
         </bibl>
         <bibl>
           <author>Borges, Jorge Luis</author>.
@@ -505,7 +507,8 @@
           <catRef target="#tag.queer"/>
         </bibl>
         <bibl>
-          <author>Bowker, Geoffery C.</author> and <author>Susan Leigh Star</author>.
+          <author>Bowker, Geoffery C.</author> and 
+          <author>Susan Leigh Star</author>.
           <title>Sorting Things Out: Classification and Its Consequences</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-09-07"/>
@@ -1531,6 +1534,16 @@
           <series><title>Inkworld</title></series>
         </bibl>
         <bibl>
+          <author>G., Mady</author> and
+          <author>Jules Zuckerberg</author>.
+          <title>A Quick &amp; Easy Guide to Queer &amp; Trans Identities</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2022-02-27"/>
+          <series><title>Quick &amp; Easy Guides</title></series>
+        </bibl>
+        <bibl>
           <author>Gabaldon, Diana</author>.
           <title>Outlander</title>.
           <series><title>Outlander</title></series>
@@ -1681,6 +1694,18 @@
           <note>
             <p>Previously titled <q>The Hill We Climb and Other Poems</q>.</p>
           </note>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Gorman, Zac</persName>
+          </respStmt>.
+          <title>Costume Quest: Invasion of the Candy Snatchers</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <date type="added" when="2022-02-27"/>
+          <series><title>Costume Quest</title></series>
         </bibl>
         <bibl>
           <author>Gorodischer, Angelica</author>.
@@ -1941,6 +1966,21 @@
           <title>White Awake: An Honest Look at What It Means to Be White</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author>Hirsh, Ananth</author> and
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Yuko Ota</persName>
+          </respStmt>.
+          <title>Our Cats Are More Famous Than Us: A Johnny Wander Collection</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <date type="added" when="2022-02-27"/>
+          <series><title>Johnny Wander</title></series>
         </bibl>
         <bibl>
           <author ref="a:hobb.r">Hobb, Robin</author>.
@@ -3425,6 +3465,28 @@
           <title>Long Day’s Journey Into Night</title>.
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:oneill.k">O’Neill, Kay</persName>
+          </respStmt>.
+          <title>The Tea Dragon Festival</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Tea Dragon</title></series>
+          <date type="added" when="2022-02-27"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:oneill.k">O’Neill, Kay</persName>
+          </respStmt>.
+          <title>The Tea Dragon Tapestry</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Tea Dragon</title></series>
+          <date type="added" when="2022-02-27"/>
+        </bibl>
+        <bibl>
           <author>Orlean, Susan</author>.
           <title>The Library Book</title>.
           <catRef target="#tag.nonfiction"/>
@@ -3804,6 +3866,19 @@
           <catRef target="#tag.comics"/>
           <series><title>Lazarus</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Rucka, Greg</author> and
+          <respStmt>
+            <resp n="artist"/>
+            <persName>Matthew Southworth</persName>
+          </respStmt>.
+          <title>Stumptown Vol. 1: The Case of the Girl Who Took Her Shampoo (But 
+            Left Her Mini)</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <date type="added" when="2022-02-27"/>
+          <series><title>Stumptown</title></series>
         </bibl>
         <bibl>
           <author>Ruff, Mark</author>.
@@ -4545,6 +4620,7 @@
           <author>Wells, Martha</author>.
           <title>All Systems Red</title>.
           <series><title>The Murderbot Diaries</title></series>
+          <catRef target="#tag.owned-digital" from="2022-02-16"/>
           <date type="added" when="2022-02-16"/>
         </bibl>
         <bibl>

@@ -21,6 +21,7 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-02-27">Added "owned-digital" tag.</change>
         <change when="2022-01-29">Updated my name.</change>
         <change when="2021-10-02">Added "ebook" tag.</change>
         <change when="2021-01-17">Added long-overdue "audiobook" tag.</change>
@@ -76,6 +77,115 @@
           <!-- Break lines at column 100. -->
           
           
+          
+          <biblStruct xml:id="oneill.k.princessprincess">
+            <monogr>
+              <title>Princess Princess Ever After</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:oneill.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2016"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="dragoon.l.littlewitches">
+            <monogr>
+              <title>Little Witches: Magic in Concord</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:dragoon.l"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:otsmaneelhaou.h"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Oni-Lion Forge Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="long.g.todrinktoeat">
+            <monogr>
+              <title>To Drink and To Eat: Tastes &amp; Techniques from a French Kitchen</title>
+              <title type="sub">New Edition</title>
+              <title type="alt" xml:lang="fr">À Boire et a Manger</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <resp n="colorist"/>
+                <persName ref="a:long.g"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:roubineau.m"/>
+                <persName ref="a:badarouxdenizon.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hopkins.dc"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:melloul.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2012"/>
+                <date type="translation-copyright" when="2020"/>
+                <publisher>
+                  <orgName>Oni-Lion Forge Publishing Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="oneill.k.teadragonsociety">
+            <monogr>
+              <title>The Tea Dragon Society</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:oneill.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:temofonte.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Oni Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Tea Dragon</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="kirstein.r.steerswomansroad">
             <analytic>
@@ -161,6 +271,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.reference"/>
                 <date type="added" when="2018-05-20"/>
@@ -170,6 +281,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Quick &amp; Easy Guides</title>
+            </series>
           </biblStruct>
           
           <biblStruct xml:id="yoshinag.f.whatdidyoueat.13">
@@ -1653,6 +1767,7 @@
               <imprint>
                 <catRef target="#tag.kickstart" when="2020-02-26"/>
                 <catRef target="#tag.owned" from="2020-10-06"/>
+                <catRef target="#tag.owned-digital"/>
                 <catRef target="#tag.rpg"/>
                 <catRef target="#tag.zine"/>
                 <date type="first-publication" when="2020"/>
@@ -2248,6 +2363,7 @@
               <imprint>
                 <catRef target="#tag.ebook"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned-digital" from-custom="ash:developer"/>
                 <date type="copyright" when="2011"/>
                 <publisher>
                   <orgName>Top Shelf Productions</orgName>
@@ -4208,6 +4324,7 @@
               <imprint>
                 <catRef target="#tag.kickstart" when="2018-06-17"/>
                 <catRef target="#tag.owned" from="2019-03-15"/>
+                <catRef target="#tag.owned-digital"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.rpg"/>
                 <date type="first-publication" when="2019"/>
@@ -4216,6 +4333,9 @@
                 </publisher>
               </imprint>
             </monogr>
+            <series>
+              <title>Belonging Outside Belonging</title>
+            </series>
           </biblStruct>
           
           <biblStruct xml:id="gillen.k.wickeddivine.5.imperialphase1">
@@ -7360,6 +7480,7 @@
                 <catRef target="#tag.kickstarted" when="2016-12-01"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2017-07-21"/>
+                <catRef target="#tag.owned-digital"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.rpg"/>
                 <date type="publication" when="2017"/>
@@ -10422,21 +10543,27 @@
 
           <biblStruct xml:id="rucka.g.queencountry.operationbrokenground">
             <monogr>
-              <title>Queen and Country Vol. 1: Operation Broken Ground</title>
+              <title>Queen &amp; Country Vol. 1: Operation Broken Ground</title>
               <author>
                 <persName ref="a:rucka.g"/>
               </author>
               <respStmt>
                 <resp n="artist"/>
-                <persName ref="a:hurtt.b"/>
+                <persName ref="a:rolston.s"/>
+                <persName ref="a:sakai.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:konot.s"/>
+                <persName ref="a:sakai.s"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Queen and Country</title>
+              <title>Queen &amp; Country</title>
             </series>
           </biblStruct>
 
@@ -21337,7 +21464,7 @@
               </author>
               <respStmt>
                 <resp n="artist"/>
-                <persName ref="a:oneill.k"/>
+                <persName ref="a:oneill.ke"/>
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
@@ -22805,17 +22932,38 @@
 
           <biblStruct xml:id="rucka.g.queencountry.definitiveedition1">
             <monogr>
-              <title>Queen and Country Definitive Edition Vol. 1</title>
+              <title>Queen &amp; Country Definitive Edition Vol. 1</title>
               <author>
                 <persName ref="a:rucka.g"/>
               </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:rolston.s"/>
+                <persName ref="a:sakai.s"/>
+                <persName ref="a:hurtt.b"/>
+                <persName ref="a:fernandez.l"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:konot.s"/>
+                <persName ref="a:sakai.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="inker"/>
+                <persName ref="a:omalley.bl"/>
+                <persName ref="a:norrie.c"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <date type="copyright" from="2001" to="2007"/>
+                <date type="edition" when="2007"/>
+                <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Queen and Country</title>
+              <title>Queen &amp; Country</title>
             </series>
           </biblStruct>
 
@@ -23526,17 +23674,32 @@
 
           <biblStruct xml:id="rucka.g.queencountry.definitiveedition2">
             <monogr>
-              <title>Queen and Country Definitive Edition Vol. 2</title>
+              <title>Queen &amp; Country Definitive Edition Vol. 2</title>
               <author>
                 <persName ref="a:rucka.g"/>
               </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:alexander.js"/>
+                <persName ref="a:mcneil.cs"/>
+                <persName ref="a:hawthorne.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:dranski.j"/>
+                <persName ref="a:mcneil.cs"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <date type="copyright" from="2001" to="2008"/>
+                <date type="edition" when="2008"/>
+                <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Queen and Country</title>
+              <title>Queen &amp; Country</title>
             </series>
           </biblStruct>
 
@@ -23619,17 +23782,32 @@
 
           <biblStruct xml:id="rucka.g.queencountry.definitiveedition3">
             <monogr>
-              <title>Queen and Country Definitive Edition Vol. 3</title>
+              <title>Queen &amp; Country Definitive Edition Vol. 3</title>
               <author>
                 <persName ref="a:rucka.g"/>
               </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:rolston.s"/>
+                <persName ref="a:norton.m"/>
+                <persName ref="a:samnee.c"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:dranski.j"/>
+                <persName ref="a:sherwood.d"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <date type="copyright" from="2001" to="2008"/>
+                <date type="edition" when="2008"/>
+                <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Queen and Country</title>
+              <title>Queen &amp; Country</title>
             </series>
           </biblStruct>
 
@@ -23729,17 +23907,29 @@
 
           <biblStruct xml:id="rucka.g.queencountry.definitiveedition4">
             <monogr>
-              <title>Queen and Country Definitive Edition Vol. 4</title>
+              <title>Queen &amp; Country Definitive Edition Vol. 4</title>
               <author>
                 <persName ref="a:rucka.g"/>
               </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:mitten.c"/>
+                <persName ref="a:burchett.r"/>
+                <persName ref="a:hurtt.b"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:dranski.j"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
             <series>
-              <title>Queen and Country</title>
+              <title>Queen &amp; Country</title>
             </series>
           </biblStruct>
 
@@ -25986,6 +26176,7 @@
               <imprint>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from-custom="ash:developer"/>
+                <catRef target="#tag.owned-digital"/>
                 <catRef target="#tag.rpg"/>
                 <date type="copyright" when="2013"/>
                 <publisher>
