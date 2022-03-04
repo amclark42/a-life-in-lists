@@ -40,6 +40,15 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-03-03">
+          <p>Read <title ref="b:pierce.t.tempestsslaughter">Tempests and Slaughter</title>.</p>
+        </event>
+        <event from="2022-03-02" to="2022-03-03">
+          <p>Read <title ref="b:jemisin.nk.farsector">Far Sector</title>.</p>
+        </event>
+        <event when="2022-03-02">
+          <p>Read <title ref="b:lewis.j.run.bookone">Run: Book 1</title>.</p>
+        </event>
         <event when="2022-02-27">
           <p>Read <title ref="b:oneill.k.princessprincess">Princess Princess Ever After</title>. Partial reread.</p>
         </event>
@@ -56,7 +65,7 @@
         <event when="2022-02-21">
           <p>Read <title ref="b:yoshinag.f.whatdidyoueat.14">What Did You Eat Yesterday? Vol. 14</title>.</p>
         </event>
-        <event from="2022-02-20">
+        <event from="2022-02-20" to="2022-03-01">
           <p>Read <title ref="b:kirstein.r.steerswomansroad">The Steerswoman’s Road</title>.</p>
         </event>
         <event when="2022-02-20">
@@ -81,7 +90,7 @@
           <p>Read <title ref="b:willis.d.dumbingofage.10.embraceempiricalevidence">Dumbing of Age Vol. 10: 
             Renounce Magical Thinking and Embrace Empirical Evidence</title>.</p>
         </event>
-        <event from="2022-01-22">
+        <event from="2022-01-22" to="2022-02-27">
           <p>Read <title ref="b:gorman.a.calluswhatwecarry">Call Us What We Carry: Poems</title>.</p>
         </event>
         <event when="2022-01-17">

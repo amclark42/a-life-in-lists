@@ -2448,9 +2448,15 @@
           <title>Kim</title>.
         </bibl>
         <bibl>
-          <author>Kirstein, Rosemary</author>.
-          <title>The Steerswoman’s Road</title>.
-          <date type="added" when="2018-07-21"/>
+          <author ref="a:kirstein.r">Kirstein, Rosemary</author>.
+          <title>The Lost Steersman</title>.
+          <date type="added" when="2022-03-02"/>
+          <series><title>Steerswoman</title></series>
+        </bibl>
+        <bibl>
+          <author ref="a:kirstein.r">Kirstein, Rosemary</author>.
+          <title>The Language of Power</title>.
+          <date type="added" when="2022-03-02"/>
           <series><title>Steerswoman</title></series>
         </bibl>
         <bibl>
@@ -2654,14 +2660,14 @@
           <author ref="a:aydin.a">Andrew Aydin</author>,
           <respStmt>
             <resp n="artist"/>
+            <persName ref="a:fury.l">L. Fury</persName>
             <persName ref="a:powell.n">Nate Powell</persName>
-            <persName>L. Fury</persName>
           </respStmt>.
-          <title>Run: Book One</title>.
+          <title>Run: Book Two</title>.
           <catRef target="#tag.comics"/>
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2021-08-15"/>
+          <date type="added" when="2022-03-02"/>
         </bibl>
         <bibl>
           <author ref="a:lewis.j">Lewis, John</author> and

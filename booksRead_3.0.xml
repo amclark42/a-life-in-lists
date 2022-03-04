@@ -78,6 +78,27 @@
           
           
           
+          <biblStruct xml:id="pierce.t.tempestsslaughter">
+            <monogr>
+              <title>Tempests and Slaughter</title>
+              <author>
+                <persName ref="a:pierce.t"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Lothian</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Tortall</title>
+            </series>
+            <series>
+              <title>The Numair Chronicles</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="oneill.k.princessprincess">
             <monogr>
               <title>Princess Princess Ever After</title>
@@ -607,6 +628,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2021-11-08"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2021"/>
                 <publisher>
                   <orgName>DC Comics</orgName>
