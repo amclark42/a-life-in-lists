@@ -40,7 +40,26 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2022-03-03">
+        <event from="2022-04-05" to="2022-04-06">
+          <p>Read <title ref="b:mcguire.s.acrossgreengrassfields">Across the Green Grass Fields</title>.</p>
+        </event>
+        <event from="2022-03-28">
+          <p>Read <title ref="b:cho.z.blackwatersister">Black Water Sister</title>.</p>
+        </event>
+        <event when="2022-03-26">
+          <p>Read <title ref="b:leth.k.patsywalkerhellcat.3.carelesswhiskers">Patsy Walker, A.K.A. Hellcat! Vol. 3: 
+            Careless Whisker(s)</title>.</p>
+        </event>
+        <event when="2022-03-26">
+          <p>Read <title ref="b:yoshinag.f.antiquebakery.4">Antique Bakery Vol. 4</title>.</p>
+        </event>
+        <event when="2022-03-26">
+          <p>Read <title ref="b:yoshinag.f.antiquebakery.3">Antique Bakery Vol. 3</title>.</p>
+        </event>
+        <event when="2022-03-26">
+          <p>Read <title ref="b:yoshinag.f.whatdidyoueat.15">What Did You Eat Yesterday? Vol. 15</title>.</p>
+        </event>
+        <event from="2022-03-03" to="2022-03-28">
           <p>Read <title ref="b:pierce.t.tempestsslaughter">Tempests and Slaughter</title>.</p>
         </event>
         <event from="2022-03-02" to="2022-03-03">

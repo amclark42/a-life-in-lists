@@ -360,6 +360,12 @@
           <title>Broken Wings</title>.
         </bibl>
         <bibl>
+          <author>Baldree, Travis</author>.
+          <title>Legends &amp; Lattes</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-04-04"/>
+        </bibl>
+        <bibl>
           <author>Banks, Iain M.</author>
           <title>Consider Phlebas</title>.
         </bibl>
@@ -409,6 +415,12 @@
         <bibl>
           <author>Bell, Clare</author>.
           <title>The Jaguar Princess</title>.
+        </bibl>
+        <bibl>
+          <author>Belleny, Danielle</author>.
+          <title>This is a Book for People Who Love Birds</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-04-04"/>
         </bibl>
         <bibl>
           <author>Benjamin, Chloe</author>.
@@ -1198,6 +1210,12 @@
           <catRef target="#tag.owned" 
             corresp="b:dunbarortiz.r.indigenoushistoryunitedstates"/>
           <date type="added" when="2018-10-27"/>
+        </bibl>
+        <bibl>
+          <author>Duncan, Dennis</author>.
+          <title>Index, A History of the: A Bookish Adventure from Medieval Manuscripts to the Digital Age</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-04-04"/>
         </bibl>
         <bibl>
           <author>Dunsany, Lord</author>.
@@ -2617,18 +2635,6 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
-          <author ref="a:leth.k">Leth, Kate</author> and
-          <respStmt>
-            <resp n="artist"/>
-            <persName ref="a:williams.b">Brittney Williams</persName>
-          </respStmt>.
-          <title>Patsy Walker, A.K.A. Hellcat! Vol. 3: Careless Whiskers</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.queer"/>
-          <series><title>Patsy Walker, A.K.A. Hellcat!</title></series>
-          <date type="added" when="2020-01-31"/>
-        </bibl>
-        <bibl>
           <author ref="a:levine.gc">Levine, Gail Carson</author>.
           <title>Writing Magic: Creating Stories that Fly</title>.
           <catRef target="#tag.nonfiction"/>
@@ -3300,6 +3306,13 @@
           <title>A People’s Guide to Greater Boston</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-07-08"/>
+        </bibl>
+        <bibl>
+          <author>Nielsen, Kim E.</author>
+          <title>The Radical Lives of Helen Keller</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-04-04"/>
         </bibl>
         <bibl>
           <author>Niven, Larry</author>.
@@ -4749,17 +4762,6 @@
             <resp n="artist"/>
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
-          <title>Antique Bakery Vol. 3</title>.
-          <catRef target="#tag.comics"/>
-          <series><title>Antique Bakery</title></series>
-          <date type="added" when="2019-11-16"/>
-        </bibl>
-        <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
-          </respStmt>.
           <title>Ôoku: The Inner Chambers Vol. 9</title>.
           <catRef target="#tag.comics"/>
           <series><title>Ôoku: The Inner Chambers</title></series>
@@ -4771,12 +4773,12 @@
             <resp n="artist"/>
             <persName ref="a:yoshinag.f">Yoshinaga, Fumi</persName>
           </respStmt>.
-          <title>What Did You Eat Yesterday? Vol. 15</title>.
+          <title>What Did You Eat Yesterday? Vol. 16</title>.
           <catRef target="#tag.comics"/>
           <catRef target="#tag.cookbook"/>
           <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
-          <date type="added" when="2022-02-21"/>
+          <date type="added" when="2022-04-04"/>
         </bibl>
         <bibl>
           <author>Zabarsky, Jessi</author>.

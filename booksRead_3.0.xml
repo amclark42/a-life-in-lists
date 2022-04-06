@@ -77,6 +77,169 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="cho.z.blackwatersister">
+            <monogr>
+              <title>Black Water Sister</title>
+              <author>
+                <persName ref="a:cho.z"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-02-12"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>ACE</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="mcguire.s.acrossgreengrassfields">
+            <monogr>
+              <title>Across the Green Grass Fields</title>
+              <author>
+                <persName ref="a:mcguire.s"/>
+              </author>
+              <imprint>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="leth.k.patsywalkerhellcat.3.carelesswhiskers">
+            <monogr>
+              <title>Patsy Walker, A.K.A. Hellcat! Vol. 3: Careless Whisker(s)</title>
+              <author>
+                <persName ref="a:leth.k"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:williams.b"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:rosenberg.r"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:cowles.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-01-31"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Marvel Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Patsy Walker, A.K.A. Hellcat!</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.antiquebakery.3">
+            <monogr>
+              <title>Antique Bakery Vol. 3</title>
+              <title type="alt" xml:lang="ja">Seiyou Kottou Yougashiten 3</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:sato.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:lacuna.w"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2019-11-16"/>
+                <date type="copyright" when="2001"/>
+                <date type="translation-copyright" when="2006"/>
+                <publisher>
+                  <orgName>Digital Media Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Antique Bakery</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.antiquebakery.4">
+            <monogr>
+              <title>Antique Bakery Vol. 4</title>
+              <title type="alt" xml:lang="ja">Seiyou Kottou Yougashiten 4</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:sato.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:lacuna.w"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2002"/>
+                <date type="translation-copyright" when="2006"/>
+                <publisher>
+                  <orgName>Digital Media Publishing</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Antique Bakery</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="yoshinag.f.whatdidyoueat.15">
+            <monogr>
+              <title>What Did You Eat Yesterday? Vol. 15</title>
+              <title type="alt" xml:lang="ja">Kinou Nani Tabeta? 15</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:yoshinag.f"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:allen.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-02-21"/>
+                <date type="copyright" when="2019"/>
+                <date type="first-publication" when="2019"/>
+                <date type="edition" when="2021"/>
+                <publisher>
+                  <orgName>Vertical, Inc.</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>What Did You Eat Yesterday?</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="pierce.t.tempestsslaughter">
             <monogr>
@@ -18653,6 +18816,7 @@
           <biblStruct xml:id="yoshinag.f.antiquebakery.1">
             <monogr>
               <title>Antique Bakery Vol. 1</title>
+              <title type="alt" xml:lang="ja">Seiyou Kottou Yougashiten 1</title>
               <respStmt>
                 <resp n="author"/>
                 <resp n="artist"/>
@@ -18927,15 +19091,26 @@
           <biblStruct xml:id="yoshinag.f.antiquebakery.2">
             <monogr>
               <title>Antique Bakery Vol. 2</title>
+              <title type="alt" xml:lang="ja">Seiyou Kottou Yougashiten 2</title>
               <respStmt>
                 <resp n="author"/>
                 <resp n="artist"/>
                 <persName ref="a:yoshinag.f"/>
               </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:sato.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:lacuna.w"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.queer"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Digital Media Publishing</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
