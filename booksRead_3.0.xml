@@ -77,6 +77,79 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="dumas.a.threemusketeers">
+            <monogr>
+              <title>The Three Musketeers</title>
+              <author>
+                <persName ref="a:dumas.a"/>
+              </author>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:barrow.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:wren.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from="2022-04-17"/>
+                <date type="added" when="2022-04-28"/>
+                <date type="first-publication" when="1844"/>
+                <date type="publication" when="1993"/>
+                <publisher>
+                  <orgName>Wordsworth Editions</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="wells.k.realheroshit">
+            <monogr>
+              <title>Real Hero Shit</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:wells.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:lafrenai.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2021-10-29"/>
+                <catRef target="#tag.owned" from="2022-04-19"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="rodgers.r.onrice">
+            <monogr>
+              <title>On Rice</title>
+              <title type="sub">60 Fast and Easy Toppings That Make the Meal</title>
+              <author>
+                <persName ref="a:rodgers.r"/>
+              </author>
+              <respStmt>
+                <resp n="photographer"/>
+                <persName ref="a:frankeny.f"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.owned" from="2022-04-09"/>
+                <date type="copyright" when="1997"/>
+                <publisher>
+                  <orgName>Chronicle Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="cho.z.blackwatersister">
             <monogr>
               <title>Black Water Sister</title>

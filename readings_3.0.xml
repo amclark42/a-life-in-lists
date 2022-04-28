@@ -40,10 +40,19 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-04-28">
+          <p>Reread <title ref="b:novik.n.deadlyeducation">A Deadly Education</title>.</p>
+        </event>
+        <event when="2022-04-20">
+          <p>Read <title ref="b:wells.k.realheroshit">Real Hero Shit</title>.</p>
+        </event>
+        <event when="2022-04-09">
+          <p>Read <title ref="b:rodgers.r.onrice">On Rice</title>.</p>
+        </event>
         <event from="2022-04-05" to="2022-04-06">
           <p>Read <title ref="b:mcguire.s.acrossgreengrassfields">Across the Green Grass Fields</title>.</p>
         </event>
-        <event from="2022-03-28">
+        <event from="2022-03-28" to="2022-04-27">
           <p>Read <title ref="b:cho.z.blackwatersister">Black Water Sister</title>.</p>
         </event>
         <event when="2022-03-26">

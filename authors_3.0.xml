@@ -59,6 +59,54 @@
         </person>-->
         
         
+        <person xml:id="dumas.a">
+          <persName>
+            <forename>Alexandre</forename>
+            <surname>Dumas</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="barrow.w">
+          <persName>
+            <forename>William</forename>
+            <surname>Barrow</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="wren.k">
+          <persName>
+            <forename>Keith</forename>
+            <surname>Wren</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="rodgers.r">
+          <persName>
+            <forename>Rick</forename>
+            <surname>Rodgers</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="frankeny.f">
+          <persName>
+            <forename>Frankie</forename>
+            <surname>Frankeny</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="cho.z">
+          <persName>
+            <forename>Zen</forename>
+            <surname>Cho</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="mitten.c">
           <persName>
             <forename>Christopher</forename>
@@ -5299,6 +5347,7 @@
             <forename>Kendra</forename>
             <surname>Wells</surname>
           </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="petruzzo.l">

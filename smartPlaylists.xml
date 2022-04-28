@@ -16,7 +16,9 @@
     </fileDesc>
     <encodingDesc>
       <include xmlns="http://www.w3.org/2001/XInclude" 
-        href="./boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)"/>
+         href="./boilerplate/encodingDesc.xml" xpointer="element(listsTagsDecl)">
+        <fallback/>
+      </include>
     </encodingDesc>
     <revisionDesc>
       <listChange>
@@ -137,6 +139,16 @@
               <item><label>Christmas</label></item>
               <item><label>X-mas-ish</label> (Christmas songs that are fine to play 
                 at other times of the year)</item>
+            </list>
+          </item>
+          
+          <item>
+            <list>
+              <head>
+                <date>2022</date>
+              </head>
+              
+              <item><label>2022a</label></item>
             </list>
           </item>
           

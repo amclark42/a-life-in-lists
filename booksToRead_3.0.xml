@@ -876,10 +876,12 @@
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
-          <author>Cho, Zen</author>.
-          <title>Black Water Sister</title>.
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2022-02-12"/>
+          <author ref="a:cho.z">Cho, Zen</author>.
+          <title>Sorcerer to the Crown</title>.
+          <series>
+            <title>Sorcerer to the Crown</title>
+          </series>
+          <date type="added" when="2022-04-28"/>
         </bibl>
         <bibl>
           <author>Chödrön, Pema</author>.
@@ -1196,8 +1198,15 @@
           <series><title>African Immortals</title></series>
         </bibl>
         <bibl>
-          <author>Dumas, Alexander</author>.
+          <author ref="a:dumas.a">Dumas, Alexander</author>.
           <title>The Count of Monte Cristo</title>.
+          <date type="added" when-custom="ash:youngadult"/>
+        </bibl>
+        <bibl>
+          <author ref="a:dumas.a">Dumas, Alexander</author>.
+          <title>The Three Musketeers</title>.
+          <catRef target="#tag.owned" corresp="b:dumas.a.threemusketeers"/>
+          <date type="added" when="2022-04-28"/>
         </bibl>
         <bibl>
           <author ref="a:dunbarortiz.r">Dunbar-Ortiz, Roxanne</author>.
@@ -1213,7 +1222,8 @@
         </bibl>
         <bibl>
           <author>Duncan, Dennis</author>.
-          <title>Index, A History of the: A Bookish Adventure from Medieval Manuscripts to the Digital Age</title>.
+          <title>Index, A History of the: A Bookish Adventure from Medieval 
+            Manuscripts to the Digital Age</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2022-04-04"/>
         </bibl>
