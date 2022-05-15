@@ -59,6 +59,61 @@
         </person>-->
         
         
+        <person xml:id="rubinstein.g">
+          <persName>
+            <forename>Gillian</forename>
+            <surname>Rubinstein</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+          
+          <persona xml:id="hearn.l">
+            <persName type="pseudonym">
+              <forename>Lian</forename>
+              <surname>Hearn</surname>
+            </persName>
+          </persona>
+        </person>
+        
+        <person xml:id="shelley.m">
+          <persName>
+            <forename>Mary</forename>
+            <surname>Shelley</surname>
+          </persName>
+          <persPronouns value="she" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="bloom.h">
+          <persName>
+            <forename>Harold</forename>
+            <surname>Bloom</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
+        <person xml:id="burgess.r">
+          <persName>
+            <forename>Rebecca</forename>
+            <surname>Burgess</surname>
+          </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="deltoro.g">
+          <persName>
+            <forename>Guillermo</forename>
+            <surname>del Toro</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="miller.l">
+          <persName>
+            <forename>Laura</forename>
+            <surname>Miller</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="dumas.a">
           <persName>
             <forename>Alexandre</forename>
@@ -4550,7 +4605,7 @@
           <gender value="female" evidence="conjecture"/>
 
           <persona>
-            <persName>
+            <persName type="pseudonym">
               <forename>James</forename>
               <surname>Tiptree</surname>
               <genName>Jr.</genName>
@@ -4564,8 +4619,9 @@
             <forename>Ursula</forename>
             <surname>Vernon</surname>
           </persName>
+          
           <persona xml:id="kingfisher.t">
-            <persName>
+            <persName type="pseudonym">
               <forename>T.</forename>
               <surname>Kingfisher</surname>
             </persName>
@@ -7184,7 +7240,7 @@
           <gender value="female" evidence="conjecture"/>
           
           <persona xml:id="addison.k">
-            <persName>
+            <persName type="pseudonym">
               <forename>Katherine</forename>
               <surname>Addison</surname>
             </persName>

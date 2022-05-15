@@ -613,23 +613,16 @@
           <title>Rogue Moon</title>.
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName>Burgess, Rebecca</persName>
-          </respStmt>.
-          <title>How to Be Ace: A Memoir of Growing Up Asexual</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2021-06-20"/>
-        </bibl>
-        <bibl>
           <author>Burley, Shane</author>.
           <title>Fascism Today: What It Is and How to End It</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-10-30"/>
+        </bibl>
+        <bibl>
+          <author>Burnham, Margaret A.</author>
+          <title>By Hands Now Known: Jim Crow’s Legal Executioners</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-15"/>
         </bibl>
         <bibl>
           <author>Burrough, Bryan</author>,
@@ -2113,12 +2106,14 @@
           <title>The Second Summoning</title>.
           <series><title>The Keeper’s Chronicles</title></series>
           <date type="added" when="2020-04-03"/>
+          <catRef target="#tag.owned" corresp="b:huff.t.secondsummoning"/>
         </bibl>
         <bibl>
           <author ref="a:huff.t">Huff, Tanya</author>.
           <title>Long Hot Summoning</title>.
           <series><title>The Keeper’s Chronicles</title></series>
           <date type="added" when="2020-04-03"/>
+          <catRef target="#tag.owned" corresp="b:huff.t.longhotsummoning"/>
         </bibl>
         <bibl>
           <author>Hugo, Victor</author>.
@@ -3735,18 +3730,6 @@
           <title>The Chosen</title>.
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:powell.n">Powell, Nate</persName>
-          </respStmt>.
-          <title>Save It for Later: Promises, Parenthood, and the Urgency of Protest</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2021-04-12"/>
-        </bibl>
-        <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
           <title>Once More* With Footnotes</title>.
           <catRef target="#tag.outofprint"/><!-- Published by NEFSA Press. -->
@@ -3780,6 +3763,13 @@
           <author>Quinn, Kate</author>.
           <title>The Alice Network</title>.
           <date type="added" when="2017-08-20"/>
+        </bibl>
+        <bibl>
+          <author>Radzikowska, Milena</author> and
+          <author>Stan Ruecker</author>.
+          <title>Design and the Digital Humanities: A Handbook for Mutual 
+            Understanding</title>.
+          <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
           <editor>Rajunov, Micah</editor> and
@@ -3871,9 +3861,10 @@
           <date type="added" when="2021-06-22"/>
         </bibl>
         <bibl>
-          <author>Rubinstein, Gillian</author>.
+          <author ref="a:rubinstein.g">Rubinstein, Gillian</author>.
           <title>Tales of the Otori: Across the Nightingale Floor</title>.
           <series><title>Tales of the Otori</title></series>
+          <catRef target="#tag.owned" corresp="b:hearn.l.nightingalefloor"/>
         </bibl>
         <bibl>
           <author>Ruby, Laura</author>.
@@ -4493,6 +4484,12 @@
           <title>Welcome to the Universe: An Astrophysical Tour</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-10-15"/>
+        </bibl>
+        <bibl>
+          <author>Ulinich, Anya</author>.
+          <title>Lena Finkle’s Magic Barrel</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2022-05-15"/>
         </bibl>
         <bibl>
           <author>Ulrich, Laurel Thatcher</author>.
