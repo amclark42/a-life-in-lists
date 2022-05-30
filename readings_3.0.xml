@@ -40,6 +40,15 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-05-28">
+          <p>Read <title ref="b:novik.n.lastgraduate">The Last Graduate</title>.</p>
+        </event>
+        <event from="2022-05-22" to="2022-05-29">
+          <p>Read <title ref="b:huff.t.secondsummoning">The Second Summoning</title>.</p>
+        </event>
+        <event when="2022-05-17">
+          <p>Read <title ref="b:purcell.a.sordidpast">Sordid Past</title>.</p>
+        </event>
         <event when="2022-05-15">
           <p>Read <title ref="b:powell.n.saveitforlater">Save It for Later: Promises, Parenthood, and the Urgency 
             of Protest</title>.</p>
@@ -47,10 +56,13 @@
         <event from="2022-05-14" to="2022-05-15">
           <p>Read <title ref="b:burgess.r.howtobeace">How to Be Ace: A Memoir of Growing Up Asexual</title>.</p>
         </event>
+        <event from="2022-05-12">
+          <p>Listened to <title ref="b:mcguire.s.cometumblingdown">Come Tumbling Down</title>.</p>
+        </event>
         <event when="2022-04-30">
           <p>Reread <title ref="b:thompson.k.heartbox">Heart in a Box</title>.</p>
         </event>
-        <event from="2022-04-29">
+        <event from="2022-04-29" to="2022-05-21">
           <p>Read <title ref="b:jackson.s.hauntinghillhouse">The Haunting of Hill House</title>.</p>
         </event>
         <event from="2022-04-28" to="2022-04-29">

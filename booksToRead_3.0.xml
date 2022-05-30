@@ -417,6 +417,12 @@
           <title>The Jaguar Princess</title>.
         </bibl>
         <bibl>
+          <author>Bell, Derrick A.</author>
+          <title>Faces at the Bottom of the Well: The Permanence of Racism</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-30"/>
+        </bibl>
+        <bibl>
           <author>Belleny, Danielle</author>.
           <title>This is a Book for People Who Love Birds</title>.
           <catRef target="#tag.nonfiction"/>
@@ -433,6 +439,12 @@
             Code</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-09-07"/>
+        </bibl>
+        <bibl>
+          <author>Benjamin, Ruha</author>.
+          <title>Viral Justice</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author>Bergemann, Rosalind A.</author>
@@ -517,6 +529,16 @@
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.queer"/>
+        </bibl>
+        <bibl>
+          <author>Bornstein, Kate</author>.
+          <title>A Queer and Pleasant Danger: The true story of a nice Jewish boy 
+            who joins the Church of Scientology, and leaves twelve years later to 
+            become the lovely lady she is today</title>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author>Bowker, Geoffery C.</author> and 
@@ -1913,6 +1935,13 @@
           <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
+          <author>Hartman, Saidiya</author>.
+          <title>Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous 
+            Black Girls, Troublesome Women, and Queer Radicals</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-30"/>
+        </bibl>
+        <bibl>
           <author>Haruf, Kent</author>.
           <title>Our Souls at Night</title>.
           <date type="added" when="2017-01-29"/>
@@ -1993,7 +2022,7 @@
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
-            <persName>Yuko Ota</persName>
+            <persName ref="ota.y">Yuko Ota</persName>
           </respStmt>.
           <title>Our Cats Are More Famous Than Us: A Johnny Wander Collection</title>.
           <catRef target="#tag.comics"/>
@@ -2103,13 +2132,6 @@
         </bibl>
         <bibl>
           <author ref="a:huff.t">Huff, Tanya</author>.
-          <title>The Second Summoning</title>.
-          <series><title>The Keeper’s Chronicles</title></series>
-          <date type="added" when="2020-04-03"/>
-          <catRef target="#tag.owned" corresp="b:huff.t.secondsummoning"/>
-        </bibl>
-        <bibl>
-          <author ref="a:huff.t">Huff, Tanya</author>.
           <title>Long Hot Summoning</title>.
           <series><title>The Keeper’s Chronicles</title></series>
           <date type="added" when="2020-04-03"/>
@@ -2165,11 +2187,6 @@
           <author>Ishiguro, Kazuo</author>.
           <title>Never Let Me Go</title>.
           <date type="added" when="2018-02-04"/>
-        </bibl>
-        <bibl>
-          <author ref="a:jackson.s">Jackson, Shirley</author>.
-          <title>The Haunting of Hill House</title>.
-          <date type="added" when="2018-10-07"/>
         </bibl>
         <bibl>
           <author>Jacob, Mira</author>.
@@ -2859,6 +2876,12 @@
           <date type="added" when="2016-05-29"/>
         </bibl>
         <bibl>
+          <author>McAlevey, Jane</author>.
+          <title>No Shortcuts: Organizing for Power in the New Gilded Age</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-30"/>
+        </bibl>
+        <bibl>
           <author ref="mcelroy.c">McElroy, Clint</author> and
           <respStmt>
             <resp n="artist"/>
@@ -2881,6 +2904,18 @@
           <title>Come Tumbling Down</title>.
           <series><title>Wayward Children</title></series>
           <date type="added" when="2020-02-15"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Where the Drowned Girls Go</title>.
+          <series><title>Wayward Children</title></series>
+          <date type="added" when="2022-05-30"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Lost in the Moment and Found</title>.
+          <series><title>Wayward Children</title></series>
+          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -3397,7 +3432,13 @@
           <author ref="a:novik.n">Novik, Naomi</author>.
           <title>The Last Graduate</title>.
           <series><title>The Scholomance</title></series>
-          <date type="added" when="2021-04-12"></date>
+          <date type="added" when="2021-04-12"/>
+        </bibl>
+        <bibl>
+          <author ref="a:novik.n">Novik, Naomi</author>.
+          <title>The Golden Enclaves</title>.
+          <series><title>The Scholomance</title></series>
+          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author>Obama, Barack</author>.
@@ -3754,6 +3795,15 @@
           <author>Pulley, Natasha</author>.
           <title>The Watchmaker of Filigree Street</title>.
           <date type="added" when="2016-07-09"/>
+        </bibl>
+        <bibl>
+          <editor ref="a:purcell.a">Purcell, Andrea</editor>.
+          <title>Smut Peddler Presents: Silver</title>.
+          <catRef target="#tag.anthology"/>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.erotica"/>
+          <series><title>Smut Peddler Presents</title></series>
+          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author>Pynchon, Thomas</author>.
@@ -4818,6 +4868,13 @@
           <catRef target="#tag.comics"/>
           <series><title>Jughead</title></series>
           <date type="added" when="2019-11-16"/>
+        </bibl>
+        <bibl>
+          <author>Zemon Davis, Natalie</author>.
+          <title>Fiction in the Archives: Pardon Tales and Their Tellers in 
+            Sixteenth-century France</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-05-30"/>
         </bibl>
       </listBibl>
     </body>

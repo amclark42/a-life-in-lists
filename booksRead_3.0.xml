@@ -77,6 +77,95 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="mcguire.s.cometumblingdown">
+            <monogr>
+              <title>Come Tumbling Down</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="voice actor"/>
+                <persName ref="a:mcguire.s"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.audiobook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-02-15"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Macmillan Audio</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Wayward Children</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="purcell.a.sordidpast">
+            <monogr>
+              <title>Sordid Past</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <persName ref="a:purcell.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="contributor"/>
+                <persName ref="a:edery.t"/>
+                <persName ref="a:bellwood.l"/>
+                <persName ref="a:anderjak"/>
+                <persName ref="a:moulton.h"/>
+                <persName ref="a:withatouchofsin"/>
+                <persName ref="a:jordan.j"/>
+                <persName ref="a:heikkilä.o"/>
+                <persName ref="a:woodcock.r"/>
+                <persName ref="a:weaver.ek"/>
+                <persName ref="a:seaton.k"/>
+                <persName ref="a:mcseveney.l"/>
+                <persName ref="a:henderso.e"/>
+                <persName ref="a:dapperpunch"/>
+                <persName ref="a:l.m"/>
+              </respStmt>
+              <respStmt>
+                <resp n="cover designer"/>
+                <persName ref="a:ota.y"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.erotica"/>
+                <catRef target="#tag.kickstart" when="2020-12-04"/>
+                <catRef target="#tag.owned" from="2022-05-16"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Smut Peddler Presents</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="novik.n.lastgraduate">
+            <monogr>
+              <title>The Last Graduate</title>
+              <author>
+                <persName ref="a:novik.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2022-05-26"/>
+                <date type="added" when="2021-04-12"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Penguin Random House</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Scholomance</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="huff.t.secondsummoning">
             <monogr>
               <title>The Second Summoning</title>
@@ -4443,7 +4532,7 @@
               </respStmt>
               <respStmt>
                 <resp n="contributor"/>
-                <persName ref="a:anderjack"/>
+                <persName ref="a:anderjak"/>
                 <persName ref="a:koch.a"/>
                 <persName ref="a:delliqua.b"/>
                 <persName ref="a:hicks.fe"/>
