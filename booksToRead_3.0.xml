@@ -556,7 +556,7 @@
           <title>Evolution, Me &amp; Other Freaks of Nature</title>.
         </bibl>
         <bibl>
-          <author ref="brennan.m">Brennan, Marie</author>.
+          <author ref="a:brennan.m">Brennan, Marie</author>.
           <title>The Tropic of Serpents</title>.
           <series><title>The Memoirs of Lady Trent</title></series>
           <date type="added" when="2019-06-08"/>
@@ -1545,7 +1545,7 @@
           <author ref="a:fraction.m">Fraction, Matt</author> and
           <respStmt>
             <resp n="artist"/>
-            <persName ref="zdarsky.c">Chip Zdarsky</persName>
+            <persName ref="a:zdarsky.c">Chip Zdarsky</persName>
           </respStmt>.
           <title>Sex Criminals Vol. 5: Five-Fingered Discount</title>.
           <catRef target="#tag.comics"/>
@@ -2016,21 +2016,6 @@
           <title>White Awake: An Honest Look at What It Means to Be White</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
-        </bibl>
-        <bibl>
-          <author>Hirsh, Ananth</author> and
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="ota.y">Yuko Ota</persName>
-          </respStmt>.
-          <title>Our Cats Are More Famous Than Us: A Johnny Wander Collection</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned-digital" from="2022-02-24"/>
-          <date type="added" when="2022-02-27"/>
-          <series><title>Johnny Wander</title></series>
         </bibl>
         <bibl>
           <author ref="a:hobb.r">Hobb, Robin</author>.
@@ -2719,10 +2704,16 @@
           <date type="added" when="2021-03-12"/>
         </bibl>
         <bibl>
-          <author ref="liu.k">Liu, Ken</author>
+          <author ref="a:liu.k">Liu, Ken</author>
           <title>The Grace of Kings</title>
           <series><title>The Dandelion Dynasty</title></series>
           <date type="added" when="2018-01-13"/>
+        </bibl>
+        <bibl>
+          <author>Lo, Malinda</author>.
+          <title>Ash</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-06-10"/>
         </bibl>
         <bibl>
           <author>Lo, Malinda</author>.
@@ -2882,7 +2873,7 @@
           <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
-          <author ref="mcelroy.c">McElroy, Clint</author> and
+          <author ref="a:mcelroy.c">McElroy, Clint</author> and
           <respStmt>
             <resp n="artist"/>
             <persName ref="a:pietsch.c">Carey Pietsch</persName>
@@ -2898,12 +2889,6 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2014-09-30"/>
-        </bibl>
-        <bibl>
-          <author ref="a:mcguire.s">McGuire, Seanan</author>.
-          <title>Come Tumbling Down</title>.
-          <series><title>Wayward Children</title></series>
-          <date type="added" when="2020-02-15"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.
@@ -3156,6 +3141,11 @@
           <title>Wordslut: A Feminist Guide to Taking Back the English Language</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-05-11"/>
+        </bibl>
+        <bibl>
+          <author>Moon, Elizabeth</author>.
+          <title>The Deed of Paksenarrion</title>.
+          <date type="added" when="2022-06-10"/>
         </bibl>
         <bibl>
           <author ref="a:moore.l">Moore, Lorrie</author>.
@@ -3427,12 +3417,6 @@
           <author ref="a:novik.n">Novik, Naomi</author>.
           <title>Crucible of Gold</title>.
           <series><title>Temeraire</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:novik.n">Novik, Naomi</author>.
-          <title>The Last Graduate</title>.
-          <series><title>The Scholomance</title></series>
-          <date type="added" when="2021-04-12"/>
         </bibl>
         <bibl>
           <author ref="a:novik.n">Novik, Naomi</author>.
@@ -4778,7 +4762,7 @@
           <date type="added" when="2020-05-28"/>
         </bibl>
         <bibl>
-          <author ref="wood.b">Wood, Brian</author>.
+          <author ref="a:wood.b">Wood, Brian</author>.
           <title>The Massive Vol. 2: Subcontinental</title>.
           <catRef target="#tag.comics"/>
           <series><title>The Massive</title></series>

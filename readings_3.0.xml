@@ -40,7 +40,17 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2022-05-28">
+        <event from="2022-06-01">
+          <p>Read <title ref="b:wong.a.disabilityvisibility">Disability Visibility: First-Person Stories from the 
+            Twenty-First Century</title>.</p>
+        </event>
+        <event when="2022-05-31">
+          <p>Reread <title ref="b:gillman.m.otherside">The Other Side: An Anthology of Queer Romance</title>.</p>
+        </event>
+        <event when="2022-05-30">
+          <p>Read <title ref="b:hirsh.a.ourcatsaremorefamous">Our Cats Are More Famous Than Us</title>.</p>
+        </event>
+        <event from="2022-05-28" to="2022-05-31">
           <p>Read <title ref="b:novik.n.lastgraduate">The Last Graduate</title>.</p>
         </event>
         <event from="2022-05-22" to="2022-05-29">
@@ -56,7 +66,7 @@
         <event from="2022-05-14" to="2022-05-15">
           <p>Read <title ref="b:burgess.r.howtobeace">How to Be Ace: A Memoir of Growing Up Asexual</title>.</p>
         </event>
-        <event from="2022-05-12">
+        <event from="2022-05-12" to="2022-05-31">
           <p>Listened to <title ref="b:mcguire.s.cometumblingdown">Come Tumbling Down</title>.</p>
         </event>
         <event when="2022-04-30">

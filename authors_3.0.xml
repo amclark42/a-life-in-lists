@@ -59,6 +59,14 @@
         </person>-->
         
         
+        <person xml:id="hirsh.a">
+          <persName>
+            <forename>Ananth</forename>
+            <surname>Hirsh</surname>
+          </persName>
+          <persPronouns value="he" evidence="conjecture"/>
+        </person>
+        
         <person xml:id="purcell.a">
           <persName>
             <forename>Andrea</forename>
