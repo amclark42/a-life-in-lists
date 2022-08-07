@@ -59,6 +59,14 @@
         </person>-->
         
         
+        <person xml:id="katzen.m">
+          <persName>
+            <forename>Mollie</forename>
+            <surname>Katzen</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="hirsh.a">
           <persName>
             <forename>Ananth</forename>

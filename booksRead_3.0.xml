@@ -77,6 +77,31 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="katzen.m.soups">
+            <monogr>
+              <title>Mollie Katzen’s Recipes: Soups</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="letterer"/>
+                <resp n="illustrator"/>
+                <persName ref="a:katzen.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.owned" from="2022-07-25"/>
+                <date type="copyright" from="1977" to="2007"/>
+                <date type="publication" when="2007"/>
+                <publisher>
+                  <orgName>Ten Speed Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Mollie Katzen’s Recipes</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="hirsh.a.ourcatsaremorefamous">
             <monogr>
               <title>Our Cats Are More Famous Than Us</title>
@@ -11107,8 +11132,11 @@
                 <catRef target="#tag.outofprint"/>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.queer"/>
+                <date type="copyright" when="1999"/>
                 <date type="first-read" datingPoint="ash:youngadult"/>
-                <publisher/>
+                <publisher>
+                  <orgName>Aspect</orgName>
+                </publisher>
               </imprint>
             </monogr>
           </biblStruct>

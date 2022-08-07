@@ -911,6 +911,15 @@
           <date type="added" when="2021-07-31"/>
         </bibl>
         <bibl>
+          <author>Christensen, Ashley</author> and
+          <author>Kaitlyn Goalen</author>.
+          <title>It’s Always Freezer Season: How to Freeze Like a Chef With 100 
+            Make-Ahead Recipes</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
           <author>Christensen, Inger</author>.
           <respStmt>
             <resp n="translator"/>
@@ -1637,10 +1646,14 @@
           <catRef target="#tag.queer"/>
           <series><title>Spectacle</title></series>
           <date type="added" when="2019-11-16"/>
-          <note>
-            <p><title>Spectacle</title> is a webcomic, and has not yet been 
-              collected into a third volume.</p>
-          </note>
+        </bibl>
+        <bibl>
+          <author>Gerson, Fany</author>.
+          <title>Paletas: Authentic Recipes for Mexican Ice Pops, Shaved Ice &amp; 
+            Aguas Frescas</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-08-07"/>
         </bibl>
         <bibl>
           <author>Gevisser, Mark</author>.
@@ -2314,6 +2327,21 @@
           <title>The Liars’ Club: A Memoir</title>.
         </bibl>
         <bibl>
+          <author ref="a:katzen.m">Katzen, Mollie</author>.
+          <title>The Heart of the Plate: Vegetarian Recipes for a New 
+            Generation</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:katzen.m">Katzen, Mollie</author>.
+          <title>Moosewood Cookbook</title>.
+          <catRef target="#tag.cookbook"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
           <author>Kay, Elizabeth</author>.
           <title>The Divide</title>.
         </bibl>
@@ -2947,6 +2975,36 @@
           <title>The Brightest Fell</title>.
           <series><title>October Daye</title></series>
           <date type="added" when="2018-01-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Night and Silence</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>The Unkindest Tide</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>A Killing Frost</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>When Sorrows Come</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2022-08-07"/>
+        </bibl>
+        <bibl>
+          <author ref="a:mcguire.s">McGuire, Seanan</author>.
+          <title>Be the Serpent</title>.
+          <series><title>October Daye</title></series>
+          <date type="added" when="2022-08-07"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>, and
@@ -4544,6 +4602,16 @@
           <title>The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making</title>.
           <series><title>Fairyland</title></series>
           <date type="added" when="2016-12-28"/>
+        </bibl>
+        <bibl>
+          <author ref="a:valente.cm">Valente, Catherynne M.</author>.
+          <title>Palimpsest</title>.
+          <date type="added" when="2022-06-12"/>
+        </bibl>
+        <bibl>
+          <author ref="a:valente.cm">Valente, Catherynne M.</author>.
+          <title>Space Opera</title>.
+          <date type="added" when="2022-06-12"/>
         </bibl>
         <bibl>
           <author ref="a:valentin.g">Valentine, Genevieve</author>.

@@ -40,7 +40,25 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2022-06-01">
+        <event from="2022-08-03" to="2022-08-05">
+          <p>Read <title ref="b:hearn.l.nightingalefloor">Across the Nightingale Floor</title>.</p>
+        </event>
+        <event when="2022-07-25">
+          <p>Read <title ref="b:katzen.m.soups">Mollie Katzen’s Recipes: Soups</title>.</p>
+        </event>
+        <event from="2022-07-09" to="2022-07-10">
+          <p>Reread <title ref="b:novik.n.blackpowderwar">Black Powder War</title>.</p>
+        </event>
+        <event from="2022-07-03" to="2022-07-08">
+          <p>Reread <title ref="b:novik.n.thronejade">Throne of Jade</title>.</p>
+        </event>
+        <event when="2022-07-03">
+          <p>Reread <title ref="b:novik.n.hismajestysdragon">His Majesty’s Dragon</title>.</p>
+        </event>
+        <event from="2022-06-19" to="2022-08-02">
+          <p>Reread <title ref="b:kerr.p.wildswans">The Wild Swans</title>.</p>
+        </event>
+        <event from="2022-06-01" to="2022-06-19">
           <p>Read <title ref="b:wong.a.disabilityvisibility">Disability Visibility: First-Person Stories from the 
             Twenty-First Century</title>.</p>
         </event>
