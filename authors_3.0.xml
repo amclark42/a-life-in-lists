@@ -59,6 +59,20 @@
         </person>-->
         
         
+        <person xml:id="hayward.d">
+          <persName>
+            <forename>Dana</forename>
+            <surname>Hayward</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="gerard.a">
+          <persName>
+            <forename>Anthony</forename>
+            <surname>Gerard</surname>
+          </persName>
+        </person>
+        
         <person xml:id="katzen.m">
           <persName>
             <forename>Mollie</forename>
@@ -3999,7 +4013,7 @@
             <forename>Melanie</forename>
             <surname>Gillman</surname>
           </persName>
-          <gender value="non-binary" evidence="self-identification"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="handwerker.km">

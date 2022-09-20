@@ -40,6 +40,27 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event when="2022-09-11">
+          <p>Reread <title ref="b:clamp.xxxholic.5">xxxHolic Vol. 5</title>.</p>
+        </event>
+        <event when="2022-09-09">
+          <p>Reread <title ref="b:clamp.xxxholic.4">xxxHolic Vol. 4</title>.</p>
+        </event>
+        <event when="2022-09-04">
+          <p>Reread <title ref="b:clamp.xxxholic.3">xxxHolic Vol. 3</title>.</p>
+        </event>
+        <event from="2022-09-01" to="2022-09-02">
+          <p>Reread <title ref="b:clamp.xxxholic.2">xxxHolic Vol. 2</title>.</p>
+        </event>
+        <event when="2022-09-01">
+          <p>Reread <title ref="b:clamp.xxxholic.1">xxxHolic Vol. 1</title>.</p>
+        </event>
+        <event from="2022-08-24" to="2022-09-11">
+          <p>Reread <title ref="b:bergman.sb.specialtopicshuman">Special Topics in Being a Human</title>.</p>
+        </event>
+        <event from="2022-08-07">
+          <p>Read <title ref="b:bird.j.sorted">Sorted: Growing Up, Coming Out, and Finding My Place</title>.</p>
+        </event>
         <event from="2022-08-03" to="2022-08-05">
           <p>Read <title ref="b:hearn.l.nightingalefloor">Across the Nightingale Floor</title>.</p>
         </event>

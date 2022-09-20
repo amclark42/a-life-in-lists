@@ -77,6 +77,123 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="clamp.xxxholic.4">
+            <monogr>
+              <title>xxxHolic Vol. 4</title>
+              <author>
+                <orgName ref="a:clamp"/>
+              </author>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hayward.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2004"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>xxxHolic</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="clamp.xxxholic.3">
+            <monogr>
+              <title>xxxHolic Vol. 3</title>
+              <author>
+                <orgName ref="a:clamp"/>
+              </author>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hayward.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2004"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>xxxHolic</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="clamp.xxxholic.2">
+            <monogr>
+              <title>xxxHolic Vol. 2</title>
+              <author>
+                <orgName ref="a:clamp"/>
+              </author>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hayward.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2004"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>xxxHolic</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="clamp.xxxholic.1">
+            <monogr>
+              <title>xxxHolic Vol. 1</title>
+              <author>
+                <orgName ref="a:clamp"/>
+              </author>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="translator"/>
+                <persName ref="a:gerard.a"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hayward.d"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.owned" from-custom="ash:bachelor"/>
+                <catRef target="#tag.comics"/>
+                <date type="copyright" when="2004"/>
+                <date type="first-publication" when="2003"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>xxxHolic</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="katzen.m.soups">
             <monogr>
               <title>Mollie Katzen’s Recipes: Soups</title>
@@ -272,6 +389,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2022-05-14"/>
+                <date type="added" when-custom="ash:bachelor"/>
                 <date type="copyright" when="2002"/>
                 <publisher>
                   <orgName>Riverhead Books</orgName>
@@ -13699,18 +13817,30 @@
 
           <biblStruct xml:id="clamp.xxxholic.5">
             <monogr>
-              <title>XxxHolic Vol. 5</title>
+              <title>xxxHolic Vol. 5</title>
               <author>
                 <orgName ref="a:clamp"/>
               </author>
+              <respStmt>
+                <resp n="adapter"/>
+                <resp n="translator"/>
+                <persName ref="a:flanagan.w"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:hayward.d"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:bachelor"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <date type="copyright" when="2005"/>
+                <publisher>
+                  <orgName>Ballantine Books</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>
-              <title>XxxHolic</title>
+              <title>xxxHolic</title>
             </series>
           </biblStruct>
 

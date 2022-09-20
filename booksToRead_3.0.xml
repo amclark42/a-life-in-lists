@@ -1684,6 +1684,17 @@
           <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:gillman.m">Gillman, Melanie</persName>
+          </respStmt>.
+          <title>Other Ever Afters: New Queer Fairy Tales</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-09-16"/>
+        </bibl>
+        <bibl>
           <author>Gladman, Renee</author>.
           <title>Event Factory</title>.
           <date type="added" when="2017-06-29"/>
@@ -3857,6 +3868,11 @@
           <date type="added" when="2017-08-20"/>
         </bibl>
         <bibl>
+          <author>Racculia, Kate</author>.
+          <title>Tuesday Mooney Talks to Ghosts</title>.
+          <date type="added" when="2022-09-04"/>
+        </bibl>
+        <bibl>
           <author>Radzikowska, Milena</author> and
           <author>Stan Ruecker</author>.
           <title>Design and the Digital Humanities: A Handbook for Mutual 
@@ -3951,12 +3967,6 @@
           <author>Roy, Lucinda</author>.
           <title>The Freedom Race</title>.
           <date type="added" when="2021-06-22"/>
-        </bibl>
-        <bibl>
-          <author ref="a:rubinstein.g">Rubinstein, Gillian</author>.
-          <title>Tales of the Otori: Across the Nightingale Floor</title>.
-          <series><title>Tales of the Otori</title></series>
-          <catRef target="#tag.owned" corresp="b:hearn.l.nightingalefloor"/>
         </bibl>
         <bibl>
           <author>Ruby, Laura</author>.

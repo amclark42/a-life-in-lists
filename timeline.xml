@@ -28,32 +28,32 @@
         <head>Personal Timeline</head>
         
         <event xml:id="developer" from="2014"
-          where="#ma.greaterboston">
+           where="#ma.greaterboston">
           <label>Developer</label>
         </event>
         
         <event xml:id="freelancer" from="2012" to="2014"
-          where="#il.chicago">
+           where="#il.chicago">
           <label>Freelancer</label>
         </event>
         
         <event xml:id="master" from="2010" to="2012" 
-          where="#il.urbanachampaign">
+           where="#il.urbanachampaign">
           <label>Master</label>
         </event>
         
         <event xml:id="bachelor" from="2006" to="2010" 
-          where="#ia.desmoines">
+           where="#ia.desmoines">
           <label>Bachelor</label>
         </event>
         
         <event xml:id="youngadult" from="2001" to="2006" 
-          where="#il.chicago">
+           where="#il.chicago">
           <label>Young Adult</label>
         </event>
         
         <event xml:id="child" to="2001"
-          where="#il.chicago">
+           where="#il.chicago">
           <label>Child</label>
         </event>
       </listEvent>
