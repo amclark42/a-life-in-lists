@@ -50,12 +50,18 @@
       <category xml:id="tag.outofprint">
         <catDesc>out of print</catDesc>
       </category>
-      <category xml:id="tag.owned">
-        <catDesc>owned</catDesc>
-      </category>
-      <category xml:id="tag.owned-digital">
-        <catDesc>owned in ebook format</catDesc>
-      </category>
+      <taxonomy>
+        <desc>Characteristics about an owned copy.</desc>
+        <category xml:id="tag.owned">
+          <catDesc>owned</catDesc>
+        </category>
+        <category xml:id="tag.owned.digital">
+          <catDesc>owned in ebook format</catDesc>
+        </category>
+        <category xml:id="tag.owned.signed">
+          <catDesc>owned a signed copy</catDesc>
+        </category>
+      </taxonomy>
       <category xml:id="tag.poetry">
         <catDesc>poetry</catDesc>
       </category>

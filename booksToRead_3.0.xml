@@ -20,6 +20,9 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-10-02">Added "owned.signed" tag for signed (physical) 
+          copies of books. Made a taxonomy for "owned" characteristics, and changed 
+          "owned-digital" to "owned.digital".</change>
         <change when="2022-02-27">Added "owned-digital" tag.</change>
         <change when="2022-01-29">Updated my name.</change>
         <change when="2020-03-07">Converted <gi>trait</gi> to <gi>catRef</gi>. My 
@@ -480,14 +483,6 @@
           <date type="added" when="2019-08-03"/>
         </bibl>
         <bibl>
-          <author>Bird, Jackson</author>.
-          <title>Sorted: Growing Up, Coming Out, and Finding My Place</title>.
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:bird.j.sorted"/>
-          <date type="added" when="2019-12-08"/>
-        </bibl>
-        <bibl>
           <author>Blake, Katherine</author>.
           <title>The Interior Life</title>.
           <date type="added" when="2017-06-29"/>
@@ -508,7 +503,7 @@
           <author>Blue, Violet</author>.
           <title>A Smart Girl’s Guide to Privacy</title>.
           <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned-digital" from-custom="ash:developer"/>
+          <catRef target="#tag.owned.digital" from-custom="ash:developer"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2022-02-27"/>
         </bibl>
@@ -1590,7 +1585,7 @@
           <author>Jules Zuckerberg</author>.
           <title>A Quick &amp; Easy Guide to Queer &amp; Trans Identities</title>.
           <catRef target="#tag.comics"/>
-          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <catRef target="#tag.owned.digital" from="2022-02-24"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2022-02-27"/>
           <series><title>Quick &amp; Easy Guides</title></series>
@@ -1684,17 +1679,6 @@
           <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName ref="a:gillman.m">Gillman, Melanie</persName>
-          </respStmt>.
-          <title>Other Ever Afters: New Queer Fairy Tales</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2022-09-16"/>
-        </bibl>
-        <bibl>
           <author>Gladman, Renee</author>.
           <title>Event Factory</title>.
           <date type="added" when="2017-06-29"/>
@@ -1770,7 +1754,7 @@
           </respStmt>.
           <title>Costume Quest: Invasion of the Candy Snatchers</title>.
           <catRef target="#tag.comics"/>
-          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <catRef target="#tag.owned.digital" from="2022-02-24"/>
           <date type="added" when="2022-02-27"/>
           <series><title>Costume Quest</title></series>
         </bibl>
@@ -2138,6 +2122,12 @@
           <author>Hoyt, Sarah</author>.
           <title>Heart of Light</title>.
           <series><title>Magical British Empire</title></series>
+        </bibl>
+        <bibl>
+          <author>Huang, S. L.</author>
+          <title>The Water Outlaws</title>.
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-09-20"/>
         </bibl>
         <bibl>
           <author ref="a:huff.t">Huff, Tanya</author>.
@@ -3488,12 +3478,6 @@
           <series><title>Temeraire</title></series>
         </bibl>
         <bibl>
-          <author ref="a:novik.n">Novik, Naomi</author>.
-          <title>The Golden Enclaves</title>.
-          <series><title>The Scholomance</title></series>
-          <date type="added" when="2022-05-30"/>
-        </bibl>
-        <bibl>
           <author>Obama, Barack</author>.
           <title>A Promised Land</title>.
           <catRef target="#tag.memoir"/>
@@ -3998,7 +3982,7 @@
           <title>Stumptown Vol. 1: The Case of the Girl Who Took Her Shampoo (But 
             Left Her Mini)</title>.
           <catRef target="#tag.comics"/>
-          <catRef target="#tag.owned-digital" from="2022-02-24"/>
+          <catRef target="#tag.owned.digital" from="2022-02-24"/>
           <date type="added" when="2022-02-27"/>
           <series><title>Stumptown</title></series>
         </bibl>
@@ -4758,7 +4742,7 @@
           <author>Wells, Martha</author>.
           <title>All Systems Red</title>.
           <series><title>The Murderbot Diaries</title></series>
-          <catRef target="#tag.owned-digital" from="2022-02-16"/>
+          <catRef target="#tag.owned.digital" from="2022-02-16"/>
           <date type="added" when="2022-02-16"/>
         </bibl>
         <bibl>
@@ -4900,17 +4884,11 @@
           <date type="added" when="2022-04-04"/>
         </bibl>
         <bibl>
-          <author>Zabarsky, Jessi</author>.
+          <author ref="a:zabarsky.j">Zabarsky, Jessi</author>.
           <title>Coming Back</title>.
           <catRef target="#tag.comics"/>
           <catRef target="#tag.queer"/>
-          <date type="added" when="2022-02-12"/>
-        </bibl>
-        <bibl>
-          <author>Zabarsky, Jessi</author>.
-          <title>Witchlight</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.queer"/>
+          <catRef target="#tag.owned" corresp="b:zabarsky.j.comingback"/>
           <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/amclark42/perspectography/main/schema/perspectography.rng" 
    type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../DIY_CETEIcean/assets/preloader.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -458,7 +459,7 @@
             profession; less common is the sincere work needed to make it true.</p>
         </quote>
         <bibl>
-          <author>Krueger, Stephen G.</author>,
+          <author>Stephen G. Krueger</author>,
           <title>Supporting Trans People in Libraries</title>
         </bibl>
       </cit>
@@ -515,7 +516,7 @@
         </quote>
         <bibl>
           <author>Naomi Novik</author>,
-          <title>A Deady Education</title>
+          <title>A Deadly Education</title>
         </bibl>
       </cit>
       

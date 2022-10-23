@@ -21,6 +21,9 @@
     <include xmlns="http://www.w3.org/2001/XInclude" href="boilerplate/encodingDesc.xml"/>
     <revisionDesc>
       <listChange>
+        <change when="2022-10-02">Added "owned.signed" tag for signed (physical) 
+          copies of books. Made a taxonomy of "owned" characteristics, and changed 
+          "owned-digital" to "owned.digital".</change>
         <change when="2022-02-27">Added "owned-digital" tag.</change>
         <change when="2022-01-29">Updated my name.</change>
         <change when="2021-10-02">Added "ebook" tag.</change>
@@ -76,6 +79,121 @@
           
           <!-- Break lines at column 100. -->
           
+          
+          <biblStruct xml:id="mccoola.m.slip">
+            <monogr>
+              <title>Slip</title>
+              <author>
+                <persName ref="a:mccoola.m"/>
+              </author>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:pandya.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2022-10-22"/>
+                <catRef target="#tag.owned.signed" from="2022-10-22"/>
+                <date type="copyright" when="2022"/>
+                <publisher>
+                  <orgName>Algonquin</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="zabarsky.j.comingback">
+            <monogr>
+              <title>Coming Back</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:zabarsky.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2022-10-22"/>
+                <catRef target="#tag.owned.signed" from="2022-10-22"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-02-12"/>
+                <date type="copyright" when="2022"/>
+                <publisher>
+                  <orgName>RH Graphic</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="zabarsky.j.witchlight">
+            <monogr>
+              <title>Witchlight</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:zabarsky.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:chouteau.g"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2022-10-22"/>
+                <catRef target="#tag.owned.signed" from="2022-10-22"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-02-12"/>
+                <date type="copyright" from="2016" to="2020"/>
+                <publisher>
+                  <orgName>RH Graphic</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="gillman.m.othereverafters">
+            <monogr>
+              <title>Other Ever Afters</title>
+              <title type="sub">New Queer Fairy Tales</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:gillman.m"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2022-10-22"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-09-16"/>
+                <date type="copyright" when="2022"/>
+                <publisher>
+                  <orgName>RH Graphic</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="novik.n.goldenenclaves">
+            <monogr>
+              <title>The Golden Enclaves</title>
+              <author>
+                <persName ref="a:novik.n"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2022-09-29"/>
+                <catRef target="#tag.owned.signed" from="2022-09-29"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-05-30"/>
+                <date type="copyright" when="2022"/>
+                <publisher>
+                  <orgName>Del Rey</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Scholomance</title>
+            </series>
+          </biblStruct>
           
           <biblStruct xml:id="clamp.xxxholic.4">
             <monogr>
@@ -239,7 +357,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <date type="added" when="2022-02-27"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
@@ -329,6 +447,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2022-05-26"/>
+                <catRef target="#tag.owned.signed" from="2022-09-29"/>
                 <date type="added" when="2021-04-12"/>
                 <date type="copyright" when="2021"/>
                 <publisher>
@@ -759,7 +878,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2016"/>
                 <publisher>
@@ -783,7 +902,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <date type="copyright" when="2020"/>
                 <publisher>
                   <orgName>Oni-Lion Forge Publishing Group</orgName>
@@ -819,7 +938,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.cookbook"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
                 <date type="copyright" when="2012"/>
@@ -845,7 +964,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <catRef target="#tag.queer"/>
                 <date type="copyright" when="2017"/>
                 <publisher>
@@ -942,7 +1061,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.nonfiction"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.reference"/>
                 <date type="added" when="2018-05-20"/>
@@ -1249,6 +1368,7 @@
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2021-12-28"/>
                 <catRef target="#tag.queer"/>
+                <date type="added" when="2019-12-08"/>
                 <date type="copyright" when="2019"/>
                 <publisher>
                   <orgName>Tiller Press</orgName>
@@ -2440,7 +2560,7 @@
               <imprint>
                 <catRef target="#tag.kickstart" when="2020-02-26"/>
                 <catRef target="#tag.owned" from="2020-10-06"/>
-                <catRef target="#tag.owned-digital"/>
+                <catRef target="#tag.owned.digital"/>
                 <catRef target="#tag.rpg"/>
                 <catRef target="#tag.zine"/>
                 <date type="first-publication" when="2020"/>
@@ -3036,7 +3156,7 @@
               <imprint>
                 <catRef target="#tag.ebook"/>
                 <catRef target="#tag.comics"/>
-                <catRef target="#tag.owned-digital" from-custom="ash:developer"/>
+                <catRef target="#tag.owned.digital" from-custom="ash:developer"/>
                 <date type="copyright" when="2011"/>
                 <publisher>
                   <orgName>Top Shelf Productions</orgName>
@@ -4997,7 +5117,7 @@
               <imprint>
                 <catRef target="#tag.kickstart" when="2018-06-17"/>
                 <catRef target="#tag.owned" from="2019-03-15"/>
-                <catRef target="#tag.owned-digital"/>
+                <catRef target="#tag.owned.digital"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.rpg"/>
                 <date type="first-publication" when="2019"/>
@@ -6569,6 +6689,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from="2018-02-17"/>
+                <catRef target="#tag.owned.signed" from="2018-02-17"/>
                 <date type="copyright" when="1992"/>
                 <date type="first-read" when-custom="ash:child"/>
                 <publisher>
@@ -8153,7 +8274,7 @@
                 <catRef target="#tag.kickstarted" when="2016-12-01"/>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from="2017-07-21"/>
-                <catRef target="#tag.owned-digital"/>
+                <catRef target="#tag.owned.digital"/>
                 <catRef target="#tag.queer"/>
                 <catRef target="#tag.rpg"/>
                 <date type="publication" when="2017"/>
@@ -14282,6 +14403,7 @@
               </author>
               <imprint>
                 <catRef target="#tag.owned" from-custom="ash:youngadult"/>
+                <catRef target="#tag.owned.signed" from="2018"/>
                 <date type="copyright" when="1996"/>
                 <date type="first-read" datingPoint="ash:child"/>
                 <publisher>
@@ -23656,7 +23778,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.omnibus"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <date type="copyright" from="2001" to="2007"/>
                 <date type="edition" when="2007"/>
                 <publisher>Oni Press</publisher>
@@ -24392,7 +24514,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.omnibus"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <date type="copyright" from="2001" to="2008"/>
                 <date type="edition" when="2008"/>
                 <publisher>Oni Press</publisher>
@@ -24500,7 +24622,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.omnibus"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <date type="copyright" from="2001" to="2008"/>
                 <date type="edition" when="2008"/>
                 <publisher>Oni Press</publisher>
@@ -24624,7 +24746,7 @@
               <imprint>
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.omnibus"/>
-                <catRef target="#tag.owned-digital" from="2022-02-24"/>
+                <catRef target="#tag.owned.digital" from="2022-02-24"/>
                 <publisher>Oni Press</publisher>
               </imprint>
             </monogr>
@@ -25782,7 +25904,7 @@
                 <persName ref="a:mcguire.s"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned" from="2018-02-17"/>
+                <catRef target="#tag.owned" from="2018-02-17"/><!-- check if signed -->
                 <date type="copyright" when="2011"/>
                 <publisher>DAW Books</publisher>
               </imprint>
@@ -26876,7 +26998,7 @@
               <imprint>
                 <catRef target="#tag.nonfiction"/>
                 <catRef target="#tag.owned" from-custom="ash:developer"/>
-                <catRef target="#tag.owned-digital"/>
+                <catRef target="#tag.owned.digital"/>
                 <catRef target="#tag.rpg"/>
                 <date type="copyright" when="2013"/>
                 <publisher>

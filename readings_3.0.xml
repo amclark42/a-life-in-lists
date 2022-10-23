@@ -40,6 +40,18 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-10-22" to="2022-10-23">
+          <p>Read <title ref="b:zabarsky.j.witchlight">Witchlight</title>.</p>
+        </event>
+        <event when="2022-10-22">
+          <p>Read <title ref="b:gillman.m.othereverafters">Other Ever Afters</title>.</p>
+        </event>
+        <event when="2022-10-20">
+          <p>Reread <title ref="b:yolen.j.dragonsblood">Dragon’s Blood</title>.</p>
+        </event>
+        <event from="2022-09-29" to="2022-09-30">
+          <p>Read <title ref="b:novik.n.goldenenclaves">The Golden Enclaves</title>.</p>
+        </event>
         <event when="2022-09-11">
           <p>Reread <title ref="b:clamp.xxxholic.5">xxxHolic Vol. 5</title>.</p>
         </event>
