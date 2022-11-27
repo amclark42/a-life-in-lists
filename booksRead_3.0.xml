@@ -80,6 +80,55 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="kwan.k.crazyrichasians">
+            <monogr>
+              <title>Crazy Rich Asians</title>
+              <author>
+                <persName ref="a:kwan.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned" from="2022-10-23"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Doubleday</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Crazy Rich Asians</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="vernon.u.diggerunearthed">
+            <monogr>
+              <title>Digger Unearthed</title>
+              <title type="sub">The Complete Tenth Anniversary Collection</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:vernon.u"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:rothfuss.p"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstarted" when="2022-06-22"/>
+                <catRef target="#tag.omnibus"/>
+                <catRef target="#tag.owned" from="2022-11-18"/>
+                <catRef target="#tag.owned.signed" from="2022-11-18"/>
+                <date type="publication" when="2022-11"/>
+                <publisher>
+                  <orgName>Underthing Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Digger</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="mccoola.m.slip">
             <monogr>
               <title>Slip</title>
@@ -95,6 +144,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.owned" from="2022-10-22"/>
                 <catRef target="#tag.owned.signed" from="2022-10-22"/>
+                <catRef target="#tag.queer"/>
                 <date type="copyright" when="2022"/>
                 <publisher>
                   <orgName>Algonquin</orgName>
@@ -507,7 +557,7 @@
                 <persName ref="a:hearn.l"/>
               </author>
               <imprint>
-                <catRef target="#tag.owned" from="2022-05-14"/>
+                <catRef target="#tag.owned" from="2022-05-14" to="2022-10-29"/>
                 <date type="added" when-custom="ash:bachelor"/>
                 <date type="copyright" when="2002"/>
                 <publisher>
@@ -1366,7 +1416,7 @@
               <imprint>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
-                <catRef target="#tag.owned" from="2021-12-28"/>
+                <catRef target="#tag.owned" from="2021-12-28" to="2022-10-29"/>
                 <catRef target="#tag.queer"/>
                 <date type="added" when="2019-12-08"/>
                 <date type="copyright" when="2019"/>

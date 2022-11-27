@@ -2584,6 +2584,15 @@
           <title>Thomas the Rhymer</title>.
         </bibl>
         <bibl>
+          <author ref="a:kwan.k">Kwan, Kevin</author>.
+          <title>Crazy Rich Asians</title>.
+          <catRef target="#tag.owned" corresp="b:kwan.k.crazyrichasians"/>
+          <series>
+            <title>Crazy Rich Asians</title>
+          </series>
+          <date type="added" when="2022-11-27"/>
+        </bibl>
+        <bibl>
           <author>Lakoff, George</author>.
           <title>The All New Don’t Think of an Elephant!: Know Your Values and Frame 
             the Debate</title>.

@@ -6,7 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>List of Authors and Contributors</title>
-        <editor><persName>Ash Clark</persName></editor>
+        <editor>
+          <persName>Ash Clark</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <authority>Ash Clark</authority>
@@ -58,6 +60,13 @@
           <persPronouns value="" evidence=""/>
         </person>-->
         
+        
+        <person xml:id="kwan.k">
+          <persName>
+            <forename>Kevin</forename>
+            <surname>Kwan</surname>
+          </persName>
+        </person>
         
         <person xml:id="mccoola.m">
           <persName>
@@ -693,7 +702,7 @@
             <forename>Stephen G.</forename>
             <surname>Kreuger</surname>
           </persName>
-          <persPronouns value="he they" evidence="selfIdentification"/>
+          <persPronouns value="ey" evidence="selfIdentification"/>
         </person>
         
         <person xml:id="mided.s">
@@ -4764,7 +4773,7 @@
               <surname>Kingfisher</surname>
             </persName>
           </persona>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="alder.a">
@@ -5325,10 +5334,10 @@
 
         <person xml:id="stevenso.n">
           <persName>
-            <forename>Noelle</forename>
+            <forename>N. D.</forename>
             <surname>Stevenson</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="ellis.g">
@@ -5593,6 +5602,7 @@
             <surname>Leth</surname>
           </persName>
           <gender value="non-binary" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="anderson.jl">
@@ -5620,7 +5630,6 @@
             <forename>Megan Rose</forename>
             <surname>Gedris</surname>
           </persName>
-          <gender value="non-binary" evidence="conjecture"/>
           <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
@@ -5710,6 +5719,7 @@
             <forename>Jess</forename>
             <surname>Fink</surname>
           </persName>
+          <persPronouns value="she they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="mcdanger.k">
@@ -5817,6 +5827,7 @@
             <forename>Erika</forename>
             <surname>Moen</surname>
           </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="kingsley.r">
@@ -8175,7 +8186,7 @@
             <forename>Ryan</forename>
             <surname>North</surname>
           </persName>
-          <gender value="male" evidence="conjecture"/>
+          <persPronouns value="he" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="malki.d">
@@ -8641,7 +8652,7 @@
             <forename>Shaenon K.</forename>
             <surname>Garrity</surname>
           </persName>
-          <gender value="female" evidence="self-identification"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="boothby.i">
@@ -8751,7 +8762,7 @@
             <forename>N. K.</forename>
             <surname>Jemisin</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="takahash.r">
@@ -8935,7 +8946,7 @@
             <forename>David M.</forename>
             <surname>Willis</surname>
           </persName>
-          <persPronouns value="him" evidence="selfIdentification"/>
+          <persPronouns value="he they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="walker.b">
@@ -9119,7 +9130,7 @@
             <forename>Carla Speed</forename>
             <surname>McNeil</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="hopkinso.n">
@@ -10093,7 +10104,7 @@
             <forename>Mary Robinette</forename>
             <surname>Kowal</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="estrada.r">
@@ -10278,7 +10289,7 @@
             <forename>Kate</forename>
             <surname>Ashwin</surname>
           </persName>
-          <gender value="female" evidence="conjecture"/>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="olson.p">

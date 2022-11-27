@@ -40,6 +40,18 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-11-18" to="2022-11-26">
+          <p>Read <title ref="b:vernon.u.diggerunearthed">Digger Unearthed</title>.</p>
+        </event>
+        <event from="2022-10-27">
+          <p>Reread <title ref="b:shelley.m.frankenstein">Frankenstein</title>.</p>
+        </event>
+        <event when="2022-10-24">
+          <p>Read <title ref="b:mccoola.m.slip">Slip</title>.</p>
+        </event>
+        <event when="2022-10-23">
+          <p>Read <title ref="b:zabarsky.j.comingback">Coming Back</title>.</p>
+        </event>
         <event from="2022-10-22" to="2022-10-23">
           <p>Read <title ref="b:zabarsky.j.witchlight">Witchlight</title>.</p>
         </event>
@@ -70,7 +82,7 @@
         <event from="2022-08-24" to="2022-09-11">
           <p>Reread <title ref="b:bergman.sb.specialtopicshuman">Special Topics in Being a Human</title>.</p>
         </event>
-        <event from="2022-08-07">
+        <event from="2022-08-07" to="2022-10-19">
           <p>Read <title ref="b:bird.j.sorted">Sorted: Growing Up, Coming Out, and Finding My Place</title>.</p>
         </event>
         <event from="2022-08-03" to="2022-08-05">
