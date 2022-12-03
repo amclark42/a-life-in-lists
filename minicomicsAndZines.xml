@@ -49,6 +49,24 @@
         <listBibl>
           <head>Mini-Comics &amp; Zines</head>
           
+          <!--
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName></persName>
+            </respStmt>
+            <title></title>
+            <date type="" when=""/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from=""/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          -->
+          
           
           <bibl>
             <respStmt>
@@ -83,6 +101,77 @@
             <respStmt>
               <resp n="author"/>
               <resp n="artist"/>
+              <persName>Alexandra Pagán Vélez</persName>
+            </respStmt>
+            <title>DAYDREAM</title>
+            <respStmt>
+              <resp n="art director"/>
+              <resp n="editor"/>
+              <persName>Omar Banuchi</persName>
+            </respStmt>
+            <editor>
+              <persName>Rosaura Rodríguez</persName>
+            </editor>
+            <publisher>
+              <orgName xml:lang="es">Días Cómic</orgName>
+            </publisher>
+            <date type="copyright" when="2022"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Alex Graudins</persName>
+            </respStmt>
+            <title>The Joy of Giving</title>
+            <title type="sub">A Zine of DIY Gifts</title>
+            <date type="copyright" when="2022"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Alex Graudins</persName>
+            </respStmt>
+            <title>Hermit</title>
+            <title type="sub">a D&amp;D comic</title>
+            <date type="created" when="2021"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Alex Graudins</persName>
+            </respStmt>
+            <title>Aro Acing It</title>
+            <title type="sub">a self-discovery comic</title>
+            <date type="first-publication" when="2018-08"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
               <persName ref="a:delliqua.b">Blue Delliquanti</persName>
             </respStmt>
             <title>Stop</title>
@@ -92,6 +181,90 @@
             <catRef target="#tag.owned" from="2017-10"/>
             <series>
               <title>O Human Star</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Cuyler Keating</persName>
+            </respStmt>
+            <title>The Attempt</title>
+            <date type="copyright" when="2020"/>
+            <date type="first-publication" when="2019"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Cuyler Keating</persName>
+            </respStmt>
+            <title>Bleſsed Are Ye Dead</title>
+            <title type="sub">A Guide To the Many Graveyards of New England with the 
+              purpose of expanding knowledge of their value and to catalogue the 
+              stones of those interred therein.</title>
+            <date type="copyright" when="2021"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.reference"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="editor"/>
+              <resp n="illustrator"/>
+              <persName>Cuyler Keating</persName>
+            </respStmt>
+            <title>Pocket Herball</title>
+            <title type="sub">Whiche giveth knowledge and understandyng of all 
+              manner of herbes and there gracyous vertues</title>
+            <date type="publication" when="2020"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Hexephre</persName>
+            </respStmt>
+            <title>Gender (&amp;) Identity</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>Gender (&amp;) Identity</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Hexephre</persName>
+            </respStmt>
+            <title>Gender (&amp;) Identity 2: The ReGendering</title>
+            <date type="publication" when="2022"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>Gender (&amp;) Identity</title>
             </series>
           </bibl>
           
@@ -170,6 +343,40 @@
             <catRef target="#tag.comics"/>
             <catRef target="#tag.minicomic"/>
             <catRef target="#tag.owned" from="2017-10"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Jesse Lambert</persName>
+            </respStmt>
+            <title>COVID Dawn</title>
+            <publisher>
+              <orgName>4th Wall Comix</orgName>
+            </publisher>
+            <date type="copyright" when="2020"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Jesse Lambert</persName>
+            </respStmt>
+            <title>Narnia in Orlando</title>
+            <publisher>
+              <orgName>4th Wall Comix</orgName>
+            </publisher>
+            <date type="copyright" when="2020"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
           </bibl>
           
           <bibl>
@@ -265,6 +472,172 @@
             <respStmt>
               <resp n="author"/>
               <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>Dancing With Pride</title>
+            <date type="first-publication" when="2018"/>
+            <publisher>
+              <orgName>The Nib</orgName>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>Evacuations</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>KPop in the Time of COVID</title>
+            <date type="first-publication" when="2021-12"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>The List</title>
+            <date type="first-publication" when="2014"/>
+            <publisher>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>Long Live the Monarch</title>
+            <date type="first-publication" when="2018"/>
+            <publisher>
+              <orgName>The Nib</orgName>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="illustrator"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>The Nonbinary Bunny</title>
+            <publisher>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>Three Moments</title>
+            <publisher>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <author>
+              <persName>Alexandra Genetti</persName>
+            </author>
+            <title>The Sun</title>
+            <title type="sub">Celebrating the Midwinter Birth of the Sun</title>
+            <date type="first-publication" when="2018"/>
+            <publisher>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>The List</title>
+            <date type="first-publication" when="2014"/>
+            <publisher>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.owned.signed" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
               <persName>Mar Julia</persName>
             </respStmt>
             <title>Low Tide</title>
@@ -315,6 +688,42 @@
           </bibl>
           
           <bibl>
+            <author>
+              <persName>Mike Thompson</persName>
+            </author>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName ref="a:kobabe.m">Maia Kobabe</persName>
+            </respStmt>
+            <title>Dr Barry: The Pioneering Surgeon Who Defied Victorian Gender 
+              Norms</title>
+            <date type="first-publication" when="2019"/>
+            <publisher>
+              <orgName>The Nib</orgName>
+              <orgName>Redgoldsparks Press</orgName>
+            </publisher>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Mimi Faulhaber</persName>
+            </respStmt>
+            <title>In the Oak’s Shadow</title>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+          </bibl>
+          
+          <bibl>
             <respStmt>
               <resp n="author"/>
               <resp n="artist"/>
@@ -341,6 +750,88 @@
             <catRef target="#tag.owned" from="2017-10"/>
             <catRef target="#tag.nonfiction"/>
             <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Ravi Teixeira</persName>
+            </respStmt>
+            <title>A Moment of Peace</title>
+            <date type="publication" when="2018"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Rosa Colón Guerra</persName>
+            </respStmt>
+            <title>Musings</title>
+            <title type="sub">A mini-comic based on prompts</title>
+            <publisher>
+              <orgName>Soda Pop Comics</orgName>
+            </publisher>
+            <date type="copyright" when="2022"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.zine"/>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <persName>Rosa Colón Guerra</persName>
+            </respStmt>
+            <title>You Don’t Ask What You Can See</title>
+            <publisher>
+              <orgName>Paper Rocket Minicomics</orgName>
+            </publisher>
+            <date type="copyright" when="2022"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.minicomic"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
+            <catRef target="#tag.queer"/>
+            <series>
+              <title>Mini Memoir Project</title>
+            </series>
+          </bibl>
+          
+          <bibl>
+            <respStmt>
+              <resp n="author"/>
+              <resp n="artist"/>
+              <resp n="translator"/>
+              <persName>Rosaura Rodríguez</persName>
+            </respStmt>
+            <title xml:lang="es">Temporada</title>
+            <respStmt>
+              <resp n="author of afterword, colophon, etc."/>
+              <persName>María Fernanda Díaz Basteris</persName>
+            </respStmt>
+            <editor>
+              <persName>Omar Banuchi</persName>
+            </editor>
+            <publisher>
+              <orgName xml:lang="es">Días Cómic</orgName>
+            </publisher>
+            <date type="copyright" when="2022"/>
+            <date type="first-publication" when="2019-03"/>
+            <catRef target="#tag.comics"/>
+            <catRef target="#tag.memoir"/>
+            <catRef target="#tag.nonfiction"/>
+            <catRef target="#tag.owned" from="2022-10-22"/>
           </bibl>
           
           <bibl>
