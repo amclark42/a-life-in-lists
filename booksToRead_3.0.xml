@@ -269,6 +269,16 @@
           <date type="added" when="2016-06-04"/>
         </bibl>
         <bibl>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName>Ata, Iasmin Omar</persName>
+          </respStmt>.
+          <title>Mis(h)adra</title>.
+          <catRef target="#tag.comics"/>
+          <date type="added" when="2022-12-18"/>
+        </bibl>
+        <bibl>
           <author ref="a:atwood.m">Atwood, Margaret</author>.
           <title>Cat’s Eye</title>.
         </bibl>
@@ -454,6 +464,14 @@
           <title>An Asperger’s Guide to Public Speaking</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-06-04"/>
+        </bibl>
+        <bibl>
+          <author ref="a:bergman.sb">Bergman, S. Bear</author>.
+          <title>The Nearest Exit May Be Behind You</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2022-12-29"/>
         </bibl>
         <bibl>
           <author>Berube, Allan</author>.
@@ -972,6 +990,28 @@
           <author ref="a:cleage.p">Cleage, Pearl</author>.
           <title>Seen It All and Done the Rest</title>.
           <date type="added" when="2019-09-28"/>
+        </bibl>
+        <bibl>
+          <author ref="a:clevinge.b">Clevinger, Brian</author> and
+          <respStmt>
+            <persName ref="a:wegener.s">Scott Wegener</persName>
+            <resp n="artist"/>
+          </respStmt>.
+          <title>Atomic Robo and the Spectre of Tomorrow</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Atomic Robo</title></series>
+          <date type="added" when="2022-12-29"/>
+        </bibl>
+        <bibl>
+          <author ref="a:clevinge.b">Clevinger, Brian</author> and
+          <respStmt>
+            <persName ref="a:wegener.s">Scott Wegener</persName>
+            <resp n="artist"/>
+          </respStmt>.
+          <title>Atomic Robo and the Dawn of a New Era</title>.
+          <catRef target="#tag.comics"/>
+          <series><title>Atomic Robo</title></series>
+          <date type="added" when="2022-12-29"/>
         </bibl>
         <bibl>
           <author ref="a:coates.tn">Coates, Ta-Nehisi</author>.
@@ -1679,6 +1719,13 @@
           <date type="added" when="2019-11-16"/>
         </bibl>
         <bibl>
+          <author>Giridharadas, Anand</author>.
+          <title>The Persuaders: At the Front Lines of the Fight for Hearts, Minds, 
+            and Democracy</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-12-29"/>
+        </bibl>
+        <bibl>
           <author>Gladman, Renee</author>.
           <title>Event Factory</title>.
           <date type="added" when="2017-06-29"/>
@@ -1961,6 +2008,13 @@
           <title>Disrupting White Supremacy from Within</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2016-12-03"/>
+        </bibl>
+        <bibl>
+          <author>Hassan, Shira</author>.
+          <title>Saving Our Own Lives: A Liberatory Practice of Harm Reduction</title>.
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.reference"/>
+          <date type="added" when="2022-12-29"/>
         </bibl>
         <bibl>
           <author>Hawk, Jordan L.</author>
@@ -2439,6 +2493,13 @@
           <author>Killjoy, Margaret</author>.
           <title>A Country of Ghosts</title>.
           <date type="added" when="2017-06-29"/>
+        </bibl>
+        <bibl>
+          <editor>Kim, Dorothy</editor> and
+          <editor>Adeline Koh</editor>.
+          <title>Alternative Historiographies of the Digital Humanities</title>.
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-12-29"/>
         </bibl>
         <bibl>
           <author>Kimmerer, Robin Wall</author>.
@@ -2927,6 +2988,13 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.reference"/>
           <date type="added" when="2014-09-30"/>
+        </bibl>
+        <bibl>
+          <author>McGregor, Hannah</author>.
+          <title>A Sentimental Education</title>.
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2022-12-29"/>
         </bibl>
         <bibl>
           <author ref="a:mcguire.s">McGuire, Seanan</author>.

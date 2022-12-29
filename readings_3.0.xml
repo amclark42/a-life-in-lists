@@ -40,10 +40,28 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
+        <event from="2022-12-27">
+          <p>Read <title ref="b:kwan.k.crazyrichasians">Crazy Rich Asians</title>.</p>
+        </event>
+        <event from="2022-12-24" to="2022-12-25">
+          <p>Read <title ref="b:clevinge.b.atomicrobo.11.templeod">Atomic Robo and the Temple of Od</title>.</p>
+        </event>
+        <event when="2022-12-24">
+          <p>Read <title ref="b:clevinge.b.atomicrobo.10.ringoffire">Atomic Robo and the Ring of Fire</title>.</p>
+        </event>
+        <event from="2022-12-18" to="2022-12-24">
+          <p>Read <title ref="b:oreilly.nv.poorcraft.cookbook">The Poorcraft Cookbook</title>.</p>
+        </event>
+        <event when="2022-12-18">
+          <p>Read <title ref="b:oono.k.wayofhousehusband.1">The Way of the Househusband</title>.</p>
+        </event>
+        <event when="2022-12-18">
+          <p>Read <title ref="b:love.j.juliánmermaid">Julián is a Mermaid</title>.</p>
+        </event>
         <event from="2022-11-18" to="2022-11-26">
           <p>Read <title ref="b:vernon.u.diggerunearthed">Digger Unearthed</title>.</p>
         </event>
-        <event from="2022-10-27">
+        <event from="2022-10-27" to="2022-12-21">
           <p>Reread <title ref="b:shelley.m.frankenstein">Frankenstein</title>.</p>
         </event>
         <event when="2022-10-24">

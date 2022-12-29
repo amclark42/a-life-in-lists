@@ -80,6 +80,181 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="clevinge.b.atomicrobo.10.ringoffire">
+            <monogr>
+              <title>Atomic Robo and the Ring of Fire</title>
+              <author>
+                <persName ref="a:clevinge.b"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:wegener.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:clark.an"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:powell.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="editor"/>
+                <persName ref="a:black.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="first-printing" when="2016-05"/>
+                <publisher>
+                  <orgName>IDW Publishing</orgName>
+                  <orgName>Tesladyne LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Atomic Robo</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="clevinge.b.atomicrobo.11.templeod">
+            <monogr>
+              <title>Atomic Robo and the Temple of Od</title>
+              <author>
+                <persName ref="a:clevinge.b"/>
+              </author>
+              <respStmt>
+                <resp n="artist"/>
+                <persName ref="a:wegener.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="colorist"/>
+                <persName ref="a:clark.an"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:powell.j"/>
+              </respStmt>
+              <respStmt>
+                <resp n="editor"/>
+                <persName ref="a:black.l"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <date type="first-printing" when="2017-04"/>
+                <publisher>
+                  <orgName>IDW Publishing</orgName>
+                  <orgName>Tesladyne LLC</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Atomic Robo</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="oreilly.nv.poorcraft.cookbook">
+            <monogr>
+              <title>The Poorcraft Cookbook</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:oreilly.nv"/>
+              </respStmt>
+              <respStmt>
+                <resp n="creator"/>
+                <persName ref="a:trotman.cs"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.cookbook"/>
+                <catRef target="#tag.owned" from="2022-12-17"/>
+                <catRef target="#tag.reference"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Iron Circus Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Poorcraft</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="oono.k.wayofhousehusband.1">
+            <monogr>
+              <title>The Way of the Househusband Vol. 1</title>
+              <title type="alt" xml:lang="ja">Gokushufudo Vol. 1</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:oono.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:drzka.s"/>
+              </respStmt>
+              <respStmt>
+                <resp n="adapter"/>
+                <persName ref="a:leblanc.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.owned" from="2022-12-17"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>VIZ Media</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Way of the Househusband</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="bornstein.k.genderoutlaws.nextgeneration">
+            <monogr>
+              <title>Gender Outlaws: The Next Generation</title>
+              <respStmt>
+                <resp n="editor of compilation"/>
+                <resp n="author of introduction, etc."/>
+                <resp n="author of afterword, colophon, etc."/>
+                <persName ref="a:bornstein.k"/>
+                <persName ref="a:bergman.sb"/>
+              </respStmt>
+              <!-- TODO: add contributors -->
+              <imprint>
+                <catRef target="#tag.anthology"/>
+                <catRef target="#tag.owned" from="2022-12-17"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>Seal Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Gender Outlaws</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="love.j.juliánmermaid">
+            <monogr>
+              <title>Julián is a Mermaid</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="illustrator"/>
+                <persName ref="a:love.j"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Candlewick Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="kwan.k.crazyrichasians">
             <monogr>
               <title>Crazy Rich Asians</title>
@@ -9763,7 +9938,7 @@
               </respStmt>
               <imprint>
                 <catRef target="#tag.comics"/>
-                <date when="2014"/>
+                <date type="copyright" when="2014"/>
                 <publisher>
                   <orgName>Red 5 Comics</orgName>
                 </publisher>

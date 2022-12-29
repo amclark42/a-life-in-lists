@@ -61,6 +61,45 @@
         </person>-->
         
         
+        <person xml:id="oreilly.nv">
+          <persName>
+            <forename>Nero Villagallos</forename>
+            <surname>O’Reilly</surname>
+          </persName>
+          <persPronouns value="he" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="oono.k">
+          <persName>
+            <forename>Kousuke</forename>
+            <surname>Oono</surname>
+          </persName>
+          <persPronouns value="he" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="leblanc.j">
+          <persName>
+            <forename>Jennifer</forename>
+            <surname>LeBlanc</surname>
+          </persName>
+        </person>
+        
+        <person xml:id="bornstein.k">
+          <persName>
+            <forename>Kate</forename>
+            <surname>Bornstein</surname>
+          </persName>
+          <persPronouns value="any" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="love.j">
+          <persName>
+            <forename>Jessica</forename>
+            <surname>Love</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="kwan.k">
           <persName>
             <forename>Kevin</forename>
