@@ -61,6 +61,38 @@
         </person>-->
         
         
+        <person xml:id="lord.k">
+          <persName>
+            <forename>Karen</forename>
+            <surname>Lord</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="attenberg.j">
+          <persName>
+            <forename>Jamie</forename>
+            <surname>Attenberg</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="milan.c">
+          <persName>
+            <forename>Courtney</forename>
+            <surname>Milan</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="wells.m">
+          <persName>
+            <forename>Martha</forename>
+            <surname>Wells</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="oreilly.nv">
           <persName>
             <forename>Nero Villagallos</forename>
@@ -4219,6 +4251,7 @@
             <forename>Bishakh K.</forename>
             <surname>Sabo</surname>
           </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="varian.l">

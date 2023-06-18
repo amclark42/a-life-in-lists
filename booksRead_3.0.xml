@@ -80,6 +80,193 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="lord.k.redemptionindigo">
+            <monogr>
+              <title>Redemption in Indigo</title>
+              <author>
+                <persName ref="a:lord.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="added" when="2020-10-01"/>
+                <date type="copyright" when="2010"/>
+                <publisher>
+                  <orgName>Small Beer Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="attenberg.j.saintmazie">
+            <monogr>
+              <title>Saint Mazie</title>
+              <author>
+                <persName ref="a:attenberg.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="copyright" when="2015"/>
+                <publisher>
+                  <orgName>Hatchett Book Group</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="pratchet.t.weefreemen">
+            <monogr>
+              <title>The Wee Free Men</title>
+              <author>
+                <persName ref="a:pratchet.t"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="copyright" when="2003"/>
+                <publisher>
+                  <orgName>Harper</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Tiffany Aching</title>
+            </series>
+            <series>
+              <title>Discworld</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="addison.k.goblinemperor">
+            <monogr>
+              <title>The Goblin Emperor</title>
+              <author>
+                <persName ref="a:addison.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="added" when-custom="ash:freelancer"/>
+                <date type="copyright" when="2014"/>
+                <publisher>
+                  <orgName>Tor</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="milan.c.mrsmartin">
+            <monogr>
+              <title>Mrs. Martin’s Incomparable Adventure</title>
+              <author>
+                <persName ref="a:milan.c"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2019"/>
+                <publisher>
+                  <persName ref="a:milan.c"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Worth Saga</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="kondo.m.tidyingup">
+            <monogr>
+              <title>The Life-Changing Magic of Tidying Up</title>
+              <title type="sub">the Japanese art of decluttering and organizing</title>
+              <title type="alt" xml:lang="ja">Jinsei Ga Tokimeku Katazuke No Maho</title>
+              <author>
+                <persName ref="a:kondo.m"/>
+              </author>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:hirano.c"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="added" when="2021-04-03"/>
+                <date type="translation-copyright" when="2014"/>
+                <date type="copyright">2011</date>
+                <publisher>
+                  <orgName>Ten Speed Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="willis.d.dumbingofage.11.excisedanxieties">
+            <monogr>
+              <title>Dumbing of Age Vol. 11: I Excised All My Anxieties into Cartoon Characters Who 
+                Definitely Don’t Have Feelings for Each Other</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:willis.d"/>
+              </respStmt>
+              <respStmt>
+                <resp n="author of introduction, etc."/>
+                <persName ref="a:wells.k"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.kickstart" when="2022-05-24"/>
+                <catRef target="#tag.owned" from="2023-01-06"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2022"/>
+                <publisher>
+                  <persName ref="a:willis.d"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Dumbing of Age</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="som.bk.spellbound">
+            <monogr>
+              <title>Spellbound: A Graphic Memoir</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:som.bk"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2023-05-15"/>
+                <date type="copyright" when="2020"/>
+                <publisher>
+                  <orgName>Street Noise Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="wells.m.allsystemsred">
+            <monogr>
+              <title>All Systems Red</title>
+              <author>
+                <persName ref="a:wells.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.owned.digital" from="2022-02-16"/>
+                <date type="added" when="2022-02-16"/>
+                <date type="copyright" when="2017"/>
+                <publisher>
+                  <orgName>Tor.com</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Murderbot Diaries</title>
+            </series>
+          </biblStruct>
+          
           <biblStruct xml:id="clevinge.b.atomicrobo.10.ringoffire">
             <monogr>
               <title>Atomic Robo and the Ring of Fire</title>
@@ -9777,7 +9964,7 @@
                 <catRef target="#tag.comics"/>
                 <catRef target="#tag.memoir"/>
                 <catRef target="#tag.nonfiction"/>
-                <date when="2014"/>
+                <date type="copyright" when="2014"/>
                 <publisher>
                   <orgName>Zest Books</orgName>
                 </publisher>

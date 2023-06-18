@@ -119,10 +119,6 @@
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
-          <author ref="a:addison.k">Addison, Katherine</author>.
-          <title>The Goblin Emperor</title>.
-        </bibl>
-        <bibl>
           <author>Ahmed, Sara</author>.
           <title>Living a Feminist Life</title>.
           <catRef target="#tag.nonfiction"/>
@@ -409,6 +405,18 @@
           <series>
             <title>The Edda of Burdens</title>
           </series>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="artist"/>
+            <resp n="author"/>
+            <persName ref="a:beaton.k">Beaton, Kate</persName>
+          </respStmt>.
+          <title>Ducks: Two Years in the Oil Sands</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <date type="added" when="2023-05-15"/>
         </bibl>
         <bibl>
           <author>Beatrice, Allyson</author>.
@@ -1451,6 +1459,19 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-01-07"/>
+        </bibl>
+        <bibl>
+          <respStmt>
+            <resp n="artist"/>
+            <resp n="author"/>
+            <persName>Ewing, Rhea</persName>
+          </respStmt>.
+          <title>Fine: A Comic About Gender</title>.
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.memoir"/>
+          <catRef target="#tag.nonfiction"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2023-05-15"/>
         </bibl>
         <bibl>
           <author>Fahy, Warren</author>.
@@ -2600,12 +2621,6 @@
           <date type="added" when="2020-01-31"/>
         </bibl>
         <bibl>
-          <author>Kondo, Marie</author>.
-          <title>The Life-Changing Magic of Tidying Up</title>.
-          <catRef target="#tag.nonfiction"/>
-          <date type="added" when="2021-04-03"/>
-        </bibl>
-        <bibl>
           <author>Koul, Scaachi</author>.
           <title>One Day We’ll All Be Dead and None of This Will Matter</title>.
           <catRef target="#tag.memoir"/>
@@ -3201,16 +3216,14 @@
           <series><title>New Crobuzon</title></series>
         </bibl>
         <bibl>
-          <author>Milan, Courtney</author>.
+          <author ref="a:milan.c">Milan, Courtney</author>.
           <title>The Duke Who Didn’t</title>.
           <date type="added" when="2020-11-12"/>
         </bibl>
         <bibl>
-          <author>Milan, Courtney</author>.
+          <author ref="a:milan.c">Milan, Courtney</author>.
           <title>Trade Me</title>.
-          <series>
-            <title>Cyclone</title>
-          </series>
+          <series><title>Cyclone</title></series>
           <date type="added" when="2019-09-29"/>
         </bibl>
         <bibl>
@@ -3883,6 +3896,34 @@
         <bibl>
           <author>Potok, Chaim</author>.
           <title>The Chosen</title>.
+        </bibl>
+        <bibl>
+          <author ref="a:pratchet.t">Pratchett, Terry</author>.
+          <title>A Hat Full of Sky</title>.
+          <series><title>Tiffany Aching</title></series>
+          <series><title>Discworld</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:pratchet.t">Pratchett, Terry</author>.
+          <title>Wintersmith</title>.
+          <series><title>Tiffany Aching</title></series>
+          <series><title>Discworld</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:pratchet.t">Pratchett, Terry</author>.
+          <title>I Shall Wear Midnight</title>.
+          <series><title>Tiffany Aching</title></series>
+          <series><title>Discworld</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:pratchet.t">Pratchett, Terry</author>.
+          <title>The Shepherd’s Crown</title>.
+          <series><title>Tiffany Aching</title></series>
+          <series><title>Discworld</title></series>
+          <date type="added" when="2023-06-17"/>
         </bibl>
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
@@ -4816,11 +4857,40 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Wells, Martha</author>.
-          <title>All Systems Red</title>.
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>Artificial Condition</title>.
           <series><title>The Murderbot Diaries</title></series>
-          <catRef target="#tag.owned.digital" from="2022-02-16"/>
-          <date type="added" when="2022-02-16"/>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>Rogue Protocol</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>Exit Strategy</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>Network Effect</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>Fugitive Telemetry</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2023-06-17"/>
+        </bibl>
+        <bibl>
+          <author ref="a:wells.m">Wells, Martha</author>.
+          <title>System Collapse</title>.
+          <series><title>The Murderbot Diaries</title></series>
+          <date type="added" when="2023-06-17"/>
         </bibl>
         <bibl>
           <author ref="a:westerfe.s">Westerfeld, Scott</author>.
