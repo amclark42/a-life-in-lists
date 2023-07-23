@@ -151,16 +151,6 @@
           <date type="added" when="2019-03-20"/>
         </bibl>
         <bibl>
-          <author>Alexander, Christopher</author>.
-          <title>A Pattern Language: Towns, Buildings, Constructions</title>.
-          <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Alexander, Christopher</author>.
-          <title>The Timeless Way of Building</title>.
-          <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
           <author>Alexander, Michelle</author>.
           <title>The New Jim Crow</title>.
           <catRef target="#tag.nonfiction"/>
@@ -244,20 +234,6 @@
           <title>The Origins of Totalitarianism</title>.
           <date type="added" when="2016-11-21"/>
           <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Armstrong, Karen</author>.
-          <title>Holy War: The Crusades and Their Impact on Today’s World</title>.
-          <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName>Asano, Inio</persName>
-          </respStmt>.
-          <title>Solanin</title>.
-          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Ashby, Madeline</author>.
@@ -347,13 +323,6 @@
           <series>
             <title>The Up-and-Under</title>
           </series>
-        </bibl>
-        <bibl>
-          <author ref="a:baker.k">Baker, Kyle</author>.
-          <title>How to Draw Stupid and Other Essentials of Cartooning</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.reference"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -546,20 +515,10 @@
           <title>Labyrinths</title>.
         </bibl>
         <bibl>
-          <author>Bornstein, Kate</author>.
+          <author ref="a:bornstein.k">Bornstein, Kate</author>.
           <title>Gender Outlaws: On Men, Women and the Rest of Us</title>.
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.queer"/>
-        </bibl>
-        <bibl>
-          <author>Bornstein, Kate</author>.
-          <title>A Queer and Pleasant Danger: The true story of a nice Jewish boy 
-            who joins the Church of Scientology, and leaves twelve years later to 
-            become the lovely lady she is today</title>
-          <catRef target="#tag.memoir"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2022-05-30"/>
         </bibl>
         <bibl>
           <author>Bowker, Geoffery C.</author> and 
@@ -593,10 +552,6 @@
             code</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-11-13"/>
-        </bibl>
-        <bibl>
-          <author>Brookner, Anita</author>.
-          <title>Hotel du Lac</title>.
         </bibl>
         <bibl>
           <author ref="a:brooks.g">Brooks, Geraldine</author>.
@@ -759,10 +714,6 @@
           <date type="added" when="2017-03-10"/>
         </bibl>
         <bibl>
-          <author ref="a:carr.c">Carr, Caleb</author>.
-          <title>Angel of Darkness</title>.
-        </bibl>
-        <bibl>
           <author>Carriger, Gail</author>.
           <title>Changeless</title>.
           <series><title>The Parasol Protectorate</title></series>
@@ -821,11 +772,6 @@
           <catRef target="#tag.anthology"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2020-01-31"/>
-        </bibl>
-        <bibl>
-          <editor ref="a:chabon.m">Chabon, Michael</editor>.
-          <title>McSweeney’s Mammoth Treasury of Thrilling Tales</title>.
-          <catRef target="#tag.anthology"/>
         </bibl>
         <bibl>
           <author ref="a:chabon.m">Chabon, Michael</author>.
@@ -1116,10 +1062,6 @@
         </bibl>
         <bibl>
           <author ref="a:cunningha.m">Cunningham, Michael</author>.
-          <title>Flesh and Blood</title>.
-        </bibl>
-        <bibl>
-          <author ref="a:cunningha.m">Cunningham, Michael</author>.
           <title>A Home at the End of the World</title>.
         </bibl>
         <bibl>
@@ -1142,20 +1084,6 @@
           <title>The Neil Gaiman at the End of the Universe</title>.
           <catRef target="#tag.audiobook"/>
           <date type="added" when="2021-04-03"/>
-        </bibl>
-        <bibl>
-          <author>David, Peter</author>.
-          <title>Young Justice: Sins of Youth</title>.
-          <catRef target="#tag.comics"/>
-        </bibl>
-        <bibl>
-          <author>Davis, Alan</author>.
-          <title>JLA: Another Nail</title>.
-          <catRef target="#tag.comics"/>
-        </bibl>
-        <bibl>
-          <author>Day, David</author>.
-          <title>The Search for King Arthur</title>.
         </bibl>
         <bibl>
           <author>Day, Kate Hope</author>.
@@ -1319,16 +1247,6 @@
           <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
-          <author>Edington, Ian</author>.
-          <title>Kingdom of the Wicked</title>.
-          <catRef target="#tag.comics"/>
-        </bibl>
-        <bibl>
-          <author>Edun, Terah</author>.
-          <title>Blades of Magic</title>.
-          <series><title>Crown Service</title></series>
-        </bibl>
-        <bibl>
           <author>Effinger, George Alec</author>.
           <title>When Gravity Fails</title>.
           <date type="added" when="2017-06-29"/>
@@ -1427,17 +1345,9 @@
           <date type="added" when="2017-01-29"/>
         </bibl>
         <bibl>
-          <author>Ende, Michael</author>.
-          <title>The Neverending Story</title>.
-        </bibl>
-        <bibl>
           <author>Ensler, Eve</author>.
           <title>The Vagina Monologues</title>.
           <catRef target="#tag.drama"/>
-        </bibl>
-        <bibl>
-          <author>Erdrich, Louise</author>.
-          <title>Love Medicine</title>.
         </bibl>
         <bibl>
           <author>Evans, Cheryl B.</author>
@@ -1585,10 +1495,6 @@
         </bibl>
         <bibl>
           <author>Forster, E.M.</author>
-          <title>A Passage to India</title>.
-        </bibl>
-        <bibl>
-          <author>Forster, E.M.</author>
           <title>A Room with a View</title>.
         </bibl>
         <bibl>
@@ -1652,9 +1558,16 @@
           <series><title>Quick &amp; Easy Guides</title></series>
         </bibl>
         <bibl>
-          <author>Gabaldon, Diana</author>.
-          <title>Outlander</title>.
-          <series><title>Outlander</title></series>
+          <respStmt>
+            <resp n="author"/>
+            <resp n="artist"/>
+            <persName ref="a:gaku.k">Gaku, Keito</persName>
+          </respStmt>.
+          <title>Boys Run the Riot Vol. 2</title>.
+          <series><title>Boys Run the Riot</title></series>
+          <catRef target="#tag.comics"/>
+          <catRef target="#tag.queer"/>
+          <date type="added" when="2023-07-22"/>
         </bibl>
         <bibl>
           <author>Gailey, Sarah</author>.
@@ -1804,17 +1717,6 @@
           <date type="added" when="2018-02-28"/>
         </bibl>
         <bibl>
-          <author ref="a:gorman.a">Gorman, Amanda</author>.
-          <title>Call Us What We Carry: Poems</title>.
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:gorman.a.calluswhatwecarry"/>
-          <catRef target="#tag.poetry"/>
-          <date type="added" when="2021-03-12"/>
-          <note>
-            <p>Previously titled <q>The Hill We Climb and Other Poems</q>.</p>
-          </note>
-        </bibl>
-        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -1862,10 +1764,6 @@
           <author>Gray, Anissa</author>.
           <title>The Care and Feeding of Ravenously Hungry Girls</title>.
           <date type="added" when="2019-02-03"/>
-        </bibl>
-        <bibl>
-          <author>Green, Henry</author>.
-          <title>Living, Loving, Partly Going</title>.
         </bibl>
         <bibl>
           <author>Greene, Daniel</author>.
@@ -1924,15 +1822,6 @@
           <date type="added" when="2019-09-24"/>
         </bibl>
         <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName>Hagio, Moto</persName>
-          </respStmt>.
-          <title>A Drunken Dream and Other Stories</title>.
-          <catRef target="#tag.comics"/>
-        </bibl>
-        <bibl>
           <author>Hahn, Steven</author>.
           <title>A Nation Under Our Feet: Black Political Struggles in the Rural
             South from Slavery to the Great Migration</title>.
@@ -1957,10 +1846,6 @@
           <date type="added" when="2018-07-21"/>
         </bibl>
         <bibl>
-          <author>Hammet, Dashiell</author>.
-          <title>The Maltese Falcon</title>.
-        </bibl>
-        <bibl>
           <author>Hamraie, Aimi</author>.
           <title>Building Access: Universal Design and the Politics of Disability</title>.
           <catRef target="#tag.nonfiction"/>
@@ -1975,11 +1860,6 @@
           <catRef target="#tag.compilation"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2022-02-12"/>
-        </bibl>
-        <bibl>
-          <author>Harras, Bob</author>.
-          <title>JLA: World Without a Justice League</title>.
-          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author ref="a:harris.j">Harris, Joanne</author> and
@@ -2048,11 +1928,6 @@
           <author>Hawthorne, Nathaniel</author>.
           <title>The House of the Seven Gables</title>.
           <date type="added" when="2016-09-25"/>
-        </bibl>
-        <bibl>
-          <author ref="a:headley.md">Headley, Maria Dahvana</author>
-          <title>The Mere Wife</title>.
-          <date type="added" when="2020-09-16"/>
         </bibl>
         <bibl>
           <author>Healey, Emma</author>.
@@ -2212,10 +2087,6 @@
           <catRef target="#tag.owned" corresp="b:huff.t.longhotsummoning"/>
         </bibl>
         <bibl>
-          <author>Hugo, Victor</author>.
-          <title>Les Miserables</title>.
-        </bibl>
-        <bibl>
           <author>Hunt, Samantha</author>.
           <title>The Dark Dark</title>.
           <date type="added" when="2018-04-14"/>
@@ -2250,14 +2121,6 @@
           <date type="added" when="2017-06-29"/>
         </bibl>
         <bibl>
-          <author>Irvine, Alexander</author>.
-          <title>A Scattering of Jades</title>.
-        </bibl>
-        <bibl>
-          <author>Isherwood, Christopher</author>.
-          <title>Goodbye to Berlin</title>.
-        </bibl>
-        <bibl>
           <author>Ishiguro, Kazuo</author>.
           <title>Never Let Me Go</title>.
           <date type="added" when="2018-02-04"/>
@@ -2271,13 +2134,6 @@
           <title>Incidents in the Life of a Slave Girl</title>.
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
-        </bibl>
-        <bibl>
-          <author>Jackson, Katrina</author>.
-          <title>Pink Slip</title>.
-          <catRef target="#tag.queer"/>
-          <series><title>The Spies Who Loved Her</title></series>
-          <date type="added" when="2021-04-03"/>
         </bibl>
         <bibl>
           <author>Jama-Everett, Ayize</author>.
@@ -2377,10 +2233,6 @@
           <date type="added" when="2017-01-07"/>
         </bibl>
         <bibl>
-          <author>Kalpakian, Laura</author>.
-          <title>The Delinquent Virgin</title>.
-        </bibl>
-        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -2418,10 +2270,6 @@
           <date type="added" when="2022-08-07"/>
         </bibl>
         <bibl>
-          <author>Kay, Elizabeth</author>.
-          <title>The Divide</title>.
-        </bibl>
-        <bibl>
           <author>Kerr, Katharine</author>.
           <title>Sword of Fire</title>.
           <series><title>Deverry</title></series>
@@ -2438,17 +2286,6 @@
           <catRef target="#tag.memoir"/>
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2018-10-27"/>
-        </bibl>
-        <bibl>
-          <respStmt>
-            <resp n="author"/>
-            <resp n="artist"/>
-            <persName>Khor, Shing Yin</persName>
-          </respStmt>.
-          <title>The Legend of Auntie Po</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.queer"/>
-          <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
           <respStmt>
@@ -2642,13 +2479,6 @@
           <author ref="a:kowal.mr">Kowal, Mary Robinette</author>.
           <title>Of Noble Family</title>.
           <series><title>The Glamourist Histories</title></series>
-        </bibl>
-        <bibl>
-          <author>Koyanagi, Jacqueline</author>.
-          <title>Ascension</title>.
-          <series><title>Tangled Axon</title></series>
-          <date type="added" when="2016-10-01"/>
-          <!-- available from BPL as an e-book -->
         </bibl>
         <bibl>
           <author>Kuhn, Sarah</author>.
@@ -2915,10 +2745,6 @@
           <date type="added" when="2021-07-31"/>
         </bibl>
         <bibl>
-          <author ref="a:maguire.g">Maguire, Gregory</author>.
-          <title>The Dream Stealer</title>.
-        </bibl>
-        <bibl>
           <author>Manansala, Mia P.</author>
           <title>Arsenic and Adobo</title>.
           <series>
@@ -2949,10 +2775,6 @@
           <title>Fire Logic</title>.
           <series><title>Fire Logic</title></series>
           <date type="added" when="2018-09-03"/>
-        </bibl>
-        <bibl>
-          <author>Marley, Louise</author>.
-          <title>The Maquisarde</title>.
         </bibl>
         <bibl>
           <author ref="a:marz.r">Marz, Ron</author> and
@@ -3401,10 +3223,6 @@
           <title>The Unicorn</title>.
         </bibl>
         <bibl>
-          <author>Murphy, Louise</author>.
-          <title>The True Story of Hansel and Gretel</title>.
-        </bibl>
-        <bibl>
           <author>Murray, Janet H.</author>
           <title>Inventing the Medium: Principles of Interaction Design as a 
             Cultural Practice</title>.
@@ -3465,11 +3283,6 @@
           <catRef target="#tag.nonfiction"/>
           <catRef target="#tag.queer"/>
           <date type="added" when="2021-05-24"/>
-        </bibl>
-        <bibl>
-          <author>Nelson, Advid</author>.
-          <title>Rex Mundi: The Guardian of the Temple</title>.
-          <catRef target="#tag.comics"/>
         </bibl>
         <bibl>
           <author>Nelson, Maggie</author>.
@@ -3790,14 +3603,6 @@
           <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
-          <author>Parks, Tim</author>.
-          <title>Cleaver</title>.
-        </bibl>
-        <bibl>
-          <author>Peace, David</author>.
-          <title>Tokyo Year Zero</title>.
-        </bibl>
-        <bibl>
           <respStmt>
             <resp n="author"/>
             <resp n="artist"/>
@@ -3841,10 +3646,6 @@
           <date type="added" when="2021-06-20"/>
         </bibl>
         <bibl>
-          <author>Philbrick, Rodman</author>.
-          <title>Dark Matter</title>.
-        </bibl>
-        <bibl>
           <author>Phillips, W.</author>
           <title>This is Why We Can’t Have Nice Things: Mapping the Relationship 
             Between Online Trolling and Mainstream Culture</title>.
@@ -3855,12 +3656,6 @@
           <author ref="a:pierce.t">Pierce, Tamora</author>.
           <title>Beka Cooper: Bloodhound</title>.
           <series><title>Beka Cooper</title></series>
-        </bibl>
-        <bibl>
-          <author ref="a:pierce.t">Pierce, Tamora</author>.
-          <title>Tempests and Slaughter</title>.
-          <series><title>The Numair Chronicles</title></series>
-          <date type="added" when="2018-05-19"/>
         </bibl>
         <bibl>
           <author ref="a:pierce.t">Pierce, Tamora</author>.
@@ -3878,10 +3673,6 @@
           <catRef target="#tag.nonfiction"/>
         </bibl>
         <bibl>
-          <author>Pinto, Ricardo</author>.
-          <title>The Chosen</title>.
-        </bibl>
-        <bibl>
           <author>Polack, Gillian</author>.
           <title>The Year of the Fruit Cake</title>.
           <date type="added" when="2019-12-08"/>
@@ -3892,10 +3683,6 @@
             Business</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-08-17"/>
-        </bibl>
-        <bibl>
-          <author>Potok, Chaim</author>.
-          <title>The Chosen</title>.
         </bibl>
         <bibl>
           <author ref="a:pratchet.t">Pratchett, Terry</author>.
@@ -4427,10 +4214,6 @@
           <date type="added" when="2019-10-11"/>
         </bibl>
         <bibl>
-          <author>Smith, Zadie</author>.
-          <title>White Teeth</title>.
-        </bibl>
-        <bibl>
           <author  ref="a:snyder.m">Snyder, Maria V.</author>
           <title>Shadow Study</title>.
           <series><title>Soulfinders</title></series>
@@ -4517,7 +4300,7 @@
           <title>Snow Crash</title>.
         </bibl>
         <bibl>
-          <author ref="a:stevenso.n">Stevenson, Noelle</author>.
+          <author ref="a:stevenso.n">Stevenson, N.D.</author>
           <title>The Fire Never Goes Out: A Memoir in Pictures</title>.
           <catRef target="#tag.comics"/>
           <catRef target="#tag.memoir"/>
@@ -4525,7 +4308,7 @@
           <date type="added" when="2020-02-29"/>
         </bibl>
         <bibl>
-          <author ref="a:stevenso.n">Stevenson, Noelle</author> and
+          <author ref="a:stevenso.n">Stevenson, N.D.</author> and
           <respStmt>
             <resp n="artist"/>
             <persName ref="a:watters.s">Shannon Watters</persName>
@@ -4700,10 +4483,6 @@
           <title>Well-Behaved Women Seldom Make History</title>.
           <catRef target="#tag.nonfiction"/>
           <date type="added" when="2019-05-11"/>
-        </bibl>
-        <bibl>
-          <author>Unsworth, Barry</author>.
-          <title>Sacred Hunger</title>.
         </bibl>
         <bibl>
           <author ref="a:valente.cm">Valente, Catherynne M.</author> and
@@ -4962,15 +4741,6 @@
           <catRef target="#tag.outofprint"/>
         </bibl>
         <bibl>
-          <editor ref="a:wong.a">Wong, Alice</editor>.
-          <title>Disability Visibility : First-Person Stories from the Twenty-first 
-            Century</title>.
-          <catRef target="#tag.compilation"/>
-          <catRef target="#tag.nonfiction"/>
-          <catRef target="#tag.owned" corresp="b:wong.a.disabilityvisibility"/>
-          <date type="added" when="2020-05-28"/>
-        </bibl>
-        <bibl>
           <author ref="a:wood.b">Wood, Brian</author>.
           <title>The Massive Vol. 2: Subcontinental</title>.
           <catRef target="#tag.comics"/>
@@ -5029,14 +4799,6 @@
           <catRef target="#tag.queer"/>
           <series><title>What Did You Eat Yesterday?</title></series>
           <date type="added" when="2022-04-04"/>
-        </bibl>
-        <bibl>
-          <author ref="a:zabarsky.j">Zabarsky, Jessi</author>.
-          <title>Coming Back</title>.
-          <catRef target="#tag.comics"/>
-          <catRef target="#tag.queer"/>
-          <catRef target="#tag.owned" corresp="b:zabarsky.j.comingback"/>
-          <date type="added" when="2022-02-12"/>
         </bibl>
         <bibl>
           <author>Zakaria, Rafia</author>.

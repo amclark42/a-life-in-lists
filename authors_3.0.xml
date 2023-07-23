@@ -61,6 +61,57 @@
         </person>-->
         
         
+        <person xml:id="koyanagi.j">
+          <persName>
+            <forename>Jacqueline</forename>
+            <surname>Koyanagi</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="dessa">
+          <persName>
+            <name>Dessa</name>
+          </persName>
+          <persName type="alternate">
+            <forename>Dessa</forename>
+            <surname>Wander</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
+        <person xml:id="gaku.k">
+          <persName>
+            <forename>Keito</forename>
+            <surname>Gaku</surname>
+          </persName>
+          <persPronouns value="he" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="mcdonagh.l">
+          <persName>
+            <forename>Leo</forename>
+            <surname>McDonagh</surname>
+          </persName>
+          <persPronouns value="he" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="caswell.a">
+          <persName>
+            <forename>Ashley</forename>
+            <surname>Caswell</surname>
+          </persName>
+          <persPronouns value="they" evidence="trustedThirdParty"/>
+        </person>
+        
+        <person xml:id="jackson.k">
+          <persName>
+            <forename>Katrina</forename>
+            <surname>Jackson</surname>
+          </persName>
+          <persPronouns value="she" evidence="selfIdentification"/>
+        </person>
+        
         <person xml:id="lord.k">
           <persName>
             <forename>Karen</forename>
@@ -6074,6 +6125,7 @@
             <forename>Shing Yin</forename>
             <surname>Khor</surname>
           </persName>
+          <persPronouns value="they" evidence="selfIdentification"/>
         </person>
 
         <person xml:id="delliqua.b">

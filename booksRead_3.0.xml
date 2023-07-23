@@ -80,6 +80,186 @@
           <!-- Break lines at column 100. -->
           
           
+          <biblStruct xml:id="grant.m.deadline">
+            <monogr>
+              <title>Deadline</title>
+              <author>
+                <persName ref="a:grant.m"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <date type="added" when="2020-04-27"/>
+                <date type="copyright" when="2011"/>
+                <publisher>
+                  <orgName>Orbit</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Newsflesh Trilogy</title>
+            </series>
+            <series>
+              <title>Newsflesh</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="koyanagi.j.ascension">
+            <monogr>
+              <title>Ascension</title>
+              <author>
+                <persName ref="a:koyanagi.j"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2016-10-01"/>
+                <date type="copyright" when="2013"/>
+                <publisher>
+                  <orgName>Masque Books</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Tangled Axon</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="dessa.myowndevices">
+            <monogr>
+              <title>My Own Devices: True Stories from the Road on Music, Science, and Senseless 
+                Love</title>
+              <author>
+                <persName ref="a:dessa"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.compilation"/>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>Dutton</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="gaku.k.boysrunriot.1">
+            <monogr>
+              <title>Boys Run the Riot Vol. 1</title>
+              <title type="alt" xml:lang="ja">Bōizu Ran za Raiotto</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <persName ref="a:gaku.k"/>
+              </respStmt>
+              <respStmt>
+                <resp n="translator"/>
+                <persName ref="a:mcdonagh.l"/>
+              </respStmt>
+              <respStmt>
+                <resp n="letterer"/>
+                <persName ref="a:caswell.a"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="copyright" when="2020"/>
+                <date type="translation-copyright" when="2021"/>
+                <publisher>
+                  <orgName>Kodansha Comics</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>Boys Run the Riot</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="jackson.k.pinkslip">
+            <monogr>
+              <title>Pink Slip</title>
+              <author>
+                <persName ref="a:jackson.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2021-04-03"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <persName ref="a:jackson.k"/>
+                </publisher>
+              </imprint>
+            </monogr>
+            <series>
+              <title>The Spies Who Loved Her</title>
+            </series>
+          </biblStruct>
+          
+          <biblStruct xml:id="headley.md.merewife">
+            <monogr>
+              <title>The Mere Wife</title>
+              <author>
+                <persName ref="a:headley.md"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2020-09-16"/>
+                <date type="copyright" when="2018"/>
+                <publisher>
+                  <orgName>MCD</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="khor.sy.legendauntiepo">
+            <monogr>
+              <title>The Legend of Auntie Po</title>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
+                <resp n="letterer"/>
+                <persName ref="a:khor.sy"/>
+              </respStmt>
+              <imprint>
+                <catRef target="#tag.comics"/>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2021-06-20"/>
+                <date type="copyright" when="2021"/>
+                <publisher>
+                  <orgName>Kokila</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
+          <biblStruct xml:id="bornstein.k.queerandpleasantdanger">
+            <monogr>
+              <title>A Queer and Pleasant Danger: A Memoir</title>
+              <title type="sub">The true story of a nice Jewish boy who joins the Church of 
+                Scientology, and leaves twelve years later to become the lovely lady she is today</title>
+              <author>
+                <persName ref="a:bornstein.k"/>
+              </author>
+              <imprint>
+                <catRef target="#tag.ebook"/>
+                <catRef target="#tag.memoir"/>
+                <catRef target="#tag.nonfiction"/>
+                <catRef target="#tag.queer"/>
+                <date type="added" when="2022-05-30"/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Beacon Press</orgName>
+                </publisher>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          
           <biblStruct xml:id="lord.k.redemptionindigo">
             <monogr>
               <title>Redemption in Indigo</title>
@@ -1266,6 +1446,7 @@
                 <persName ref="a:pierce.t"/>
               </author>
               <imprint>
+                <date type="added" when="2018-05-19"/>
                 <date type="copyright" when="2018"/>
                 <publisher>
                   <orgName>Lothian</orgName>
@@ -5443,6 +5624,7 @@
               <imprint>
                 <catRef target="#tag.anthology"/>
                 <catRef target="#tag.comics"/>
+                <catRef target="#tag.queer"/>
                 <catRef target="#tag.owned" from="2019-04-16"/>
                 <date type="copyright" when="2015"/>
                 <publisher>
@@ -22266,13 +22448,22 @@
           <biblStruct xml:id="moore.t.rachelrising.1shadowdeath">
             <monogr>
               <title>Rachel Rising Vol. 1: The Shadow of Death</title>
-              <author>
+              <respStmt>
+                <resp n="author"/>
+                <resp n="artist"/>
                 <persName ref="a:moore.t"/>
-              </author>
+              </respStmt>
+              <respStmt>
+                <resp n="cover designer"/>
+                <persName ref="a:moon.f"/>
+              </respStmt>
               <imprint>
                 <catRef target="#tag.owned"/>
                 <catRef target="#tag.comics"/>
-                <publisher/>
+                <date type="copyright" when="2012"/>
+                <publisher>
+                  <orgName>Abstract Studios</orgName>
+                </publisher>
               </imprint>
             </monogr>
             <series>

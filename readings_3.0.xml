@@ -40,7 +40,39 @@
       <listEvent>
         <head>Readings from <date from="2008-03">March 2008</date> to the Present</head>
         
-        <event from="2023-06-12">
+        <event from="2023-07-21" to="2023-07-22">
+          <p>Reread <title ref="b:melançon.i.valor.1.swords">Valor Vol. 1</title>.</p>
+        </event>
+        <event from="2023-07-19">
+          <p>Read <title ref="b:grant.m.deadline">Deadline</title>.</p>
+        </event>
+        <event from="2023-07-17" to="2023-07-18">
+          <p>Read <title ref="b:koyanagi.j.ascension">Ascension</title>.</p>
+        </event>
+        <event from="2023-07-09" to="2023-07-16">
+          <p>Read <title ref="b:dessa.myowndevices">My Own Devices: True Stories from the Road on Music, Science, 
+            and Senseless Love</title>.</p>
+        </event>
+        <event when="2023-07-09">
+          <p>Read <title ref="b:gaku.k.boysrunriot.1">Boys Run the Riot Vol. 1</title>.</p>
+        </event>
+        <event from="2023-07-08" to="2023-07-09">
+          <p>Reread <title ref="b:moore.t.rachelrising.1shadowdeath">Rachel Rising Vol. 1: The Shadow of 
+            Death</title>.</p>
+        </event>
+        <event when="2023-07-08">
+          <p>Read <title ref="b:jackson.k.pinkslip">Pink Slip</title>.</p>
+        </event>
+        <event from="2023-07-01" to="2023-07-08">
+          <p>Read <title ref="b:headley.md.merewife">The Mere Wife</title>.</p>
+        </event>
+        <event from="2023-06-28" to="2023-06-29">
+          <p>Read <title ref="b:khor.sy.legendauntiepo">The Legend of Auntie Po</title>.</p>
+        </event>
+        <event from="2023-06-26" to="2023-07-01">
+          <p>Read <title ref="b:bornstein.k.queerandpleasantdanger">A Queer and Pleasant Danger</title>.</p>
+        </event>
+        <event from="2023-06-12" to="2023-06-20">
           <p>Read <title ref="b:lord.k.redemptionindigo">Redemption in Indigo</title>.</p>
         </event>
         <event when="2023-06-05">
@@ -52,7 +84,7 @@
         <event from="2023-05-25" to="2023-06-07">
           <p>Read <title ref="b:pratchet.t.weefreemen">The Wee Free Men</title>.</p>
         </event>
-        <event from="2023-05-22">
+        <event from="2023-05-22" to="2023-06-16">
           <p>Read <title ref="b:attenberg.j.saintmazie">Saint Mazie</title>.</p>
         </event>
         <event from="2023-05-15" to="2023-05-21">
